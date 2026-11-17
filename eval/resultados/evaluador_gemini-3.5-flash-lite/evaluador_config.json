@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-11-16T21:34:20",
+  "evaluador": {
+    "proveedor": "Google Gemini API (plan gratuito)",
+    "modelo": "gemini-3.5-flash-lite",
+    "version_servida": "gemini-3.5-flash-lite",
+    "temperatura": 0.0,
+    "via": "ragas.llms.llm_factory(provider='google')"
+  },
+  "metricas": {
+    "faithfulness": "ragas.metrics.collections.Faithfulness",
+    "context_precision": "ragas.metrics.collections.ContextPrecision (con referencia)",
+    "context_recall": "ragas.metrics.collections.ContextRecall"
+  },
+  "ejecucion": {
+    "llamadas_simultaneas": 1,
+    "reintentos": 6,
+    "espera_base_s": 10,
+    "espera_max_s": 120,
+    "timeout_s": 900,
+    "pausa_entre_llamadas_s": 6
+  },
+  "versiones": {
+    "ragas": "0.4.4",
+    "google-genai": "3.3.0",
+    "ollama": "0.6.3",
+    "chromadb": "1.5.9",
+    "docling": "2.150.1"
+  },
+  "python": "3.12.1"
+}

@@ -1,0 +1,240 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.72064208984375,
+   387.91131591796875,
+   547.85986328125,
+   650.4105224609375
+  ],
+  "filas": 11,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                                                                        | Concentración   |\n|------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 64742-88-7       | Nafta disolvente (petróleo), fracción alifática intermedia Acuático agudo. 3: H402; Acuático crónico. 4: H413; Liq. Infl. 3: H226; STOT única 3: H336; Tox. Asp. 2: H305 - Atención | 25 - <50 %      |\n| CAS:             | 85-44-9          | Anhídrido ftálico Irrit. Cut. 2: H315; Les. Oc. 1: H318; Sens. Cut. 1: H317; Sens. Resp.1: H334; STOT única 3: H335; Tox. Agud. 4: H302 - Peligro                                   | 10 - <25 %      |\n| CAS:             | 136-52-7         | Bis(2-etilhexanoato) de cobalto Acuático agudo. 1: H400; Acuático crónico. 3: H412; Carc. 2: H351; Irrit. oc. 2: H319; Repr. 1B: H360; Sens. Cut. 1A: H317 - Peligro                | <2,5 %          |\n| CAS:             | 8032-32-4        | Ligroína Carc. 1B: H350; Liq. Infl. 3: H226; Muta. 1B: H340; Tox. Asp. 1: H304 - Peligro                                                                                            | <2,5 %          |\n| CAS:             | 41556-26-7       | Sebacato de bis(1,2,2,6,6-pentametil-4-piperidilo) Acuático agudo. 1: H400; Acuático crónico. 1: H410; Sens. Cut. 1A: H317 - Atención                                               | <2,5 %          |\n| CAS:             | 104810-47-1      | Acuático crónico. 2: H411; Sens. Cut. 1A: H317 - Atención                                                                                                                           | <2,5 %          |\n| CAS:             | 104810-48-2      | Derivado del hidroxifenil-benzotriazol Acuático crónico. 2: H411; Sens. Cut. 1A: H317 - Atención                                                                                    | <2,5 %          |\n| CAS:             | 96-29-7          | COPIA Derivado del hidroxifenil-benzotriazol Oxima de 2-butanona Carc. 2: H351; Les. Oc. 1: H318; Sens. Cut. 1: H317; Tox. Agud. 4: H312 - Peligro                                  | <2,5 %          |\n| CAS:             | 82919-37-7       | Sebacato de metilo y 1,2,2,6,6-pentametil-4-piperidilo Acuático agudo. 1: H400; Acuático crónico. 1: H410; Sens. Cut. 1: H317 - Atención                                            | <2,5 %          |\n| CAS:             | 108-31-6         | Anhídrido maleico Corr. Cut. 1B: H314; Les. Oc. 1: H318; Sens. Cut. 1A: H317; Sens. Resp.1: H334; STOT repe. 1: H372; Tox. Agud. 4: H302 - Peligro                                  | <2,5 %          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 5,
+  "bbox_pt": [
+   71.96589660644531,
+   242.06683349609375,
+   548.6758422851562,
+   306.5888977050781
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Anhídrido ftálico - CAS: 85-44-9 - Anhídrido maleico - CAS: 108-31-6   | Valores límite ambientales - 8-hour TWA PEL - Ceiling Values - TWA PEL - 8-hour TWA PEL - Ceiling Values - TWA - PEL   | Valores límite ambientales - 2 ppm - 0,25 ppm   | Valores límite ambientales - 12 mg/m³ - 1 mg/m³   |\n|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   71.85462188720703,
+   323.8591613769531,
+   548.4481201171875,
+   373.365478515625
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Identificación                  | Valores límite ambientales   |\n|---------------------------------|------------------------------|\n| Anhídrido ftálico               | TLV-TWA 1 ppm                |\n| CAS: 85-44-9                    | TLV-STEL                     |\n| Anhídrido maleico CAS: 108-31-6 | TLV-TWA 0,1 ppm TLV-STEL     |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   85.24837493896484,
+   529.3267822265625,
+   548.5123901367188,
+   603.8346557617188
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                                         | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores (Filtro tipo: A) | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   86.13277435302734,
+   616.7537231445312,
+   548.3274536132812,
+   689.7313842773438
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPP                                                                                                   | Observaciones                                                                                                 |\n|-------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes de protección química (Material: Nitrilo, Tiempo de penetración: > 480 min, Espesor: 0,11 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 6,
+  "bbox_pt": [
+   86.4178237915039,
+   130.0546875,
+   548.05322265625,
+   196.92893981933594
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   85.88911437988281,
+   210.55982971191406,
+   548.27685546875,
+   342.2158203125
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                                                       |\n|------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                          |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   87.1231460571289,
+   376.9207458496094,
+   547.8961181640625,
+   433.2994079589844
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   72.47554016113281,
+   748.780517578125,
+   548.1522827148438,
+   772.8037719726562
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   72.76942443847656,
+   148.85862731933594,
+   548.0182495117188,
+   172.1761932373047
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar                 | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   72.42533874511719,
+   165.5785675048828,
+   547.9527587890625,
+   417.70703125
+  ],
+  "filas": 21,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                                             | Toxicidad aguda         | Toxicidad aguda   | Género   |\n|----------------------------------------------------------------------------|-------------------------|-------------------|----------|\n| Nafta disolvente (petróleo), fracción alifática intermedia CAS: 64742-88-7 | DL50 oral               | >5000 mg/kg       | Rata     |\n|                                                                            | DL50 cutánea            |                   |          |\n|                                                                            | CL50 inhalación         |                   |          |\n|                                                                            | CL50 inhalación vapores |                   |          |\n| Oxima de 2-butanona CAS: 96-29-7                                           | DL50 oral               | 100 mg/kg         |          |\n|                                                                            | DL50 cutánea            | 1100 mg/kg        |          |\n|                                                                            | CL50 inhalación         |                   |          |\n|                                                                            | CL50 inhalación vapores |                   |          |\n| Anhídrido ftálico CAS: 85-44-9                                             | DL50 oral               | 1530 mg/kg        | Rata     |\n|                                                                            | DL50 cutánea            |                   |          |\n|                                                                            | CL50 inhalación         |                   |          |\n|                                                                            | CL50 Inhalación polvos  |                   |          |\n| Sebacato de bis(1,2,2,6,6-pentametil-4-piperidilo) CAS: 41556-26-7         | DL50 oral               | 2615 mg/kg        | Rata     |\n|                                                                            | DL50 cutánea            |                   |          |\n|                                                                            | CL50 inhalación         |                   |          |\n|                                                                            | CL50 inhalación vapores |                   |          |\n| Anhídrido maleico CAS: 108-31-6                                            | DL50 oral               | 1090 mg/kg        | Rata     |\n|                                                                            | DL50 cutánea            |                   |          |\n|                                                                            | CL50 inhalación         |                   |          |\n|                                                                            | CL50 Inhalación polvos  |                   |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 9,
+  "bbox_pt": [
+   72.63365936279297,
+   510.260986328125,
+   548.2701416015625,
+   737.5596313476562
+  ],
+  "filas": 19,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                                           | Concentración   | Concentración        | Especie                         | Género    |\n|--------------------------------------------------------------------------|-----------------|----------------------|---------------------------------|-----------|\n| Anhídrido ftálico CAS: 85-44-9                                           | CL50            | No relevante         |                                 |           |\n| Anhídrido ftálico CAS: 85-44-9                                           | CE50            | No relevante         |                                 |           |\n| Anhídrido ftálico CAS: 85-44-9                                           | CE50            | 60 mg/L (96 h)       | Pseudokirchneriella subcapitata | Alga      |\n| Bis(2-etilhexanoato) de cobalto CAS: 136-52-7                            | CL50            | No relevante         |                                 |           |\n|                                                                          | CE50            | No relevante         |                                 |           |\n|                                                                          | CE50            | 0,144 mg/L (72 h)    | Pseudokirchneriella subcapitata | Alga      |\n| COPIA Sebacato de bis(1,2,2,6,6-pentametil-4-piperidilo) CAS: 41556-26-7 | CL50            | 0,97 mg/L (96 h)     | Lepomis macrochirus             | Pez       |\n|                                                                          | CE50            | 20 mg/L (24 h)       | Daphnia magna                   | Crustáceo |\n|                                                                          | CE50            | No relevante         |                                 |           |\n| Derivado del hidroxifenil-benzotriazol                                   | CL50            | >1 - 10 mg/L (96 h)  |                                 | Pez       |\n| CAS: 104810-48-2                                                         | CE50            | >1 - 10 mg/L (48 h)  |                                 | Crustáceo |\n| CAS: 104810-48-2                                                         | CE50            | >1 - 10 mg/L (72 h)  |                                 | Alga      |\n| Oxima de 2-butanona CAS: 96-29-7                                         | CL50            | 843 mg/L (96 h)      | Pimephales promelas             | Pez       |\n|                                                                          | CE50            | 750 mg/L (48 h)      | Daphnia magna                   | Crustáceo |\n|                                                                          | CE50            | 83 mg/L (72 h)       | Scenedesmus subspicatus         | Alga      |\n| Sebacato de metilo y 1,2,2,6,6-pentametil-4-piperidilo CAS: 82919-37-7   | CL50            | >0,1 - 1 mg/L (96 h) |                                 | Pez       |\n|                                                                          | CE50            | >0,1 - 1 mg/L (48 h) |                                 | Crustáceo |\n|                                                                          | CE50            | >0,1 - 1 mg/L (72 h) |                                 | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 10,
+  "bbox_pt": [
+   72.94863891601562,
+   130.89048767089844,
+   548.1693115234375,
+   216.85768127441406
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                         | Concentración   | Concentración   | Especie             | Género    |\n|--------------------------------------------------------|-----------------|-----------------|---------------------|-----------|\n| Anhídrido ftálico                                      | NOEC            | 10 mg/L         | Oncorhynchus mykiss | Pez       |\n| CAS: 85-44-9                                           | NOEC            | 16 mg/L         | Daphnia magna       | Crustáceo |\n| Oxima de 2-butanona                                    | NOEC            | 50 mg/L         | Oryzias latipes     | Pez       |\n| CAS: 96-29-7                                           | NOEC            | 100 mg/L        | Daphnia magna       | Crustáceo |\n| Sebacato de metilo y 1,2,2,6,6-pentametil-4-piperidilo | NOEC            | No relevante    |                     |           |\n| CAS: 82919-37-7                                        | NOEC            | 1 mg/L          | Daphnia magna       | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 10,
+  "bbox_pt": [
+   72.5713119506836,
+   245.66217041015625,
+   547.7927856445312,
+   401.15289306640625
+  ],
+  "filas": 13,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Anhídrido ftálico   | Degradabilidad - DBO5   | Degradabilidad - No relevante   | Biodegradabilidad - Concentración   | Biodegradabilidad - 100 mg/L   |\n|--------------------------------------|-------------------------|---------------------------------|-------------------------------------|--------------------------------|\n| CAS: 85-44-9                         | DQO                     | No relevante                    | Periodo                             | 14 días                        |\n|                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 85,2 %                         |\n| Bis(2-etilhexanoato) de cobalto      | DBO5                    | No relevante                    | Concentración                       | 10 mg/L                        |\n| CAS: 136-52-7                        | DQO                     | No relevante                    | Periodo                             | 10 días                        |\n|                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 60 %                           |\n| Oxima de 2-butanona                  | DBO5                    | No relevante                    | Concentración                       | 100 mg/L                       |\n| CAS: 96-29-7                         | DQO                     | No relevante                    | Periodo                             | 28 días                        |\n|                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 24 %                           |\n| Anhídrido maleico                    | DBO5                    | No relevante                    | Concentración                       | 33,33 mg/L                     |\n| CAS: 108-31-6                        | DQO                     | No relevante                    | Periodo                             | 29 días                        |\n|                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 98,19 %                        |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 10,
+  "bbox_pt": [
+   72.80777740478516,
+   429.8653564453125,
+   548.2017211914062,
+   549.7698974609375
+  ],
+  "filas": 10,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|-----------------------------------------------|-------------------------------|-------------------------------|\n| Bis(2-etilhexanoato) de cobalto CAS: 136-52-7 | BCF                           | 23                            |\n|                                               | Log POW                       |                               |\n|                                               | Potencial                     | Bajo                          |\n| Oxima de 2-butanona                           | BCF                           | 5                             |\n| CAS: 96-29-7                                  | Log POW                       | 0,59                          |\n| CAS: 96-29-7                                  | Potencial                     | Bajo                          |\n| Anhídrido maleico CAS: 108-31-6               | BCF                           |                               |\n|                                               | Log POW                       | -2,61                         |\n|                                               | Potencial                     |                               |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   72.64790344238281,
+   565.0816040039062,
+   547.6737060546875,
+   695.9974365234375
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Absorción/Desorción   | Absorción/Desorción      | Volatilidad   | Volatilidad    |\n|---------------------|-----------------------|--------------------------|---------------|----------------|\n| Anhídrido ftálico   | Koc                   | 36                       | Henry         | No relevante   |\n| CAS: 85-44-9        | Conclusión            | Muy Alto                 | Suelo seco    | No relevante   |\n|                     | Tensión superficial   | 1,531E-2 N/m (324,43 ºC) | Suelo húmedo  | No relevante   |\n| Oxima de 2-butanona | Koc                   | 3                        | Henry         | No relevante   |\n| CAS: 96-29-7        | Conclusión            | Muy Alto                 | Suelo seco    | No relevante   |\n|                     | Tensión superficial   | 2,57E-2 N/m (25 ºC)      | Suelo húmedo  | No relevante   |\n| Anhídrido maleico   | Koc                   | 42                       | Henry         | 0E+0 Pa·m³/mol |\n| CAS: 108-31-6       | Conclusión            | Muy Alto                 | Suelo seco    | No relevante   |\n|                     | Tensión superficial   | 1,673E-2 N/m (250,21 ºC) | Suelo húmedo  | No relevante   |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 14,
+  "bbox_pt": [
+   36.297157287597656,
+   109.2829360961914,
+   559.0619506835938,
+   251.07554626464844
+  ],
+  "filas": 2,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO: Demanda Química de Oxígeno DBO5: Demanda Biológica de Oxígeno a los 5 días BCF: Factor de bioconcentración DL50: Dosis Letal 50 CL50: Concentración Letal 50 EC50: Concentración Efectiva 50 Log POW: Logaritmo Coeficiente Partición Octanol-Agua Koc: Coeficiente de Partición del Carbono Orgánico IARC: Centro Internacional de Investigaciones sobre el Cáncer |"
+ }
+]

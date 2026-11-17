@@ -1,0 +1,159 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   43.9406852722168,
+   268.45489501953125,
+   572.3677978515625,
+   306.15179443359375
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 1,
+  "markdown": "| Restricciones de uso   | Motivo   |\n|------------------------|----------|\n| No aplicable.          |          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 2,
+  "bbox_pt": [
+   40.53520202636719,
+   433.25,
+   569.9443969726562,
+   479.17510986328125
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente        | %        | Número CAS   |\n|------------------------------|----------|--------------|\n| cinc en polvo (estabilizado) | 60 - 100 | 7440-66-6    |\n| Oxido de Cinc                | 2 - <3   | 1314-13-2    |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   38.543357849121094,
+   394.7950134277344,
+   556.34375,
+   658.6434936523438
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 5,
+  "markdown": "| Medios de extinción                                                         |    |                                                                                                                                                                                                                                                                                                                                                                                              |\n|-----------------------------------------------------------------------------|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Medios de extinción apropiados                                              | :  | Usar polvo químico SECO.                                                                                                                                                                                                                                                                                                                                                                     |\n| Medios no apropiados de extinción                                           | :  | Evitar medios de alta presión que podrían causar la formación de una mezcla aire- polvo potencialmente explosiva.                                                                                                                                                                                                                                                                            |\n| Peligros específicos de la sustancia química peligrosa o mezcla             | :  | Puede formar una mezcla explosiva de polvo y aire si se dispersa. Este material es muy tóxico para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados.                                                                                                    |\n| Productos de descomposición térmica peligrosos                              | :  | Los productos de descomposición pueden incluir los siguientes materiales: óxido/óxidos metálico/metálicos                                                                                                                                                                                                                                                                                    |\n| Medidas especiales que deberán seguir los grupos de combate contra incendio | :  | En caso de incendio, aísle rápidamente la zona evacuando a todas las personas de las proximidades del lugar del incidente. No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Desplazar los contenedores lejos del incendio si esto puede hacerse sin riesgo. Use agua pulverizada para refrigerar los envases expuestos al fuego. |\n| Equipo de protección especial para los bomberos                             | :  | Los bomberos deben llevar equipo de protección apropiado y un equipo de respiración autónomo con una máscara facial completa que opere en modo de presión positiva.                                                                                                                                                                                                                          |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   44.428157806396484,
+   293.271240234375,
+   569.5084228515625,
+   693.3875732421875
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente - Oxido de Cinc   | Límites de exposición - ACGIH TLV (Estados Unidos, 1/2021). STEL: 10 mg/m³ 15 minutos. Estado: Fracción respirable TWA: 2 mg/m³ 8 horas. Estado: Fracción respirable                                                                                                                                                                                                                                                                                                                              |\n|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Procedimientos de control recomendados  | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas. : |\n| Controles técnicos apropiados           | : Use sólo con ventilación adecuada. Si la operación genera polvo, humos, gas, vapor o llovizna, use cercamientos del proceso, ventilación local, u otros controles de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por                                                                                          |\n| Control de la exposición medioambiental | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. debajo del menor límite de explosión. Utilizar equipo de ventilación anti-explosión.                                         |\n| Medidas de protección individual        | Medidas de protección individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| Medidas de higiene                      | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo. :                                                                                     |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 6,
+  "bbox_pt": [
+   44.268218994140625,
+   71.36477661132812,
+   568.3016357421875,
+   343.6181640625
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Protección de los ojos                        | :   | Gafas de seguridad con protección lateral.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |\n|-----------------------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de las manos Protección de la piel | :   | Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. |\n| Protección del cuerpo                         | :   | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |\n| Otro tipo de protección para la piel          | :   | Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                                                                                                                                                                                                               |\n| Protección de las vías respiratorias          | :   | La selección del respirador se debe basar en el conocimiento previo de los niveles, los riesgos de producto y los límites de trabajo de seguridad del respirador seleccionado. Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados. Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario.                                                                                                                                |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 7,
+  "bbox_pt": [
+   40.22831344604492,
+   168.80569458007812,
+   572.3236083984375,
+   366.8818054199219
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 10,
+  "markdown": "| Reactividad                            | :   | No existen resultados específicos de ensayos respecto a la reactividad del este producto o sus ingredientes.                                          |\n|----------------------------------------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Estabilidad química                    | :   | El producto es estable.                                                                                                                               |\n| Posibilidad de reacciones peligrosas   | :   | En condiciones normales de almacenamiento y uso, no ocurre reacción peligrosa.                                                                        |\n| Condiciones que deberán evitarse       | :   | Si es expuesto a altas temperaturas puede producir productos de descomposición peligrosos.                                                            |\n| Materiales incompatibles               | :   | Mantener siempre alejado de los materiales siguientes para evitar reacciones exotérmicas violentas: agentes oxidantes, bases fuertes, ácidos fuertes. |\n| Productos de descomposición peligrosos | :   | Dependiendo de las condiciones, los productos de descomposición pueden incluir los siguientes materiales: óxido/óxidos metálico/metálicos             |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 7,
+  "bbox_pt": [
+   43.927425384521484,
+   424.7710876464844,
+   566.9414672851562,
+   538.4955444335938
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| cinc en polvo (estabilizado) Oxido de Cinc Nombre del producto o ingrediente   | CL50 Por inhalación Polvo y nieblas DL50 Oral CL50 Por inhalación Polvo y nieblas DL50 Cutánea DL50 Oral Resultado   | Rata Rata Rata Rata Rata Especies   | >5.4 mg/l >2000 mg/kg >5700 mg/m³ >2000 mg/kg >5000 mg/kg Dosis   | 4 horas - 4 horas - - Exposición   |\n|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------|------------------------------------|"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 8,
+  "bbox_pt": [
+   43.241180419921875,
+   506.86639404296875,
+   558.6953735351562,
+   607.5941772460938
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| Contacto con los ojos   | :   | La exposición a concentraciones de sustancias transportadas por el aire que están por encima de los límites de exposición regulados o recomendados puede causar irritación ocular.                           |\n|-------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | La exposición a concentraciones de sustancias transportadas por el aire que están por encima de los límites de exposición regulados o recomendados puede causar irritación de la nariz, garganta y pulmones. |\n| Contacto con la piel    | :   | Puede ser nocivo en contacto con la piel.                                                                                                                                                                    |\n| Ingestión               | :   | No se conocen efectos significativos o riesgos críticos.                                                                                                                                                     |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   44.38737487792969,
+   553.4384765625,
+   566.927978515625,
+   647.1121215820312
+  ],
+  "filas": 3,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente       | Oral (mg/ kg)   |   Cutánea (mg/kg) | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|----------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| AMERCOAT 68HS POWDER (PINTURA EPÓXICA) | N/A             |            2501.7 | N/A                        | N/A                           | N/A                                    |\n| Oxido de Cinc                          | N/A             |              2500 | N/A                        | N/A                           | N/A                                    |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   40.954246520996094,
+   91.11251831054688,
+   569.8551025390625,
+   206.91603088378906
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| cinc en polvo (estabilizado) | Agudo EC50 0.106 mg/l Agua fresca Crónico NOEC 0.0727 mg/l Agua fresca | Algas - Pseudokirchneriella subcapitata Dafnia - Daphnia Magna | 72 horas 21 días |\n| Oxido de Cinc | Agudo EC50 0.17 mg/l Agudo EC50 0.481 mg/l Agua fresca Crónico NOEC 0.017 mg/l Agua fresca | Algas Dafnia - Daphnia magna - Neonato Algas | 72 horas 48 horas 72 horas |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente          | Resultado                                                                                                                                                         | Especies                                                                                                    | Exposición                                  |\n|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------|\n| cinc en polvo (estabilizado) Oxido de Cinc | Agudo EC50 0.106 mg/l Agua fresca Crónico NOEC 0.0727 mg/l Agua fresca Agudo EC50 0.17 mg/l Agudo EC50 0.481 mg/l Agua fresca Crónico NOEC 0.017 mg/l Agua fresca | Algas - Pseudokirchneriella subcapitata Dafnia - Daphnia Magna Algas Dafnia - Daphnia magna - Neonato Algas | 72 horas 21 días 72 horas 48 horas 72 horas |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 11,
+  "bbox_pt": [
+   39.86473846435547,
+   72.51878356933594,
+   570.228271484375,
+   319.605712890625
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "| Número ONU                        | UN - UN3077                                                                                             | Brasil (ANTT) - UN3077                                                                                  | IMDG - UN3077                                                                                         | IATA - UN3077                                                                                         |\n|-----------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|\n| Designación oficial de transporte | SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), Oxido de Cinc) | SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), Oxido de Cinc) | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Zinc powder - zinc dust (stabilized), zinc oxide) | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Zinc powder - zinc dust (stabilized), zinc oxide) |\n| Clase(s) relativas al transporte  | 9                                                                                                       | 9                                                                                                       | 9                                                                                                     | 9                                                                                                     |\n| Grupo de embalaje                 | III                                                                                                     | III                                                                                                     | III                                                                                                   | III                                                                                                   |\n| Riesgos ambientales Sustancias    | Sí.                                                                                                     | Sí.                                                                                                     | Yes. (Zinc powder - zinc dust (stabilized), oxide)                                                    | Yes.                                                                                                  |\n| contaminantes marinas             | No aplicable.                                                                                           | No aplicable.                                                                                           | zinc                                                                                                  | Not applicable.                                                                                       |"
+ }
+]

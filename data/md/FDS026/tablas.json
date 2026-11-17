@@ -1,0 +1,86 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   29.76569938659668,
+   557.3614501953125,
+   586.7561645507812,
+   668.8982543945312
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| Nombre del producto o ingrediente Identificadores                                                                          | %         |\n|----------------------------------------------------------------------------------------------------------------------------|-----------|\n| Producto de reacción: Poli(Bisfenol A-co-epiclorohidrina), y resinas epoxi (peso molecular medio 700-1100) CAS: 25068-38-6 | 50% - 70% |\n| Xileno                                                                                                                     | 10% - 20% |\n| CAS: 1330-20-7 Acetato de n-Propilo                                                                                        | 5% - 10%  |\n| CAS: 109-60-4                                                                                                              |           |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   33.78866195678711,
+   66.31021881103516,
+   582.3262329101562,
+   370.4150085449219
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 6,
+  "markdown": "| Para el personal que no forma parte de los servicios de emergencia:   | No se debe realizar ninguna acción que suponga un riesgo personal o sin formación adecua- da. Evacuar los alrededores. No permitir el ingreso a personal innecesario y sin protección. No tocar o caminar sobre el material derramado. Evitar respirar vapor o neblina. Proporcionar ventilación adecuada. Llevar un aparato de respiración apropiado cuando el sistema de ventilación sea inadecuado. Llevar puesto un equipo de protección individual adecuado.   |\n|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Para el personal de Emergencia:                                       | Si se necesitan prendas especiales para gestionar el vertido, tomar en cuenta las informacio- nes recogidas en la Sección 8 en relación a los materiales adecuados y no adecuados. Consultar también en la Sección 8 la información adicional sobre medidas higiénicas.                                                                                                                                                                                             |\n| 6.2 Precauciones relativas al medio ambiente:                         | Evitar la dispersión del material derramado, su contacto con el suelo, las vías fluviales, las tuberías de desagüe y las alcantarillas. Informar a las autoridades pertinentes si el producto ha causado contaminación medioambiental (alcantarillas, vías fluviales, suelo o aire).                                                                                                                                                                                |\n| 6.3 Métodos y material de contención y de limpieza                    | Detener la fuga si esto no presenta ningún riesgo. Retirar los envases del área del derrame. Evitar que se introduzca en alcantarillas, canales de agua, sótanos o áreas reducidas. Detener y recoger los derrames con materiales absorbentes no combustibles, como arena, tierra, vermiculita o tierra de diatomeas, y colocar el material en un envase para desecharlo de acuerdo con las normativas locales (ver Sección 13).                                    |\n| 6.4 Referencia a otras Secciones                                      | Consultar en la Sección 1 la información de contacto en caso de emergencia. Consultar en la Sección 8 la información relativa a equipos de protección personal apropiados. Consulte en la Sección 13 la información adicional relativa al tratamiento de residuos.                                                                                                                                                                                                  |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   28.849517822265625,
+   300.9037780761719,
+   583.01904296875,
+   388.42791748046875
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de producto o ingrediente   | Valores límite de la explosión                                                                                                                                                                                            |\n|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Xileno                             | EU OEL (Europa, 12/2009). Absorbido a través de la piel. Notas: list of indicative occupational exposure limit values STEL: 442 mg/m 3 15 minutos STEL: 442 mg/m 3 15 minutos TWA: 221 mg/m 3 8 horas TWA: 50 ppm 8 horas |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 7,
+  "bbox_pt": [
+   29.604248046875,
+   548.0121459960938,
+   583.0809936523438,
+   595.9354248046875
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado    | Especies   | Dosis      | Exposición   |\n|-------------------------------------|--------------|------------|------------|--------------|\n| Xileno                              | DL50 Dérmica | Rata       | 1100 mg/kg | -            |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 8,
+  "bbox_pt": [
+   29.22894287109375,
+   77.98921203613281,
+   587.0238647460938,
+   135.728515625
+  ],
+  "filas": 3,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto ingrediente   |   o LogPow | Especies   | Exposición   |\n|-----------------------------------|------------|------------|--------------|\n| Xileno                            |       3.12 | -          | Alta         |\n| Acetato de n-propilo              |        1.4 | -          | Bajo         |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 8,
+  "bbox_pt": [
+   28.80054473876953,
+   492.5416564941406,
+   587.1366577148438,
+   734.62255859375
+  ],
+  "filas": 9,
+  "columnas": 4,
+  "seccion": 13,
+  "markdown": "| SECCIÓN 14: Información relativa al transporte                | SECCIÓN 14: Información relativa al transporte - ADR/RID-ADN   | SECCIÓN 14: Información relativa al transporte - IMDG   | SECCIÓN 14: Información relativa al transporte - IATA   |\n|---------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|\n| 14.1 Número ONU                                               | UN1263                                                         | UN1263                                                  | UN1263                                                  |\n| 14.2 Designación oficial de transporte de las Naciones Unidas | Pintura                                                        | Pintura                                                 | Pintura                                                 |\n| 14.3 Clase(s) de peligro para el transporte                   | 3                                                              | 3                                                       | 3                                                       |\n| 14.4 Grupo de embalaje                                        | III                                                            | III                                                     | III                                                     |\n| 14.5 Peligros para el medio ambiente                          | No                                                             | No                                                      | No                                                      |\n| 14.6 Información adicional                                    | Provisiones especiales 640 (E) Código para túneles (D/E)       | Emergency schedules (EmS) F-E, S-E                      |                                                         |\n| Código de clasificación                                       | F1                                                             |                                                         |                                                         |"
+ }
+]

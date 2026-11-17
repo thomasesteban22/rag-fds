@@ -1,0 +1,61 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 3,
+  "bbox_pt": [
+   29.388553619384766,
+   272.2479248046875,
+   586.7376708984375,
+   351.093994140625
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| Nombre del producto o ingrediente Identificadores | % |\n|---|---|\n| Varsol CAS: 8032-32-4 | 10% - 20% |\n| Xileno CAS: 1330-20-7 | 10% - 20% |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 2 (%)",
+  "markdown_original": "| Nombre del producto o ingrediente Identificadores   | %                   |\n|-----------------------------------------------------|---------------------|\n| Varsol CAS: 8032-32-4 Xileno CAS: 1330-20-7         | 10% - 20% 10% - 20% |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   34.22661590576172,
+   429.451416015625,
+   582.4321899414062,
+   720.0968627929688
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 4,
+  "markdown": "| 4.1 Descripción de los primeros auxilios Contacto con los ojos:   | Enjuagar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica.                                                                                |\n|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Inhalación:                                                       | Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Consiga atención médica si persisten los efectos de salud adversos o son severos.                                                                          |\n| Contacto con la piel:                                             | Quítese la ropa y calzado contaminados. Lavar bien la ropa contaminada con agua antes de quitársela, o usar guantes. Procurar atención médica. En el caso de que existan molestias o síntomas, evite más exposición. Lavar la ropa antes de volver a usarla. Limpiar completamente el calzado antes de volver a usarlo.                                     |\n| Ingestión:                                                        | Lavar la boca con agua. No inducir al vómito a menos que lo indique expresamente el personal médico. Conseguir atención médica si persisten los efectos de salud adversos o son severos. No suministrar nada por vía oral a una persona inconsciente. Si está inconsciente, colocar en posición de recuperación y conseguir atención médica inmediatamente. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 6,
+  "bbox_pt": [
+   33.68061447143555,
+   123.90403747558594,
+   582.18896484375,
+   688.481689453125
+  ],
+  "filas": 11,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Procedimientos recomendados de control:   | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la su- pervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar un equipo de protección respiratoria.                                                                                                                                                                                                        |\n|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 8.2 Controles de la exposición            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n| Controles técnicos                        | Utilizar aislamientos de áreas de producción, sistemas de ventilación locales u otros procedimientos de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por debajo del menor límite de explosión.                                                                                                                           |\n| Medidas de protección individual          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n| Medidas higiénicas:                       | Lavar las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para eliminar ropa contaminada. Lavar las ropas contaminadas antes de volver a usarlas. Verificar que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                                                                             |\n| Protección de los ojos/la Cara:           | Se debe usar un equipo protector ocular que cumpla con las normas aprobadas cuando una evaluación del riesgo indique que es necesario, a fin de evitar toda exposición a salpicaduras del líquido, lloviznas, gases o polvos.                                                                                                                                                                                                                                                                             |\n| Protección de la piel                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n| Protección de las manos:                  | Si una evaluación del riesgo indica que es necesario, se deben usar guantes químico- resistentes e impenetrables que cumplan con las normas aprobadas siempre que se manejen productos químicos. Número de referencia EN 374. Adecuados para periodos cortos o para protección contra salpicaduras: Guantes de goma de butilo/nitrilo. (0,4 mm), tiempo de detección <30 min. Desechar los guantes contaminados. Adecuado para exposición permanente: Guantes Vitón (0,4mm), tiempo de detección >30 min. |\n| Protección corporal:                      | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Recomendado: Protección preventiva de la piel con pomada protectora.                                                                                                                                                                                                                                    |\n| Otro tipo de protección Cutánea:          | Se debe elegir el calzado adecuado y cualquier otra medida de protección cutánea necesaria dependiendo de la tarea que se lleve a cabo y de los riesgos implicados. Tales medidas deben ser aprobadas por un especialista antes de proceder a la manipulación de este producto.                                                                                                                                                                                                                           |\n| Protección respiratoria:                  | Se debe seleccionar el respirador en base a los niveles de exposición reales o previstos, a la peligrosidad del producto y al grado de seguridad de funcionamiento del respirador elegido. Filtro de vapor orgánico (Tipo A) A1: < 1000 ppm; A2: < 5000 ppm; A3: < 10000 ppm                                                                                                                                                                                                                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 9,
+  "bbox_pt": [
+   28.881999969482422,
+   74.16758728027344,
+   587.1320190429688,
+   323.9420166015625
+  ],
+  "filas": 9,
+  "columnas": 4,
+  "seccion": 13,
+  "markdown": "| SECCIÓN 14: Información relativa al transporte                | SECCIÓN 14: Información relativa al transporte - ADR/RID-ADN   | SECCIÓN 14: Información relativa al transporte - IMDG   | SECCIÓN 14: Información relativa al transporte - IATA   |\n|---------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|\n| 14.1 Número ONU                                               | UN1263                                                         | UN1263                                                  | UN1263                                                  |\n| 14.2 Designación oficial de transporte de las Naciones Unidas | Pintura                                                        | Pintura                                                 | Pintura                                                 |\n| 14.3 Clase(s) de peligro para el transporte                   | 3                                                              | 3                                                       | 3                                                       |\n| 14.4 Grupo de embalaje                                        | III                                                            | III                                                     | III                                                     |\n| 14.5 Peligros para el medio ambiente                          | No                                                             | No                                                      | No                                                      |\n| 14.6 Información adicional                                    | Provisiones especiales 640 (E) Código para túneles (D/E)       | Emergency schedules (EmS) F-E, S-E                      | -                                                       |\n| Código de clasificación                                       | F1                                                             |                                                         |                                                         |"
+ }
+]

@@ -1,0 +1,184 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.09137149375557,
+   198.43848654993917,
+   548.5877623692455,
+   328.794764149138
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                       | Concentración   |\n|------------------|------------------|------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 7732-18-5        | Agua                                                                               | 25 - <50 %      |\n| CAS:             | 1317-65-3        | Piedra caliza                                                                      | 10 - <25 %      |\n| CAS:             | 1332-58-7        | Caolin                                                                             | 10 - <25 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención        | 2.5 - <10 %     |\n| CAS:             | 7631-86-9        | Dioxido de silicio (1 % < RCS < 10 %) Carc. 1B: H350; STOT repe. 2: H373 - Peligro | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   81.63176112130185,
+   250.96066281425135,
+   549.031558854276,
+   289.88057341731917
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación                                     | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------------------------|------------------------------|------------------------------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | 8-hour TWA PEL               | 15 mg/m³                     |\n| CAS: 13463-67-7                                    | Ceiling Values - TWA PEL     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   81.39541113834254,
+   307.23606606236547,
+   549.2749822629379,
+   379.12856343248956
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación - Piedra caliza                     | Valores límite ambientales - TLV-TWA   | Valores límite ambientales - 10 mg/m³   |\n|----------------------------------------------------|----------------------------------------|-----------------------------------------|\n| CAS: 1317-65-3                                     | TLV-STEL                               | 20 mg/m³                                |\n| Caolin                                             | TLV-TWA                                | 2 mg/m³                                 |\n| CAS: 1332-58-7                                     | TLV-STEL                               |                                         |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | TLV-TWA                                | 10 mg/m³                                |\n| CAS: 13463-67-7                                    | TLV-STEL                               |                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.42159285270128,
+   528.8010902879583,
+   548.3829988907169,
+   604.0346941051347
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.71648915335636,
+   616.2276292495545,
+   548.2747023040977,
+   683.0384709780006
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   84.7812877598705,
+   112.45616931978714,
+   548.0969519944159,
+   180.89500080317043
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   84.79176832058286,
+   193.60743753392455,
+   547.9259092435901,
+   313.08558772651145
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                                                                       |\n|------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.05088382900162,
+   326.94363077702826,
+   548.8629552157614,
+   384.892759870588
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   35.30739312805586,
+   92.91963638196933,
+   559.0571641427879,
+   483.2028868092154
+  ],
+  "filas": 26,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "|   SECCIÓN | 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE                                                         | No relevante *                                                                                                 |\n|-----------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n|           | Viscosidad cinemática a 20 ºC: Viscosidad cinemática a 40 ºC:                                                  | No relevante *                                                                                                 |\n|           | Concentración:                                                                                                 | No relevante *                                                                                                 |\n|           | pH:                                                                                                            | No relevante *                                                                                                 |\n|           | Densidad de vapor a 20 ºC:                                                                                     | No relevante *                                                                                                 |\n|           | Coeficiente de reparto n-octanol/agua a 20 ºC:                                                                 | No relevante *                                                                                                 |\n|           | Solubilidad en agua a 20 ºC:                                                                                   |                                                                                                                |\n|           | Propiedad de solubilidad:                                                                                      | No relevante *                                                                                                 |\n|           | Temperatura de descomposición:                                                                                 | No relevante *                                                                                                 |\n|           | Punto de fusión/punto de congelación:                                                                          | No relevante *                                                                                                 |\n|           | Propiedades explosivas:                                                                                        | No relevante *                                                                                                 |\n|           | Propiedades comburentes:                                                                                       | No relevante *                                                                                                 |\n|           | Inflamabilidad:                                                                                                |                                                                                                                |\n|           | Punto de inflamación:                                                                                          | No inflamable (>93 ºC)                                                                                         |\n|           | Calor de combustión:                                                                                           | No relevante *                                                                                                 |\n|           | Inflamabilidad (sólido, gas):                                                                                  | No relevante *                                                                                                 |\n|           | Temperatura de auto-inflamación:                                                                               | 330 ºC                                                                                                         |\n|           | Límite de inflamabilidad inferior:                                                                             | No relevante *                                                                                                 |\n|           | Límite de inflamabilidad superior:                                                                             | No relevante *                                                                                                 |\n|           | Explosividad:                                                                                                  |                                                                                                                |\n|           | Límite inferior de explosividad:                                                                               | No relevante *                                                                                                 |\n|           | Límite superior de explosividad:                                                                               | No relevante *                                                                                                 |\n|       9.2 | Información adicional:                                                                                         |                                                                                                                |\n|           | Tensión superficial a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n|           | Índice de refracción:                                                                                          | No relevante *                                                                                                 |\n|           | *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   71.74883628077156,
+   631.9366226363012,
+   547.7397439964346,
+   655.4284236634315
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 6,
+  "bbox_pt": [
+   71.82137700535307,
+   672.4448423408272,
+   547.8381621781932,
+   695.7543396315042
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   71.84613399531219,
+   129.25983166619892,
+   548.3472049175493,
+   287.53725656396136
+  ],
+  "filas": 13,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|----------------------------------------------------|-------------------|-------------------|----------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Caolin                                             | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 1332-58-7                                     | DL50 cutánea      | 5100 mg/kg        | Rata     |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Piedra caliza                                      | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 1317-65-3                                     | DL50 cutánea      | No relevante      |          |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Dioxido de silicio (1 % < RCS < 10 %)              | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 7631-86-9                                     | DL50 cutánea      | 5100 mg/kg        | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.12285128702254,
+   342.23685816241556,
+   548.7022786922583,
+   391.41576205509574
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Especie       | Género    |\n|------------------|-------------------|-------------------|---------------|-----------|\n| Caolin           | CL50              | No relevante      |               |           |\n| CAS: 1332-58-7   | CE50              | 1100 mg/L (48 h)  | Daphnia pulex | Crustáceo |\n|                  | CE50              | No relevante      |               |           |"
+ }
+]

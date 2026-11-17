@@ -1,0 +1,246 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   43.93570327758789,
+   268.3963928222656,
+   572.3516235351562,
+   306.0718688964844
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 1,
+  "markdown": "| Restricciones de uso   | Motivo   |\n|------------------------|----------|\n| No aplicable.          |          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   40.88880157470703,
+   159.59814453125,
+   569.9410400390625,
+   241.0059814453125
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente        | %          | Número CAS   |\n|------------------------------|------------|--------------|\n| cinc en polvo (estabilizado) | 30 - <60   | 7440-66-6    |\n| Cemento Portland             | 15 - <20   | 65997-15-1   |\n| Metil n-amilcetona           | 10 - <12.5 | 110-43-0     |\n| Oxido de Cinc                | 1 - <2     | 1314-13-2    |\n| Acetato de n-butilo          | 1 - <2     | 123-86-4     |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   43.5639762878418,
+   373.6001892089844,
+   564.1605224609375,
+   496.2674560546875
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Enjuagar los ojos inmediátamente con agua corriente durante al menos 15 minutos con los párpados abiertos. Suministrar inmediatamente ayuda médica.   |\n|-------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Traslade al aire libre. Mantenga a la persona caliente y en reposo. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.               |\n| Contacto con la piel    | :   | Quítese la ropa y calzado contaminados. Lavar perfectamente la piel con agua y jabón, o con un limpiador cutáneo reconocido. NO utilizar disolventes ni diluyentes.                                                                  |\n| Ingestión               | :   | En caso de ingestión, acúdase inmediatamente al médico y muéstrele la etiqueta o el envase. Mantenga a la persona caliente y en reposo. No provocar el vómito.                                                                       |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   38.23714065551758,
+   141.86448669433594,
+   560.895263671875,
+   438.15924072265625
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 5,
+  "markdown": "| Medios de extinción Medios de extinción                                     | :   | Utilizar polvo químico seco, CO₂, agua pulverizada o espuma (neblina).                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n|-----------------------------------------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| apropiados Medios no apropiados de extinción                                | :   | No usar chorro de agua.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| Peligros específicos de la sustancia química peligrosa o mezcla             | :   | Líquido y vapores inflamables. Los residuos líquidos que se filtran en el alcantarillado pueden causar un riesgo de incendio o de explosión. En caso de incendio o calentamiento, ocurrirá un aumento de presión y el recipiente estallará, con el riesgo de que ocurra una explosión. Este material es muy tóxico para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados. |\n| Productos de descomposición térmica peligrosos                              | :   | Los productos de descomposición pueden incluir los siguientes materiales: óxidos de carbono óxido/óxidos metálico/metálicos                                                                                                                                                                                                                                                                                                                                                                                    |\n| Medidas especiales que deberán seguir los grupos de combate contra incendio | :   | En caso de incendio, aísle rápidamente la zona evacuando a todas las personas de las proximidades del lugar del incidente. No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Desplazar los contenedores lejos del incendio si esto puede hacerse sin riesgo. Use agua pulverizada para refrigerar los envases expuestos al fuego.                                                                                                                   |\n| Equipo de protección especial para los bomberos                             | :   | Los bomberos deben llevar equipo de protección apropiado y un equipo de respiración autónomo con una máscara facial completa que opere en modo de presión positiva.                                                                                                                                                                                                                                                                                                                                            |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   40.035762786865234,
+   502.96405029296875,
+   558.77099609375,
+   640.6221923828125
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 6,
+  "markdown": "| Para personal de no emergencia              | :   | No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Evacuar los alrededores. No deje que entre el personal innecesario y sin protección. No toque o camine sobre el material derramado. Apagar todas las fuentes de ignición. No permitir el uso de bengalas, fumar, o el encendido de llamas en el área de peligro. No respire los vapores o nieblas. Proporcione ventilación adecuada. Llevar un aparato de respiración apropiado cuando el sistema de ventilación sea inadecuado. Llevar puestos equipos de protección personal adecuados.   |\n|---------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Para el personal de respuesta a emergencias | :   | Si fuera necesario usar ropa especial para hacer frente al derrame, se tomará en cuenta la información de la Sección 8 sobre los materiales adecuados y no adecuados. Consultar también la información bajo \"Para personal de no emergencia\".                                                                                                                                                                                                                                                                                                                                                            |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 6,
+  "bbox_pt": [
+   43.24942398071289,
+   177.0977783203125,
+   567.8475341796875,
+   695.7606811523438
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Límites de exposición                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Cemento Portland Metil n-amilcetona Oxido de Cinc Acetato de n-butilo | Cemento Portland Metil n-amilcetona Oxido de Cinc Acetato de n-butilo                                                                                                                                                                                                                                                                                                                                                                                                                           | ACGIH TLV (Estados Unidos, 1/2021). TWA: 1 mg/m³ 8 horas. Estado: Fracción respirable ACGIH TLV (Estados Unidos, 1/2021). TWA: 233 mg/m³ 8 horas. TWA: 50 ppm 8 horas. ACGIH TLV (Estados Unidos, 1/2021). STEL: 10 mg/m³ 15 minutos. Estado: Fracción respirable TWA: 2 mg/m³ 8 horas. Estado: Fracción respirable ACGIH TLV (Estados Unidos, 1/2021). STEL: 150 ppm 15 minutos. TWA: 50 ppm 8 horas.                                                                                          |\n| Procedimientos de control recomendados :                              | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas. | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas. |\n| Controles técnicos apropiados                                         | : Use sólo con ventilación adecuada. Utilizar recintos de proceso, sistemas de ventilación locales, u otros procedimientos de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por debajo del menor límite de explosión.                                                                                           | : Use sólo con ventilación adecuada. Utilizar recintos de proceso, sistemas de ventilación locales, u otros procedimientos de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por debajo del menor límite de explosión.                                                                                           |\n| Control de la exposición medioambiental                               | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. Utilizar equipo de ventilación anti-explosión.                                                                             | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. Utilizar equipo de ventilación anti-explosión.                                                                             |\n| Medidas de protección individual                                      | Medidas de protección individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Medidas de protección individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| Medidas de higiene :                                                  | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas                                                                                 | de las estaciones de trabajo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 8,
+  "bbox_pt": [
+   43.81691360473633,
+   451.71160888671875,
+   567.0477905273438,
+   644.9176635742188
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| cinc en polvo (estabilizado) Metil n-amilcetona Oxido de Cinc Acetato de n-butilo Nombre del producto o ingrediente   | CL50 Por inhalación Polvo nieblas DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral CL50 Por inhalación Polvo nieblas DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral Resultado   | y Rata Rata Rata Conejo Rata y Rata Rata Rata Rata Rata Conejo Rata Especies   | >5.4 mg/l >2000 mg/kg 16.7 mg/l 10.206 g/kg 1.6 g/kg >5700 mg/m³ >2000 mg/kg >5000 mg/kg >21.1 mg/l 2000 ppm >17600 mg/kg 10.768 g/kg Dosis   | 4 horas - 4 horas - - 4 horas - - 4 horas 4 horas - - Exposición   |\n|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 9,
+  "bbox_pt": [
+   44.07971954345703,
+   418.6097717285156,
+   566.9777221679688,
+   499.33013916015625
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre              | Categoría   | Ruta de exposición   | Órganos diana                        |\n|---------------------|-------------|----------------------|--------------------------------------|\n| Cemento Portland    | Categoría 3 | -                    | Irritación de las vías respiratorias |\n| Metil n-amilcetona  | Categoría 3 | -                    | Efecto narcótico                     |\n| Acetato de n-butilo | Categoría 3 | -                    | Efecto narcótico                     |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   44.01854705810547,
+   620.1813354492188,
+   567.077880859375,
+   657.359375
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre             | Resultado                            |\n|--------------------|--------------------------------------|\n| Metil n-amilcetona | PELIGRO POR ASPIRACIÓN - Categoría 2 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 11,
+  "bbox_pt": [
+   44.027957916259766,
+   246.23583984375,
+   566.8944702148438,
+   351.50714111328125
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                                | Oral (mg/ kg)         | Cutánea (mg/kg)        | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|---------------------------------------------------------------------------------|-----------------------|------------------------|----------------------------|-------------------------------|----------------------------------------|\n| DIMETCOTE 302H GREEN RESIN Metil n-amilcetona Oxido de Cinc Acetato de n-butilo | 3926.5 1600 N/A 10768 | 42586.1 10206 2500 N/A | N/A N/A N/A N/A            | 101.6 16.7 N/A N/A            | 9.1 1.5 N/A N/A                        |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 11,
+  "bbox_pt": [
+   40.99030303955078,
+   433.87823486328125,
+   570.05517578125,
+   573.4752197265625
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| cinc en polvo (estabilizado) | Agudo EC50 0.106 mg/l Agua fresca Crónico NOEC 0.0727 mg/l Agua fresca | Algas - Pseudokirchneriella subcapitata Dafnia - Daphnia Magna | 72 horas 21 días |\n| Metil n-amilcetona | Agudo CL50 131 mg/l | Pez | 96 horas |\n| Oxido de Cinc | Agudo EC50 0.17 mg/l Agudo EC50 0.481 mg/l Agua fresca Crónico NOEC 0.017 mg/l Agua fresca | Algas Dafnia - Daphnia magna - Neonato Algas | 72 horas 48 horas 72 horas |\n| Acetato de n-butilo | Agudo CL50 18 mg/l | Pez | 96 horas |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "4 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente                                                 | Resultado                                                                                                                                                                                                | Especies                                                                                                            | Exposición                                                    |\n|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|\n| cinc en polvo (estabilizado) Metil n-amilcetona Oxido de Cinc Acetato de n-butilo | Agudo EC50 0.106 mg/l Agua fresca Crónico NOEC 0.0727 mg/l Agua fresca Agudo CL50 131 mg/l Agudo EC50 0.17 mg/l Agudo EC50 0.481 mg/l Agua fresca Crónico NOEC 0.017 mg/l Agua fresca Agudo CL50 18 mg/l | Algas - Pseudokirchneriella subcapitata Dafnia - Daphnia Magna Pez Algas Dafnia - Daphnia magna - Neonato Algas Pez | 72 horas 21 días 96 horas 72 horas 48 horas 72 horas 96 horas |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 11,
+  "bbox_pt": [
+   41.327999114990234,
+   600.2132568359375,
+   569.9371948242188,
+   669.5271606445312
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente | Prueba | Resultado | Dosis | Inóculo |\n|---|---|---|---|---|\n| Metil n-amilcetona | OECD 310 | 69 % - Fácil - 28 días | - | - |\n| Acetato de n-butilo | TEPA and OECD 301D | 83 % - Fácil - 28 días | - | - |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente      | Prueba                      | Resultado                                     | Dosis   | Inóculo   |\n|----------------------------------------|-----------------------------|-----------------------------------------------|---------|-----------|\n| Metil n-amilcetona Acetato de n-butilo | OECD 310 TEPA and OECD 301D | 69 % - Fácil - 28 días 83 % - Fácil - 28 días | - -     | - -       |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 11,
+  "bbox_pt": [
+   38.79069519042969,
+   707.6192016601562,
+   573.142578125,
+   727.1697387695312
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Spanish (MX)   | Colombia   | 11/14   |\n|----------------|------------|---------|"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 12,
+  "bbox_pt": [
+   40.611167907714844,
+   73.16403198242188,
+   570.8518676757812,
+   130.69113159179688
+  ],
+  "filas": 3,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente      | Período acuático   | Fotólisis   | Biodegradabilidad   |\n|----------------------------------------|--------------------|-------------|---------------------|\n| Metil n-amilcetona Acetato de n-butilo | -                  | -           | Fácil               |\n|                                        | -                  | -           | Fácil               |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 12,
+  "bbox_pt": [
+   41.4114990234375,
+   156.25927734375,
+   570.0033569335938,
+   214.2628936767578
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente      | LogPow   | FBC   | Potencial   |\n|----------------------------------------|----------|-------|-------------|\n| Metil n-amilcetona Acetato de n-butilo | 2.26 2.3 | - -   | bajo bajo   |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 12,
+  "bbox_pt": [
+   40.30597686767578,
+   548.181640625,
+   569.9202270507812,
+   703.8311157226562
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "|                                   | UN      | Brasil (ANTT)   | IMDG   | IATA   |\n|-----------------------------------|---------|-----------------|--------|--------|\n| Número ONU                        | UN1263  | UN1263          | UN1263 | UN1263 |\n| Designación oficial de transporte | PINTURA | PINTURA         | PAINT  | PAINT  |\n| Clase(s) relativas al transporte  | 3       | 3               | 3      | 3      |\n| Grupo de embalaje                 | III     | III             | III    | III    |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 13,
+  "bbox_pt": [
+   39.53968048095703,
+   72.19017791748047,
+   570.4816284179688,
+   159.89744567871094
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "| Riesgos ambientales Sustancias contaminantes marinas   | Sí. La marca de substancia peligrosa para el ambiente no es obligatoria. No aplicable.   | Sí. La marca de substancia peligrosa para el ambiente no es obligatoria. No aplicable.   | Yes. (Zinc powder - zinc dust (stabilized), zinc oxide)   | Yes. The environmentally hazardous substance mark is not required. Not applicable.   |\n|--------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------|"
+ }
+]

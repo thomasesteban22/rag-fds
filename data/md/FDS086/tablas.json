@@ -1,0 +1,72 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   87.2171569184169,
+   634.1606068328097,
+   534.2743115193413,
+   767.6028922236432
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre químico                                                      | CAS No.     | Concentración (% w/w)   |\n|---------------------------------------------------------------------|-------------|-------------------------|\n| Bis(4-(1,2-bis(etoxicarbonil)etilamino)-3- metilciclohexil)metano   | 136210-32-7 | >= 30 - < 50            |\n| N,N'-(metilendiciclohexano-4,1-diil)bis-DL- aspartato de tetraetilo | 136210-30-5 | >= 30 - < 50            |\n| acetato de 2-metoxi-1-metiletilo                                    | 108-65-6    | >= 5 - < 10             |\n| fumarato de dietilo                                                 | 623-91-6    | >= 2,5 - < 5            |\n| sebacato de bis(1,2,2,6,6-pentametil-4- piperidilo)                 | 41556-26-7  | >= 0,25 - < 1           |\n| sebacato de metilo y 1,2,2,6,6-pentametil-4- piperidilo             | 82919-37-7  | >= 0,1 - < 0,25         |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   66.83950083790211,
+   96.40002130040068,
+   551.5423679674392,
+   253.62856563473088
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 6,
+  "markdown": "| Versión 2.3                                   |    | Número de HDS: 000000611764 Fecha de revisión:                                                                                                                                                         |\n|-----------------------------------------------|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Precauciones relativas al medio ambiente      | :  | No lo vierta en el agua superficial o el sistema de alcantarilla- do sanitario. Si el producto contamina los ríos, lagos o alcantarillados, in- formar a las autoridades respectivas.                  |\n| Métodos y materiales de contención y limpieza | :  | Recójalo con un producto absorbente inerte (por ejemplo, arena, silicagel, aglutinante de ácidos, aglutinante universal, aserrín). Guarde en contenedores apropiados y cerrados para su eli- minación. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   90.01495602550123,
+   294.2033395222836,
+   518.8083348421443,
+   558.7930413058135
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 7,
+  "markdown": "| Sugerencias para la protec- ción contra incendios y ex- plosiones   | :   | Medidas normales preventivas para la protección contra in- cendios.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n|---------------------------------------------------------------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Consejos para una manipu- lación segura                             | :   | Evitar sobrepasar los límites dados de exposición profesional (ver sección 8). Evitar todo contacto con los ojos, la piel o la ropa. Ver sección 8 para el equipo de protección personal. Las personas que hayan tenido problemas de sensibilisación de la piel, asma, alergías, enfermedades respiratorias cróni- cas o recurrentes, no deben ser empleadas en ninguna parte del proceso en la cual esté utilizada esta preparación. Fumar, comer y beber debe prohibirse en el área de aplica- ción. Cuando se manejen productos químicos, siga las medidas estándar de higiene. |\n| Condiciones para el almace- namiento seguro                         | :   | Conserve el envase herméticamente cerrado en un lugar seco y bien ventilado. Los contenedores que se abren deben ser cuidadosamente resellados y mantenerlos en posición vertical para evitar fu- gas. Almacenar en conformidad con la reglamentación local.                                                                                                                                                                                                                                                                                                                       |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   91.18566926277725,
+   660.8894719438111,
+   515.0121339160485,
+   763.9536713102618
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Protección respiratoria   | :   | Utilice protección respiratoria a menos que exista una venti- lación de escape adecuada o que la evaluación de la exposi- ción indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuada para la concentración máxima prevista del contaminante (gas/vapor/aerosol/partículas) que puede presentarse al ma- nejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo.   |\n|---------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   79.48906106270401,
+   118.81999430266137,
+   523.5135316538972,
+   345.38025332847945
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Protección de las manos            | :   | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario.                                                                       |\n|------------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de los ojos             | :   | Equipo de protección ocular que cumpla con estándares aprobados debe ser utilizado cuando la evaluación del riesgo indica que es necesario.                                                                                                                         |\n| Protección de la piel y del cuerpo | :   | Elegir la protección para el cuerpo según sus caraterísticas, la concentración y la cantidad de sustancias peligrosas, y el lugar específico de trabajo.                                                                                                            |\n| Medidas de higiene                 | :   | Manipúlelo con las precauciones de higiene industrial ade- cuadas, y respete las prácticas de seguridad. No coma ni beba durante su utilización. No fume durante su utilización. Lavarse las manos antes de los descansos y después de terminar la jornada laboral. |"
+ }
+]

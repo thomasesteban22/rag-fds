@@ -1,0 +1,198 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.16150359492974,
+   198.35825582255086,
+   548.6721556552145,
+   334.51466590428294
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                                                                  | Concentración   |\n|------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 7732-18-5        | Agua                                                                                                                                                                          | 30 - <50 %      |\n| CAS:             | 1317-65-3        | Piedra caliza                                                                                                                                                                 | 15 - <30 %      |\n| CAS:             | 1332-58-7        | Caolin                                                                                                                                                                        | 5 - <15 %       |\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención                                                                                                   | 5 - <15 %       |\n| CAS:             | 55406-53-6       | Butilcarbamato de 3-iodo-2-propinilo Acuático agudo. 1: H400; Les. Oc. 1: H318; Sens. Cut. 1: H317; STOT única 3: H335; Tox. Agud. 4: H302+H332; Tox. Agud. 5: H313 - Peligro | <5 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   81.95025583356819,
+   321.6568529258601,
+   549.1369894839294,
+   359.7304513789016
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación                                     | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------------------------|------------------------------|------------------------------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | 8-hour TWA PEL               | 15 mg/m³                     |\n| CAS: 13463-67-7                                    | Ceiling Values - TWA PEL     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   81.2147948716951,
+   377.91710995490644,
+   549.4845020104735,
+   451.2881711634547
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación                                     | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------------------------|------------------------------|------------------------------|\n| Piedra caliza                                      | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 1317-65-3                                     | TLV-STEL                     | 20 mg/m³                     |\n| Caolin                                             | TLV-TWA                      | 2 mg/m³                      |\n| CAS: 1332-58-7                                     | TLV-STEL                     |                              |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | TLV-TWA                      | 0,2 mg/m³                    |\n| CAS: 13463-67-7                                    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.4348174147638,
+   600.5069215664897,
+   548.3391558469223,
+   674.212846917449
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.49665653407975,
+   688.077082681905,
+   548.6902050863177,
+   756.1851607036816
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   84.95756697993951,
+   148.89111617788285,
+   548.0968910166082,
+   217.3459556742688
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.17419064208165,
+   229.57407946661363,
+   548.0515235276191,
+   348.1731388336689
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                                                                       |\n|------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   85.4233154757711,
+   361.59168223038984,
+   548.473733868695,
+   420.14074192654203
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   71.74043658774971,
+   724.6723613443623,
+   547.65413115431,
+   747.5527615204219
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   71.95064995784888,
+   126.88839592578006,
+   547.7850505076159,
+   151.55735408248358
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   71.6084120116778,
+   248.93703337825673,
+   548.5145280221005,
+   407.36630179144703
+  ],
+  "filas": 13,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|----------------------------------------------------|-------------------|-------------------|----------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Caolin                                             | DL50 oral         | >5000 mg/kg       | Rata     |\n| CAS: 1332-58-7                                     | DL50 cutánea      | 5100 mg/kg        | Rata     |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Piedra caliza                                      | DL50 oral         | >5000 mg/kg       | Rata     |\n| CAS: 1317-65-3                                     | DL50 cutánea      | No relevante      |          |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Butilcarbamato de 3-iodo-2-propinilo               | DL50 oral         | 1100 mg/kg        | Rata     |\n| CAS: 55406-53-6                                    | DL50 cutánea      | 2100 mg/kg        | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   71.95113015808516,
+   474.89806083914783,
+   548.0266445820445,
+   560.1035814211883
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                       | Concentración   | Concentración    | Especie                 | Género    |\n|--------------------------------------|-----------------|------------------|-------------------------|-----------|\n| Caolin                               | CL50            | No relevante     |                         |           |\n| CAS: 1332-58-7                       | CE50            | 1100 mg/L (48 h) | Daphnia pulex           | Crustáceo |\n|                                      | CE50            | No relevante     |                         |           |\n| Butilcarbamato de 3-iodo-2-propinilo | CL50            | 0,07 mg/L (96 h) | Oncorhynchus mykiss     | Pez       |\n| CAS: 55406-53-6                      | CE50            | 0,09 mg/L (96 h) | Mysidopsis bahia        | Crustáceo |\n|                                      | CE50            | 0,05 mg/L (72 h) | Scenedesmus subspicatus | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.15174714568478,
+   574.9069742857871,
+   548.1719546979866,
+   612.4710008489831
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                       | Concentración   | Concentración   | Especie             | Género    |\n|--------------------------------------|-----------------|-----------------|---------------------|-----------|\n| Butilcarbamato de 3-iodo-2-propinilo | NOEC            | 0,0084 mg/L     | Pimephales promelas | Pez       |\n| CAS: 55406-53-6                      | NOEC            | 0,0499 mg/L     | Daphnia magna       | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.02058388114776,
+   669.4781357862603,
+   548.2497014029075,
+   719.0233859927071
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                       | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------|-------------------------------|-------------------------------|\n| Butilcarbamato de 3-iodo-2-propinilo | BCF                           | 36                            |\n| CAS: 55406-53-6                      | Log POW                       | 2,4                           |\n|                                      | Potencial                     | Moderado                      |"
+ }
+]

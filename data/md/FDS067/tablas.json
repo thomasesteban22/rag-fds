@@ -1,0 +1,184 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   73.33204883754654,
+   276.2533081054687,
+   550.6175916346608,
+   389.2215889379361
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                                                                   | Concentración   |\n|------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 7732-18-5        | Agua                                                                                                                                                                           | 30 - <50 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención                                                                                                    | 5 - <15 %       |\n| CAS:             | 1332-58-7        | Caolin                                                                                                                                                                         | 5 - <15 %       |\n| CAS:             | 13463-41-7       | Piritionato cincico Acuático agudo. 1: H400; Acuático crónico. 1: H410; Les. Oc. 1: H318; Repr. 1B: H360; STOT repe. 1: H372; Tox. Agud. 2: H330; Tox. Agud. 3: H301 - Peligro | <5 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   81.00301894527155,
+   398.2850071125529,
+   549.2329075755689,
+   464.67468328118036
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación                                     | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------------------------|------------------------------|------------------------------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | 8-hour TWA PEL               | 15 mg/m³                     |\n| CAS: 13463-67-7                                    | Ceiling Values - TWA PEL     |                              |\n| Caolin                                             | 8-hour TWA PEL               | 5 mg/m³                      |\n| CAS: 1332-58-7                                     | Ceiling Values - TWA PEL     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   81.58794856641117,
+   482.2313323583172,
+   549.1996136925205,
+   533.9218851019707
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación - Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)   | Valores límite ambientales - TLV-TWA   | Valores límite ambientales - 0,2 mg/m³   |\n|-----------------------------------------------------------------------|----------------------------------------|------------------------------------------|\n| CAS: 13463-67-7                                                       | TLV-STEL                               |                                          |\n| Caolin                                                                | TLV-TWA                                | 2 mg/m³                                  |\n| CAS: 1332-58-7                                                        | TLV-STEL                               |                                          |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   84.87336424961987,
+   112.9731541627716,
+   548.2429938440515,
+   187.172689149544
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   84.85901159811341,
+   201.73203417417835,
+   548.1901260847054,
+   268.05988997434486
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.08368433088265,
+   303.8769915930958,
+   548.370132573275,
+   370.7629085383109
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   84.99717968831928,
+   382.6698196142926,
+   548.3596443903367,
+   501.857019022672
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                                                                       |\n|------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   87.05812288015481,
+   517.028466535917,
+   548.6116046920879,
+   574.6627434099428
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   72.14294347468639,
+   241.3850187295293,
+   547.6873030817429,
+   264.566162109375
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   72.19374561079397,
+   282.9512010732909,
+   547.9788989585519,
+   305.5638807689096
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   71.96216714129352,
+   411.81135864257806,
+   548.6835585052696,
+   535.0288861040491
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda        | Género   |\n|----------------------------------------------------|-------------------|------------------------|----------|\n| Caolin                                             | DL50 oral         | >5000 mg/kg            | Rata     |\n| CAS: 1332-58-7                                     | DL50 cutánea      | 5100 mg/kg             | Rata     |\n|                                                    | CL50 inhalación   | No relevante           |          |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg            | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg            | Conejo   |\n|                                                    | CL50 inhalación   | No relevante           |          |\n| Piritionato cincico                                | DL50 oral         | 300 mg/kg (ATEi)       | Rata     |\n| CAS: 13463-41-7                                    | DL50 cutánea      | No relevante           |          |\n|                                                    | CL50 inhalación   | 0,61 mg/L (4 h) (ATEi) | Rata     |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   71.82036324929872,
+   603.2090192505752,
+   547.6600460016648,
+   688.2029503553666
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Concentración   | Concentración     | Especie             | Género    |\n|---------------------|-----------------|-------------------|---------------------|-----------|\n| Caolin              | CL50            | No relevante      |                     |           |\n| CAS: 1332-58-7      | CE50            | 1100 mg/L (48 h)  | Daphnia pulex       | Crustáceo |\n|                     | CE50            | No relevante      |                     |           |\n| Piritionato cincico | CL50            | 0,003 mg/L (96 h) | Pimephales promelas | Pez       |\n| CAS: 13463-41-7     | CE50            | 0,008 mg/L (48 h) | Daphnia magna       | Crustáceo |\n|                     | CE50            | No relevante      |                     |           |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.0722625732422,
+   701.9167916384445,
+   547.627971674772,
+   741.3639523467655
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Concentración   | Concentración   | Especie       | Género    |\n|---------------------|-----------------|-----------------|---------------|-----------|\n| Piritionato cincico | NOEC            | No relevante    |               |           |\n| CAS: 13463-41-7     | NOEC            | 0,022 mg/L      | Daphnia magna | Crustáceo |"
+ }
+]

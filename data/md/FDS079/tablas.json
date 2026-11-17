@@ -1,0 +1,282 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 3,
+  "bbox_pt": [
+   16.93472671508789,
+   264.7545166015625,
+   544.9923706054688,
+   448.5923767089844
+  ],
+  "filas": 9,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente          | Número de CAS   | Concentración   |\n|---------------------------------|-----------------|-----------------|\n| gasolina                        | 86290-81-5      | ≤5              |\n| disolvente de Stoddard          | 8052-41-3       | ≤5              |\n| ácidos grasos, aceite de resina | 61790-12-3      | ≤5              |\n| anhídrido ftalico               | 85-44-9         | <3              |\n| ligroína                        | 8032-32-4       | ≤1              |\n| benceno                         | 71-43-2         | <1              |\n| bis(2-etilhexanoato) de cobalto | 136-52-7        | <0.3            |\n| tetraóxido de bario y diboro    | 13701-59-2      | <0.3            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 7,
+  "bbox_pt": [
+   22.42062759399414,
+   109.7950668334961,
+   544.9985961914062,
+   552.0498657226562
+  ],
+  "filas": 9,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente          | Límites de exposición                                                                                                                                                                                                                                                                               |\n|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| gasolina                        | ACGIH TLV (Estados Unidos, 1/2022). TWA: 300 ppm 8 horas. TWA: 890 mg/m³ 8 horas. STEL: 500 ppm 15 minutos. STEL: 1480 mg/m³ 15 minutos.                                                                                                                                                            |\n| disolvente de Stoddard          | ACGIH TLV (Estados Unidos, 1/2022). TWA: 525 mg/m³ 8 horas. TWA: 100 ppm 8 horas.                                                                                                                                                                                                                   |\n| ácidos grasos, aceite de resina | ACGIH TLV (Estados Unidos). TWA: 5 mg/m³ 8 horas.                                                                                                                                                                                                                                                   |\n| anhídrido ftalico               | STEL: 10 mg/m³ 15 minutos. ACGIH TLV (Estados Unidos, 1/2022). Absorbido a través de la piel. Sensibilizante por contacto con la piel. Sensibilizante si se inhala. TWA: 0.002 mg/m³ 8 horas. Forma: Inhalable fraction and vapor STEL: 0.005 mg/m³ 15 minutos. Forma: Inhalable fraction and vapor |\n| ligroína                        | ACGIH TLV (Estados Unidos). TWA: 300 ppm 8 horas.                                                                                                                                                                                                                                                   |\n| benceno                         | ACGIH TLV (Estados Unidos, 1/2022). Absorbido a través de la piel. TWA: 0.5 ppm 8 horas. TWA: 1.6 mg/m³ 8 horas. STEL: 2.5 ppm 15 minutos. STEL: 8 mg/m³ 15 minutos.                                                                                                                                |\n| bis(2-etilhexanoato) de cobalto | ACGIH TLV (Estados Unidos, 1/2022). [cobalt and inorganic compounds] Sensibilizante por contacto con la piel. Sensibilizante si se inhala.                                                                                                                                                          |\n| tetraóxido de bario y diboro    | TWA: 0.02 mg/m³, (as Co) 8 horas. ACGIH TLV (Estados Unidos, 1/2022). [Barium and soluble compounds] TWA: 0.5 mg/m³, (as Ba) 8 horas.                                                                                                                                                               |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 8,
+  "bbox_pt": [
+   21.004148483276367,
+   75.78805541992188,
+   543.35986328125,
+   551.3656616210938
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Medidas higiénicas :              | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para eliminar ropa contaminada. Las prendas de trabajo contaminadas no podrán sacarse del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                                                                                                                                                                                                      |\n|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de los ojos/la cara :  | Se debe usar un equipo protector ocular que cumpla con las normas aprobadas cuando una evaluación del riesgo indique que es necesario, a fin de evitar toda exposición a salpicaduras del líquido, lloviznas, gases o polvos. Si es posible el contacto, se debe utilizar la siguiente protección, salvo que la valoración indique un grado de protección más alto: gafas protectoras contra salpicaduras químicas.                                                                                                                                                                                                                                                                                           |\n| Protección de la piel             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n| Protección de las manos :         | Si una evaluación del riesgo indica que es necesario, se deben usar guantes químico-resistentes e impenetrables que cumplan con las normas aprobadas siempre que se manejen productos químicos. Tomando en consideración los parámetros especificados por el fabricante de los guantes, comprobar durante el uso que los guantes siguen conservando sus propiedades protectoras. Hay que observar que el tiempo de paso de cualquier material utilizado con guantes puede ser diferente para distintos fabricantes de guantes. En el caso de mezclas, consistentes en varias sustancias, no es posible estimar de manera exacta, el                                                                           |\n| Protección corporal :             | tiempo de protección que ofrecen los guantes. Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando haya riesgo de ignición a consecuencia de cargas electrostáticas, utilizar indumentaria de protección antiestática. Para ofrecer la máxima protección frente a descargas electrostáticas, la indumentaria debe incluir monos, botas y guantes con propiedades antiestáticas.                                                                                                                                                                           |\n| Otro tipo de protección cutánea : | Se deben elegir el calzado adecuado y cualquier otra medida de protección cutánea necesaria dependiendo de la tarea que se lleve a cabo y de los riesgos implicados. Tales medidas deben ser aprobadas por un especialista antes de proceder a la manipulación de este producto.                                                                                                                                                                                                                                                                                                                                                                                                                              |\n| Protección respiratoria :         | Basándose en la evaluación de los riesgos y la exposición, seleccionar un respirador que satisfaga los estándares o certificaciones apropiados. Los respiradores deben usarse de conformidad con un programa de protección respiratoria para asegurar su adecuación, formación y otros aspectos del buen uso. Llevar un respirador conforme a la norma EN140 con filtro de tipo A/P2 o mejor. El lijado en seco, el cortado con llama y/o el soldado de películas secas de pintura producirá polvo y/o humos nocivos. Un lijado o matizado húmedos son preferibles si es posible. Si no puede evitarse la exposición por la ventilación de extracción debe usarse adecuado equipo de protección respiratoria. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 9,
+  "bbox_pt": [
+   169.7393035888672,
+   179.5214385986328,
+   499.70745849609375,
+   282.29644775390625
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente                                     | Presión de vapor a 20 ºC - mm Hg   | Presión de vapor a 20 ºC - kPa   | Presión de vapor a 20 ºC - Método   |\n|------------------------------------------------------------|------------------------------------|----------------------------------|-------------------------------------|\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5                          | 0.2 a 0.6                        |                                     |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5                          | 0.2 a 0.6                        |                                     |\n| disolvente de Stoddard                                     | 0.75 a 10.5                        | 0.1 a 1.4                        |                                     |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 9,
+  "bbox_pt": [
+   24.680797576904297,
+   329.5721435546875,
+   545.1025390625,
+   363.5114440917969
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 9,
+  "bbox_pt": [
+   24.943927764892578,
+   419.6810607910156,
+   383.28729248046875,
+   502.90777587890625
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente                                     | °C        | °F        |\n|------------------------------------------------------------|-----------|-----------|\n| disolvente de Stoddard                                     | 230 a 240 | 446 a 464 |\n| nafta disolvente (petróleo), fracción alifática intermedia | >220      | >428      |\n| nafta disolvente (petróleo), fracción alifática intermedia | >220      | >428      |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 10,
+  "bbox_pt": [
+   22.10396385192871,
+   250.78280639648438,
+   544.967041015625,
+   637.8919067382812
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                                                                   | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                       | Especies                                                                                                                                                          | Dosis                                                                                                                                                                                                                                                                                               | Exposición                                                            |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n| gasolina ácidos grasos, aceite de resina anhídrido ftalico bis(ortofosfato) de tricinc ligroína benceno bis(2-etilhexanoato) de cobalto tetraóxido de bario y diboro butanona-oxima | DL50 Oral DL50 Oral DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Rectal DL50 Intraperitoneal DL50 Intraperitoneal CL50 Por inhalación Gas. DL50 Intravenosa CL50 Por inhalación Gas. DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Cutánea DL50 Oral DL50 Oral DL50 Oral DL50 Cutánea DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Subcutánea DL50 Subcutánea | Rata Rata Cobaya Ratón Rata Ratón Ratón Rata Rata Ratón Rata Ratón Ratón Rata Ratón Rata Rata Rata Rata Conejo Rata Ratón Rata Conejo Ratón Ratón Rata Ratón Rata | 13.6 g/kg >10000 mg/kg 100 mg/kg 1500 mg/kg 1530 mg/kg 400 mg/kg 552 mg/kg 551 mg/kg 3400 ppm 40 mg/kg 10000 ppm 48 mg/kg 340 mg/kg 1100 µg/kg 4700 mg/kg 1 mL/kg 930 mg/kg 1800 mg/kg 6400 mg/kg >5 g/kg 1.22 g/kg 640 mg/kg 3800 mg/kg 200 uL/kg 200 mg/kg 1 g/kg 930 mg/kg 2700 mg/kg 2702 mg/kg | - - - - - - - - 4 horas - 7 horas - - - - - - - - - - - - - - - - - - |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   21.701526641845703,
+   654.626953125,
+   545.249755859375,
+   789.2599487304688
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                 | Especies   | Puntuación   | Exposición      | Observación   |\n|-------------------------------------|---------------------------|------------|--------------|-----------------|---------------|\n| disolvente de Stoddard              | Ojos - Irritante moderado | Conejo     | -            | 24 horas 500 mg | -             |\n| anhídrido ftalico                   | Ojos - Irritante moderado | Conejo     | -            | 24 horas 50 mg  | -             |\n| benceno                             | Ojos - Irritante moderado | Conejo     | -            | 88 mg           | -             |\n|                                     | Ojos - Muy irritante      | Conejo     | -            | 24 horas 2 mg   | -             |\n|                                     | Piel - Irritante leve     | Conejo     | -            | 24 horas 15 mg  | -             |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 11,
+  "bbox_pt": [
+   20.89298439025879,
+   75.52355194091797,
+   545.979248046875,
+   124.44287872314453
+  ],
+  "filas": 1,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| butanona-oxima   | Piel - Irritante leve Piel - Irritante moderado Ojos - Muy irritante   | Rata Conejo Conejo   | - - -   | 8 horas 60 Ul 24 horas 20 mg 100 Ul   | - - -   |\n|------------------|------------------------------------------------------------------------|----------------------|---------|---------------------------------------|---------|"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 11,
+  "bbox_pt": [
+   27.356260299682617,
+   246.0303192138672,
+   545.0789184570312,
+   292.0523986816406
+  ],
+  "filas": 3,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | IARC   |\n|-------------------------------------|--------|\n| benceno                             | 1      |\n| bis(2-etilhexanoato) de cobalto     | 2B     |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 11,
+  "bbox_pt": [
+   22.09623146057129,
+   378.6767272949219,
+   544.9641723632812,
+   481.8307800292969
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                    | Categoría                                       | Vía de exposición   | Órganos destino                                                                                         |\n|-------------------------------------------|-------------------------------------------------|---------------------|---------------------------------------------------------------------------------------------------------|\n| gasolina anhídrido ftalico butanona-oxima | Categoría 3 Categoría 3 Categoría 1 Categoría 3 | - - -               | Efectos narcóticos Irritación de las vías respiratorias tracto respiratorio superior Efectos narcóticos |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 11,
+  "bbox_pt": [
+   22.13875389099121,
+   499.09454345703125,
+   545.083251953125,
+   602.0534057617188
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                     | Categoría   | Vía de exposición   | Órganos destino                |\n|------------------------------------------------------------|-------------|---------------------|--------------------------------|\n| nafta disolvente (petróleo), fracción alifática intermedia | Categoría 1 | -                   | sistema nervioso central (SNC) |\n| disolvente de Stoddard                                     | Categoría 1 | inhalación          | sistema nervioso central (SNC) |\n| benceno                                                    | Categoría 1 | -                   | -                              |\n| butanona-oxima                                             | Categoría 2 | -                   | sistema sanguíneo              |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 11,
+  "bbox_pt": [
+   21.87897491455078,
+   619.0499877929688,
+   545.1964111328125,
+   710.5005493164062
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                                                                                 | Resultado                                                                                                                                                                                                                     |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| nafta disolvente (petróleo), fracción alifática intermedia nafta disolvente (petróleo), fracción alifática intermedia gasolina disolvente de Stoddard ligroína benceno | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 11,
+  "bbox_pt": [
+   13.359522819519043,
+   790.1146850585938,
+   547.9806518554688,
+   824.7052612304688
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Fecha de emisión/Fecha de revisión   | : 2-5-2024                   | Versión   | : 1   |\n|--------------------------------------|------------------------------|-----------|-------|\n| Fecha de la emisión anterior         | : No hay validación anterior | 11/17     |       |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 13,
+  "bbox_pt": [
+   21.262739181518555,
+   76.62693786621094,
+   545.1740112304688,
+   214.68914794921875
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                                   | Oral (mg/ kg)   | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| Producto tal y como suministrado nafta disolvente (petróleo), fracción alifática intermedia gasolina anhídrido ftalico tetraóxido de bario y diboro | 28990.7 N/A     | 14610.9 1100 N/A  | N/A N/A N/A N/A N/A        | 146.1 11                      | N/A N/A                                |\n|                                                                                                                                                     | 13600           |                   |                            | N/A                           | N/A                                    |\n|                                                                                                                                                     | 500             | N/A               |                            | N/A                           | N/A                                    |\n|                                                                                                                                                     | 100             | N/A               |                            | N/A                           | 1.5                                    |\n| butanona-oxima                                                                                                                                      | 100             | 1100              | N/A                        | N/A                           | N/A                                    |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 13,
+  "bbox_pt": [
+   16.826683044433594,
+   287.4982604980469,
+   545.233154296875,
+   788.0458374023438
+  ],
+  "filas": 21,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                            | Especies                                                                        | Exposición                                                                                                                                                                                   |\n|-------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| anhídrido ftalico                   | Agudo EC50 4140 µg/l Agua fresca                                     | Algas - Pseudokirchneriella subcapitata Algas - Pseudokirchneriella subcapitata | 96 horas 96 horas 96 horas 96 horas 72 horas 96 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 96 horas |\n|                                     | Agudo EC50 78530 µg/l Agua fresca                                    |                                                                                 |                                                                                                                                                                                              |\n|                                     | Agudo EC50 147 µg/l Agua fresca                                      | Algas - Pseudokirchneriella subcapitata                                         |                                                                                                                                                                                              |\n| bis(ortofosfato) de tricinc benceno | Agudo CL50 90 µg/l Agua fresca Agudo EC50 29000 µg/l Agua fresca     | Pescado - Oncorhynchus mykiss Algas - Pseudokirchneriella subcapitata           |                                                                                                                                                                                              |\n|                                     | Agudo EC50 1600000 µg/l Agua fresca Agudo EC50 9.23 mg/l Agua fresca | Algas - Selenastrum sp. Dafnia - Daphnia magna - Neonato                        |                                                                                                                                                                                              |\n|                                     | Agudo EC50 10 mg/l Agua fresca                                       | Dafnia - Daphnia magna - Neonato                                                |                                                                                                                                                                                              |\n|                                     | Agudo EC50 11.73 mg/l Agua fresca                                    | Dafnia - Daphnia magna - Neonato                                                |                                                                                                                                                                                              |\n|                                     | Agudo EC50 10 mg/l Agua fresca                                       | Dafnia - Daphnia magna - Neonato                                                |                                                                                                                                                                                              |\n|                                     | Agudo EC50 10000 µg/l Agua fresca                                    | Dafnia - Daphnia magna - Juvenil (Nuevo, Cría, Destetado)                       |                                                                                                                                                                                              |\n|                                     | Agudo CL50 21 mg/l Agua marina Agudo CL50 42000 µg/l Agua fresca     | Crustáceos - Artemia salina Crustáceos - Gammarus pulex                         |                                                                                                                                                                                              |\n|                                     | Agudo CL50 35 ppm Agua marina                                        | Crustáceos - Palaemonetes pugio - Adulto                                        |                                                                                                                                                                                              |\n|                                     | Agudo CL50 35000 µg/l Agua marina                                    | Crustáceos - Palaemonetes pugio                                                 |                                                                                                                                                                                              |\n|                                     | Agudo CL50 33000 µg/l Agua marina                                    | Crustáceos - Palaemonetes pugio                                                 |                                                                                                                                                                                              |\n|                                     | Agudo CL50 5.8 ul/L Agua marina                                      | Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado)                   |                                                                                                                                                                                              |\n|                                     | Agudo CL50 5.28 ul/L Agua fresca                                     | Pescado - Oncorhynchus gorbuscha - Alevín                                       |                                                                                                                                                                                              |\n|                                     | Agudo CL50 5900 µg/l Agua fresca                                     | Pescado - Oncorhynchus mykiss                                                   |                                                                                                                                                                                              |\n|                                     | Agudo CL50 5300 µg/l Agua fresca                                     | Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado)                |                                                                                                                                                                                              |\n|                                     | Agudo CL50 5.55 ul/L Agua marina                                     | Pescado - Oncorhynchus nerka - Smolt                                            |                                                                                                                                                                                              |\n|                                     | Crónico NOEC 98 mg/l Agua fresca Crónico NOEC 98 mg/l Agua fresca    | Dafnia - Daphnia magna Dafnia - Daphnia magna                                   | 21 días 21 días                                                                                                                                                                              |\n|                                     | Crónico NOEC 1.5 a 5.4 ul/L Agua                                     | Pescado - Morone saxatilis -                                                    | 4 semanas                                                                                                                                                                                    |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 14,
+  "bbox_pt": [
+   15.898446083068848,
+   75.48081970214844,
+   546.4859008789062,
+   181.53195190429688
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| tetraóxido de bario y diboro   | marina Crónico NOEC 3.6 a 8.1 ul/L Agua marina Agudo EC50 20.3 ppm Agua fresca Agudo CL50 151 ppm Agua fresca Agudo CL50 62 ppm Agua fresca Agudo CL50 145 mg/l Agua fresca   | Juvenil (Nuevo, Cría, Destetado) Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Dafnia - Daphnia magna Pescado - Lepomis macrochirus Pescado - Oncorhynchus mykiss Pescado - Rasbora heteromorpha   | 4 semanas 48 horas 96 horas 96 horas 96 horas   |\n|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|\n| butanona-oxima                 | Agudo CL50 843000 µg/l Agua fresca                                                                                                                                            | Pescado - Pimephales promelas                                                                                                                                                                                      | 96 horas                                        |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 14,
+  "bbox_pt": [
+   16.75351905822754,
+   255.8714599609375,
+   545.2420043945312,
+   392.7303466796875
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                             | LogPow                                | FBC                                                | Potencial                               |\n|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------------------|-----------------------------------------|\n| gasolina disolvente de Stoddard anhídrido ftalico bis(ortofosfato) de tricinc ligroína benceno bis(2-etilhexanoato) de cobalto butanona-oxima | 2 a 7 3.16 a 7.06 1.6 - - 2.13 - 0.63 | 10 a 2500 - 3.4 60960 10 a 2500 11 15600 2.5 a 5.8 | alta alta bajo alta alta bajo alta bajo |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 15,
+  "bbox_pt": [
+   15.775152206420898,
+   80.08995819091797,
+   545.1531372070312,
+   297.78179931640625
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - UN   | Marítimo - IMDG   | Aéreo - IATA   |\n|----------------------------------------------------------|------------------|-------------------|----------------|\n| Número ONU                                               | UN1263 UN1263    |                   | UN1263         |\n| Designación oficial de transporte de las Naciones Unidas | PINTURAS         | PINTURAS          | PAINT          |\n| Clase(s) de peligro para el transporte                   | 3                | 3                 | 3              |\n| Grupo de embalaje                                        | III              | III               | III            |\n| Peligros para el medio ambiente                          | No.              | No.               | No.            |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 16,
+  "bbox_pt": [
+   17.024486541748047,
+   469.9202880859375,
+   544.998779296875,
+   630.3645629882812
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Justificación                                                                                                                                                                                                  |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| LÍQUIDOS INFLAMABLES - Categoría 3 IRRITACIÓN CUTÁNEA - Categoría 2 IRRITACIÓN OCULAR - Categoría 2A SENSIBILIZACIÓN RESPIRATORIA - Categoría 1 SENSIBILIZACIÓN CUTÁNEA - Categoría 1 MUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B CARCINOGENICIDAD - Categoría 1A TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 2 TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIONES REPETIDAS - Categoría 2 PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 3 PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 3 | En base a datos de ensayos Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior."
+ }
+]

@@ -1,0 +1,61 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 3,
+  "bbox_pt": [
+   34.36094665527344,
+   129.88612365722656,
+   581.1758422851562,
+   351.6816711425781
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| Nombre del producto o ingrediente Identificadores | % |\n|---|---|\n| Acetato de butilo CAS: 123-86-4 | 10% - 20% |\n| Xileno CAS: 1330-20-7 | 5% - 10% |\n| nafta disolvente (petróleo), fracción aromática ligera CAS: 64742-95-6 | 2% - 5% |\n| Etilbenceno CAS: 100-41-4 | 1% - 5% |\n| sebacato de metilo y 1,2,2,6,6-pentametil-4-piperidilo CAS: 82919-37-7 | 0.25% - 1% |\n| Metacrilato de metilo CAS: 80-62-6 | 0.1% - 1% |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "6 filas; columna ancla 2 (%)",
+  "markdown_original": "| Nombre del producto o ingrediente Identificadores                                                                                                                                                                                                                | %                                                       |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|\n| Acetato de butilo CAS: 123-86-4 Xileno CAS: 1330-20-7 nafta disolvente (petróleo), fracción aromática ligera CAS: 64742-95-6 Etilbenceno CAS: 100-41-4 sebacato de metilo y 1,2,2,6,6-pentametil-4-piperidilo CAS: 82919-37-7 Metacrilato de metilo CAS: 80-62-6 | 10% - 20% 5% - 10% 2% - 5% 1% - 5% 0.25% - 1% 0.1% - 1% |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   33.784175872802734,
+   428.03936767578125,
+   584.4608154296875,
+   734.6597290039062
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 4,
+  "markdown": "| 4.1 Descripción de los primeros auxilios                 |                                                                                                                                                                                          |\n|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Recomendaciones generales:                               | Retirar a la persona de la zona peligrosa. Consultar a un médico. Mostrar esta ficha de seguridad al doctor que esté de servicio.                                                        |\n| Si es inhalado:                                          | Trasladarse a un espacio abierto. Consultar a un médico después de una exposición importante.                                                                                            |\n| En caso de contacto con la piel:                         | Quítese inmediatamente la ropa y zapatos contaminados. Eliminar lavando con jabón y mucha agua. Si los síntomas persisten consultar a un médico.                                         |\n| En caso de contacto con los ojos:                        | Retirar las lentillas. Manténgase el ojo bien abierto mientras se lava. Si persiste la irritación de los ojos, consultar a un especialista.                                              |\n| Por ingestión:                                           | Lavar la boca con agua y después beber agua abundante. No provocar el vómito. No dar leche ni bebidas alcohólicas. Nunca debe administrarse nada por la boca a una persona inconsciente. |\n| 4.2 Principales síntomas y efectos, agudos y retardados: | Riesgo de daño serio a los pulmones (por aspiración). Efectos sensibilizantes Aspiración puede causar edema pulmonar y neumonía. Reacciones alérgicas                                    |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 6,
+  "bbox_pt": [
+   34.66681671142578,
+   166.5748748779297,
+   564.0780029296875,
+   241.7163848876953
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Nombre del producto o ingrediente   | Valores límite de la exposición   | Bases   |\n|-------------------------------------|-----------------------------------|---------|\n| Acetato de n-butilo                 | TWA: 50 ppm                       | ACGIH   |\n| CAS: 123-86-4                       | STEL: 150 ppm.                    | ACGIH   |\n| Xileno                              | TWA: 100 ppm                      | ACGIH   |\n| CAS: 1330-20-7                      | STEL: 150 ppm                     | ACGIH   |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 10,
+  "bbox_pt": [
+   34.76014709472656,
+   67.01300048828125,
+   581.3903198242188,
+   321.5791931152344
+  ],
+  "filas": 9,
+  "columnas": 4,
+  "seccion": 13,
+  "markdown": "| SECCIÓN 14: Información relativa al transporte                | SECCIÓN 14: Información relativa al transporte - ADR/RID-ADN   | SECCIÓN 14: Información relativa al transporte - IMDG   | SECCIÓN 14: Información relativa al transporte - IATA   |\n|---------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|\n| 14.1 Número ONU                                               | UN1263                                                         | UN1263                                                  | UN1263                                                  |\n| 14.2 Designación oficial de transporte de las Naciones Unidas | Pintura                                                        | Pintura                                                 | Pintura                                                 |\n| 14.3 Clase(s) de peligro para el transporte                   | 3                                                              | 3                                                       | 3                                                       |\n| 14.4 Grupo de embalaje                                        | III                                                            | III                                                     | III                                                     |\n| 14.5 Peligros para el medio ambiente                          | No                                                             | No                                                      | No                                                      |\n| 14.6 Información adicional                                    | Previsiones especiales 640(E) Código para túneles (E)          | Emergency schedules (EmS) F-E, S-E                      | -                                                       |\n| Código de clasificación                                       | F1                                                             |                                                         |                                                         |"
+ }
+]

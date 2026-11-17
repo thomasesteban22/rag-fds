@@ -1,0 +1,156 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.08936684832477,
+   252.56195221019755,
+   550.1461112248978,
+   407.5452193641209
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                | Concentración   |\n|------------------|------------------|-----------------------------------------------------------------------------|-----------------|\n| CAS:             | 7732-18-5        | Agua                                                                        | 25 - <50 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención | 10 - <25 %      |\n| CAS:             | 24937-78-8       | Copolimero de etileno-acetato de vinilo                                     | 10 - <25 %      |\n| CAS:             | 1317-65-3        | Piedra caliza                                                               | 10 - <25 %      |\n| CAS:             | 1332-58-7        | Caolin                                                                      | 2.5 - <10 %     |\n| CAS:             | 92704-41-1       | Caolín, calcinado                                                           | 2.5 - <10 %     |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   71.70514568149645,
+   281.718057843931,
+   548.5139792218305,
+   354.04084206189225
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación - Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) - CAS: 13463-67-7   | Valores límite ambientales - TLV-TWA - TLV-STEL   | Valores límite ambientales - 10 mg/m³   |\n|-----------------------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------|\n| Piedra caliza                                                                           | TLV-TWA                                           | 10 mg/m³                                |\n| CAS: 1317-65-3                                                                          | TLV-STEL                                          | 20 mg/m³                                |\n| Caolin                                                                                  | TLV-TWA                                           | 2 mg/m³                                 |\n| CAS: 1332-58-7                                                                          | TLV-STEL                                          |                                         |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.10459209672557,
+   488.1514143541929,
+   548.1190259608327,
+   564.277592640059
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.1232436836806,
+   575.9363680747568,
+   548.1781134565725,
+   642.6177424241017
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                       |\n|------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.4170500060216,
+   677.295903279719,
+   548.0672558020266,
+   745.8593745708691
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                        |\n|-----------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.07795241695123,
+   127.21741054652705,
+   548.2037851136483,
+   248.02995331607917
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                      |\n|------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   86.26862033613577,
+   261.1220674738578,
+   548.2200052105181,
+   317.9878376998357
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   71.82790925301163,
+   553.4749370279561,
+   547.6213250937238,
+   576.4156780324469
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.2480158597191,
+   594.8215220747197,
+   547.8210883920145,
+   618.0405996406898
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   71.39056879338003,
+   100.96159232241519,
+   548.3640347924969,
+   223.15699404465045
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|----------------------------------------------------|-------------------|-------------------|----------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Caolin                                             | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 1332-58-7                                     | DL50 cutánea      | 5100 mg/kg        | Rata     |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Piedra caliza                                      | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 1317-65-3                                     | DL50 cutánea      | No relevante      |          |\n|                                                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   72.1152595499538,
+   277.1017709270849,
+   548.3034838293703,
+   325.90804427411945
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Especie       | Género    |\n|------------------|-------------------|-------------------|---------------|-----------|\n| Caolin           | CL50              | No relevante      |               |           |\n| CAS: 1332-58-7   | CE50              | 1100 mg/L (48 h)  | Daphnia pulex | Crustáceo |\n|                  | CE50              | No relevante      |               |           |"
+ }
+]

@@ -1,0 +1,156 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   72.93502995331016,
+   558.8488094520116,
+   547.9474953875447,
+   597.2326537216077
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación   | Concentración   |\n|------------------|------------------|--------------------------------|-----------------|\n| CAS:             | 13463-67-7       | Dióxido de titanio             | 10 - <25 %      |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   72.65003492419352,
+   444.31822586603226,
+   548.5935552609848,
+   474.28339584821754
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación     | Valores límite ambientales   | Valores límite ambientales   |\n|--------------------|------------------------------|------------------------------|\n| Dióxido de titanio | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 13463-67-7    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   86.69685985795604,
+   603.6048648469974,
+   548.2764706605234,
+   677.4106667764622
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                     | Observaciones                                                                                                                                                                                                      |\n|--------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara con filtro para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 3,
+  "bbox_pt": [
+   86.8922022651826,
+   689.6255662264789,
+   549.6428613772808,
+   765.1323816004954
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPP                           | Observaciones                                                                                                                                                                                       |\n|-------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   86.06275925706697,
+   156.2452995463392,
+   548.2239687680238,
+   221.77551548756207
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                        |\n|-----------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   86.15004898890554,
+   235.7525471130516,
+   547.9069451453703,
+   367.405969487641
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                      |\n|------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 4,
+  "bbox_pt": [
+   86.28752345654789,
+   381.19253702702827,
+   548.034571697056,
+   438.87781989960655
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 4,
+  "bbox_pt": [
+   36.4337561378223,
+   507.04227297241493,
+   557.8874268561242,
+   769.6537949195553
+  ],
+  "filas": 18,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| 9.1   | Información de propiedades físicas y químicas básicas:                                                         | Información de propiedades físicas y químicas básicas:                                                         |\n|-------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n|       | Para completar la información ver la ficha técnica/hoja de especificaciones del producto.                      | Para completar la información ver la ficha técnica/hoja de especificaciones del producto.                      |\n|       | Aspecto físico:                                                                                                | Aspecto físico:                                                                                                |\n|       | Estado físico a 20 ºC:                                                                                         | Líquido                                                                                                        |\n|       | Aspecto:                                                                                                       | Característico                                                                                                 |\n|       | Color:                                                                                                         | Característico                                                                                                 |\n|       | Olor:                                                                                                          | Característico                                                                                                 |\n|       | Umbral olfativo:                                                                                               | No relevante *                                                                                                 |\n|       | Volatilidad:                                                                                                   |                                                                                                                |\n|       | Temperatura de ebullición a presión atmosférica:                                                               | 100 - 2230 ºC                                                                                                  |\n|       | Presión de vapor a 20 ºC:                                                                                      | 2318 Pa                                                                                                        |\n|       | Presión de vapor a 50 ºC:                                                                                      | 12211,76 Pa (12,21 kPa)                                                                                        |\n|       | Tasa de evaporación a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n|       | Caracterización del producto:                                                                                  |                                                                                                                |\n|       | Densidad a 20 ºC:                                                                                              | 1186,3 kg/m³                                                                                                   |\n|       | Densidad relativa a 20 ºC:                                                                                     | 1,194 - 1,22                                                                                                   |\n|       | Viscosidad dinámica a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n|       | *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 5,
+  "bbox_pt": [
+   72.69782628104191,
+   628.5017713127227,
+   548.0723169600724,
+   650.4577792829572
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 5,
+  "bbox_pt": [
+   72.86787814249129,
+   668.5297048681988,
+   547.8821881554111,
+   691.2991853009946
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   45.00887469042068,
+   119.38726525168522,
+   548.7962454940489,
+   172.8262758652785
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------|-------------------|-------------------|----------|\n| Dióxido de titanio | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |"
+ }
+]

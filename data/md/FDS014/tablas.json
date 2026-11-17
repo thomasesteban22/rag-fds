@@ -1,0 +1,30 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   55.92501449584961,
+   272.0833740234375,
+   406.27294921875,
+   353.6544189453125
+  ],
+  "filas": 8,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| COMPOSICIÓN   | % PESO   | NOMBRE             | N° CAS         |\n|---------------|----------|--------------------|----------------|\n| Vehículo      | 1 9.60   | Resina Acrílica    | No Determinado |\n| Pigmentos     | 53.00    | Dióxido de Titanio | 13463-67-7     |\n|               |          | Bentone            | SD2 14808-60-7 |\n|               |          | Talco              | 14807-96-6     |\n| Solventes     | 12.83    | Xileno             | 1330-20-7 9.45 |\n|               |          | Acetona            | 67-64-1 5.12   |\n|               |          | Tolueno            | 108-88-3       |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 2,
+  "bbox_pt": [
+   56.275115966796875,
+   33.75162124633789,
+   556.424072265625,
+   81.81453704833984
+  ],
+  "filas": 1,
+  "columnas": 4,
+  "seccion": 4,
+  "markdown": "| 039   | HOJA DE SEGURIDAD PINTURA ACRÍLICA PARA TRÁFICO   | 2 0 1   | Página 2 de 4   |\n|-------|---------------------------------------------------|---------|-----------------|"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   73.05044569898773,
+   559.0755909072984,
+   547.5576032845927,
+   597.5555900258406
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Identificación   | Nombre químico/clasificación   | Concentración   |\n|------------------|--------------------------------|-----------------|\n| CAS: 13463-67-7  | Dioxido de titanio             | 10 - <25 %      |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   73.03880655992752,
+   444.6817046176792,
+   548.721303768286,
+   474.87804891627076
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación     | Valores límite ambientales   | Valores límite ambientales   |\n|--------------------|------------------------------|------------------------------|\n| Dioxido de titanio | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 13463-67-7    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   87.85425676077006,
+   639.910519735377,
+   548.4309274476327,
+   713.6939912874851
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                   | Observaciones                                                |\n|------------------------------------|-----------------------|--------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes de protección | recomendable la utilización de guantes de protección quimica |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.28601631932611,
+   120.29772385114723,
+   548.5576393322017,
+   187.29568926088598
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                     | Observaciones                                                                                                                                        |\n|-----------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   86.08717324685732,
+   201.02180920091212,
+   548.4188538416921,
+   312.4479517326446
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP                                  | Observaciones                                                                                                                                                                                              |\n|--------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|              | Ropa de trabajo                      | Reemplazar ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable ropa de trabajo para protección química. |\n|              | Calzado de trabajo antideslizamiento | Reemplazar ante cualquier indicio de deterioro.                                                                                                                                                            |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   86.5518088976969,
+   325.85712979350694,
+   548.3204356599334,
+   382.96023654385016
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                      | Medida de emergencia   | Normas                     |\n|------------------------|-----------------------------|------------------------|----------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2002 | Lavaojos               | DIN 12 899 ISO 3864-1:2002 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   72.83498061519342,
+   571.1172163909404,
+   548.0454867246488,
+   593.8236714690654
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   72.69074523311335,
+   611.7940121409218,
+   548.1001228404206,
+   635.0621433227249
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.64400574344917,
+   712.5669783625297,
+   548.2566528729946,
+   763.197082229578
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------|-------------------|-------------------|----------|\n| Dioxido de titanio | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |"
+ }
+]

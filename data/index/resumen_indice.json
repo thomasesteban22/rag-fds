@@ -1,0 +1,10 @@
+{
+  "fragmentos": 3583,
+  "documentos": 101,
+  "chunk_max_chars": 1500,
+  "chunk_overlap_chars": 200,
+  "caracteres_mediana": 1179,
+  "caracteres_max": 1701,
+  "modelo_embeddings": "bge-m3",
+  "segundos_embeddings": 165.2
+}

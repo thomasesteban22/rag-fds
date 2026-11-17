@@ -1,0 +1,268 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   73.19136541276971,
+   206.30404166106086,
+   547.2871667070838,
+   364.1687664084536
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "|      | Identificación   | Nombre químico/clasificación                                | Concentración   |\n|------|------------------|-------------------------------------------------------------|-----------------|\n| CAS: | 25036-25-3       | Copolimero epoxy epicloridrina/Bisfenol A (700 < MW < 1100) | 10 - <25 %      |\n| CAS: | 1330-20-7        | Xileno                                                      | 10 - <25 %      |\n| CAS: | 13463-67-7       | Dioxido de titanio                                          | 2.5 - <10 %     |\n| CAS: | 111-76-2         | 2-butoxietanol                                              | 2.5 - <10 %     |\n| CAS: | 78-83-1          | 2-Metilpropan-1-ol                                          | 2.5 - <10 %     |\n| CAS: | 100-41-4         | Etilbenceno                                                 | 2.5 - <10 %     |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   80.91189523376876,
+   494.493302535467,
+   549.1011345329541,
+   638.6972969109542
+  ],
+  "filas": 11,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Xileno            | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales - 100 ppm   | Valores límite ambientales - 435 mg/m³   |\n|------------------------------------|-----------------------------------------------|----------------------------------------|------------------------------------------|\n| CAS: 1330-20-7                     | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Dioxido de titanio CAS: 13463-67-7 | 8-hour TWA PEL                                |                                        | 15 mg/m³                                 |\n|                                    | Ceiling Values - TWA PEL                      |                                        |                                          |\n| 2-butoxietanol CAS:                | 8-hour TWA PEL                                | 50 ppm                                 | 240 mg/m³                                |\n| 111-76-2                           | Ceiling Values - TWA PEL                      |                                        |                                          |\n| 2-Metilpropan-1-ol                 | 8-hour TWA PEL                                | 100 ppm                                | 300 mg/m³                                |\n| CAS: 78-83-1                       | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Etilbenceno                        | 8-hour TWA PEL                                | 100 ppm                                | 435 mg/m³                                |\n| CAS: 100-41-4                      | Ceiling Values - TWA PEL                      |                                        |                                          |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   81.39531967163087,
+   654.8899931165101,
+   549.0995491099518,
+   763.6433847169128
+  ],
+  "filas": 11,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Xileno - CAS: 1330-20-7   | Valores límite ambientales - TLV-TWA - TLV-STEL   | Valores límite ambientales - 100 ppm - 150 ppm   | Valores límite ambientales   |\n|--------------------------------------------|---------------------------------------------------|--------------------------------------------------|------------------------------|\n| Dioxido de titanio                         | TLV-TWA                                           |                                                  | 10 mg/m³                     |\n| CAS: 13463-67-7                            | TLV-STEL                                          |                                                  |                              |\n| 2-butoxietanol                             | TLV-TWA                                           | 20 ppm                                           |                              |\n| CAS: 111-76-2                              | TLV-STEL                                          |                                                  |                              |\n| 2-Metilpropan-1-ol                         | TLV-TWA                                           | 50 ppm                                           |                              |\n| CAS: 78-83-1                               | TLV-STEL                                          |                                                  |                              |\n| Etilbenceno                                | TLV-TWA                                           | 20 ppm                                           |                              |\n| CAS: 100-41-4                              | TLV-STEL                                          |                                                  |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   71.84973168597126,
+   146.39992158649648,
+   548.9372261856387,
+   228.85015730832936
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación               | BEIs®                  | Determinante                                                | Momento de muestreo   |\n|------------------------------|------------------------|-------------------------------------------------------------|-----------------------|\n| Xileno CAS: 1330-20-7        | 1500 mg/g (Creatinina) | Ácidos metilhipúricos en orina                              | Fin del turno         |\n| 2-butoxietanol CAS: 111-76-2 | 200 mg/g (Creatinina)  | Ácido butoxiacético (BAA) en la orina                       | Fin del turno         |\n| Etilbenceno CAS: 100-41-4    | 150 mg/g (Creatinina)  | Suma de ácido mandélico y ácido fenilglioxílico en la orina | Fin del turno         |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   87.65469164035466,
+   372.96403701890955,
+   548.3090937876862,
+   446.3263735171791
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                      | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara con filtros para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.70608275138292,
+   459.9726135485868,
+   548.0253030702733,
+   533.3028577559011
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                                                                        | Observaciones                                                                                                 |\n|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección química (Material: Polietileno de baja densidad lineal (LLPDE), Tiempo de penetración: > 480 min, Espesor: 0,062 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   84.95470864519977,
+   565.3147349479475,
+   548.4184879748453,
+   634.0762510612287
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas de seguridad | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   85.71526197497478,
+   646.4231803926662,
+   550.6468000045879,
+   722.5287061300753
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                                     | Observaciones                                                                                                                                       |\n|-----------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo | Prenda de protección frente a riesgos químicos, antiestática e ignífuga | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   86.6435118983736,
+   119.69092940305586,
+   548.2803732402214,
+   194.41429019882673
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                              |\n|------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   86.77430167383797,
+   208.23708358945862,
+   548.084146654782,
+   265.32008689898487
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   69.70696389831953,
+   526.8049009809697,
+   548.8924684747274,
+   590.2069434927535
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción - No aplicable   | Contacto con el aire - No aplicable   | Calentamiento - Riesgo de inflamación   | Luz Solar incidencia - Evitar directa   | Humedad - No aplicable         |\n|------------------------------------|---------------------------------------|-----------------------------------------|-----------------------------------------|--------------------------------|\n| Materiales incompatibles:          |                                       |                                         |                                         |                                |\n| Ácidos                             | Agua                                  | Materias comburentes                    | Materias combustibles                   | Otros                          |\n| Evitar ácidos fuertes              | No aplicable                          | Evitar incidencia directa               | No aplicable                            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.51059392225024,
+   708.4269508053741,
+   548.1754914108379,
+   759.2779179675902
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|------------------|-------------------|-------------------|----------|\n| Etilbenceno      | DL50 oral         | 3500 mg/kg        | Rata     |\n| CAS: 100-41-4    | DL50 cutánea      | 15354 mg/kg       | Conejo   |\n|                  | CL50 inhalación   | 17,2 mg/L (4 h)   | Rata     |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 9,
+  "bbox_pt": [
+   35.564917654767136,
+   99.26642077303268,
+   559.4068108926044,
+   283.53987496926493
+  ],
+  "filas": 14,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) - Identificación   | SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) - Toxicidad aguda   | SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) - Toxicidad aguda   | SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) - Género   |\n|--------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------|\n| Xileno CAS: 1330-20-7                                              | DL50 oral                                                           | 2100 mg/kg                                                          | Rata                                                       |\n|                                                                    | DL50 cutánea                                                        | 1100 mg/kg                                                          | Rata                                                       |\n|                                                                    | CL50 inhalación                                                     | 11 mg/L (4 h) (ATEi)                                                |                                                            |\n| 2-Metilpropan-1-ol CAS: 78-83-1                                    | DL50 oral                                                           | 3350 mg/kg                                                          | Rata                                                       |\n|                                                                    | DL50 cutánea                                                        | 2460 mg/kg                                                          | Conejo                                                     |\n|                                                                    | CL50 inhalación                                                     | 24,6 mg/L (4 h)                                                     | Rata                                                       |\n| Dioxido de titanio                                                 | DL50 oral                                                           | 10000 mg/kg                                                         | Rata                                                       |\n| CAS: 13463-67-7                                                    | DL50 cutánea                                                        | 10000 mg/kg                                                         | Conejo                                                     |\n| CAS: 13463-67-7                                                    | CL50 inhalación                                                     | No relevante                                                        |                                                            |\n| 2-butoxietanol CAS: 111-76-2                                       | DL50 oral                                                           | 1200 mg/kg                                                          | Rata                                                       |\n| 2-butoxietanol CAS: 111-76-2                                       | DL50 cutánea                                                        | 3000 mg/kg                                                          | Conejo                                                     |\n| 2-butoxietanol CAS: 111-76-2                                       | CL50 inhalación                                                     | 11 mg/L (4 h) (ATEi)                                                |                                                            |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   72.2658976018509,
+   359.39180449497104,
+   548.084146654782,
+   479.7812140689949
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación     | Concentración   | Concentración    | Especie                         | Género    |\n|--------------------|-----------------|------------------|---------------------------------|-----------|\n| 2-butoxietanol     | CL50            | 1490 mg/L (96 h) | Lepomis macrochirus             | Pez       |\n| CAS: 111-76-2      | CE50            | 1815 mg/L (48 h) | Daphnia magna                   | Crustáceo |\n| CAS: 111-76-2      | CE50            | 911 mg/L (72 h)  | Pseudokirchneriella subcapitata | Alga      |\n| 2-Metilpropan-1-ol | CL50            | 2030 mg/L (96 h) | Carassius auratus               | Pez       |\n| CAS: 78-83-1       | CE50            | 1439 mg/L (48 h) | Daphnia magna                   | Crustáceo |\n| CAS: 78-83-1       | CE50            | 1250 mg/L (48 h) | Scenedesmus subspicatus         | Alga      |\n| Etilbenceno        | CL50            | 42,3 mg/L (96 h) | Pimephales promelas             | Pez       |\n| CAS: 100-41-4      | CE50            | 75 mg/L (48 h)   | Daphnia magna                   | Crustáceo |\n| CAS: 100-41-4      | CE50            | 63 mg/L (3 h)    | Chlorella vulgaris              | Alga      |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 10,
+  "bbox_pt": [
+   72.8715215665062,
+   121.26454987514614,
+   547.8862126907247,
+   183.72568119293715
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación     | Concentración   | Concentración   | Especie            | Género    |\n|--------------------|-----------------|-----------------|--------------------|-----------|\n| 2-Metilpropan-1-ol | NOEC            | No relevante    |                    |           |\n| CAS: 78-83-1       | NOEC            | 20 mg/L         | Daphnia magna      | Crustáceo |\n| Etilbenceno        | NOEC            | No relevante    |                    |           |\n| CAS: 100-41-4      | NOEC            | 0,96 mg/L       | Ceriodaphnia dubia | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   72.96232514451815,
+   198.28513298850157,
+   548.0878663010566,
+   353.9182690342701
+  ],
+  "filas": 13,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Xileno   | Degradabilidad - DBO5   | Degradabilidad - No relevante   | Biodegradabilidad - Concentración   | Biodegradabilidad - No relevante   |\n|---------------------------|-------------------------|---------------------------------|-------------------------------------|------------------------------------|\n| CAS: 1330-20-7            | DQO                     | No relevante                    | Periodo                             | 28 días                            |\n|                           | DBO5/DQO                | No relevante                    | % Biodegradado                      | 88 %                               |\n| 2-butoxietanol            | DBO5                    | 0,71 g O2/g                     | Concentración                       | 100 mg/L                           |\n| CAS: 111-76-2             | DQO                     | 2,2 g O2/g                      | Periodo                             | 14 días                            |\n|                           | DBO5/DQO                | 0,32                            | % Biodegradado                      | 96 %                               |\n| 2-Metilpropan-1-ol        | DBO5                    | 0,4 g O2/g                      | Concentración                       | 100 mg/L                           |\n| CAS: 78-83-1              | DQO                     | 2,41 g O2/g                     | Periodo                             | 14 días                            |\n|                           | DBO5/DQO                | 0,17                            | % Biodegradado                      | 90 %                               |\n| Etilbenceno               | DBO5                    | No relevante                    | Concentración                       | 100 mg/L                           |\n| CAS: 100-41-4             | DQO                     | No relevante                    | Periodo                             | 14 días                            |\n|                           | DBO5/DQO                | No relevante                    | % Biodegradado                      | 90 %                               |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 10,
+  "bbox_pt": [
+   71.89177588443629,
+   368.30906851942916,
+   548.4168415740353,
+   523.8909087598352
+  ],
+  "filas": 13,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación     | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------|-------------------------------|-------------------------------|\n| Xileno             | BCF                           | 9                             |\n| CAS: 1330-20-7     | Log POW                       | 2,77                          |\n|                    | Potencial                     | Bajo                          |\n| 2-butoxietanol     | BCF                           | 3                             |\n| CAS: 111-76-2      | Log POW                       | 0,83                          |\n|                    | Potencial                     | Bajo                          |\n| 2-Metilpropan-1-ol | BCF                           | 3                             |\n| CAS: 78-83-1       | Log POW                       | 0,76                          |\n|                    | Potencial                     | Bajo                          |\n| Etilbenceno        | BCF                           | 1                             |\n| CAS: 100-41-4      | Log POW                       | 3,15                          |\n|                    | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 11,
+  "bbox_pt": [
+   73.09436496504202,
+   120.31929920549908,
+   548.0500600602323,
+   276.7421969408773
+  ],
+  "filas": 13,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Xileno   | Absorción/Desorción - Koc   | Absorción/Desorción - 202   | Volatilidad - Henry   | Volatilidad - 524,86 Pa·m³/mol   |\n|---------------------------|-----------------------------|-----------------------------|-----------------------|----------------------------------|\n| CAS: 1330-20-7            | Conclusión                  | Moderado                    | Suelo seco            | Sí                               |\n|                           | Tensión superficial         | No relevante                | Suelo húmedo          | Sí                               |\n| 2-butoxietanol            | Koc                         | 8                           | Henry                 | 1,621E-1 Pa·m³/mol               |\n| CAS: 111-76-2             | Conclusión                  | Muy Alto                    | Suelo seco            | No                               |\n|                           | Tensión superficial         | 2,729E-2 N/m (25 ºC)        | Suelo húmedo          | Sí                               |\n| 2-Metilpropan-1-ol        | Koc                         | No relevante                | Henry                 | No relevante                     |\n| CAS: 78-83-1              | Conclusión                  | No relevante                | Suelo seco            | No relevante                     |\n|                           | Tensión superficial         | 2,378E-2 N/m (25 ºC)        | Suelo húmedo          | No relevante                     |\n| Etilbenceno               | Koc                         | 520                         | Henry                 | 798,44 Pa·m³/mol                 |\n| CAS: 100-41-4             | Conclusión                  | Moderado                    | Suelo seco            | Sí                               |\n|                           | Tensión superficial         | 2,859E-2 N/m (25 ºC)        | Suelo húmedo          | Sí                               |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 14,
+  "bbox_pt": [
+   36.499006203261004,
+   99.51444201689151,
+   558.9603313840316,
+   302.02268559906656
+  ],
+  "filas": 3,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Ministerio de trabajo de la República de Colombia (https://www.mintrabajo.gov.co). Portal global de información sobre sustancias químicas - e-CHEM-PORTAL. Sistema de información sobre sustancias peligrosas-GESTIS. Agencia Internacional para la Investigación del Cáncer-IARC. Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC).                                                                                                                                                                                                                 |\n| Abreviaturas y acrónimos: IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO: Demanda Química de Oxígeno DBO5: Demanda Biológica de Oxígeno a los 5 días BCF: Factor de bioconcentración DL50: Dosis Letal 50 CL50: Concentración Letal 50 EC50: Concentración Efectiva 50 Log POW: Logaritmo Coeficiente Partición Octanol-Agua Koc: Coeficiente de Partición del Carbono Orgánico IARC: Centro Internacional de Investigaciones sobre el Cáncer |"
+ }
+]

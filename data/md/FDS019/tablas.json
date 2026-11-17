@@ -1,0 +1,198 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   72.65493601549393,
+   647.3444609885318,
+   548.2688484345507,
+   708.1142034984597
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Identificación   | Nombre químico/clasificación                        | Concentración   |\n|------------------|-----------------------------------------------------|-----------------|\n| CAS: 1333-86-4   | Negro de carbon                                     | 1 - <2.5 %      |\n| CAS: 6846-50-0   | Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno | 1 - <2.5 %      |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   73.22084056060586,
+   569.8841646795204,
+   548.4106218376417,
+   599.9930178274848
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación   | Valores límite ambientales   | Valores límite ambientales   |\n|------------------|------------------------------|------------------------------|\n| Negro de carbon  | TLV-TWA                      | 3 mg/m³                      |\n| CAS: 1333-86-4   | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.2304045586298,
+   120.53432823199273,
+   548.4984908586541,
+   194.145440997126
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                   | Observaciones                                                                                                                                                                                                                 |\n|------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes de protección | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable la utilización de guantes de protección quimica |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.9291340135408,
+   227.7915845494939,
+   548.2522624708342,
+   294.6455769866435
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                     | Observaciones                                                                                                                                        |\n|-----------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.51506420980365,
+   307.56058867755803,
+   548.4329397152895,
+   419.58315362418347
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP                                  | Observaciones                                                                                                                                                                                              |\n|--------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|              | Ropa de trabajo                      | Reemplazar ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable ropa de trabajo para protección química. |\n|              | Calzado de trabajo antideslizamiento | Reemplazar ante cualquier indicio de deterioro.                                                                                                                                                            |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   86.80514120012323,
+   433.32277246035756,
+   548.163234871474,
+   490.71089658179926
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   36.40112157732049,
+   104.39730543992869,
+   558.559768164718,
+   530.3411541820535
+  ],
+  "filas": 28,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Caracterización del producto:                                                         | Caracterización del producto:                                 |\n|---------------------------------------------------------------------------------------|---------------------------------------------------------------|\n| Densidad a 20 ºC:                                                                     | 1267,3 kg/m³                                                  |\n| Densidad relativa a 20 ºC:                                                            | 1,162 - 1,189                                                 |\n| Viscosidad dinámica a 20 ºC:                                                          | No relevante *                                                |\n| Viscosidad cinemática a 20 ºC:                                                        | No relevante *                                                |\n| Viscosidad cinemática a 40 ºC:                                                        | No relevante *                                                |\n| Concentración:                                                                        | No relevante *                                                |\n| pH:                                                                                   | 8,5 - 9,5                                                     |\n| Densidad de vapor a 20 ºC:                                                            | No relevante *                                                |\n| Coeficiente de reparto n-octanol/agua a 20 ºC:                                        | No relevante *                                                |\n| Solubilidad en agua a 20 ºC:                                                          | No relevante *                                                |\n| Propiedad de solubilidad:                                                             | No relevante *                                                |\n| Temperatura de descomposición:                                                        | No relevante *                                                |\n| Punto de fusión/punto de congelación:                                                 | No relevante *                                                |\n| Propiedades explosivas:                                                               | No relevante *                                                |\n| Propiedades comburentes:                                                              | No relevante *                                                |\n| Inflamabilidad:                                                                       | Inflamabilidad:                                               |\n| Punto de inflamación:                                                                 | No inflamable (>93 ºC)                                        |\n| Inflamabilidad (sólido, gas):                                                         | No relevante *                                                |\n| Temperatura de auto-inflamación:                                                      | 220 ºC                                                        |\n| Límite de inflamabilidad inferior:                                                    | No relevante *                                                |\n| Límite de inflamabilidad superior:                                                    | No relevante *                                                |\n| Explosividad:                                                                         | Explosividad:                                                 |\n| Límite inferior de explosividad:                                                      | No relevante *                                                |\n| Límite superior de explosividad:                                                      | No relevante *                                                |\n| 9.2 Información adicional:                                                            | 9.2 Información adicional:                                    |\n| Tensión superficial a 20 ºC:                                                          | No relevante *                                                |\n| Índice de refracción: *No relevante debido a la naturaleza del producto, no aportando | No relevante * información característica de su peligrosidad. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   72.82979750153203,
+   684.7934800071444,
+   547.887798113727,
+   707.3592415055299
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 5,
+  "bbox_pt": [
+   72.84860915523248,
+   725.482844220884,
+   548.1295141437711,
+   747.9523288464036
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   72.69010496613164,
+   215.64959439166648,
+   548.1687228741743,
+   265.7688603706994
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                      | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|-----------------------------------------------------|-------------------|-------------------|----------|\n| Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno | DL50 oral         | 3200 mg/kg        | Rata     |\n| CAS: 6846-50-0                                      | DL50 cutánea      | No relevante      |          |\n| CAS: 6846-50-0                                      | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   71.98658875330983,
+   331.1747796964305,
+   548.147075752412,
+   416.33783595431726
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                      | Toxicidad aguda   | Toxicidad aguda      | Especie           | Género    |\n|-----------------------------------------------------|-------------------|----------------------|-------------------|-----------|\n| Negro de carbon                                     | CL50              | 1000 mg/L (96 h)     | Brachydanio rerio | Pez       |\n| CAS: 1333-86-4                                      | CE50              | 5600 mg/L (24 h)     | Daphnia magna     | Crustáceo |\n|                                                     | CE50              | No relevante         |                   |           |\n| Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno | CL50              | 10 - 100 mg/L (96 h) |                   | Pez       |\n| CAS: 6846-50-0                                      | CE50              | 10 - 100 mg/L        |                   | Crustáceo |\n|                                                     | CE50              | 10 - 100 mg/L        |                   | Alga      |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 7,
+  "bbox_pt": [
+   72.90071469198138,
+   430.3284884998747,
+   548.3632420809957,
+   480.0101919548415
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                      | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|-----------------------------------------------------|------------------|------------------|---------------------|---------------------|\n| Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 6846-50-0                                      | DQO              | No relevante     | Periodo             | 28 días             |\n|                                                     | DBO5/DQO         | No relevante     | % Biodegradado      | 39 %                |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 7,
+  "bbox_pt": [
+   73.06982901963612,
+   493.98769642302085,
+   548.3034838293703,
+   543.8637839825193
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                      | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|-----------------------------------------------------|-------------------------------|-------------------------------|\n| Diisobutirato de 1-isopropil-2,2-dimetiltrimetileno | BCF                           | 1                             |\n| CAS: 6846-50-0                                      | Log POW                       | 4,1                           |\n|                                                     | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   36.300999828057,
+   99.4349815654981,
+   558.9191713637795,
+   302.20858904115937
+  ],
+  "filas": 2,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) IARC:Agencia Internacional para la Investigación sobre Cáncer OSHA:Occupational Safety and Health Administration, U.S Department of Labor NTP:National Toxicology Program TOXNET: Toxicology data network Abreviaturas y acrónimos: IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico |"
+ }
+]

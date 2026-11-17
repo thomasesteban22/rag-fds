@@ -1,0 +1,282 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.53736114501953,
+   272.28900146484375,
+   547.9038696289062,
+   426.1286315917969
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                       | Concentración   |\n|------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 123-86-4         | Acetato de n-butilo Liq. Infl. 3: H226; STOT única 3: H336 - Atención                                                              | 10 - <25 %      |\n| CAS:             | 141-78-6         | Acetato de etilo Irrit. oc. 2: H319; Liq. Infl. 2: H225; STOT única 3: H336; Tox. Agud. 5: H303 - Peligro                          | 10 - <25 %      |\n| CAS:             | 9003-01-4        | Acido poliacrilico Tox. Agud. 5: H303; Tox. Agud. 5: H313                                                                          | 10 - <25 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención                                                        | <2 %            |\n| CAS:             | 111-76-2         | 2-butoxietanol Irrit. Cut. 2: H315; Irrit. oc. 2: H319; Liq. Infl. 4: H227; Tox. Agud. 4: H302+H332; Tox. Agud. 5: H313 - Atención | <2 %            |\n| CAS:             | 1333-86-4        | Negro de carbon Carc. 2: H351 - Atención                                                                                           | <2 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   81.79109191894531,
+   442.4192199707031,
+   548.6701049804688,
+   586.0280151367188
+  ],
+  "filas": 11,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Acetato de n-butilo               | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales - 150 ppm   | Valores límite ambientales - 710 mg/m³   |\n|----------------------------------------------------|-----------------------------------------------|----------------------------------------|------------------------------------------|\n| CAS: 123-86-4                                      | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Acetato de etilo                                   | 8-hour TWA PEL                                | 400 ppm                                | 1400 mg/m³                               |\n| CAS: 141-78-6                                      | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | 8-hour TWA PEL                                |                                        | 15 mg/m³                                 |\n| CAS: 13463-67-7                                    | Ceiling Values - TWA PEL                      |                                        |                                          |\n| 2-butoxietanol                                     | 8-hour TWA PEL                                | 50 ppm                                 | 240 mg/m³                                |\n| CAS: 111-76-2                                      | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Negro de carbon                                    | 8-hour TWA PEL                                |                                        | 3.5 mg/m³                                |\n| CAS: 1333-86-4                                     | Ceiling Values - TWA PEL                      |                                        |                                          |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   83.14513397216797,
+   603.77783203125,
+   548.822509765625,
+   711.055419921875
+  ],
+  "filas": 11,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Acetato de n-butilo               | Valores límite ambientales - TLV-TWA   | Valores límite ambientales - 20 ppm   | Valores límite ambientales   |\n|----------------------------------------------------|----------------------------------------|---------------------------------------|------------------------------|\n| CAS: 123-86-4                                      | TLV-STEL                               |                                       |                              |\n| Acetato de etilo                                   | TLV-TWA                                | 150 ppm                               |                              |\n| CAS: 141-78-6                                      | TLV-STEL                               |                                       |                              |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | TLV-TWA                                |                                       | 10 mg/m³                     |\n| CAS: 13463-67-7                                    | TLV-STEL                               |                                       |                              |\n| 2-butoxietanol                                     | TLV-TWA                                | 20 ppm                                |                              |\n| CAS: 111-76-2                                      | TLV-STEL                               |                                       |                              |\n| Negro de carbon                                    | TLV-TWA                                |                                       | 3 mg/m³                      |\n| CAS: 1333-86-4                                     | TLV-STEL                               |                                       |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   72.60091400146484,
+   741.6307373046875,
+   549.5638427734375,
+   774.1897583007812
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación               | BEIs®                 | Determinante                          | Momento de muestreo   |\n|------------------------------|-----------------------|---------------------------------------|-----------------------|\n| 2-butoxietanol CAS: 111-76-2 | 200 mg/g (Creatinina) | Ácido butoxiacético (BAA) en la orina | Fin del turno         |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   86.7085952758789,
+   266.4943542480469,
+   548.4282836914062,
+   339.29132080078125
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                                     | Observaciones                                                                                                                                                                                         |\n|--------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores y partículas | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851, NTC 3763 y NTC 1728. Reemplazar cuando se note un aumento de la resistencia a la respiración y/o se detecte el olor o el sabor del contaminante. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.03129577636719,
+   352.852783203125,
+   548.5006713867188,
+   425.83074951171875
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                                                                        | Observaciones                                                                                                 |\n|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección química (Material: Polietileno de baja densidad lineal (LLPDE), Tiempo de penetración: > 480 min, Espesor: 0.062 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   86.34501647949219,
+   460.3836975097656,
+   548.2506103515625,
+   525.9847412109375
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.39994812011719,
+   540.4977416992188,
+   548.3248901367188,
+   671.5706176757812
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                                                       |\n|------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                          |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 5,
+  "bbox_pt": [
+   86.82444763183594,
+   686.0484008789062,
+   548.015869140625,
+   742.58642578125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   72.45025634765625,
+   428.0741271972656,
+   547.7686767578125,
+   450.2185974121094
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   73.11605072021484,
+   468.2931213378906,
+   547.7684326171875,
+   506.0754699707031
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                                                          |\n|-----------------------|--------------|---------------------------|-------------------------|----------------------------------------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes. Puede reaccionar violentamente |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.54766082763672,
+   673.4608764648438,
+   548.5859985351562,
+   762.4945068359375
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación      | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|---------------------|-------------------|-------------------|----------|\n| Acido poliacrilico  | DL50 oral         | 2500 mg/kg        | Rata     |\n| CAS: 9003-01-4      | DL50 cutánea      | 3000 mg/kg        | Conejo   |\n|                     | CL50 inhalación   | No relevante      |          |\n| Acetato de n-butilo | DL50 oral         | 12789 mg/kg       | Rata     |\n| CAS: 123-86-4       | DL50 cutánea      | 14112 mg/kg       | Conejo   |\n|                     | CL50 inhalación   | 23.4 mg/L (4 h)   | Rata     |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 9,
+  "bbox_pt": [
+   72.43608856201172,
+   120.28211975097656,
+   547.7866821289062,
+   243.58700561523438
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda      | Género   |\n|----------------------------------------------------|-------------------|----------------------|----------|\n| Acetato de etilo                                   | DL50 oral         | 4100 mg/kg           | Rata     |\n| CAS: 141-78-6                                      | DL50 cutánea      | 20000 mg/kg          | Conejo   |\n|                                                    | CL50 inhalación   | No relevante         |          |\n| 2-butoxietanol                                     | DL50 oral         | 1200 mg/kg           | Rata     |\n| CAS: 111-76-2                                      | DL50 cutánea      | 3000 mg/kg           | Conejo   |\n|                                                    | CL50 inhalación   | 11 mg/L (4 h) (ATEi) |          |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg          | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg          | Conejo   |\n|                                                    | CL50 inhalación   | No relevante         |          |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   72.70072937011719,
+   322.88140869140625,
+   548.0886840820312,
+   514.6035766601562
+  ],
+  "filas": 16,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Concentración   | Concentración    | Especie                         | Género    |\n|---------------------|-----------------|------------------|---------------------------------|-----------|\n| Acetato de n-butilo | CL50            | No relevante     |                                 |           |\n| CAS: 123-86-4       | CE50            | No relevante     |                                 |           |\n|                     | CE50            | 675 mg/L (72 h)  | Scenedesmus subspicatus         | Alga      |\n| Acetato de etilo    | CL50            | 230 mg/L (96 h)  | Pimephales promelas             | Pez       |\n| CAS: 141-78-6       | CE50            | 717 mg/L (48 h)  | Daphnia magna                   | Crustáceo |\n|                     | CE50            | 3300 mg/L (48 h) | Scenedesmus subspicatus         | Alga      |\n| Acido poliacrilico  | CL50            | 580 mg/L (96 h)  | Lepomis macrochirus             | Pez       |\n| CAS: 9003-01-4      | CE50            | No relevante     |                                 |           |\n|                     | CE50            | No relevante     |                                 |           |\n| 2-butoxietanol      | CL50            | 1490 mg/L (96 h) | Lepomis macrochirus             | Pez       |\n| CAS: 111-76-2       | CE50            | 1815 mg/L (48 h) | Daphnia magna                   | Crustáceo |\n|                     | CE50            | 911 mg/L (72 h)  | Pseudokirchneriella subcapitata | Alga      |\n| Negro de carbon     | CL50            | 1000 mg/L (96 h) | Brachydanio rerio               | Pez       |\n| CAS: 1333-86-4      | CE50            | 5600 mg/L (24 h) | Daphnia magna                   | Crustáceo |\n|                     | CE50            | No relevante     |                                 |           |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 9,
+  "bbox_pt": [
+   73.0328369140625,
+   528.5198364257812,
+   548.9083862304688,
+   568.8598022460938
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Concentración   | Concentración   | Especie       | Género    |\n|---------------------|-----------------|-----------------|---------------|-----------|\n| Acetato de n-butilo | NOEC            | No relevante    |               |           |\n| CAS: 123-86-4       | NOEC            | 23.2 mg/L       | Daphnia magna | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   72.6523666381836,
+   121.33983612060547,
+   547.8927612304688,
+   183.43983459472656
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Concentración   | Concentración   | Especie             | Género    |\n|------------------|-----------------|-----------------|---------------------|-----------|\n| Acetato de etilo | NOEC            | 9.65 mg/L       | Pimephales promelas | Pez       |\n| CAS: 141-78-6    | NOEC            | 2.4 mg/L        | Daphnia magna       | Crustáceo |\n| 2-butoxietanol   | NOEC            | 100 mg/L        | Danio rerio         | Pez       |\n| CAS: 111-76-2    | NOEC            | 100 mg/L        | Daphnia magna       | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 10,
+  "bbox_pt": [
+   72.77777099609375,
+   198.2283935546875,
+   547.7777099609375,
+   318.19537353515625
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Acetato de n-butilo CAS: 123-86-4   | Degradabilidad - DBO5   | Degradabilidad - No relevante   | Biodegradabilidad - Concentración   | Biodegradabilidad - No relevante   |\n|------------------------------------------------------|-------------------------|---------------------------------|-------------------------------------|------------------------------------|\n|                                                      | DQO                     | No relevante                    | Periodo                             | 5 días                             |\n|                                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 84 %                               |\n| Acetato de etilo                                     | DBO5                    | 1.36 g O2/g                     | Concentración                       | 100 mg/L                           |\n| CAS: 141-78-6                                        | DQO                     | 1.69 g O2/g                     | Periodo                             | 14 días                            |\n|                                                      | DBO5/DQO                | 0.8                             | % Biodegradado                      | 83 %                               |\n| 2-butoxietanol                                       | DBO5                    | 0.71 g O2/g                     | Concentración                       | 100 mg/L                           |\n| CAS: 111-76-2                                        | DQO                     | 2.2 g O2/g                      | Periodo                             | 14 días                            |\n|                                                      | DBO5/DQO                | 0.32                            | % Biodegradado                      | 96 %                               |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 10,
+  "bbox_pt": [
+   72.68280029296875,
+   333.2562561035156,
+   548.267333984375,
+   452.6610412597656
+  ],
+  "filas": 10,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación      | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|---------------------|-------------------------------|-------------------------------|\n| Acetato de n-butilo | BCF                           | 4                             |\n| CAS: 123-86-4       | Log POW                       | 1.78                          |\n|                     | Potencial                     | Bajo                          |\n| Acetato de etilo    | BCF                           | 30                            |\n| CAS: 141-78-6       | Log POW                       | 0.73                          |\n|                     | Potencial                     | Moderado                      |\n| 2-butoxietanol      | BCF                           | 3                             |\n| CAS: 111-76-2       | Log POW                       | 0.83                          |\n|                     | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 10,
+  "bbox_pt": [
+   72.85633087158203,
+   468.018310546875,
+   549.1279296875,
+   553.9461669921875
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Acetato de n-butilo   | Absorción/Desorción - Koc   | Absorción/Desorción - No relevante   | Volatilidad - Henry   | Volatilidad - No relevante   |\n|----------------------------------------|-----------------------------|--------------------------------------|-----------------------|------------------------------|\n| CAS: 123-86-4                          | Conclusión                  | No relevante                         | Suelo seco            | No relevante                 |\n|                                        | Tensión superficial         | 2.478E-2 N/m (25 ºC)                 | Suelo húmedo          | No relevante                 |\n| Acetato de etilo                       | Koc                         | 59                                   | Henry                 | 13.58 Pa·m³/mol              |\n| CAS: 141-78-6                          | Conclusión                  | Muy Alto                             | Suelo seco            | Sí                           |\n|                                        | Tensión superficial         | 2.324E-2 N/m (25 ºC)                 | Suelo húmedo          | Sí                           |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 11,
+  "bbox_pt": [
+   72.89285278320312,
+   120.8797836303711,
+   547.721435546875,
+   170.82737731933594
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad        |\n|------------------|-----------------------|-----------------------|---------------|--------------------|\n| 2-butoxietanol   | Koc                   | 8                     | Henry         | 1.621E-1 Pa·m³/mol |\n| CAS: 111-76-2    | Conclusión            | Muy Alto              | Suelo seco    | No                 |\n|                  | Tensión superficial   | 2.729E-2 N/m (25 ºC)  | Suelo húmedo  | Sí                 |"
+ }
+]

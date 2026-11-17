@@ -1,0 +1,216 @@
+[
+  {
+    "id": "D01",
+    "respondible": true,
+    "pregunta": "¿Qué medios de extinción se recomiendan para la Pintura Total de Corona?",
+    "respuesta": "Según la FDS del producto PINTURA TOTAL de Corona, versión 7 [4], se recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) en caso de inflamación como consecuencia de manipulación, almacenamiento o uso indebido [1].",
+    "insuficiente": false,
+    "filtro": "fichas FDS049, FDS076",
+    "similitud_max": 0.6711,
+    "similitudes": [
+      0.6682,
+      0.6711,
+      0.5652,
+      0.5628,
+      0.5559,
+      0.5465
+    ],
+    "fuentes": [
+      "[1] Corona · PINTURA TOTAL · FDS049 (FDS 49 - PINTURA TOTAL - CORONA .pdf) · versión 7 (sustituye a 6), fecha 26/10/2021 · pág. 2-3 · sección 5: Medidas de lucha contra incendios",
+      "[4] Corona · PINTURA TOTAL · FDS049 (FDS 49 - PINTURA TOTAL - CORONA .pdf) · versión 7 (sustituye a 6), fecha 26/10/2021 · pág. 1 · sección 1: Identificación del producto y del proveedor"
+    ],
+    "advertencias": [
+      "citas [1] agregadas automáticamente: respaldan la oración mejor que la cita del modelo"
+    ]
+  },
+  {
+    "id": "D02",
+    "respondible": true,
+    "pregunta": "¿Cuál es la densidad del SIGMADUR ONE BUFF 3142 de PPG?",
+    "respuesta": "Según la FDS del producto SIGMADUR ONE BUFF 3142 de PPG (versión 8), la densidad relativa es 1.12 [1].",
+    "insuficiente": false,
+    "filtro": "fichas FDS065",
+    "similitud_max": 0.7538,
+    "similitudes": [
+      0.678,
+      0.7538,
+      0.7078,
+      0.7054,
+      0.6847,
+      0.6807
+    ],
+    "fuentes": [
+      "[1] PPG · SIGMADUR ONE BUFF 3142 · FDS065 (FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf) · versión 8, fecha 1 Marzo 2022 · pág. 8 · sección 9: Propiedades físicas y químicas"
+    ],
+    "advertencias": []
+  },
+  {
+    "id": "D03",
+    "respondible": true,
+    "pregunta": "¿Qué indicaciones de peligro tiene el Vinicryl de Invesa?",
+    "respuesta": "Según la FDS del producto Vinicryl (versión 1) [1], no se clasifica como peligroso según el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA) [1]. Además, no se cumplen los criterios de clasificación para peligros específicos como la toxicidad en la piel, la respiración y la ingestión [3][5]. Sin embargo, se indica que el Dióxido de Titanio, con CAS 13463-67-7, es considerado un posible carcinógeno humano (grupo 2B) según la IARC [3].",
+    "insuficiente": false,
+    "filtro": "fichas FDS040",
+    "similitud_max": 0.697,
+    "similitudes": [
+      0.6765,
+      0.6325,
+      0.6407,
+      0.6282,
+      0.697,
+      0.6869
+    ],
+    "fuentes": [
+      "[1] Invesa · HS-P-P-007 - Vinicryl · FDS040 (FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf) · versión 1, fecha 29/10/2020 · pág. 1 · sección 2: Identificación del peligro o peligros",
+      "[3] Invesa · HS-P-P-007 - Vinicryl · FDS040 (FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf) · versión 1, fecha 29/10/2020 · pág. 7 · sección 11: Información toxicológica",
+      "[5] Invesa · HS-P-P-007 - Vinicryl · FDS040 (FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf) · versión 1, fecha 29/10/2020 · pág. 6 · sección 11: Información toxicológica"
+    ],
+    "advertencias": []
+  },
+  {
+    "id": "D04",
+    "respondible": true,
+    "pregunta": "¿Qué número CAS tiene el componente principal del Catalizador Duraglass de Tecnidecor?",
+    "respuesta": "Según la FDS del producto CATALIZADOR DURAGLASS de Tecnidecor, el componente principal tiene un número CAS de 28182-81-2 [1].",
+    "insuficiente": false,
+    "filtro": "fichas FDS004",
+    "similitud_max": 0.6805,
+    "similitudes": [
+      0.6805,
+      0.6634,
+      0.6714,
+      0.6616,
+      0.6205,
+      0.6171
+    ],
+    "fuentes": [
+      "[1] Tecnidecor · CATALIZADOR DURAGLASS · FDS004 (FDS 4 -catalizador-duraglass.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 1 · sección 3: Composición / información sobre los componentes"
+    ],
+    "advertencias": []
+  },
+  {
+    "id": "D05",
+    "respondible": true,
+    "pregunta": "¿Qué materiales incompatibles indica la FDS del DIMETCOTE 302H GREEN RESIN de PPG?",
+    "respuesta": "Según la FDS del DIMETCOTE 302H GREEN RESIN de PPG, los materiales incompatibles son: agentes oxidantes, bases fuertes, ácidos fuertes [4] [2].",
+    "insuficiente": false,
+    "filtro": "fichas FDS047",
+    "similitud_max": 0.7435,
+    "similitudes": [
+      0.7194,
+      0.6779,
+      0.6938,
+      0.648,
+      0.6185,
+      0.625
+    ],
+    "fuentes": [
+      "[2] PPG · DIMETCOTE 302H GREEN RESIN · FDS047 (FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf) · versión 5.01, fecha 29 Diciembre 2021 · pág. 8 · sección 10: Estabilidad y reactividad",
+      "[4] PPG · DIMETCOTE 302H GREEN RESIN · FDS047 (FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf) · versión 5.01, fecha 29 Diciembre 2021 · pág. 5 · sección 7: Manipulación y almacenamiento"
+    ],
+    "advertencias": [
+      "citas [2] agregadas automáticamente: respaldan la oración mejor que la cita del modelo"
+    ]
+  },
+  {
+    "id": "D06",
+    "respondible": true,
+    "pregunta": "Compara el pH de la Pintura Exteriores de Corona en sus fichas de 2023 y 2025.",
+    "respuesta": "Según la FDS de la Pintura Exteriores de Corona, versión 10 (sustituye a 9) de 2023, el pH es 8 - 10 [5]. En la versión 9 (sustituye a 8) de 2025, el pH también es 8 - 10 [4] [1]. Por lo tanto, el pH en ambas versiones es igual.",
+    "insuficiente": false,
+    "filtro": "fichas FDS067, FDS091",
+    "similitud_max": 0.6611,
+    "similitudes": [
+      0.6054,
+      0.6,
+      0.6611,
+      0.6611,
+      0.6553,
+      0.648
+    ],
+    "fuentes": [
+      "[1] Corona · PINTURA EXTERIORES · FDS091 (FDS 91 - PINTURA EXTERIORES - CORONA.pdf) · versión 9 (sustituye a 8), fecha 09/09/2025 · pág. 6 · sección 9: Propiedades físicas y químicas",
+      "[4] Corona · PINTURA EXTERIORES · FDS091 (FDS 91 - PINTURA EXTERIORES - CORONA.pdf) · versión 9 (sustituye a 8), fecha 09/09/2025 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[5] Corona · PINTURA EXTERIORES · FDS067 (FDS 67 - PINTURA EXTERIORES - CORONA.pdf) · versión 10 (sustituye a 9), fecha 30/06/2023 · pág. 1 · sección 0: Encabezado de la ficha"
+    ],
+    "advertencias": [
+      "citas [1] agregadas automáticamente: respaldan la oración mejor que la cita del modelo"
+    ]
+  },
+  {
+    "id": "D07",
+    "respondible": false,
+    "pregunta": "¿Cuál es el precio del Esmalte Maestro de Bler?",
+    "respuesta": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "insuficiente": true,
+    "filtro": "fichas FDS100",
+    "similitud_max": 0.5595,
+    "similitudes": [
+      0.5595,
+      0.5588,
+      0.556,
+      0.5511,
+      0.5511,
+      0.5491
+    ],
+    "fuentes": [
+      "[1] Pinturas Bler · ESMALTE MAESTRO · FDS100 (FDS 100 - Esmalte maestro. Bler.pdf) · versión 2 (sustituye a 1), fecha 19/05/2025 · pág. 9 · sección 11: Información toxicológica",
+      "[2] Pinturas Bler · ESMALTE MAESTRO · FDS100 (FDS 100 - Esmalte maestro. Bler.pdf) · versión 2 (sustituye a 1), fecha 19/05/2025 · pág. 1 · sección 1: Identificación del producto y del proveedor",
+      "[3] Pinturas Bler · ESMALTE MAESTRO · FDS100 (FDS 100 - Esmalte maestro. Bler.pdf) · versión 2 (sustituye a 1), fecha 19/05/2025 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[4] Pinturas Bler · ESMALTE MAESTRO · FDS100 (FDS 100 - Esmalte maestro. Bler.pdf) · versión 2 (sustituye a 1), fecha 19/05/2025 · pág. 10 · sección 12: Información ecotoxicológica",
+      "[5] Pinturas Bler · ESMALTE MAESTRO · FDS100 (FDS 100 - Esmalte maestro. Bler.pdf) · versión 2 (sustituye a 1), fecha 19/05/2025 · pág. 4 · sección 6: Medidas en caso de vertido accidental",
+      "[6] Pinturas Bler · ESMALTE MAESTRO · FDS100 (FDS 100 - Esmalte maestro. Bler.pdf) · versión 2 (sustituye a 1), fecha 19/05/2025 · pág. 8-9 · sección 11: Información toxicológica"
+    ],
+    "advertencias": []
+  },
+  {
+    "id": "D08",
+    "respondible": false,
+    "pregunta": "¿Cuántos metros cuadrados cubre un galón de Acrílica Mantenimiento 13883 de International?",
+    "respuesta": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "insuficiente": true,
+    "filtro": "fichas FDS082",
+    "similitud_max": 0.5955,
+    "similitudes": [
+      0.5955,
+      0.5601,
+      0.5569,
+      0.5425,
+      0.5423,
+      0.5349
+    ],
+    "fuentes": [
+      "[1] AkzoNobel · ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE · FDS082 (FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 13-11-2024 · pág. 1 · sección 1: Identificación del producto y del proveedor",
+      "[2] AkzoNobel · ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE · FDS082 (FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 13-11-2024 · pág. 12 · sección 12: Información ecotoxicológica",
+      "[3] AkzoNobel · ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE · FDS082 (FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 13-11-2024 · pág. 15-16 · sección 14: Información relativa al transporte",
+      "[4] AkzoNobel · ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE · FDS082 (FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 13-11-2024 · pág. 16-17 · sección 16: Otra información",
+      "[5] AkzoNobel · ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE · FDS082 (FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 13-11-2024 · pág. 8 · sección 9: Propiedades físicas y químicas",
+      "[6] AkzoNobel · ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE · FDS082 (FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 13-11-2024 · pág. 16 · sección 15: Información sobre la reglamentación"
+    ],
+    "advertencias": []
+  },
+  {
+    "id": "D09",
+    "respondible": true,
+    "pregunta": "Compara los medios de extinción recomendados para el SIGMADUR ONE BUFF 3142 de PPG y para la Pintura Total de Corona en su versión de 2023.",
+    "respuesta": "Según la FDS del producto SIGMADUR ONE BUFF 3142 de PPG (versión 8), se recomienda emplear preferentemente extintores de polvo polivalente (polvo ABC) en caso de inflamación como consecuencia de manipulación, almacenamiento o uso indebido [5] [2]. Por otro lado, la FDS de la Pintura Total de Corona (versión 11) indica que no es relevante mencionar medios de extinción no apropiados [2]. En cuanto a la recomendación de medidas especiales que deben tomar los equipos de lucha contra incendios, la FDS del SIGMADUR ONE BUFF 3142 de PPG (versión 8) indica que puede hacerse necesario el uso de ropa protectora completa y equipo de respiración autónomo en función de la magnitud del incendio [5] [2]. Por otro lado, la FDS de la Pintura Total de Corona (versión 11) indica que en función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración autónomo [2]. En resumen, tanto el SIGMADUR ONE BUFF 3142 de PPG como la Pintura Total de Corona recomiendan medidas especiales para los equipos de lucha contra incendios, pero no especifican qué medidas.",
+    "insuficiente": false,
+    "filtro": "fichas FDS065, FDS076",
+    "similitud_max": 0.6758,
+    "similitudes": [
+      0.6733,
+      0.6427,
+      0.6758,
+      0.5842,
+      0.6508,
+      0.6099
+    ],
+    "fuentes": [
+      "[2] Corona · PINTURA TOTAL · FDS076 (FDS 76 - PINTURA TOTAL - CORONA.pdf) · versión 11 (sustituye a 10), fecha 02/05/2023 · pág. 2-3 · sección 5: Medidas de lucha contra incendios",
+      "[5] PPG · SIGMADUR ONE BUFF 3142 · FDS065 (FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf) · versión 8, fecha 1 Marzo 2022 · pág. 7 · sección 8: Controles de exposición / protección personal"
+    ],
+    "advertencias": [
+      "citas [2] agregadas automáticamente: respaldan la oración mejor que la cita del modelo"
+    ]
+  }
+]

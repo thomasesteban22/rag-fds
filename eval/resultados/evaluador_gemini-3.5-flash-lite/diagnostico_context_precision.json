@@ -1,0 +1,247 @@
+{
+  "k3|P02": [
+    {
+      "fragmento": "FDS001-s16-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains administrative information in Section 16 of the safety data sheet, and does not mention the substances or CAS numbers declared in the answer. Therefore, the context was not useful in arriving at the answer."
+    },
+    {
+      "fragmento": "FDS001-s00-000",
+      "veredicto": 0,
+      "razon": "The provided context only shows the header of the safety data sheet and does not contain any information regarding the substances, chemical names, or CAS numbers declared in the document. Therefore, it was not useful in arriving at the answer."
+    },
+    {
+      "fragmento": "FDS001-s03-000",
+      "veredicto": 1,
+      "razon": "El contexto proporciona directamente la información sobre las sustancias y los números CAS incluidos en la hoja de seguridad de la Pintura Antideslizante para Canchas Deportivas de Tecnidecor, lo cual fue utilizado para formular la respuesta."
+    }
+  ],
+  "k3|P07": [
+    {
+      "fragmento": "FDS029-s02-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene únicamente información sobre la versión de 2019 de la ficha de datos de seguridad de la Pintura Primera Mano y Acabado de Corona. No contiene información sobre la ficha de 2021, por lo que el contexto por sí solo es insuficiente para comparar los cambios entre ambos años."
+    },
+    {
+      "fragmento": "FDS043-s02-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains the information for the 2021 version of the product safety data sheet and lacks any information regarding the 2019 version, making it impossible to derive the comparison given in the answer solely from this context."
+    },
+    {
+      "fragmento": "FDS043-s02-001",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información únicamente sobre la versión 3 (con fecha 24/11/2021) de la ficha de seguridad, pero no proporciona los datos de la ficha de 2019 que se mencionan en la respuesta. Por lo tanto, el contexto por sí solo no es suficiente para corroborar o derivar la comparación entre ambas fechas."
+    }
+  ],
+  "k3|P08": [
+    {
+      "fragmento": "FDS080-s09-001",
+      "veredicto": 0,
+      "razon": "The provided context only contains information for the TOPCOAT 400 1793 BLANCO and lacks any information regarding the flash point (punto de inflamación) for both products as stated in the answer. Therefore, the context was not useful in arriving at the complete answer."
+    },
+    {
+      "fragmento": "FDS081-s09-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información únicamente sobre el TOPCOAT 400 1772 NEGRO y no incluye datos sobre el TOPCOAT 400 1793 BLANCO, por lo que no es posible realizar la comparación completa utilizando solo este contexto."
+    },
+    {
+      "fragmento": "FDS080-s09-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información únicamente sobre el TOPCOAT 400 1793 BLANCO, pero carece de datos sobre el TOPCOAT 400 1772 NEGRO, por lo que no es suficiente para realizar la comparación completa requerida en la respuesta."
+    }
+  ],
+  "k3|P09": [
+    {
+      "fragmento": "FDS083-s14-000",
+      "veredicto": 0,
+      "razon": "The context provides information on the transportation classification of EPOXY ZINC PRIMER 10056 (UN3077, SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, clase 9, grupo III), but it does not contain the environmental hazard statement indication H410 mentioned in the answer. Therefore, the context is only partially useful."
+    },
+    {
+      "fragmento": "FDS083-s02-000",
+      "veredicto": 0,
+      "razon": "El contexto proporciona la indicación de peligro ambiental (H410), pero no contiene información sobre la clasificación del producto para el transporte (UN3077, clase 9, grupo de embalaje III). Por lo tanto, el contexto solo fue parcialmente útil para responder la pregunta."
+    },
+    {
+      "fragmento": "FDS083-s14-001",
+      "veredicto": 0,
+      "razon": "The context provided contains information regarding transport regulations for sizes <= 5 L or <= 5 kg, IMDG segregation group, and notes that it is not regulated under certain conditions, but it does NOT contain information about the environmental hazard statement (like H410) or the exact transport classification details (like UN3077, class 9, packing group III) given in the answer. Therefore, the context was not useful in arriving at the answer."
+    }
+  ],
+  "k3|P10": [
+    {
+      "fragmento": "FDS035-s14-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains information about the ESMALTE TOP QUALITY NEGRO 1772 from Pintuco and does not contain any information regarding the PINTURA EXTERIORES from Corona in its 2025 version. Therefore, the context is only partially useful and incomplete for answering the full comparison requested."
+    },
+    {
+      "fragmento": "FDS091-s14-000",
+      "veredicto": 0,
+      "razon": "The context provides information only for the PINTURA EXTERIORES of Corona (Número ONU UN3082, clase 9), but does not contain any information regarding the ESMALTE TOP QUALITY NEGRO 1772 de Pintuco. Therefore, the context alone is insufficient to provide the full comparison, but it is partially useful for the Corona product. Wait, the prompt asks if the context was useful in arriving at the answer. Since the answer contains specific details about the Pintuco product that are NOT present in the context, the context was only partially useful or not sufficient on its own, but since it provided the Corona info, let us evaluate if it is considered useful (1) or not (0). Actually, to answer the question completely, external knowledge or another context was needed for the Pintuco product. Let us mark verdict as 0 because the context is missing half of the requested comparison (Pintuco)."
+    },
+    {
+      "fragmento": "FDS035-s01-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información únicamente sobre el ESMALTE TOP QUALITY NEGRO 1772 de Pintuco y no incluye datos sobre la PINTURA EXTERIORES de Corona ni sobre el número ONU y clase de transporte de ninguno de los dos productos necesarios para formular la respuesta completa."
+    }
+  ],
+  "k6|P02": [
+    {
+      "fragmento": "FDS001-s16-000",
+      "veredicto": 0,
+      "razon": "The provided context discusses general information regarding the safety data sheet based on Norma NTC 4435 and manufacturer disclaimers, but it does not contain the specific substances and CAS numbers mentioned in the answer."
+    },
+    {
+      "fragmento": "FDS001-s00-000",
+      "veredicto": 0,
+      "razon": "The provided context only shows the header of the safety data sheet and contains no information about the substances or CAS numbers declared in it, whereas the answer provides specific substances and CAS numbers."
+    },
+    {
+      "fragmento": "FDS001-s03-000",
+      "veredicto": 1,
+      "razon": "El contexto proporciona directamente la información sobre las sustancias y números CAS de la Pintura Antideslizante para Canchas Deportivas de Tecnidecor, lo cual fue utilizado para formular la respuesta."
+    },
+    {
+      "fragmento": "FDS001-s09-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains physical and chemical properties (Section 9) and does not mention the substances and CAS numbers declared in the safety data sheet, which are present in the answer. Therefore, the context was not useful in arriving at the answer."
+    },
+    {
+      "fragmento": "FDS001-s04-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains Section 4 (Primeros auxilios) of the safety data sheet for the Pintura Antideslizante para Canchas Deportivas de Tecnidecor. It does not mention the substances or CAS numbers declared in the answer (such as CAS 7664-41-7, 9002-89-5, or 13463-67-7). Therefore, the context was not useful in arriving at the answer."
+    },
+    {
+      "fragmento": "FDS001-s08-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado aborda los controles de exposición y protección personal de la hoja de seguridad, pero no menciona ninguna de las sustancias ni los números CAS declarados en la respuesta (como el nivelador de pH, la resina acrílica o las cargas inertes con sus respectivos números CAS). Por lo tanto, el contexto no fue útil para llegar a esa respuesta."
+    }
+  ],
+  "k6|P07": [
+    {
+      "fragmento": "FDS029-s02-000",
+      "veredicto": 0,
+      "razon": "The context provides information only for the 2019 version of the product, but does not contain the 2021 version to allow a comparison of how the hazard statements changed."
+    },
+    {
+      "fragmento": "FDS043-s02-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains information about the 2021 version of the safety data sheet and does not contain any information regarding the 2019 version to compare the changes in hazard statements."
+    },
+    {
+      "fragmento": "FDS043-s02-001",
+      "veredicto": 0,
+      "razon": "The provided context contains information from the version 3 (2021) safety data sheet, but it does not contain the hazard statements or information from the 2019 version needed to compare the changes between both years as stated in the answer."
+    },
+    {
+      "fragmento": "FDS029-s02-001",
+      "veredicto": 0,
+      "razon": "The context only provides information for the 2019 version (FDS029, Fecha: 05/06/2019, Versión: 1) and lacks the 2021 version required to answer how the hazard indications changed between both years."
+    },
+    {
+      "fragmento": "FDS043-s07-001",
+      "veredicto": 0,
+      "razon": "The provided context only contains information about handling, storage conditions, and general sections of the safety data sheet for the 2021 version (version 3), but it does not contain any information regarding the hazard indications from the 2019 version or a comparison between the two versions to support the given answer."
+    },
+    {
+      "fragmento": "FDS029-s07-001",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información sobre la manipulación, almacenamiento y condiciones técnicas de la Pintura Primera Mano & Acabado de Corona (versión de 2019), pero no menciona las indicaciones de peligro de ninguna de las dos fichas (2019 y 2021) necesarias para responder a la pregunta sobre cómo cambiaron."
+    }
+  ],
+  "k6|P08": [
+    {
+      "fragmento": "FDS080-s09-001",
+      "veredicto": 0,
+      "razon": "The provided context only contains information about TOPCOAT 400 1793 BLANCO and lacks any mention of TOPCOAT 400 1772 NEGRO or the flash points of either product, which are required to answer the question."
+    },
+    {
+      "fragmento": "FDS081-s09-000",
+      "veredicto": 0,
+      "razon": "The context provides information only for the TOPCOAT 400 1772 NEGRO, showing its flash point as 56°C. However, it lacks any information regarding the TOPCOAT 400 1793 BLANCO, making it impossible to fully compare the flash points based solely on this context."
+    },
+    {
+      "fragmento": "FDS080-s09-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información únicamente sobre el TOPCOAT 400 1793 BLANCO, pero carece de datos sobre el TOPCOAT 400 1772 NEGRO, por lo que no es suficiente para realizar la comparación completa requerida en la respuesta."
+    },
+    {
+      "fragmento": "FDS081-s00-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene únicamente información sobre el TOPCOAT 400 1772 NEGRO y carece de datos sobre el TOPCOAT 400 1793 BLANCO, así como de sus puntos de inflamación necesarios para realizar la comparación."
+    },
+    {
+      "fragmento": "FDS080-s00-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado solo contiene información sobre el TOPCOAT 400 1793 BLANCO y carece por completo de datos sobre el TOPCOAT 400 1772 NEGRO y sus respectivos puntos de inflamación, por lo que no fue suficiente para dar la respuesta completa."
+    },
+    {
+      "fragmento": "FDS081-s02-000",
+      "veredicto": 0,
+      "razon": "The context only contains information about the TOPCOAT 400 1772 NEGRO and lacks any information regarding the flash point or details of the TOPCOAT 400 1793 BLANCO, making it insufficient to fully answer or compare as required."
+    }
+  ],
+  "k6|P09": [
+    {
+      "fragmento": "FDS083-s14-000",
+      "veredicto": 1,
+      "razon": "El contexto proporcionado contiene información sobre la clasificación para el transporte del producto (UN3077, sustancia peligrosa para el medio ambiente, clase 9, etc.), pero no menciona la indicación de peligro H410 que aparece en la respuesta. Por lo tanto, el contexto es parcialmente útil pero insuficiente para toda la respuesta, o en el esquema binario se evalúa si el contexto fue útil para parte o no. Dado que la parte de transporte sí está, el contexto es parcialmente útil, pero estrictamente para la pregunta completa falta la parte de la indicación H410. Sin embargo, al revisar la utilidad, el contexto aporta los datos de transporte. Evaluando estrictamente si la información presente en el contexto ayudó, la parte de transporte sí se obtuvo de ahí. Para mantener la precisión, se puede considerar útil (1) debido a que proporciona la clasificación de transporte, o 0 si se requiere toda la respuesta. Dado que evalúa si el contexto fue útil para llegar a la respuesta (o parte de ella), el contexto proporciona la sección de transporte. Pongamos verdict 1 ya que gran parte de la respuesta (el transporte) viene directamente de allí."
+    },
+    {
+      "fragmento": "FDS083-s02-000",
+      "veredicto": 0,
+      "razon": "El contexto proporciona la indicación de peligro ambiental (H410), pero no contiene información sobre la clasificación para el transporte del producto EPOXY ZINC PRIMER 10056. Por lo tanto, el contexto es parcialmente útil pero insuficiente para responder a toda la pregunta."
+    },
+    {
+      "fragmento": "FDS083-s14-001",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información sobre el transporte del producto EPOXY ZINC PRIMER 10056 (Sección 14), pero no contiene información sobre su indicación de peligro ambiental (H410) ni sobre su clasificación completa para el transporte (UN3077, clase 9, etc.), la cual aparece en la respuesta. Por lo tanto, el contexto no fue suficiente ni útil para llegar a la respuesta dada."
+    },
+    {
+      "fragmento": "FDS083-s16-000",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene información sobre la clasificación de peligro acuático (agudo y crónico categoría 1), pero no proporciona detalles completos sobre la indicación exacta de peligro ambiental (código H410) ni la clasificación completa para el transporte (UN3077, clase 9, grupo de embalaje III) que se mencionan en la respuesta. Por lo tanto, el contexto es insuficiente para llegar a la respuesta dada."
+    },
+    {
+      "fragmento": "FDS083-s11-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains information about toxicological data from Section 11 of the safety data sheet, and it does not contain the environmental hazard indication or the transport classification of the EPOXY ZINC PRIMER 10056."
+    },
+    {
+      "fragmento": "FDS083-s11-001",
+      "veredicto": 0,
+      "razon": "El contexto proporcionado contiene únicamente información sobre la sección 11 (Información toxicológica) del producto EPOXY ZINC PRIMER 10056 y no menciona las indicaciones de peligro ambiental ni la clasificación para el transporte, datos que aparecen en la respuesta dada. Por lo tanto, el contexto no fue útil para llegar a dicha respuesta."
+    }
+  ],
+  "k6|P10": [
+    {
+      "fragmento": "FDS035-s14-000",
+      "veredicto": 0,
+      "razon": "El contexto solo contiene información sobre el ESMALTE TOP QUALITY NEGRO 1772 de Pintuco, pero carece de información sobre la PINTURA EXTERIORES de Corona en su versión de 2025. Por lo tanto, el contexto no es completamente útil para responder a toda la comparación solicitada."
+    },
+    {
+      "fragmento": "FDS091-s14-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains information regarding the PINTURA EXTERIORES from Corona for 2025. It does not contain any information about the ESMALTE TOP QUALITY NEGRO 1772 from Pintuco, which is part of the comparison in the answer. Therefore, the context alone is insufficient to arrive at the full answer, specifically regarding the Pintuco product."
+    },
+    {
+      "fragmento": "FDS035-s01-000",
+      "veredicto": 0,
+      "razon": "The context only provides information for the Pintuco product and lacks any information regarding the PINTURA EXTERIORES de Corona or its transport class and UN number for 2025. Therefore, the context is incomplete and not fully useful for answering the entire comparative question."
+    },
+    {
+      "fragmento": "FDS091-s14-001",
+      "veredicto": 0,
+      "razon": "The provided context only contains information regarding the PINTURA EXTERIORES from Corona, but does not contain any information about the ESMALTE TOP QUALITY NEGRO 1772 from Pintuco. Therefore, the context is only partially useful and lacks the necessary information to fully answer the comparison requested."
+    },
+    {
+      "fragmento": "FDS035-s00-000",
+      "veredicto": 0,
+      "razon": "The context only provides information for the ESMALTE TOP QUALITY NEGRO 1772 from Pintuco and lacks any information regarding the PINTURA EXTERIORES from Corona or its 2025 version. Therefore, the context is incomplete for answering the full comparative question."
+    },
+    {
+      "fragmento": "FDS091-s01-000",
+      "veredicto": 0,
+      "razon": "The provided context only contains information about the PINTURA EXTERIORES from Corona (version 9, dated 09/09/2025) and lacks any information regarding the ESMALTE TOP QUALITY NEGRO 1772 from Pintuco. Therefore, the context is incomplete for making the requested comparison."
+    }
+  ]
+}

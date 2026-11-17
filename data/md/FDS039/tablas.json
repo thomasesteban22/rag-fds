@@ -1,0 +1,170 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   72.56954193115234,
+   657.5779418945312,
+   548.1259155273438,
+   741.605224609375
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "|      | Identificación   | Nombre químico/clasificación                                                | Concentración   |\n|------|------------------|-----------------------------------------------------------------------------|-----------------|\n| CAS: | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención | 2 - <10 %       |\n| CAS: | 1333-86-4        | Negro de carbon Carc. 2: H351 - Atención                                    | <2 %            |\n| CAS: | 144-19-4         | 2,2,4-trimetilpentano-1,3-diol Irrit. oc. 2: H319 - Atención                | <2 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   81.94850158691406,
+   674.6046142578125,
+   548.9098510742188,
+   738.479248046875
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación - Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)   | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales - 15 mg/m³   |\n|-----------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------|\n| CAS: 13463-67-7                                                       | Ceiling Values - TWA PEL                      |                                         |\n| Negro de carbon                                                       | 8-hour TWA PEL                                | 3.5 mg/m³                               |\n| CAS: 1333-86-4                                                        | Ceiling Values - TWA PEL                      |                                         |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   82.39104461669922,
+   132.82876586914062,
+   548.6366577148438,
+   182.41885375976562
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación                                     | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------------------------|------------------------------|------------------------------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 13463-67-7                                    | TLV-STEL                     |                              |\n| Negro de carbon                                    | TLV-TWA                      | 3 mg/m³                      |\n| CAS: 1333-86-4                                     | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   87.28564453125,
+   327.28631591796875,
+   548.5734252929688,
+   400.4066162109375
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.80066680908203,
+   413.8293762207031,
+   548.433837890625,
+   486.4921875
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   85.96359252929688,
+   521.1547241210938,
+   548.4971923828125,
+   586.5074462890625
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 4,
+  "bbox_pt": [
+   85.74667358398438,
+   601.4552612304688,
+   548.8750610351562,
+   732.380126953125
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                                                                       |\n|------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.51719665527344,
+   120.77401733398438,
+   547.8661499023438,
+   178.61865234375
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.66465759277344,
+   435.8540344238281,
+   547.6976928710938,
+   458.30694580078125
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.62286376953125,
+   476.739501953125,
+   547.7317504882812,
+   499.0444641113281
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   72.76071166992188,
+   643.19140625,
+   548.0941772460938,
+   730.9556884765625
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|----------------------------------------------------|-------------------|-------------------|----------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| 2,2,4-trimetilpentano-1,3-diol                     | DL50 oral         | No relevante      |          |\n| CAS: 144-19-4                                      | DL50 cutánea      | 6300 mg/kg        | Rata     |\n|                                                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.70205688476562,
+   149.86676025390625,
+   548.3235473632812,
+   198.6696014404297
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Especie           | Género    |\n|------------------|-------------------|-------------------|-------------------|-----------|\n| Negro de carbon  | CL50              | 1000 mg/L (96 h)  | Brachydanio rerio | Pez       |\n| CAS: 1333-86-4   | CE50              | 5600 mg/L (24 h)  | Daphnia magna     | Crustáceo |\n|                  | CE50              | No relevante      |                   |           |"
+ }
+]

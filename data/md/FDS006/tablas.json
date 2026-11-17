@@ -1,0 +1,226 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.75756166598941,
+   206.43845100892122,
+   547.9169455058463,
+   294.6382860574246
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Identificación   | Nombre químico/clasificación                                 | Concentración   |\n|------------------|--------------------------------------------------------------|-----------------|\n| CAS: 64742-47-8  | Destilados (petróleo), fracción ligera tratada con hidrógeno | 10 - <25 %      |\n| CAS: 13463-67-7  | Dioxido de titanio                                           | 1 - <2.5 %      |\n| CAS: 136-52-7    | Bis(2-etilhexanoato) de cobalto                              | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   86.2892765685216,
+   739.469653012962,
+   203.71017836602744,
+   761.5526268719381
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 7,
+  "markdown": "| Tª mínima:   | 5 ºC   |\n|--------------|--------|\n| Tª máxima:   | 30 ºC  |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   72.47762017269264,
+   271.20163984212616,
+   548.6486791992188,
+   301.82601354603526
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación     | Valores límite ambientales   | Valores límite ambientales   |\n|--------------------|------------------------------|------------------------------|\n| Dioxido de titanio | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 13463-67-7    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   86.14316611885225,
+   430.9833298664591,
+   547.9135307486106,
+   505.73609842694566
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                        | EPP                                     | Observaciones                                                                                                                                                                                                      |\n|---------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del las vias respiratorias | Máscara con filtro para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   84.66350912414143,
+   517.8119821261226,
+   549.2711406610476,
+   590.7947327153076
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                   | Observaciones                                                                                                                                                                                                                 |\n|------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes de protección | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable la utilización de guantes de protección quimica |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   86.32054293946133,
+   625.7551348978436,
+   548.4268419345113,
+   692.379280028717
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                     | Observaciones                                                                                                                                        |\n|-----------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 4,
+  "bbox_pt": [
+   85.99268051147462,
+   706.0598697935997,
+   548.5100766421325,
+   769.1083479972349
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP             | Observaciones                                                                                                                                                                                              |\n|--------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|              | Ropa de trabajo | Reemplazar ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable ropa de trabajo para protección química. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.05602883153314,
+   120.84015068144811,
+   548.3351313116087,
+   184.3133788975514
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP                                  | Observaciones                                   |\n|--------------|--------------------------------------|-------------------------------------------------|\n|              | Calzado de trabajo antideslizamiento | Reemplazar ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 5,
+  "bbox_pt": [
+   86.80451617759347,
+   198.21504549946178,
+   547.9991435907351,
+   254.8038824390402
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                      | Medida de emergencia   | Normas                     |\n|------------------------|-----------------------------|------------------------|----------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2002 | Lavaojos               | DIN 12 899 ISO 3864-1:2002 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.64347218763109,
+   444.032598375334,
+   548.0020095477008,
+   466.3491260171559
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar   | Humedad      |\n|---------------------|------------------------|-----------------|-------------|--------------|\n| No aplicable        | No aplicable           | Precaución      | Precaución  | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 6,
+  "bbox_pt": [
+   72.80744151275431,
+   484.11785266722177,
+   548.2834221306103,
+   507.46847201893274
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 7,
+  "bbox_pt": [
+   72.78439190141307,
+   585.4503900798878,
+   548.3397046471923,
+   636.3775611801328
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------|-------------------|-------------------|----------|\n| Dioxido de titanio | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 7,
+  "bbox_pt": [
+   73.06158939335971,
+   701.4950159590261,
+   548.5059911290111,
+   752.4279221835102
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Toxicidad aguda   | Toxicidad aguda    | Especie   | Género    |\n|--------------------------------------------------------------|-------------------|--------------------|-----------|-----------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | CL50              | 1 - 10 mg/L (96 h) |           | Pez       |\n| CAS: 64742-47-8                                              | CE50              | 1 - 10 mg/L        |           | Crustáceo |\n|                                                              | CE50              | 1 - 10 mg/L        |           | Alga      |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.97694457393365,
+   120.76033941128469,
+   548.239518109008,
+   170.5704501625478
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Toxicidad aguda   | Toxicidad aguda     | Especie   | Género    |\n|---------------------------------|-------------------|---------------------|-----------|-----------|\n| Bis(2-etilhexanoato) de cobalto | CL50              | 0,1 - 1 mg/L (96 h) |           | Pez       |\n| CAS: 136-52-7                   | CE50              | 0,1 - 1 mg/L        |           | Crustáceo |\n|                                 | CE50              | 0,1 - 1 mg/L        |           | Alga      |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 8,
+  "bbox_pt": [
+   73.42219690412483,
+   213.56832390647037,
+   548.3203137043179,
+   262.5624683313075
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------------------------------|-------------------------------|-------------------------------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | BCF                           | 130                           |\n| CAS: 64742-47-8                                              | Log POW                       | 3,3                           |\n|                                                              | Potencial                     | Alto                          |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   36.535436632297184,
+   100.09723588522138,
+   559.2152795983642,
+   242.2028535472299
+  ],
+  "filas": 2,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico |"
+ }
+]

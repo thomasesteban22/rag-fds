@@ -1,0 +1,86 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   33.89871597290039,
+   508.4845886230469,
+   581.5443725585938,
+   625.5128173828125
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| Nombre químico                                                                                                | Concentración %   |\n|---------------------------------------------------------------------------------------------------------------|-------------------|\n| producto de reacción: bisfenol-A-epiclorhidrina y resinas epoxi (peso molecular medio <= 700) CAS: 25068-38-6 | 30% - 50%         |\n| Nafta disolvente (petróleo), fracción aromática pesada CAS: 64742-94-5                                        | 2.5% - 10%        |\n| Melanina CAS: 108-78-1                                                                                        | 1% - 10%          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   33.641143798828125,
+   99.86945343017578,
+   575.589599609375,
+   461.6750183105469
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 4,
+  "markdown": "| Recomendaciones generales:                                         | Retirar a la persona de la zona peligrosa. Consultar a un médico. Mostrar esta ficha de seguridad al doctor que esté de servicio.                                                                |\n|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Si es inhalado:                                                    | Sacar al aire libre. Consultar a un médico después de una exposición importante.                                                                                                                 |\n| En caso de contacto con la piel: En caso de contacto con los ojos: | Retirar inmediatamente la ropa y zapatos contaminados. Eliminar lavando con jabón y mucha agua. Si los síntomas persisten consultar a un médico.                                                 |\n|                                                                    | Enjuagar inmediatamente los ojos con abundante agua. Retirar las lentillas. Manténgase el ojo bien abierto mientras se lava. Si persiste la irritación de los ojos, consultar a un especialista. |\n| Si es ingerido:                                                    | Lavar la boca con agua y después beber agua abundante. No dar a beber leche ni bebidas alcohólicas. Nunca debe administrarse nada por la boca a una persona inconsciente. Consultar al médico.   |\n| Principales síntomas y efectos, agudos y retardados:               | Efectos irritantes Efectos sensibilizantes Reacciones alérgicas Lacrimación excesiva Dermatitis                                                                                                  |\n| Notas para el médico:                                              | Ver la Sección 11 para obtener información detallada sobre la salud y los síntomas. Tratar sintomáticamente.                                                                                     |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   34.32749938964844,
+   508.63720703125,
+   581.0822143554688,
+   682.4873046875
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 5,
+  "markdown": "| Punto de inflamación:                              | No Aplica.                                                                                                                                                                                              |\n|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Medios de extinción apropiados:                    | Usar medidas de extinción que sean apropiadas a las circunstancias del local y a sus alrededores.                                                                                                       |\n| Peligros específicos en la lucha contra incendios: | No permitir que las aguas de extinción entren en el alcantarillado o en los cursos de agua.                                                                                                             |\n| Productos de combustión peligrosos:                | No se conocen productos de combustión peligrosos.                                                                                                                                                       |\n| Métodos específicos de extinción:                  | El agua de extinción debe recogerse por separado, no debe penetrar en el alcantarillado. Los restos del incendio y el agua de extinción contaminada deben eliminarse según las normas locales en vigor. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   33.954345703125,
+   317.3425598144531,
+   581.8258666992188,
+   513.2864379882812
+  ],
+  "filas": 3,
+  "columnas": 2,
+  "seccion": 7,
+  "markdown": "| Indicaciones para la protección contra incendio y explosión:   | Disposiciones normales de protección preventivas de incendio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |\n|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Consejos para una manipulación segura:                         | Evitar sobrepasar los límites dados de exposición profesional (ver sección 8). Evitar el contacto con los ojos, la piel o la ropa. Equipo de protección individual, ver sección 8. Las personas con antecedentes de problemas de sensibilización de la piel o asma, alergias, enfermedades respiratorias crónicas o recurrentes, no deben ser empleadas en ningún proceso en el cual esta mezcla se esté utilizando. No fumar, no comer ni beber durante el trabajo. Cuando se manejen productos químicos, siga las medidas estándar de higiene. |\n| Condiciones para el almacenaje seguro:                         | Conservar el envase herméticamente cerrado en un lugar seco y bien ventilado. Los contenedores que se abren deben volverse a cerrar cuidadosamente y mantener en posición vertical para evitar pérdidas. Almacenar de acuerdo con la reglamentación local.                                                                                                                                                                                                                                                                                       |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   34.309478759765625,
+   577.8444213867188,
+   581.4219360351562,
+   709.9669799804688
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Protección respiratoria:   | Utilizar protección respiratoria a menos que exista una ventilación de escape adecuada o a menos que la evaluación de la exposición indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuado para la concentración máxima prevista del contaminante (gas/vapor/aerosol/particulados) que puede presentarse al manejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo.   |\n|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de las manos:   | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario.                                                                                                                                                                                                                                                                                                      |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 7,
+  "bbox_pt": [
+   28.801183700561523,
+   187.54425048828125,
+   587.2169189453125,
+   423.98004150390625
+  ],
+  "filas": 9,
+  "columnas": 4,
+  "seccion": 13,
+  "markdown": "| SECCIÓN 14: Información relativa al transporte                | SECCIÓN 14: Información relativa al transporte - ADR/RID-ADN                                  | SECCIÓN 14: Información relativa al transporte - IMDG                                        | SECCIÓN 14: Información relativa al transporte - IATA                                        |\n|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|\n| 14.1 Número ONU                                               | UN3082                                                                                        | UN3082                                                                                       | UN3082                                                                                       |\n| 14.2 Designación oficial de transporte de las Naciones Unidas | Producto de reacción: bisfenol- A-epiclorhidrina; resinas epoxi (peso molecular medio <= 700) | Producto de reacción: bisfenol-A-epiclorhidrina; resinas epoxi (peso molecular medio <= 700) | Producto de reacción: bisfenol-A-epiclorhidrina; resinas epoxi (peso molecular medio <= 700) |\n| 14.3 Clase(s) de peligro para el transporte                   | 9                                                                                             | 9                                                                                            | 9                                                                                            |\n| 14.4 Grupo de embalaje                                        | III                                                                                           | III                                                                                          | III                                                                                          |\n| 14.5 Peligros para el medio ambiente                          | Si                                                                                            | Si                                                                                           | Si                                                                                           |\n| 14.6 Información adicional                                    |                                                                                               | Emergency schedurles (EmS) F-A, S--F                                                         | -                                                                                            |\n| Código de clasificación                                       |                                                                                               |                                                                                              |                                                                                              |"
+ }
+]

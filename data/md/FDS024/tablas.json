@@ -1,0 +1,190 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   33.92433547973633,
+   96.49877166748047,
+   562.0228881835938,
+   452.91705322265625
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 2,
+  "markdown": "| Indicaciones de peligro                 | : H225 - Líquido y vapores muy inflamables. H319 - Provoca irritación ocular grave. H316 - Provoca una leve irritación cutánea. H335 - Puede irritar las vías respiratorias. H336 - Puede provocar somnolencia o vértigo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |\n|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Consejos de prudencia                   | Consejos de prudencia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| Prevención                              | : P280 - Usar guantes de protección. Usar ropa protectora. Usar protección para los ojos o la cara. P210 - Mantener alejado del calor, chispas, llamas al descubierto, superficies calientes y otras fuentes de ignición. No fumar. P271 - Utilizar sólo al aire libre o en un lugar bien ventilado. P261 - Evitar respirar vapor. P264 - Lavarse cuidadosamente las manos después de la manipulación.                                                                                                                                                                                                                                                                                                                                                 |\n| Intervención/Respuesta                  | : P304 + P340 + P312 - En caso de inhalación: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la respiración. Llamar a un centro de toxicología o a un médico si la persona se siente mal. P303 + P361 + P353 - En caso de contacto con la piel (o el pelo): Quitar inmediatamente toda la ropa contaminada. Enjuagar la piel con agua. P332 + P313 - En caso de irritación cutánea: Buscar atención médica. P305 + P351 + P338 - En caso de contacto con los ojos: Enjuagar con agua cuidadosamente durante varios minutos. Quitar los lentes de contacto, cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado. P337 + P313 - Si la irritación ocular persiste: Buscar atención médica. |\n| Almacenamiento                          | : P405 - Guardar bajo llave.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n| Eliminación                             | : P501 - Eliminar el contenido y recipiente conforme a todas las reglamentaciones locales, regionales, nacionales e internacionales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n| Otros peligros que no contribuyen en la | : No se conoce ninguno.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 2,
+  "bbox_pt": [
+   29.630170822143555,
+   499.1911315917969,
+   558.1680908203125,
+   591.7241821289062
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente                  | %         | Número CAS   |\n|----------------------------------------|-----------|--------------|\n| Acetato de n-butilo                    | ≥25 - ≤50 | 123-86-4     |\n| acetato de 1-metil-2-metoxietilo       | ≥10 - ≤25 | 108-65-6     |\n| 4-metil-2-pentanona                    | ≥10 - ≤25 | 108-10-1     |\n| butanona                               | ≥10 - ≤15 | 78-93-3      |\n| propanona                              | ≥10 - ≤25 | 67-64-1      |\n| disolvente de stoddard (<0,1% benceno) | ≤5        | 8052-41-3    |\n\nSi alguna concentración se presenta como un rango, es para proteger la confidencialidad o debido a variación en los lotes."
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   36.84840393066406,
+   130.44589233398438,
+   556.0414428710938,
+   517.6174926757812
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Enjuagar los ojos inmediatamente con mucha agua, levantando ocasionalmente los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos por 10 minutos. Procurar atención médica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|-------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Transportar la víctima al aire libre y mantenerla en reposo en una posición que le facilite la respiración. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda dar respiración boca a boca. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. Si está inconsciente, coloque en posición de recuperación y obtenga atención médica inmediatamente. Asegure una buena circulación de aire. Aflojar todo lo que pudiera estar apretado, como el cuello de una camisa, una corbata, un cinturón.                                                                                                                               |\n| Contacto con la piel    | :   | Lave la piel contaminada con suficiente agua. Quítese la ropa y calzado contaminados. Continúe enjuagando por lo menos por 10 minutos. Obtenga atención médica si las condiciones de salud adversas continúan o son severas. Lavar la ropa antes de volver a usarla. Limpiar el calzado completamente antes de volver a usarlo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Ingestión               | :   | Lave la boca con agua. Retirar las prótesis dentales si es posible. Transportar la víctima al aire libre y mantenerla en reposo en una posición que le facilite la respiración. Si se ha ingerido el material y la persona expuesta está consciente, proporcione cantidades pequeñas de agua para beber. Deténgase si la persona expuesta se siente descompuesta porque vomitar sería peligroso. No inducir al vómito a menos que lo indique expresamente el personal médico. En caso de vómito, se debe mantener la cabeza baja de manera que el vómito no entre en los pulmones. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. No suministrar nada por vía oral a una persona inconsciente. Si está inconsciente, coloque en posición de recuperación y obtenga atención médica inmediatamente. Asegure una buena circulación de aire. Aflojar todo lo que pudiera estar apretado, como el cuello de una camisa, una corbata, un cinturón. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 6,
+  "bbox_pt": [
+   37.638877868652344,
+   416.29107666015625,
+   561.0690307617188,
+   585.0892944335938
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente   | Límites de exposición                                                                     |\n|-------------------------|-------------------------------------------------------------------------------------------|\n| Acetato de n-butilo     | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 150 ppm 8 horas. VLE-CT: 200 ppm 15 minutos. |\n| 4-metil-2-pentanona     | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 50 ppm 8 horas. VLE-CT: 75 ppm 15 minutos.   |\n| butanona                | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 200 ppm 8 horas. VLE-CT: 300 ppm 15 minutos. |\n| propanona               | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 500 ppm 8 horas. VLE-CT: 750 ppm 15 minutos. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 7,
+  "bbox_pt": [
+   36.07071304321289,
+   112.12603759765625,
+   557.938232421875,
+   509.3291015625
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Medidas higiénicas                   | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo. :                                                                                                                                                                                                                                             |\n|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de los ojos y la cara     | Equipo protector ocular que cumpla con las normas aprobadas debe ser usado cuando una evaluación del riesgo indique que es necesario para evitar toda exposición a salpicaduras del líquido, lloviznas, gases o polvos. Si existe la posibilidad de contacto con el producto se debe usar el siguiente equipo de protección, a menos que la evaluación del riesgo exija un grado superior de protección: gafas protectoras contra salpicaduras químicas. :                                                                                                                                                                                                |\n| Protección de la piel                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n| Protección de las manos              | Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. : |\n| Protección del cuerpo                | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos. :                                                                                                                                                                                       |\n| Otro tipo de protección para la piel | : Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                                                                                                                                                                                                               |\n| Protección de las vías respiratorias | Con base en el riesgo y el potencial de la exposición, seleccione un respirador que cumpla la norma o la certificación apropiada. Los respiradores se deben usar de acuerdo con un programa de protección respiratoria para asegurar el ajuste adecuado, la capacitación y otros aspectos importantes de uso. :                                                                                                                                                                                                                                                                                                                                           |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 8,
+  "bbox_pt": [
+   37.82334899902344,
+   542.4378662109375,
+   561.1920166015625,
+   727.5010986328125
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                                             | Resultado                                                                                                                                                                           | Especies                                                            | Dosis                                                                                                                          | Exposición                                |\n|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|\n| Acetato de n-butilo acetato de 1-metil- 2-metoxietilo 4-metil-2-pentanona butanona propanona | CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral | Rata Conejo Rata Conejo Rata Rata Rata Conejo Rata Rata Conejo Rata | 21.1 mg/l >17600 mg/kg 10768 mg/kg >5 g/kg 8532 mg/kg 16.4 mg/l 2080 mg/kg 6480 mg/kg 2737 mg/kg 21 mg/l 2001 mg/kg 5800 mg/kg | 4 horas - - - - 4 horas - - - 4 horas - - |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   37.76539993286133,
+   112.47351837158203,
+   561.3240356445312,
+   365.13616943359375
+  ],
+  "filas": 3,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente | Resultado | Especies | Puntuación | Exposición | Observación |\n|---|---|---|---|---|---|\n| 4-metil-2-pentanona | Ojos - Irritante moderado Ojos - Irritante fuerte Piel - Irritante leve | Conejo Conejo Conejo | - - - | 24 horas 100 microliters 40 milligrams 24 horas 500 milligrams | - - - |\n| butanona | Piel - Irritante leve Piel - Irritante moderado | Conejo Conejo | - - | 24 horas 14 milligrams 24 horas 500 milligrams | - - |\n| propanona | Ojos - Irritante leve Ojos - Irritante leve Ojos - Irritante moderado Ojos - Irritante fuerte Piel - Irritante leve Piel - Irritante leve | Humano Conejo Conejo Conejo Conejo Conejo | - - - - - - | 186300 parts per million 10 microliters 24 horas 20 milligrams 20 milligrams 24 horas 500 milligrams 395 milligrams | - - - - - - |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "3 filas; columna ancla 1 (Nombre de producto o ingrediente)",
+  "markdown_original": "| Nombre de producto o ingrediente       | Resultado                                                                                                                                                                                                                                                         | Especies                                                                     | Puntuación            | Exposición                                                                                                                                                                                                                        | Observación           |\n|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|\n| 4-metil-2-pentanona butanona propanona | Ojos - Irritante moderado Ojos - Irritante fuerte Piel - Irritante leve Piel - Irritante leve Piel - Irritante moderado Ojos - Irritante leve Ojos - Irritante leve Ojos - Irritante moderado Ojos - Irritante fuerte Piel - Irritante leve Piel - Irritante leve | Conejo Conejo Conejo Conejo Conejo Humano Conejo Conejo Conejo Conejo Conejo | - - - - - - - - - - - | 24 horas 100 microliters 40 milligrams 24 horas 500 milligrams 24 horas 14 milligrams 24 horas 500 milligrams 186300 parts per million 10 microliters 24 horas 20 milligrams 20 milligrams 24 horas 500 milligrams 395 milligrams | - - - - - - - - - - - |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 9,
+  "bbox_pt": [
+   37.944122314453125,
+   555.4420166015625,
+   561.103759765625,
+   648.7378540039062
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                     | Categoría                                       | Ruta de exposición                                      | Órganos vitales                                                                         |\n|------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------|\n| Acetato de n-butilo 4-metil-2-pentanona butanona propanona | Categoría 3 Categoría 3 Categoría 3 Categoría 3 | No aplicable. No aplicable. No aplicable. No aplicable. | Efecto narcótico Irritación de las vías respiratorias Efecto narcótico Efecto narcótico |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   38.35542678833008,
+   700.3403930664062,
+   561.3316040039062,
+   746.3858032226562
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                          | Resultado                                                                 |\n|-------------------------------------------------|---------------------------------------------------------------------------|\n| butanona disolvente de stoddard (<0,1% benceno) | PELIGRO POR ASPIRACIÓN - Categoría 2 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 11,
+  "bbox_pt": [
+   37.89466857910156,
+   143.71798706054688,
+   561.0713500976562,
+   213.3236541748047
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Ruta                 | Valor ETA (estimación de toxicidad aguda según GHS)   |\n|----------------------|-------------------------------------------------------|\n| Oral                 | 6475.82 mg/kg                                         |\n| Cutánea              | 13461.27 mg/kg                                        |\n| Inhalación (vapores) | 71.3 mg/l                                             |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 11,
+  "bbox_pt": [
+   32.361385345458984,
+   286.0416259765625,
+   561.3268432617188,
+   502.515869140625
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| Acetato de n-butilo | Agudo CL50 185000 µg/l Agua de mar | Pez - Menidia beryllina | 96 horas |\n| 4-metil-2-pentanona | Agudo CL50 505000 µg/l Agua fresca Crónico NOEC 78 mg/l Agua fresca Crónico NOEC 168 mg/l Agua fresca | Pez - Pimephales promelas Dafnia - Daphnia magna Pez - Pimephales promelas - Embrión | 96 horas 21 días 33 días |\n| butanona | Agudo EC50 >500000 µg/l Agua de mar Agudo EC50 5091000 µg/l Agua fresca Agudo CL50 3220000 µg/l Agua fresca | Algas - Skeletonema costatum Dafnia - Daphnia magna - Larva Pez - Pimephales promelas | 96 horas 48 horas 96 horas |\n| propanona | Agudo EC50 20.565 mg/l Agua de mar Agudo CL50 6000000 µg/l Agua fresca Agudo CL50 10000 µg/l Agua fresca Agudo CL50 5600 ppm Agua fresca Crónico NOEC 4.95 mg/l Agua de mar Crónico NOEC 0.016 ml/L Agua fresca Crónico NOEC 0.1 ml/L Agua fresca | Algas - Ulva pertusa Crustáceos - Gammarus pulex Dafnia - Daphnia magna Pez - Poecilia reticulata Algas - Ulva pertusa Crustáceos - Daphniidae Dafnia - Daphnia magna - Neonato | 96 horas 48 horas 48 horas 96 horas 96 horas 21 días 21 días |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "4 filas; columna ancla 1 (Nombre de producto o ingrediente)",
+  "markdown_original": "| Nombre de producto o ingrediente                           | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Especies                                                                                                                                                                                                                                                                                                                                                                           | Exposición                                                                                                                |\n|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|\n| Acetato de n-butilo 4-metil-2-pentanona butanona propanona | Agudo CL50 185000 µg/l Agua de mar Agudo CL50 505000 µg/l Agua fresca Crónico NOEC 78 mg/l Agua fresca Crónico NOEC 168 mg/l Agua fresca Agudo EC50 >500000 µg/l Agua de mar Agudo EC50 5091000 µg/l Agua fresca Agudo CL50 3220000 µg/l Agua fresca Agudo EC50 20.565 mg/l Agua de mar Agudo CL50 6000000 µg/l Agua fresca Agudo CL50 10000 µg/l Agua fresca Agudo CL50 5600 ppm Agua fresca Crónico NOEC 4.95 mg/l Agua de mar Crónico NOEC 0.016 ml/L Agua fresca Crónico NOEC 0.1 ml/L Agua fresca | Pez - Menidia beryllina Pez - Pimephales promelas Dafnia - Daphnia magna Pez - Pimephales promelas - Embrión Algas - Skeletonema costatum Dafnia - Daphnia magna - Larva Pez - Pimephales promelas Algas - Ulva pertusa Crustáceos - Gammarus pulex Dafnia - Daphnia magna Pez - Poecilia reticulata Algas - Ulva pertusa Crustáceos - Daphniidae Dafnia - Daphnia magna - Neonato | 96 horas 96 horas 21 días 33 días 96 horas 48 horas 96 horas 96 horas 48 horas 48 horas 96 horas 96 horas 21 días 21 días |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 11,
+  "bbox_pt": [
+   32.68608093261719,
+   577.1986083984375,
+   561.046875,
+   680.7981567382812
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente                                                             | LogPow                 | FBC       | Potencial                |\n|----------------------------------------------------------------------------------------------|------------------------|-----------|--------------------------|\n| Acetato de n-butilo acetato de 1-metil- 2-metoxietilo 4-metil-2-pentanona butanona propanona | 2.3 0.56 1.9 0.3 -0.23 | - - - - - | bajo bajo bajo bajo bajo |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 12,
+  "bbox_pt": [
+   32.42802047729492,
+   340.83294677734375,
+   561.1219482421875,
+   569.5637817382812
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 14,
+  "markdown": "|                                        | Clasificación DOT                        | Clasificación para el TDG   | Clasificación de México   | IMDG                   | IATA                |\n|----------------------------------------|------------------------------------------|-----------------------------|---------------------------|------------------------|---------------------|\n| UN1263                                 | UN1263                                   | UN1263                      | UN1263                    | UN1263                 | Número ONU          |\n| PARA Designación oficial de transporte | PRODUCTOS PINTURA PRODUCTOS PARA PINTURA | PRODUCTOS PARA PINTURA      | PRODUCTOS PARA PINTURA    | PRODUCTOS PARA PINTURA |                     |\n| Clase(s) relativas al transporte       | 3 3                                      | 3                           | 3                         | 3                      |                     |\n| II                                     | II                                       | II                          | II                        | II                     | Grupo de embalaje   |\n| No.                                    | No.                                      | No.                         | No.                       | No.                    | Riesgos ambientales |"
+ }
+]

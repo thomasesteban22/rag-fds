@@ -1,0 +1,254 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   16.898534774780273,
+   325.8534851074219,
+   545.0059204101562,
+   424.5151062011719
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente   | Número de CAS   | Concentración   |\n|--------------------------|-----------------|-----------------|\n| xileno                   | 1330-20-7       | ≥10 - ≤15       |\n| 2-butoxietanol           | 111-76-2        | ≤10             |\n| 2-metilpropan-1-ol       | 78-83-1         | ≤4              |\n| etilbenceno              | 100-41-4        | ≤5              |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 5,
+  "bbox_pt": [
+   21.765151977539062,
+   426.7989196777344,
+   545.0907592773438,
+   607.572998046875
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente   | Límites de exposición                                                                                                 |\n|--------------------------|-----------------------------------------------------------------------------------------------------------------------|\n| xileno                   | ACGIH TLV (Estados Unidos, 1/2022). [xylene] STEL: 651 mg/m³ 15 minutos. TWA: 434 mg/m³ 8 horas. TWA: 20 ppm 8 horas. |\n| 2-butoxietanol           | ACGIH TLV (Estados Unidos, 1/2022). TWA: 20 ppm 8 horas.                                                              |\n| 2-metilpropan-1-ol       | ACGIH TLV (Estados Unidos, 1/2022). TWA: 152 mg/m³ 8 horas. TWA: 50 ppm 8 horas.                                      |\n| etilbenceno              | ACGIH TLV (Estados Unidos, 1/2022). Ototóxico. TWA: 20 ppm 8 horas.                                                   |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 6,
+  "bbox_pt": [
+   20.848918914794922,
+   76.02044677734375,
+   542.5953369140625,
+   529.5512084960938
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Medidas higiénicas :              | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para eliminar ropa contaminada. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                                                                                                                                                                                                                                                                                  |\n|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de los ojos/la cara :  | Se debe usar un equipo protector ocular que cumpla con las normas aprobadas cuando una evaluación del riesgo indique que es necesario, a fin de evitar toda exposición a salpicaduras del líquido, lloviznas, gases o polvos. Si es posible el contacto, se debe utilizar la siguiente protección, salvo que la valoración indique un grado de protección más alto: gafas contra salpicaduras químicas y/o pantalla facial. Si existe riesgo de inhalación, puede ser necesario utilizar en su lugar un respirador con careta completa.                                                                                                                                                                       |\n| Protección de la piel             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n| Protección de las manos :         | Si una evaluación del riesgo indica que es necesario, se deben usar guantes químico-resistentes e impenetrables que cumplan con las normas aprobadas siempre que se manejen productos químicos. Tomando en consideración los parámetros especificados por el fabricante de los guantes, comprobar durante el uso que los guantes siguen conservando sus propiedades protectoras. Hay que observar que el tiempo de paso de cualquier material utilizado con guantes puede ser diferente para distintos fabricantes de guantes. En el caso de mezclas, consistentes en varias sustancias, no es posible estimar de manera exacta, el tiempo de protección que ofrecen los guantes.                             |\n| Protección corporal :             | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n| Otro tipo de protección cutánea : | Se deben elegir el calzado adecuado y cualquier otra medida de protección cutánea necesaria dependiendo de la tarea que se lleve a cabo y de los riesgos implicados. Tales medidas deben ser aprobadas por un especialista antes de proceder a la manipulación de este producto.                                                                                                                                                                                                                                                                                                                                                                                                                              |\n| Protección respiratoria :         | Basándose en la evaluación de los riesgos y la exposición, seleccionar un respirador que satisfaga los estándares o certificaciones apropiados. Los respiradores deben usarse de conformidad con un programa de protección respiratoria para asegurar su adecuación, formación y otros aspectos del buen uso. Llevar un respirador conforme a la norma EN140 con filtro de tipo A/P2 o mejor. El lijado en seco, el cortado con llama y/o el soldado de películas secas de pintura producirá polvo y/o humos nocivos. Un lijado o matizado húmedos son preferibles si es posible. Si no puede evitarse la exposición por la ventilación de extracción debe usarse adecuado equipo de protección respiratoria. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 7,
+  "bbox_pt": [
+   169.8879852294922,
+   149.2656707763672,
+   499.5610656738281,
+   233.77587890625
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente   | Presión de vapor a 20 ºC - mm Hg   | Presión de vapor a 20 ºC - kPa   | Presión de vapor a 20 ºC - Método   |\n|--------------------------|------------------------------------|----------------------------------|-------------------------------------|\n| 2-metilpropan-1-ol       | <12                                | <1.6                             | DIN EN 13016-2                      |\n| etilbenceno              | 9.3                                | 1.2                              |                                     |\n| xileno                   | 6.7                                | 0.89                             |                                     |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 7,
+  "bbox_pt": [
+   25.252578735351562,
+   280.64471435546875,
+   545.1920776367188,
+   315.1562805175781
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 7,
+  "bbox_pt": [
+   24.608413696289062,
+   371.103759765625,
+   383.1598815917969,
+   436.491943359375
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente   |   °C |    °F |\n|--------------------------|------|-------|\n| 2-butoxietanol           |  230 |   446 |\n| 2-metilpropan-1-ol       |  415 |   779 |\n| xileno                   |  432 | 809.6 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 8,
+  "bbox_pt": [
+   21.82710838317871,
+   160.19650268554688,
+   544.61669921875,
+   784.2007446289062
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente            | Resultado                                                                                                                                                                                                                                                                                                                                                                                                          | Especies                                                                                                      | Dosis                                                                                                                                                                                             | Exposición                                                    |\n|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|\n| xileno 2-butoxietanol                        | DL50 Oral DL50 Subcutánea CL50 Por inhalación Gas. CL50 Por inhalación Gas. CL50 Por inhalación Vapor CL50 Por inhalación Vapor DL50 Cutánea DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intravenosa DL50 Intravenosa DL50 Intravenosa DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Ruta de exposición sin informar DL50 Ruta de exposición sin | Rata Rata Ratón Rata Ratón Rata Cobaya Conejo Ratón Conejo Rata Ratón Conejo Rata Ratón Ratón Rata Rata Ratón | 4300 mg/kg 1700 mg/kg 700 ppm 450 ppm 3380 mg/m³ 2900 mg/m³ 230 uL/kg 220 mg/kg 536 mg/kg 220 mg/kg 220 mg/kg 1130 mg/kg 252 mg/kg 307 mg/kg 1200 mg/kg 1230 mg/kg 1167 mg/kg 300 mg/kg 320 mg/kg | - - 7 horas 4 horas 7 horas 7 horas - - - - - - - - - - - - - |\n| 2-metilpropan-1-ol                           | informar CL50 Por inhalación Vapor CL50 Por inhalación Vapor CL50 Por inhalación Vapor CL50 Por inhalación Vapor DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal                                                                                                                                                                                                                                            | Cobaya Conejo Conejo Rata Cobaya Ratón Conejo Rata Conejo Ratón Ratón                                         | 917 mg/kg 250 mg/kg 1050 mg/kg 917 mg/kg 19900 mg/m³ 15500 mg/m³ 2630 mg/m³ 19200 mg/m³ 3400 mg/kg                                                                                                | - - - - 4 horas 2 horas 4 horas 4 horas - -                   |\n| Urea, polímero con formaldehido, isobutilado | DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intravenosa DL50 Intravenosa DL50 Oral DL50 Oral DL50 Oral CL50 Por inhalación Gas. CL50 Por inhalación Vapor CL50 Por inhalación Vapor DL50 Cutánea DL50 Cutánea DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Cutánea                                                                                                                        | Cobaya Conejo Rata Ratón Rata Ratón Conejo Rata Conejo Ratón Rata Conejo Conejo Ratón Rata Rata Conejo        | 1201 mg/kg 544 mg/kg 544 mg/kg 323 mg/kg 720 mg/kg 417 mg/kg 340 mg/kg 3500 mg/kg 74.1 mg/kg 2460 mg/kg 4000 ppm 35500 mg/m³ 55000 mg/m³ >5000 mg/kg 3500 mg/kg >5 g/kg                           | - - - - - - - - - 4 horas 2 horas 2 horas - - - - - -         |\n| etilbenceno                                  | DL50 Oral                                                                                                                                                                                                                                                                                                                                                                                                          | Rata                                                                                                          | 17800 uL/kg 2624 uL/kg 3500 mg/kg >5 g/kg                                                                                                                                                         | -                                                             |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 9,
+  "bbox_pt": [
+   21.891706466674805,
+   91.16985321044922,
+   544.5713500976562,
+   309.23309326171875
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                                                                            | Especies                                                     | Puntuación          | Exposición                                                                                               | Observación     |\n|-------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------------------------|-----------------|\n| xileno                              | Ojos - Irritante leve Ojos - Muy irritante Piel - Irritante leve Piel - Irritante moderado Piel - Irritante moderado | Conejo Conejo Rata Conejo Conejo Conejo Conejo Conejo Conejo | - - - - - - - - - - | 87 mg 24 horas 5 mg 8 horas 60 Ul 100 % 24 horas 500 mg 24 horas 100 mg 100 mg 500 mg 500 mg 24 horas 15 | - - - - - - - - |\n| 2-butoxietanol                      | Ojos - Irritante moderado                                                                                            |                                                              |                     |                                                                                                          |                 |\n| etilbenceno                         | Ojos - Muy irritante Piel - Irritante leve Ojos - Muy irritante Piel - Irritante leve                                | Conejo                                                       |                     | mg                                                                                                       | - -             |\n| Urea, polímero con                  | Ojos - Muy irritante                                                                                                 | Conejo                                                       | -                   | 24 horas Ul                                                                                              | -               |\n| formaldehido, isobutilado           |                                                                                                                      |                                                              |                     | 100                                                                                                      |                 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   27.756994247436523,
+   430.02691650390625,
+   545.1923217773438,
+   487.4395446777344
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | IARC   |\n|-------------------------------------|--------|\n| xileno                              | 3      |\n| 2-butoxietanol                      | 3      |\n| etilbenceno                         | 2B     |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 9,
+  "bbox_pt": [
+   22.244386672973633,
+   574.2008056640625,
+   544.8023681640625,
+   666.3925170898438
+  ],
+  "filas": 3,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre             | Categoría               | Vía de exposición   | Órganos destino                                         |\n|--------------------|-------------------------|---------------------|---------------------------------------------------------|\n| xileno             | Categoría 3             | -                   | Irritación de las vías respiratorias                    |\n| 2-metilpropan-1-ol | Categoría 3 Categoría 3 | -                   | Irritación de las vías respiratorias Efectos narcóticos |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   22.171436309814453,
+   683.9308471679688,
+   545.0184936523438,
+   732.8156127929688
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre      | Categoría   | Vía de exposición   | Órganos destino   |\n|-------------|-------------|---------------------|-------------------|\n| etilbenceno | Categoría 2 | -                   | órganos auditivos |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   21.488969802856445,
+   76.73963165283203,
+   545.900390625,
+   122.71709442138672
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre             | Resultado                                                                 |\n|--------------------|---------------------------------------------------------------------------|\n| xileno etilbenceno | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 11,
+  "bbox_pt": [
+   21.806236267089844,
+   77.06053161621094,
+   545.1895141601562,
+   181.16490173339844
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                  | Oral (mg/ kg)        | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|--------------------------------------------------------------------|----------------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| Producto tal y como suministrado xileno 2-butoxietanol etilbenceno | 19521.7 N/A 1200 N/A | 8173 1100 N/A N/A | N/A N/A N/A N/A            | 48.3 11 11 11                 | N/A N/A N/A N/A                        |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 11,
+  "bbox_pt": [
+   16.836328506469727,
+   253.2107391357422,
+   544.8916625976562,
+   788.766845703125
+  ],
+  "filas": 28,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                                                                                                                              | Especies                                                                                                                                                                             | Exposición                                                                                                                                                                                                                              |\n|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| xileno                              | Agudo EC50 90 mg/l Agua fresca Agudo CL50 8.5 ppm Agua marina Agudo CL50 1430000 µg/l Agua fresca Agudo CL50 1510000 µg/l Agua fresca Crónico NOEC 20 mg/l Agua fresca | Crustáceos - Cypris subglobosa Crustáceos - Palaemonetes pugio - Adulto Crustáceos - Palaemonetes Pescado - Pimephales promelas Pescado - Pimephales promelas Dafnia - Daphnia magna | 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 96 horas 48 horas 48 horas 96 horas 96 horas 48 horas 48 horas 48 horas 48 horas 96 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 21 días 21 días |\n|                                     | Agudo CL50 8500 µg/l Agua marina                                                                                                                                       | pugio                                                                                                                                                                                |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 16940 µg/l Agua fresca                                                                                                                                      | Pescado - Carassius auratus Pescado - Lepomis macrochirus                                                                                                                            |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 15700 µg/l Agua fresca                                                                                                                                      | - Juvenil (Nuevo, Cría, Destetado) Pescado - Lepomis macrochirus                                                                                                                     |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 20870 µg/l Agua fresca Agudo CL50 19000 µg/l Agua fresca                                                                                                    |                                                                                                                                                                                      |                                                                                                                                                                                                                                         |\n|                                     |                                                                                                                                                                        | Pescado - Lepomis macrochirus                                                                                                                                                        |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 13400 µg/l Agua fresca                                                                                                                                      | Pescado - Pimephales promelas                                                                                                                                                        |                                                                                                                                                                                                                                         |\n| 2-butoxietanol                      | Agudo EC50 >1000 mg/l Agua fresca                                                                                                                                      | Dafnia - Daphnia magna                                                                                                                                                               |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 800000 µg/l Agua marina                                                                                                                                     | Crustáceos - Crangon crangon                                                                                                                                                         |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 1490000 µg/l Agua fresca                                                                                                                                    | Pescado - Lepomis macrochirus                                                                                                                                                        |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 1250000 µg/l Agua marina                                                                                                                                    | Pescado - Menidia beryllina                                                                                                                                                          |                                                                                                                                                                                                                                         |\n| 2-metilpropan-1-ol                  | Agudo EC50 1200000 µg/l Agua fresca                                                                                                                                    | Crustáceos - Ceriodaphnia reticulata - Larva                                                                                                                                         |                                                                                                                                                                                                                                         |\n|                                     | Agudo EC50 1439 mg/l Agua fresca Agudo EC50 1300000 µg/l Agua fresca                                                                                                   | Dafnia - Daphnia magna                                                                                                                                                               |                                                                                                                                                                                                                                         |\n|                                     | Agudo EC50 1100000 µg/l Agua fresca                                                                                                                                    | Dafnia - Daphnia magna - Larva Dafnia - Daphnia pulex - Larva                                                                                                                        |                                                                                                                                                                                                                                         |\n|                                     | Agudo EC50 1460 mg/l Agua fresca                                                                                                                                       | Pescado - Pimephales promelas                                                                                                                                                        |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 600 mg/l Agua marina                                                                                                                                        | Crustáceos - Artemia salina                                                                                                                                                          |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 1190000 µg/l Agua fresca                                                                                                                                    | Dafnia - Daphnia magna -                                                                                                                                                             |                                                                                                                                                                                                                                         |\n|                                     |                                                                                                                                                                        | Neonato Dafnia - Daphnia magna -                                                                                                                                                     |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 1030000 µg/l Agua fresca                                                                                                                                    | Neonato                                                                                                                                                                              |                                                                                                                                                                                                                                         |\n|                                     | Agudo CL50 1460000 µg/l Agua fresca Agudo CL50 1330000 µg/l Agua fresca                                                                                                | Pescado - Ictalurus punctatus Pescado - Oncorhynchus mykiss                                                                                                                          |                                                                                                                                                                                                                                         |\n| etilbenceno                         | Crónico NOEC 4000 µg/l Agua fresca Agudo EC50 4600 µg/l Agua fresca                                                                                                    | Dafnia - Daphnia magna Algas - Pseudokirchneriella subcapitata                                                                                                                       | 72 horas                                                                                                                                                                                                                                |\n|                                     | Agudo EC50 5400 µg/l Agua fresca                                                                                                                                       | Algas - Pseudokirchneriella subcapitata                                                                                                                                              | 72 horas                                                                                                                                                                                                                                |\n|                                     | Agudo EC50 3600 µg/l Agua                                                                                                                                              | Algas - Pseudokirchneriella                                                                                                                                                          | 96 horas                                                                                                                                                                                                                                |\n|                                     | fresca                                                                                                                                                                 | subcapitata                                                                                                                                                                          |                                                                                                                                                                                                                                         |\n|                                     | Agudo EC50 4900 µg/l Agua marina Agudo EC50 7700 µg/l Agua marina Agudo EC50 6.53 mg/l Agua marina                                                                     | Algas - Skeletonema costatum Algas - Skeletonema costatum Crustáceos - Artemia sp. -                                                                                                 | 72 horas 96 horas 48 horas                                                                                                                                                                                                              |\n|                                     | EC50 13.3 mg/l Agua                                                                                                                                                    | Nauplio Crustáceos - Artemia sp. -                                                                                                                                                   | 48 horas                                                                                                                                                                                                                                |\n|                                     | Agudo marina                                                                                                                                                           |                                                                                                                                                                                      |                                                                                                                                                                                                                                         |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 12,
+  "bbox_pt": [
+   16.245079040527344,
+   74.30098724365234,
+   546.5074462890625,
+   328.4376525878906
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Agudo EC50 2.97 mg/l Agua fresca Agudo EC50 2.93 mg/l Agua fresca Agudo CL50 8.78 mg/l Agua marina Agudo CL50 13.3 mg/l Agua marina Agudo CL50 40000 µg/l Agua marina Agudo CL50 18.4 mg/l Agua fresca Agudo CL50 13.9 mg/l Agua fresca Agudo CL50 75000 µg/l Agua fresca Agudo CL50 5100 µg/l Agua marina Agudo CL50 4.3 ul/L Agua marina Agudo CL50 4200 µg/l Agua fresca Agudo CL50 9090 µg/l Agua fresca Agudo CL50 9100 µg/l Agua fresca   | Nauplio Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Crustáceos - Artemia sp. - Nauplio Crustáceos - Artemia sp. - Nauplio Crustáceos - Cancer magister - Zoea Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna Pescado - Menidia menidia Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus mykiss Pescado - Pimephales promelas Pescado - Pimephales promelas   | 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 96 horas   |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 12,
+  "bbox_pt": [
+   16.856224060058594,
+   403.5191345214844,
+   545.16943359375,
+   483.64605712890625
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   |   LogPow | FBC        | Potencial   |\n|-------------------------------------|----------|------------|-------------|\n| xileno                              |     3.12 | 8.1 a 25.9 | bajo        |\n| 2-butoxietanol                      |     0.81 | -          | bajo        |\n| 2-metilpropan-1-ol                  |        1 | -          | bajo        |\n| etilbenceno                         |      3.6 | -          | bajo        |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 13,
+  "bbox_pt": [
+   15.980475425720215,
+   79.94509887695312,
+   545.4129638671875,
+   289.1524353027344
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                     | Carretera - UN   | Marítimo - IMDG   | Aéreo - IATA                |\n|-------------------------------------|------------------|-------------------|-----------------------------|\n| Número ONU No regulado.             | No regulado.     | Not regulated.    |                             |\n| - oficial de transporte de las      | -                | -                 | Designación                 |\n| - Naciones Unidas transporte        | -                | -                 | Clase(s) de peligro para el |\n| -                                   | -                | -                 | Grupo de embalaje           |\n| Peligros para el medio ambiente No. |                  | No.               | No.                         |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 14,
+  "bbox_pt": [
+   17.38289451599121,
+   360.45172119140625,
+   544.9425659179688,
+   406.1210632324219
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                      | Justificación                       |\n|--------------------------------------------------------------------|-------------------------------------|\n| IRRITACIÓN CUTÁNEA - Categoría 2 LESIÓN OCULAR GRAVE - Categoría 1 | Método de cálculo Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior."
+ }
+]

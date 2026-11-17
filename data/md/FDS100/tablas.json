@@ -1,0 +1,240 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.77456665039062,
+   388.1893310546875,
+   547.8969116210938,
+   561.1577758789062
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                                                                                                  | Concentración   |\n|------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 64742-88-7       | Nafta disolvente (petróleo), fracción alifática intermedia Acuático agudo. 3: H402; Acuático crónico. 4: H413; Liq. Infl. 3: H226; STOT única 3: H336; Tox. Asp. 2: H305 - Atención                           | 25 - <50 %      |\n| CAS:             | 85-44-9          | Anhídrido ftálico Irrit. Cut. 2: H315; Les. Oc. 1: H318; Sens. Cut. 1: H317; Sens. Resp.1: H334; STOT única 3: H335; Tox. Agud. 4: H302 - Peligro                                                             | 10 - <25 %      |\n| CAS:             | 136-52-7         | Bis(2-etilhexanoato) de cobalto Acuático agudo. 1: H400; Acuático crónico. 3: H412; Carc. 2: H351; Irrit. oc. 2: H319; Repr. 1B: H360; Sens. Cut. 1A: H317 - Peligro                                          | <2,5 %          |\n| CAS:             | 8032-32-4        | Ligroína Carc. 1B: H350; Irrit. Cut. 2: H315; Irrit. oc. 2: H319; Liq. Infl. 4: H227; Muta. 1B: H340; Repr. 1B: H360; STOT repe. 2: H373; STOT única 3: H335; STOT única 3: H336; Tox. Asp. 1: H304 - Peligro | <2,5 %          |\n| CAS:             | 96-29-7          | Oxima de 2-butanona Carc. 2: H351; Les. Oc. 1: H318; Sens. Cut. 1: H317; Tox. Agud. 4: H312 - Peligro                                                                                                         | <2,5 %          |\n| CAS:             | 108-31-6         | Anhídrido maleico Corr. Cut. 1B: H314; Les. Oc. 1: H318; Sens. Cut. 1A: H317; Sens. Resp.1: H334; STOT repe. 1: H372; Tox. Agud. 4: H302 - Peligro                                                            | <2,5 %          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 5,
+  "bbox_pt": [
+   72.17535400390625,
+   155.38153076171875,
+   548.5609741210938,
+   219.43174743652344
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Anhídrido ftálico   | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales - 2 ppm   | Valores límite ambientales - 12 mg/m³   |\n|--------------------------------------|-----------------------------------------------|--------------------------------------|-----------------------------------------|\n| CAS: 85-44-9                         | Ceiling Values - TWA PEL                      |                                      |                                         |\n| Anhídrido maleico                    | 8-hour TWA PEL                                | 0,25 ppm                             | 1 mg/m³                                 |\n| CAS: 108-31-6                        | Ceiling Values - TWA PEL                      |                                      |                                         |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   72.38053131103516,
+   236.99395751953125,
+   548.6932373046875,
+   286.67681884765625
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación    | Valores límite ambientales   | Valores límite ambientales   |\n|-------------------|------------------------------|------------------------------|\n| Anhídrido ftálico | TLV-TWA                      | 1 ppm                        |\n| CAS: 85-44-9      | TLV-STEL                     |                              |\n| Anhídrido maleico | TLV-TWA                      | 0,1 ppm                      |\n| CAS: 108-31-6     | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   85.54168701171875,
+   442.91680908203125,
+   548.8992919921875,
+   516.7219848632812
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                                         | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores (Filtro tipo: A) | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   85.68582916259766,
+   529.5634765625,
+   548.4158935546875,
+   602.5818481445312
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPP                                                                                                   | Observaciones                                                                                                 |\n|-------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes de protección química (Material: Nitrilo, Tiempo de penetración: > 480 min, Espesor: 0,11 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.652099609375,
+   636.8540649414062,
+   548.4354858398438,
+   706.3839111328125
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   85.94915771484375,
+   129.98228454589844,
+   548.2098388671875,
+   262.36181640625
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                                                       |\n|------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                          |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   86.56280517578125,
+   297.0144958496094,
+   547.8632202148438,
+   353.6387634277344
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   72.65074157714844,
+   663.8141479492188,
+   547.8920288085938,
+   686.6969604492188
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   73.1228256225586,
+   704.5391235351562,
+   548.0921630859375,
+   727.097900390625
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar                 | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   72.39097595214844,
+   129.7212371826172,
+   547.83056640625,
+   334.9799499511719
+  ],
+  "filas": 17,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                             | Toxicidad aguda         | Toxicidad aguda   | Género   |\n|------------------------------------------------------------|-------------------------|-------------------|----------|\n| Anhídrido ftálico CAS: 85-44-9                             | DL50 oral               | 1530 mg/kg        | Rata     |\n|                                                            | DL50 cutánea            |                   |          |\n|                                                            | CL50 inhalación         |                   |          |\n|                                                            | CL50 Inhalación polvos  |                   |          |\n| Nafta disolvente (petróleo), fracción alifática intermedia | DL50 oral               | >5000 mg/kg       | Rata     |\n| CAS: 64742-88-7                                            | DL50 cutánea            |                   |          |\n|                                                            | CL50 inhalación         |                   |          |\n|                                                            | CL50 inhalación vapores |                   |          |\n| Oxima de 2-butanona                                        | DL50 oral               | 100 mg/kg         |          |\n| CAS: 96-29-7                                               | DL50 cutánea            | 1100 mg/kg        |          |\n|                                                            | CL50 inhalación         |                   |          |\n|                                                            | CL50 inhalación vapores |                   |          |\n| Anhídrido maleico                                          | DL50 oral               | 1090 mg/kg        | Rata     |\n| CAS: 108-31-6                                              | DL50 cutánea            |                   |          |\n|                                                            | CL50 inhalación         |                   |          |\n|                                                            | CL50 Inhalación polvos  |                   |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 9,
+  "bbox_pt": [
+   72.8534927368164,
+   428.1283264160156,
+   548.0823364257812,
+   548.3121337890625
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Concentración   | Concentración     | Especie                         | Género    |\n|---------------------------------|-----------------|-------------------|---------------------------------|-----------|\n| Anhídrido ftálico               | CL50            | No relevante      |                                 |           |\n| CAS: 85-44-9                    | CE50            | No relevante      |                                 |           |\n|                                 | CE50            | 60 mg/L (96 h)    | Pseudokirchneriella subcapitata | Alga      |\n| Bis(2-etilhexanoato) de cobalto | CL50            | No relevante      |                                 |           |\n| CAS: 136-52-7                   | CE50            | No relevante      |                                 |           |\n|                                 | CE50            | 0,144 mg/L (72 h) | Pseudokirchneriella subcapitata | Alga      |\n| Oxima de 2-butanona             | CL50            | 843 mg/L (96 h)   | Pimephales promelas             | Pez       |\n| CAS: 96-29-7                    | CE50            | 750 mg/L (48 h)   | Daphnia magna                   | Crustáceo |\n|                                 | CE50            | 83 mg/L (72 h)    | Scenedesmus subspicatus         | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 9,
+  "bbox_pt": [
+   72.85346984863281,
+   563.3690185546875,
+   548.1975708007812,
+   624.7432861328125
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Concentración   | Concentración   | Especie             | Género    |\n|---------------------|-----------------|-----------------|---------------------|-----------|\n| Anhídrido ftálico   | NOEC            | 10 mg/L         | Oncorhynchus mykiss | Pez       |\n| CAS: 85-44-9        | NOEC            | 16 mg/L         | Daphnia magna       | Crustáceo |\n| Oxima de 2-butanona | NOEC            | 50 mg/L         | Oryzias latipes     | Pez       |\n| CAS: 96-29-7        | NOEC            | 100 mg/L        | Daphnia magna       | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   72.69904327392578,
+   653.6538696289062,
+   548.0172119140625,
+   740.622314453125
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Anhídrido ftálico   | Degradabilidad - DBO5   | Degradabilidad - No relevante   | Biodegradabilidad - Concentración   | Biodegradabilidad - 100 mg/L   |\n|--------------------------------------|-------------------------|---------------------------------|-------------------------------------|--------------------------------|\n| CAS: 85-44-9                         | DQO                     | No relevante                    | Periodo                             | 14 días                        |\n|                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 85,2 %                         |\n| Bis(2-etilhexanoato) de cobalto      | DBO5                    | No relevante                    | Concentración                       | 10 mg/L                        |\n| CAS: 136-52-7                        | DQO                     | No relevante                    | Periodo                             | 10 días                        |\n|                                      | DBO5/DQO                | No relevante                    | % Biodegradado                      | 60 %                           |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 10,
+  "bbox_pt": [
+   72.39390563964844,
+   130.07620239257812,
+   547.6112670898438,
+   215.16339111328125
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|---------------------|------------------|------------------|---------------------|---------------------|\n| Oxima de 2-butanona | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 96-29-7        | DQO              | No relevante     | Periodo             | 28 días             |\n|                     | DBO5/DQO         | No relevante     | % Biodegradado      | 24 %                |\n| Anhídrido maleico   | DBO5             | No relevante     | Concentración       | 33,33 mg/L          |\n| CAS: 108-31-6       | DQO              | No relevante     | Periodo             | 29 días             |\n|                     | DBO5/DQO         | No relevante     | % Biodegradado      | 98,19 %             |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   72.38204193115234,
+   243.35768127441406,
+   548.2605590820312,
+   364.4505920410156
+  ],
+  "filas": 10,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|---------------------------------|-------------------------------|-------------------------------|\n| Bis(2-etilhexanoato) de cobalto | BCF                           | 23                            |\n| CAS: 136-52-7                   | Log POW                       |                               |\n| CAS: 136-52-7                   | Potencial                     | Bajo                          |\n| Oxima de 2-butanona             | BCF                           | 5                             |\n| CAS: 96-29-7                    | Log POW                       | 0,59                          |\n| CAS: 96-29-7                    | Potencial                     | Bajo                          |\n| Anhídrido maleico               | BCF                           |                               |\n| CAS: 108-31-6                   | Log POW                       | -2,61                         |\n| CAS: 108-31-6                   | Potencial                     |                               |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 10,
+  "bbox_pt": [
+   72.45277404785156,
+   378.4393615722656,
+   547.62060546875,
+   509.8948669433594
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Anhídrido ftálico - CAS: 85-44-9   | Absorción/Desorción - Koc - Conclusión - Tensión superficial   | Absorción/Desorción - 36 - Muy Alto - 1,531E-2 N/m (324,43 ºC)   | Volatilidad - Henry - Suelo seco - Suelo húmedo   | Volatilidad - No relevante   |\n|-----------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------|------------------------------|\n| Oxima de 2-butanona                                 | Koc                                                            | 3                                                                | Henry                                             | No relevante                 |\n| CAS: 96-29-7                                        | Conclusión                                                     | Muy Alto                                                         | Suelo seco                                        | No relevante                 |\n|                                                     | Tensión superficial                                            | 2,57E-2 N/m (25 ºC)                                              | Suelo húmedo                                      | No relevante                 |\n| Anhídrido maleico                                   | Koc                                                            | 42                                                               | Henry                                             | 0E+0 Pa·m³/mol               |\n| CAS: 108-31-6                                       | Conclusión                                                     | Muy Alto                                                         | Suelo seco                                        | No relevante                 |\n|                                                     | Tensión superficial                                            | 1,673E-2 N/m (250,21 ºC)                                         | Suelo húmedo                                      | No relevante                 |"
+ }
+]

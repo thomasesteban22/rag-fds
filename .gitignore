@@ -1,0 +1,17 @@
+# Entorno y secretos
+.venv/
+.env
+.claude/
+__pycache__/
+*.pyc
+
+# Corpus original (se distribuye aparte; ver README)
+data/fds_pdf/
+
+# Índice vectorial (se reconstruye con python -m rag_fds.index)
+data/chroma/
+
+# Logs locales
+logs/*.log
+tmp/
+logs/

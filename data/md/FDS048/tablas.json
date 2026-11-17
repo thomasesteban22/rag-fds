@@ -1,0 +1,324 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   43.86433410644531,
+   268.4643859863281,
+   572.3583374023438,
+   306.0692443847656
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 1,
+  "markdown": "| Restricciones de uso   | Motivo   |\n|------------------------|----------|\n| No aplicable.          |          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   40.548553466796875,
+   72.7174072265625,
+   570.275390625,
+   209.69522094726562
+  ],
+  "filas": 8,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente                                                                                                                                                                        | %          | Número CAS   |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|\n| undecaóxido de hexaboro y dicinc                                                                                                                                                             | 20 - <30   | 12767-90-7   |\n| Dodecanedioic acid, polymer with 2,2'-[1,4-butanediylbis(oxymethylene)] bis[oxirane], (chloromethyl)oxirane, 4,4'-(1-methylethylidene)bis[phenol], nonanedioic acid and 2,2'-oxybis[ethanol] | 20 - <30   | 139651-91-5  |\n| Borate(5-), bis[μ-oxotetraoxodiborato(4-)]-, ammonium tetrahydrogen, dihydrate, (T-4)-                                                                                                       | 15 - <20   | 12046-04-7   |\n| phosphorous oxychloride, reaction products with propylene oxide                                                                                                                              | 12.5 - <15 | 1244733-77-4 |\n| 2,2'-[(1-metiletiliden)bis(4,1-fenilenoximetilen)]bisoxirano                                                                                                                                 | 7 - <10    | 1675-54-3    |\n| ácidos polifosfóricos, sales de amonio                                                                                                                                                       | 3 - <5     | 68333-79-9   |\n| Vidrio, óxido, sustancias químicas                                                                                                                                                           | 1 - <2     | 65997-17-3   |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   44.985836029052734,
+   343.17626953125,
+   563.58203125,
+   464.8700256347656
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Quítese los lentes de contacto, lavar inmediatamente con abundante agua fresca y limpia, manteniendo los párpados separados durante al menos 10 minutos y busque atención médica inmediata.                            |\n|-------------------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Traslade al aire libre. Mantenga a la persona caliente y en reposo. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. |\n| Contacto con la piel    | :   | Quítese la ropa y calzado contaminados. Lavar perfectamente la piel con agua y jabón, o con un limpiador cutáneo reconocido. NO utilizar disolventes ni diluyentes.                                                    |\n| Ingestión               | :   | En caso de ingestión, acúdase inmediatamente al médico y muéstrele la etiqueta o el envase. Mantenga a la persona caliente y en reposo. No provocar el vómito.                                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   38.194427490234375,
+   77.88672637939453,
+   563.5551147460938,
+   376.0473937988281
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 5,
+  "markdown": "| Medios de extinción                                                         |    |                                                                                                                                                                                                                                                                                                                                                               |\n|-----------------------------------------------------------------------------|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Medios de extinción apropiados                                              | :  | Use un agente de extinción adecuado para el incendio circundante.                                                                                                                                                                                                                                                                                             |\n| Medios no apropiados de extinción                                           | :  | No se conoce ninguno.                                                                                                                                                                                                                                                                                                                                         |\n| Peligros específicos de la sustancia química peligrosa o mezcla             | :  | En caso de incendio o calentamiento, ocurrirá un aumento de presión y el recipiente estallará, con el riesgo de que ocurra una explosión. Este material es tóxico para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados. |\n| Productos de descomposición térmica peligrosos                              | :  | Los productos de descomposición pueden incluir los siguientes materiales: óxidos de carbono óxidos del nitrógeno óxidos del fósforo compuestos halógenos. óxido/óxidos metálico/metálicos                                                                                                                                                                     |\n| Medidas especiales que deberán seguir los grupos de combate contra incendio | :  | En caso de incendio, aísle rápidamente la zona evacuando a todas las personas de las proximidades del lugar del incidente. No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado.                                                                                                                       |\n| Equipo de protección especial para los bomberos                             | :  | Los bomberos deben llevar equipo de protección apropiado y un equipo de respiración autónomo con una máscara facial completa que opere en modo de presión positiva.                                                                                                                                                                                           |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   39.82347869873047,
+   440.3256530761719,
+   558.6444702148438,
+   630.7496948242188
+  ],
+  "filas": 3,
+  "columnas": 2,
+  "seccion": 6,
+  "markdown": "| Para personal de no emergencia              | : No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Evacuar los alrededores. No deje que entre el personal innecesario y sin protección. No toque o camine sobre el material derramado. Evite respirar vapor o neblina. Proporcione ventilación adecuada. Llevar un aparato de respiración apropiado cuando el sistema de ventilación sea inadecuado. Llevar puestos equipos de protección personal adecuados. :   |\n|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Para el personal de respuesta a emergencias | Si fuera necesario usar ropa especial para hacer frente al derrame, se tomará en cuenta la información de la Sección 8 sobre los materiales adecuados y no adecuados. Consultar también la información bajo \"Para personal de no emergencia\".                                                                                                                                                                                                                                 |\n| Precauciones relativas al medio ambiente    | : Evite la dispersión del material derramado, su contacto con el suelo, el medio acuático, los desagües y las alcantarillas. Informe a las autoridades pertinentes si el producto ha causado polución medioambiental (alcantarillas, canales, tierra o aire). Material contaminante del agua. Puede ser dañino para el medio ambiente si es liberado en cantidades grandes. Recoger los vertidos.                                                                             |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   38.22494125366211,
+   92.17779541015625,
+   559.6742553710938,
+   275.52642822265625
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 6,
+  "markdown": "| Derrame pequeño   | :   | Detener la fuga si esto no presenta ningún riesgo. Retire los envases del área del derrame. Diluir con agua y fregar si es soluble en agua. Alternativamente, o si es insoluble en agua, absorber con un material seco inerte y colocar en un contenedor de residuos adecuado. Disponga por medio de un contratista autorizado para la disposición.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n|-------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Gran derrame      | :   | Detener la fuga si esto no presenta ningún riesgo. Retire los envases del área del derrame. Aproximarse al vertido en el sentido del viento. Evite la entrada en alcantarillas, canales de agua, sótanos o áreas reducidas. Trate los derrames en una planta de tratamiento de aguas residuales o proceda tal como se indica a continuación. Detener y recoger los derrames con materiales absorbentes no combustibles, como arena, tierra, vermiculita o tierra de diatomeas, y colocar el material en un envase para desecharlo de acuerdo con las normativas locales (ver la Sección 13). Disponga por medio de un contratista autorizado para la disposición. El material absorbente contaminado puede presentar el mismo riesgo que el producto derramado. Nota: Véase la Sección 1 para información de contacto de emergencia y la Sección 13 para eliminación de desechos. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   40.35087966918945,
+   321.3567810058594,
+   564.4111328125,
+   602.0828857421875
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 7,
+  "markdown": "| Precauciones que se deben tomar para garantizar un manejo seguro          | :   | Use el equipo de protección personal adecuado (vea la Sección 8). Las personas con antecedentes de sensibilización cutánea no deben trabajar en ningún proceso en el que se utilice este producto. Evítese la exposición - recábense instrucciones especiales antes del uso. Evite la exposición durante el embarazo. No manipular antes de haber leído y comprendido todas las precauciones de seguridad. No introducir en ojos o en la piel o ropa. No ingerir. Evite respirar vapor o neblina. No dispersar en el medio ambiente. Si durante el uso normal el material representara un peligro respiratorio, garantice ventilación adecuada o use un respirador apropiado. Mantener en el recipiente original o en uno alternativo autorizado hecho de material compatible, conservar herméticamente cerrado cuando no esté en uso. Los envases vacíos retienen resíduos del producto y pueden ser peligrosos. No vuelva a usar el envase.   |\n|---------------------------------------------------------------------------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Condiciones de almacenamiento seguro, incluida cualquier incompatibilidad | :   | Almacénese en el siguiente rango de temperatura: 0 a 35°C (32 a 95°F). Conservar de acuerdo con las normas locales. Almacenar en el contenedor original protegido de la luz directa del sol en un área seca, fresca y bien ventilada, separado de materiales incompatibles (ver Sección 10) y comida y bebida. Guardar bajo llave. Mantener el contenedor bien cerrado y sellado hasta el momento de usarlo. Los envases que han sido abiertos deben cerrarse cuidadosamente y mantenerse en posición vertical para evitar derrames. No almacenar en contenedores sin etiquetar. Utilícese un envase de seguridad adecuado para evitar la contaminación del medio ambiente. Consulte la Sección 10 para obtener información acerca de los materiales no compatibles previo al manejo o uso.                                                                                                                                                     |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   46.152549743652344,
+   105.1817626953125,
+   570.1309204101562,
+   611.6820068359375
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                               | Límites de exposición                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| undecaóxido de hexaboro y dicinc Borate(5-), bis[μ-oxotetraoxodiborato(4-)]-, ammonium tetrahydrogen, dihydrate, (T-4)- Vidrio, óxido, sustancias químicas | undecaóxido de hexaboro y dicinc Borate(5-), bis[μ-oxotetraoxodiborato(4-)]-, ammonium tetrahydrogen, dihydrate, (T-4)- Vidrio, óxido, sustancias químicas                                                                                                                                                                                                                                                    | ACGIH TLV (Estados Unidos, 1/2013). TWA: 10 mg/m³, (Polvo y nieblas) Estado: TWA: 3 mg/m³, (Polvo y nieblas) Estado: Fracción respirable ACGIH TLV (Estados Unidos). TWA: 3 mg/m³ Estado: Polvo respirable TWA: 10 mg/m³ Estado: inhalable dust ACGIH TLV (Estados Unidos). TWA: 1 f/cc Estado: Fibra de vidrio en filamentos continuos TWA: 5 mg/m³, (Inhalable) Estado: Fibra de vidrio en filamentos continuos TWA: 3 mg/m³ Estado: Respirable TWA: 10 mg/m³ Estado: Total dust ACGIH TLV (Estados Unidos, 3/2020). TWA: 5 mg/m³ 8 horas. Estado: Fracción inhalable TWA: 1 f/cc 8 horas. Estado: Respirable fibers: length greater than 5 uM; aspect ratio equal to or greater than 3:1 as determined by the membrane filter method at 400-450X magnification (4-mm objective) phase contrast illumination. |\n| Procedimientos de control recomendados                                                                                                                     | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las :                                                                                    | También se requiere hacer referencia a los                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n| Controles técnicos apropiados :                                                                                                                            | Si la operación genera polvo, humos, gas, vapor o llovizna, use cercamientos del proceso, ventilación local, u otros controles de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos                                                                                                                                                                 | Si la operación genera polvo, humos, gas, vapor o llovizna, use cercamientos del proceso, ventilación local, u otros controles de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n| Control de la exposición medioambiental                                                                                                                    | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. los límites recomendados o estatutarios. | : Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable. los límites recomendados o estatutarios.                                                                                                                                                                                                                                                                                                                                                                                                   |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   43.694766998291016,
+   72.90165710449219,
+   568.6956176757812,
+   428.5847473144531
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Medidas de higiene                                                   | :   | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                           |\n|----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de las manos Protección de los ojos Protección de la piel | : : | Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante Gafas protectoras contra salpicaduras químicas.                                                                                                                                                |\n| Guantes                                                              | :   | el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. caucho butílico                                                                                                                                                                            |\n| Protección del cuerpo                                                | :   | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser                                                                                                                                                                                                                                                                                                                                                      |\n| Otro tipo de protección para la piel                                 | :   | aprobado por un especialista. Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                                                  |\n| Protección de las vías respiratorias                                 | :   | La selección del respirador se debe basar en el conocimiento previo de los niveles, los riesgos de producto y los límites de trabajo de seguridad del respirador seleccionado. Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados. Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario. |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   43.6679573059082,
+   464.06439208984375,
+   567.1010131835938,
+   705.2147827148438
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                       | Resultado                                                  | Especies           | Dosis                                     | Exposición    |\n|-----------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------|-------------------------------------------|---------------|\n| undecaóxido de hexaboro y dicinc                                                        | CL50 Por inhalación Polvo y nieblas DL50 Cutánea DL50 Oral | Rata Conejo Rata   | >5 mg/l >5000 mg/kg >5000 mg/kg           | 4 horas - - - |\n| Borate(5-), bis[μ- oxotetraoxodiborato(4-)]-, ammonium tetrahydrogen, dihydrate, (T-4)- | DL50 Cutánea                                               | Conejo             | >2000 mg/kg                               |               |\n| phosphorous oxychloride, reaction products with propylene oxide                         | DL50 Oral CL50 Por inhalación Polvo y nieblas              | Rata Rata          | 4200 mg/kg >7 mg/l                        | - 4 horas     |\n| 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano                          | DL50 Cutánea DL50 Oral DL50 Cutánea                        | Conejo Rata Conejo | >2000 mg/kg 630 a 2000 mg/ kg 23000 mg/kg | - - -         |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   41.97502899169922,
+   72.38482666015625,
+   568.29150390625,
+   111.49108123779297
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| ácidos polifosfóricos, sales de amonio   | DL50 Oral DL50 Oral   | Rata Rata   | 15000 mg/kg 4.74 g/kg   | - -   |\n|------------------------------------------|-----------------------|-------------|-------------------------|-------|"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 9,
+  "bbox_pt": [
+   43.73899841308594,
+   142.28277587890625,
+   566.7274169921875,
+   280.4565124511719
+  ],
+  "filas": 7,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                    | Resultado                              | Especies      | Puntuación   | Exposición               | Observación   |\n|--------------------------------------------------------------------------------------|----------------------------------------|---------------|--------------|--------------------------|---------------|\n| undecaóxido de hexaboro y dicinc 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] | Ojos - Opacidad corneal                | Conejo Conejo | 33           | 24 horas 0.083g 24 horas | 74 horas      |\n| bisoxirano                                                                           | Ojos - Enrojecimiento de la conjuntiva |               | 0.4          |                          | -             |\n| bisoxirano                                                                           | Ojos - Irritante leve                  | Conejo        | -            | 24 horas                 | -             |\n| bisoxirano                                                                           | Piel - Eritema/Escama                  | Conejo        | 0.8          | 4 horas                  | -             |\n| bisoxirano                                                                           | Piel - Edema                           | Conejo        | 0.5          | 4 horas                  | -             |\n| bisoxirano                                                                           | Piel - Irritante leve                  | Conejo        | -            | 4 horas                  | -             |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 9,
+  "bbox_pt": [
+   43.99213790893555,
+   352.86102294921875,
+   566.8628540039062,
+   420.81396484375
+  ],
+  "filas": 1,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano Nombre del producto o ingrediente   | piel Ruta de exposición   | Ratón Especies   | Sensibilizante Resultado   |\n|----------------------------------------------------------------------------------------------------|---------------------------|------------------|----------------------------|"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   50.43994140625,
+   578.0123291015625,
+   573.6932373046875,
+   670.483154296875
+  ],
+  "filas": 3,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                             | OSHA   |   IARC | NTP   |\n|-------------------------------------------------------------------------------|--------|--------|-------|\n| 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano Vidrio, óxido, | -      |      3 | -     |\n| sustancias químicas                                                           | -      |      3 | -     |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 9,
+  "bbox_pt": [
+   38.766326904296875,
+   707.411865234375,
+   573.0281982421875,
+   727.315673828125
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| Spanish (MX)   | Colombia   | 9/15   |\n|----------------|------------|--------|"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   43.76737594604492,
+   137.9454345703125,
+   566.8858642578125,
+   207.8065948486328
+  ],
+  "filas": 2,
+  "columnas": 7,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Toxicidad materna   | Fertilidad   | Tóxico para el desarrollo   | Especies   | Dosis           | Exposición                 |\n|-------------------------------------|---------------------|--------------|-----------------------------|------------|-----------------|----------------------------|\n| undecaóxido de hexaboro y dicinc    | Positivo            | Positivo     | Positivo                    | Rata       | Oral: 375 mg/kg | 90 días; 7 días por semana |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 12,
+  "bbox_pt": [
+   43.682437896728516,
+   72.86309814453125,
+   567.252685546875,
+   223.85464477539062
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                                       |   Oral (mg/ kg) | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|----------------------------------------------------------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| PITT-CHAR XP BASE WHITE                                                                |          2363.5 | 5067.8            | N/A                        | N/A                           | N/A                                    |\n| Borate(5-), bis[μ-oxotetraoxodiborato(4-)]-, ammonium tetrahydrogen, dihydrate, (T-4)- |            4200 | 2500              | N/A                        | N/A                           | N/A                                    |\n| phosphorous oxychloride, reaction products with propylene oxide                        |             500 | 2500              | N/A                        | N/A                           | N/A                                    |\n| 2,2'-[(1-metiletiliden)bis(4,1-fenilenoximetilen)] bisoxirano                          |           15000 | 23000             | N/A                        | N/A                           | N/A                                    |\n| ácidos polifosfóricos, sales de amonio                                                 |            4740 | N/A               | N/A                        | N/A                           | N/A                                    |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 12,
+  "bbox_pt": [
+   41.05331802368164,
+   306.12164306640625,
+   570.0432739257812,
+   559.5000610351562
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                                                                                                                                                                              | Resultado                                                                                                                                                                                                   | Especies                                                                                                                                | Exposición                                                                               |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|\n| undecaóxido de hexaboro y dicinc Borate(5-), bis[μ- oxotetraoxodiborato(4-)]-, ammonium tetrahydrogen, dihydrate, (T-4)- phosphorous oxychloride, reaction products with propylene oxide 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano ácidos polifosfóricos, sales de amonio | Agudo EC50 76 mg/l Agudo CL50 2.17 mg/l Agudo CL50 >100 mg/l EC50 82 mg/l EC50 131 mg/l CL50 56.2 mg/l NOEC 32 mg/l Agudo CL50 1.8 mg/l Agua fresca Crónico NOEC 0.3 mg/l Agudo EC50 730.5 mg/l Agua fresca | Dafnia - Daphnia magna Pez - Salmo gairdneri Pez Algas Dafnia Pez Dafnia Dafnia - daphnia magna Dafnia Dafnia - Daphnia magna - Neonato | 48 horas 96 horas 96 horas 72 horas 48 horas 96 horas 48 horas 48 horas 21 días 48 horas |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 12,
+  "bbox_pt": [
+   41.516719818115234,
+   586.4996948242188,
+   570.0460205078125,
+   656.066650390625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                              | Período acuático   | Fotólisis   | Biodegradabilidad   |\n|----------------------------------------------------------------|--------------------|-------------|---------------------|\n| 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano | -                  | -           | No inmediatamente   |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 12,
+  "bbox_pt": [
+   38.804847717285156,
+   707.6996459960938,
+   573.0416870117188,
+   727.2982788085938
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Spanish (MX)   | Colombia   | 12/15   |\n|----------------|------------|---------|"
+ },
+ {
+  "ref": "#/tables/20",
+  "pagina": 13,
+  "bbox_pt": [
+   40.87080001831055,
+   72.92037200927734,
+   570.841064453125,
+   165.5772705078125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                | LogPow   | FBC     | Potencial   |\n|--------------------------------------------------------------------------------------------------|----------|---------|-------------|\n| undecaóxido de hexaboro y dicinc phosphorous oxychloride, reaction products with propylene oxide | - 2.68   | 60960 - | alta bajo   |"
+ },
+ {
+  "ref": "#/tables/21",
+  "pagina": 13,
+  "bbox_pt": [
+   40.13471221923828,
+   465.2521057128906,
+   570.0960083007812,
+   703.956787109375
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "|                                   | UN                                                                                                                                                                             | Brasil (ANTT)                                                                                                                                                                  | IMDG                                                                                                                          | IATA                                                                                                                          |\n|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|\n| Número ONU                        | UN3082                                                                                                                                                                         | UN3082                                                                                                                                                                         | UN3082                                                                                                                        | UN3082                                                                                                                        |\n| Designación oficial de transporte | SUBSTANCIA LIQUIDA POTENCIALMENTE PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (undecaóxido de hexaboro y dicinc, 2,2'- [(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano) | SUBSTANCIA LIQUIDA POTENCIALMENTE PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (undecaóxido de hexaboro y dicinc, 2,2'- [(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano) | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (hexaboron dizinc undecaoxide, bis-[4- (2,3-epoxipropoxi) phenyl]propane) | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (hexaboron dizinc undecaoxide, bis-[4- (2,3-epoxipropoxi) phenyl]propane) |\n| Clase(s) relativas al transporte  | 9                                                                                                                                                                              | 9                                                                                                                                                                              | 9                                                                                                                             | 9                                                                                                                             |\n| Grupo de embalaje                 | III                                                                                                                                                                            | III                                                                                                                                                                            | III                                                                                                                           | III                                                                                                                           |"
+ },
+ {
+  "ref": "#/tables/22",
+  "pagina": 14,
+  "bbox_pt": [
+   39.7661018371582,
+   72.24987030029297,
+   570.461669921875,
+   148.36175537109375
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "| Riesgos ambientales Sustancias contaminantes marinas   | Sí. No aplicable.   | Sí. No aplicable.   | Yes. (hexaboron dizinc undecaoxide, bis-[4- (2,3-epoxipropoxi) phenyl]propane)   | Yes. Not applicable.   |\n|--------------------------------------------------------|---------------------|---------------------|----------------------------------------------------------------------------------|------------------------|"
+ }
+]

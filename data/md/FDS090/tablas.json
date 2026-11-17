@@ -1,0 +1,198 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   73.10920715332031,
+   674.1534423828125,
+   549.96044921875,
+   770.265380859375
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                         | Concentración   |\n|------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 107-21-1         | Etanodiol STOT repe. 2: H373; Tox. Agud. 4: H302 - Atención                                                                          | 0.2 - <2.5 %    |\n| CAS:             | 330-54-1         | Diurón (ISO) Acuático agudo. 1: H400; Acuático crónico. 1: H410; Carc. 2: H351; STOT repe. 2: H373; Tox. Agud. 4: H302 - Atención    | <0.2 %          |\n| CAS:             | 52-51-7          | Bronopol (DCI) Acuático agudo. 1: H400; Irrit. Cut. 2: H315; Les. Oc. 1: H318; STOT única 3: H335; Tox. Agud. 4: H302+H312 - Peligro | <0.2 %          |\n\n- CONTINÚA EN LA SIGUIENTE PÁGINA -"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   72.24750518798828,
+   156.55101013183594,
+   548.7492065429688,
+   208.58383178710938
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación   | Valores límite ambientales   | Valores límite ambientales   |\n|------------------|------------------------------|------------------------------|\n| Etanodiol        | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 107-21-1    | TLV-STEL                     | 20 mg/m³                     |\n| Diurón (ISO)     | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 330-54-1    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.44026947021484,
+   393.94024658203125,
+   548.5048217773438,
+   460.2455139160156
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                 |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección contra riesgos menores | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable la utilización de guantes de protección química |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.19861602783203,
+   494.99603271484375,
+   550.4593505859375,
+   563.1713256835938
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                    | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas panorámicas contra salpicaduras y/o proyecciones | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   86.41204071044922,
+   576.8378295898438,
+   548.0914916992188,
+   687.0953369140625
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP                                  | Observaciones                                                                                                                                                                                                                                    |\n|--------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|              | Ropa de trabajo                      | NORMATIVIDAD APLICABLE: EN ISO 13688. Reemplazar ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable ropa de trabajo para protección química. |\n|              | Calzado de trabajo antideslizamiento | Reemplazar ante cualquier indicio de deterioro.                                                                                                                                                                                                  |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   88.24346160888672,
+   700.5650024414062,
+   547.9978637695312,
+   759.1864624023438
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   71.85318756103516,
+   455.5067138671875,
+   548.251220703125,
+   479.64056396484375
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   72.4405746459961,
+   496.8853759765625,
+   547.9431762695312,
+   521.0059814453125
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   72.25334167480469,
+   595.7891845703125,
+   548.02978515625,
+   719.249755859375
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|------------------|-------------------|-------------------|----------|\n| Etanodiol        | DL50 oral         | 500 mg/kg (ATEi)  |          |\n| CAS: 107-21-1    | DL50 cutánea      | >3500 mg/kg       | Conejo   |\n|                  | CL50 inhalación   | No relevante      |          |\n| Diurón (ISO)     | DL50 oral         | 1017 mg/kg        | Rata     |\n| CAS: 330-54-1    | DL50 cutánea      | No relevante      |          |\n|                  | CL50 inhalación   | No relevante      |          |\n| Bronopol (DCI)   | DL50 oral         | 500 mg/kg         | Rata     |\n| CAS: 52-51-7     | DL50 cutánea      | 1600 mg/kg        | Conejo   |\n|                  | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   72.83675384521484,
+   173.59934997558594,
+   548.1760864257812,
+   293.5758056640625
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Concentración   | Concentración        | Especie                   | Género    |\n|------------------|-----------------|----------------------|---------------------------|-----------|\n| Etanodiol        | CL50            | 53000 mg/L (96 h)    | Pimephales promelas       | Pez       |\n| CAS: 107-21-1    | CE50            | 51000 mg/L (48 h)    | Daphnia magna             | Crustáceo |\n|                  | CE50            | 24000 mg/L (168 h)   | Selenastrum capricornutum | Alga      |\n| Diurón (ISO)     | CL50            | 6.6 mg/L (96 h)      | Leuciscus idus            | Pez       |\n| CAS: 330-54-1    | CE50            | 1.4 mg/L (48 h)      | Daphnia magna             | Crustáceo |\n|                  | CE50            | 0.022 mg/L (96 h)    | Scenedesmus subspicatus   | Alga      |\n| Bronopol (DCI)   | CL50            | >0.1 - 1 mg/L (96 h) |                           | Pez       |\n| CAS: 52-51-7     | CE50            | >0.1 - 1 mg/L (48 h) |                           | Crustáceo |\n|                  | CE50            | >0.1 - 1 mg/L (72 h) |                           | Alga      |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   73.043212890625,
+   308.82757568359375,
+   548.36083984375,
+   370.6398620605469
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Concentración   | Concentración   | Especie             | Género    |\n|------------------|-----------------|-----------------|---------------------|-----------|\n| Diurón (ISO)     | NOEC            | 0.001 mg/L      | Danio rerio         | Pez       |\n| CAS: 330-54-1    | NOEC            | 0.56 mg/L       | Daphnia magna       | Crustáceo |\n| Bronopol (DCI)   | NOEC            | 21.5 mg/L       | Oncorhynchus mykiss | Pez       |\n| CAS: 52-51-7     | NOEC            | 0.27 mg/L       | Daphnia magna       | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.76422882080078,
+   399.4314270019531,
+   548.1395263671875,
+   520.531005859375
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|------------------|------------------|------------------|---------------------|---------------------|\n| Etanodiol        | DBO5             | 0.47 g O2/g      | Concentración       | 100 mg/L            |\n| CAS: 107-21-1    | DQO              | 1.29 g O2/g      | Periodo             | 14 días             |\n|                  | DBO5/DQO         | 0.36             | % Biodegradado      | 90 %                |\n| Diurón (ISO)     | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 330-54-1    | DQO              | No relevante     | Periodo             | 28 días             |\n|                  | DBO5/DQO         | No relevante     | % Biodegradado      | 0 %                 |\n| Bronopol (DCI)   | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 52-51-7     | DQO              | No relevante     | Periodo             | 28 días             |\n|                  | DBO5/DQO         | No relevante     | % Biodegradado      | 0 %                 |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.81368255615234,
+   547.3966674804688,
+   548.4879760742188,
+   668.0869140625
+  ],
+  "filas": 10,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación   | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|------------------|-------------------------------|-------------------------------|\n| Etanodiol        | BCF                           | 10                            |\n| CAS: 107-21-1    | Log POW                       | -1.36                         |\n|                  | Potencial                     | Bajo                          |\n| Diurón (ISO)     | BCF                           | 64                            |\n| CAS: 330-54-1    | Log POW                       | 2.68                          |\n|                  | Potencial                     | Moderado                      |\n| Bronopol (DCI)   | BCF                           | 0.6                           |\n| CAS: 52-51-7     | Log POW                       | -0.64                         |\n|                  | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.82799530029297,
+   682.9312133789062,
+   547.8314819335938,
+   732.123779296875
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad        |\n|------------------|-----------------------|-----------------------|---------------|--------------------|\n| Etanodiol        | Koc                   | 0                     | Henry         | 1.327E-1 Pa·m³/mol |\n| CAS: 107-21-1    | Conclusión            | Muy Alto              | Suelo seco    | No                 |\n|                  | Tensión superficial   | 4.989E-2 N/m (25 ºC)  | Suelo húmedo  | No                 |"
+ }
+]

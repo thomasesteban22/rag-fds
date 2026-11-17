@@ -1,0 +1,282 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.73651123046875,
+   227.83621215820312,
+   547.6809692382812,
+   418.96258544921875
+  ],
+  "filas": 8,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                                                                                                                    | Concentración   |\n|------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 8032-32-4        | Nafta de petróleo, solvente refinado. Carc. 1B: H350; Liq. Infl. 3: H226; Muta. 1B: H340; Tox. Asp. 1: H304 - Peligro                                                                                                           | 25 - <50 %      |\n| CAS:             | 100-41-4         | Etilbenceno Acuático agudo. 3: H402; Carc. 2: H351; Liq. Infl. 2: H225; Tox. Agud. 4: H332; Tox. Agud. 5: H303 - Peligro                                                                                                        | 0.2 - <2.5 %    |\n| CAS:             | 7779-90-0        | Bis(ortofosfato) de tricinc Acuático agudo. 1: H400; Acuático crónico. 1: H410 - Atención                                                                                                                                       | 0.2 - <2.5 %    |\n| CAS:             | 96-29-7          | Oxima de 2-butanona Carc. 1B: H350; Irrit. Cut. 2: H315; Les. Oc. 1: H318; Liq. Infl. 4: H227; Sens. Cut. 1: H317; STOT repe. 2: H373; STOT única 1: H370; STOT única 3: H336; Tox. Agud. 3: H301; Tox. Agud. 4: H312 - Peligro | 0.2 - <2.5 %    |\n| CAS:             | 136-52-7         | Bis(2-etilhexanoato) de cobalto Acuático agudo. 1: H400; Acuático crónico. 3: H412; Carc. 2: H351; Irrit. oc. 2: H319; Repr. 1B: H360; Sens. Cut. 1A: H317 - Peligro                                                            | 0.2 - <2.5 %    |\n| CAS:             | 1314-13-2        | Óxido de cinc Acuático agudo. 1: H400; Acuático crónico. 1: H410 - Atención                                                                                                                                                     | 0.2 - <2.5 %    |\n| CAS:             | 108-88-3         | Tolueno Acuático agudo. 2: H401; Irrit. Cut. 2: H315; Liq. Infl. 2: H225; Repr. 2: H361; STOT repe. 2: H373; STOT única 3: H336; Tox. Asp. 1: H304 - Peligro                                                                    | <0.2 %          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   81.9561767578125,
+   523.0238647460938,
+   549.4638671875,
+   617.29150390625
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación   | Valores límite ambientales   | Valores límite ambientales   | Valores límite ambientales   |\n|------------------|------------------------------|------------------------------|------------------------------|\n| Etilbenceno      | 8-hour TWA PEL               | 100 ppm                      | 435 mg/m³                    |\n| CAS: 100-41-4    | Ceiling Values - TWA PEL     |                              |                              |\n| Óxido de cinc    | 8-hour TWA PEL               |                              | 5 mg/m³                      |\n| CAS: 1314-13-2   | Ceiling Values - TWA PEL     |                              |                              |\n| Tolueno          | 8-hour TWA PEL               | 200 ppm                      | 300 mg/m³                    |\n| CAS: 108-88-3    | Ceiling Values - TWA PEL     |                              |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   82.92789459228516,
+   634.9752807617188,
+   548.7100219726562,
+   706.5486450195312
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación   | Valores límite ambientales   | Valores límite ambientales   | Valores límite ambientales   |\n|------------------|------------------------------|------------------------------|------------------------------|\n| Etilbenceno      | TLV-TWA                      | 20 ppm                       |                              |\n| CAS: 100-41-4    | TLV-STEL                     |                              |                              |\n| Óxido de cinc    | TLV-TWA                      |                              | 2 mg/m³                      |\n| CAS: 1314-13-2   | TLV-STEL                     |                              | 10 mg/m³                     |\n| Tolueno          | TLV-TWA                      | 20 ppm                       |                              |\n| CAS: 108-88-3    | TLV-STEL                     |                              |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   72.1220474243164,
+   142.22036743164062,
+   548.5628662109375,
+   208.3822479248047
+  ],
+  "filas": 3,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "Indices de exposición biológicos (BEIs®) - ACGIH\n\n| Identificación            | BEIs®                 | Determinante                                                | Momento de muestreo                              |\n|---------------------------|-----------------------|-------------------------------------------------------------|--------------------------------------------------|\n| Etilbenceno CAS: 100-41-4 | 150 mg/g (Creatinina) | Suma de ácido mandélico y ácido fenilglioxílico en la orina | Fin del turno                                    |\n| Tolueno CAS: 108-88-3     | 0.02 mg/L             | Tolueno en sangre                                           | Antes de la último turno de la semana de trabajo |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   85.7502670288086,
+   357.6295166015625,
+   549.6116333007812,
+   432.7222595214844
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   75.6503677368164,
+   432.9201354980469,
+   549.6265258789062,
+   513.5374755859375
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Protección específica de las manos. - Pictograma   | Protección específica de las manos. - EPP                                                            | Observaciones                                                                                                 |\n|----------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos                 | Guantes de protección química (Material: Nitrilo, Tiempo de penetración: > 480 min, Espesor: 0.4 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.6152572631836,
+   547.4124145507812,
+   549.08447265625,
+   614.89208984375
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   85.86441040039062,
+   628.7334594726562,
+   548.4383544921875,
+   747.9132080078125
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                                                       |\n|------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                          |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   87.06425476074219,
+   130.588134765625,
+   547.8095703125,
+   188.5870819091797
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   72.42035675048828,
+   512.2208251953125,
+   548.2925415039062,
+   538.2743530273438
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   72.92507934570312,
+   553.4370727539062,
+   547.9251098632812,
+   576.2010498046875
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar                 | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.44685363769531,
+   662.13427734375,
+   548.1363525390625,
+   749.8250732421875
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación      | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|---------------------|-------------------|-------------------|----------|\n| Oxima de 2-butanona | DL50 oral         | 100 mg/kg (ATEi)  |          |\n| CAS: 96-29-7        | DL50 cutánea      | 1100 mg/kg        |          |\n|                     | CL50 inhalación   | No relevante      |          |\n| Etilbenceno         | DL50 oral         | 3500 mg/kg        | Rata     |\n| CAS: 100-41-4       | DL50 cutánea      | 15354 mg/kg       | Conejo   |\n|                     | CL50 inhalación   | 17.2 mg/L (4 h)   | Rata     |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 9,
+  "bbox_pt": [
+   46.648773193359375,
+   129.08058166503906,
+   548.9991455078125,
+   218.72406005859375
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|------------------|-------------------|-------------------|----------|\n| Óxido de cinc    | DL50 oral         | 7950 mg/kg        | Ratón    |\n| CAS: 1314-13-2   | DL50 cutánea      | No relevante      |          |\n|                  | CL50 inhalación   | No relevante      |          |\n| Tolueno          | DL50 oral         | 5580 mg/kg        | Rata     |\n| CAS: 108-88-3    | DL50 cutánea      | 12124 mg/kg       | Rata     |\n|                  | CL50 inhalación   | 28.1 mg/L (4 h)   | Rata     |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   72.85084533691406,
+   311.40008544921875,
+   548.9796752929688,
+   540.9555053710938
+  ],
+  "filas": 19,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                | Concentración   | Concentración        | Especie                 | Género    |\n|-----------------------------------------------|-----------------|----------------------|-------------------------|-----------|\n| Etilbenceno CAS: 100-41-4                     | CL50            | 42.3 mg/L (96 h)     | Pimephales promelas     | Pez       |\n| Etilbenceno CAS: 100-41-4                     | CE50            | 75 mg/L (48 h)       | Daphnia magna           | Crustáceo |\n| Etilbenceno CAS: 100-41-4                     | CE50            | 63 mg/L (3 h)        | Chlorella vulgaris      | Alga      |\n| Bis(ortofosfato) de tricinc CAS: 7779-90-0    | CL50            | >0.1 - 1 mg/L (96 h) |                         | Pez       |\n| Bis(ortofosfato) de tricinc CAS: 7779-90-0    | CE50            | >0.1 - 1 mg/L (48 h) |                         | Crustáceo |\n| Bis(ortofosfato) de tricinc CAS: 7779-90-0    | CE50            | >0.1 - 1 mg/L (72 h) |                         | Alga      |\n| Oxima de 2-butanona CAS: 96-29-7              | CL50            | 843 mg/L (96 h)      | Pimephales promelas     | Pez       |\n| Oxima de 2-butanona CAS: 96-29-7              | CE50            | 750 mg/L (48 h)      | Daphnia magna           | Crustáceo |\n| Oxima de 2-butanona CAS: 96-29-7              | CE50            | 83 mg/L (72 h)       | Scenedesmus subspicatus | Alga      |\n| Bis(2-etilhexanoato) de cobalto CAS: 136-52-7 | CL50            | >0.1 - 1 mg/L (96 h) |                         | Pez       |\n| Bis(2-etilhexanoato) de cobalto CAS: 136-52-7 | CE50            | >0.1 - 1 mg/L (48 h) |                         | Crustáceo |\n| Bis(2-etilhexanoato) de cobalto CAS: 136-52-7 | CE50            | >0.1 - 1 mg/L (72 h) |                         | Alga      |\n| Óxido de cinc CAS: 1314-13-2                  | CL50            | 0.82 mg/L (96 h)     | Oncorhynchus kisutch    | Pez       |\n| Óxido de cinc CAS: 1314-13-2                  | CE50            | 3.4 mg/L (48 h)      | Daphnia magna           | Crustáceo |\n| Óxido de cinc CAS: 1314-13-2                  | CE50            | No relevante         |                         |           |\n| Tolueno CAS:                                  | CL50            | 5.5 mg/L (96 h)      | Oncorhynchus kisutch    | Pez       |\n| 108-88-3                                      | CE50            | 3.78 mg/L (48 h)     | Ceriodaphnia dubia      | Crustáceo |\n| 108-88-3                                      | CE50            | No relevante         |                         |           |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 9,
+  "bbox_pt": [
+   72.88923645019531,
+   552.5834350585938,
+   548.0410766601562,
+   662.9313354492188
+  ],
+  "filas": 9,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Etilbenceno - CAS: 100-41-4 - Oxima de 2-butanona - CAS: 96-29-7   | Concentración - NOEC   | Concentración - No relevante - 0.96 mg/L - 50 mg/L - 100 mg/L   | Especie - Ceriodaphnia dubia - Oryzias latipes - Daphnia magna   | Género - Crustáceo - Pez - Crustáceo   |\n|-------------------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------|\n| Bis(2-etilhexanoato) de cobalto                                                     | NOEC                   | 0.21 mg/L                                                       | Pimephales promelas                                              | Pez                                    |\n| CAS: 136-52-7                                                                       | NOEC                   | 0.1697 mg/L                                                     | Aeolosoma sp.                                                    | Crustáceo                              |\n| Óxido de cinc                                                                       | NOEC                   | 0.44 mg/L                                                       | Oncorhynchus mykiss                                              | Pez                                    |\n| CAS: 1314-13-2                                                                      | NOEC                   | 0.031 mg/L                                                      | Daphnia magna                                                    | Crustáceo                              |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 9,
+  "bbox_pt": [
+   72.61043548583984,
+   691.5783081054688,
+   547.8611450195312,
+   742.7384033203125
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|------------------|------------------|------------------|---------------------|---------------------|\n| Etilbenceno      | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 100-41-4    | DQO              | No relevante     | Periodo             | 14 días             |\n|                  | DBO5/DQO         | No relevante     | % Biodegradado      | 90 %                |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 10,
+  "bbox_pt": [
+   72.51918029785156,
+   130.8450927734375,
+   547.7399291992188,
+   216.00514221191406
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|---------------------|------------------|------------------|---------------------|---------------------|\n| Oxima de 2-butanona | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 96-29-7        | DQO              | No relevante     | Periodo             | 28 días             |\n|                     | DBO5/DQO         | No relevante     | % Biodegradado      | 24 %                |\n| Tolueno             | DBO5             | 2.5 g O2/g       | Concentración       | 100 mg/L            |\n| CAS: 108-88-3       | DQO              | No relevante     | Periodo             | 14 días             |\n|                     | DBO5/DQO         | No relevante     | % Biodegradado      | 100 %               |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 10,
+  "bbox_pt": [
+   72.53670501708984,
+   244.6375274658203,
+   548.25048828125,
+   365.36212158203125
+  ],
+  "filas": 10,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación      | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|---------------------|-------------------------------|-------------------------------|\n| Etilbenceno         | BCF                           | 1                             |\n| CAS: 100-41-4       | Log POW                       | 3.15                          |\n|                     | Potencial                     | Bajo                          |\n| Oxima de 2-butanona | BCF                           | 5                             |\n| CAS: 96-29-7        | Log POW                       | 0.59                          |\n|                     | Potencial                     | Bajo                          |\n| Tolueno             | BCF                           | 90                            |\n| CAS: 108-88-3       | Log POW                       | 2.73                          |\n|                     | Potencial                     | Moderado                      |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 10,
+  "bbox_pt": [
+   72.6344223022461,
+   379.0237121582031,
+   548.1307373046875,
+   499.8123474121094
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad      |\n|---------------------|-----------------------|-----------------------|---------------|------------------|\n| Etilbenceno         | Koc                   | 520                   | Henry         | 798.44 Pa·m³/mol |\n| CAS: 100-41-4       | Conclusión            | Moderado              | Suelo seco    | Sí               |\n|                     | Tensión superficial   | 2.859E-2 N/m (25 ºC)  | Suelo húmedo  | Sí               |\n| Oxima de 2-butanona | Koc                   | 3                     | Henry         | No relevante     |\n| CAS: 96-29-7        | Conclusión            | Muy Alto              | Suelo seco    | No relevante     |\n|                     | Tensión superficial   | 2.57E-2 N/m (25 ºC)   | Suelo húmedo  | No relevante     |\n| Tolueno             | Koc                   | 178                   | Henry         | 672.8 Pa·m³/mol  |\n| CAS: 108-88-3       | Conclusión            | Moderado              | Suelo seco    | Sí               |\n|                     | Tensión superficial   | 2.793E-2 N/m (25 ºC)  | Suelo húmedo  | Sí               |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 12,
+  "bbox_pt": [
+   142.63247680664062,
+   132.55690002441406,
+   341.257568359375,
+   321.1180114746094
+  ],
+  "filas": 8,
+  "columnas": 3,
+  "seccion": 14,
+  "markdown": "|   14.1 | Número ONU:                                                                  | UN1263        |\n|--------|------------------------------------------------------------------------------|---------------|\n|   14.2 | Designación oficial de transporte de las Naciones Unidas:                    | PINTURA       |\n|   14.3 | Clase(s) relativas al transporte: Etiquetas:                                 | 3 3           |\n|   14.4 | Grupo de embalaje/envasado si se aplica:                                     | III           |\n|   14.5 | Riesgos ambientales:                                                         | No            |\n|   14.6 | Precauciones especiales para                                                 | el usuario    |\n|        | Propiedades físico-químicas:                                                 | Ver sección 9 |\n|   14.7 | Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC: | No relevante  |"
+ }
+]

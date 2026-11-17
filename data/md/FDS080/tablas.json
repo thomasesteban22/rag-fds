@@ -1,0 +1,263 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 3,
+  "bbox_pt": [
+   16.876457458752544,
+   134.27713376082556,
+   545.1164882566309,
+   232.5863782194416
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente          | Número de CAS   | Concentración   |\n|---------------------------------|-----------------|-----------------|\n| gasolina                        | 86290-81-5      | ≥10 - <20       |\n| benceno                         | 71-43-2         | ≤3              |\n| ligroína                        | 8032-32-4       | ≤1              |\n| bis(2-etilhexanoato) de cobalto | 136-52-7        | <1              |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 6,
+  "bbox_pt": [
+   22.29993239997415,
+   393.0831919822828,
+   544.9466388360032,
+   632.32493111064
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente          | Límites de exposición                                                                                                                                                                              |\n|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| gasolina                        | ACGIH TLV (Estados Unidos, 1/2022). TWA: 300 ppm 8 horas. TWA: 890 mg/m³ 8 horas. STEL: 500 ppm 15 minutos.                                                                                        |\n| benceno                         | STEL: 1480 mg/m³ 15 minutos. ACGIH TLV (Estados Unidos, 1/2022). Absorbido a través de la piel. TWA: 0.5 ppm 8 horas. TWA: 1.6 mg/m³ 8 horas. STEL: 2.5 ppm 15 minutos.                            |\n| ligroína                        | STEL: 8 mg/m³ 15 minutos. ACGIH TLV (Estados Unidos).                                                                                                                                              |\n| bis(2-etilhexanoato) de cobalto | TWA: 300 ppm 8 horas. ACGIH TLV (Estados Unidos, 1/2022). [cobalt and inorganic compounds] Sensibilizante por contacto con la piel. Sensibilizante si se inhala. TWA: 0.02 mg/m³, (as Co) 8 horas. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   20.742265441381633,
+   101.73889758344217,
+   543.4059709329044,
+   580.1103514582406
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Medidas higiénicas              | : Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para eliminar ropa contaminada. Las prendas de trabajo contaminadas no podrán sacarse del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de                                                                                                                                                                                                                                                                                                   |\n|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de los ojos/la cara  | ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo. : Se debe usar un equipo protector ocular que cumpla con las normas aprobadas cuando una evaluación del riesgo indique que es necesario, a fin de evitar toda exposición a salpicaduras del líquido, lloviznas, gases o polvos. Si es posible el contacto, se debe utilizar la siguiente protección, salvo que la valoración indique un grado de protección más alto: gafas protectoras contra salpicaduras químicas.                                                                                                                                                                                                              |\n| Protección de la piel           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| Protección de las manos         | : Si una evaluación del riesgo indica que es necesario, se deben usar guantes químico-resistentes e impenetrables que cumplan con las normas aprobadas siempre que se manejen productos químicos. Tomando en consideración los parámetros especificados por el fabricante de los guantes, comprobar durante el uso que los guantes siguen conservando sus propiedades protectoras. Hay que observar que el tiempo de paso de cualquier material utilizado con guantes puede ser diferente para distintos fabricantes de guantes. En el caso de mezclas, consistentes en varias sustancias, no es posible estimar de manera exacta, el                                                                           |\n| Protección corporal             | tiempo de protección que ofrecen los guantes. : Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando haya riesgo de ignición a consecuencia de cargas electrostáticas, utilizar indumentaria de protección antiestática. Para ofrecer la máxima protección frente a descargas electrostáticas, la indumentaria debe incluir monos, botas y guantes con propiedades antiestáticas.                                                                                                                                                                           |\n| Otro tipo de protección cutánea | : Se deben elegir el calzado adecuado y cualquier otra medida de protección cutánea necesaria dependiendo de la tarea que se lleve a cabo y de los riesgos implicados. Tales medidas deben ser aprobadas por un especialista antes de proceder a la manipulación de este producto.                                                                                                                                                                                                                                                                                                                                                                                                                              |\n| Protección respiratoria         | : Basándose en la evaluación de los riesgos y la exposición, seleccionar un respirador que satisfaga los estándares o certificaciones apropiados. Los respiradores deben usarse de conformidad con un programa de protección respiratoria para asegurar su adecuación, formación y otros aspectos del buen uso. Llevar un respirador conforme a la norma EN140 con filtro de tipo A/P2 o mejor. El lijado en seco, el cortado con llama y/o el soldado de películas secas de pintura producirá polvo y/o humos nocivos. Un lijado o matizado húmedos son preferibles si es posible. Si no puede evitarse la exposición por la ventilación de extracción debe usarse adecuado equipo de protección respiratoria. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 8,
+  "bbox_pt": [
+   170.07404541836266,
+   214.50422552685723,
+   499.7279687458968,
+   316.2029162641097
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente                                     | Presión de vapor a 20 ºC - mm Hg   | Presión de vapor a 20 ºC - kPa   | Presión de vapor a 20 ºC - Método   |\n|------------------------------------------------------------|------------------------------------|----------------------------------|-------------------------------------|\n| benceno                                                    | 75.01                              | 10                               |                                     |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5                          | 0.2 a 0.6                        |                                     |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5                          | 0.2 a 0.6                        |                                     |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 8,
+  "bbox_pt": [
+   24.684404199167464,
+   364.1716651520101,
+   545.2324472574186,
+   398.3031319028372
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 8,
+  "bbox_pt": [
+   23.959092092562123,
+   454.27535987718244,
+   383.14590193753287,
+   537.3509344677908
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente                                     | °C        | °F        |\n|------------------------------------------------------------|-----------|-----------|\n| nafta disolvente (petróleo), fracción alifática intermedia | >220      | >428      |\n| nafta disolvente (petróleo), fracción alifática intermedia | >220      | >428      |\n| gasolina                                                   | 280 a 470 | 536 a 878 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 8,
+  "bbox_pt": [
+   12.907774007332426,
+   790.3027813872748,
+   548.6464633337711,
+   822.7501025390625
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 10,
+  "markdown": "| Fecha de emisión/Fecha de revisión   | : 2-5-2024                   | Versión : 1   |\n|--------------------------------------|------------------------------|---------------|\n| Fecha de la emisión anterior         | : No hay validación anterior | 8/15          |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 9,
+  "bbox_pt": [
+   22.371388319768826,
+   264.04738184375697,
+   545.019082695969,
+   536.8429686718055
+  ],
+  "filas": 6,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Dosis | Exposición |\n|---|---|---|---|---|\n| gasolina | DL50 Oral | Rata | 13.6 g/kg | - |\n| benceno | CL50 Por inhalación Gas. DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral | Rata Ratón Ratón Rata Ratón Rata Rata Rata Rata | 10000 ppm 48 mg/kg 340 mg/kg 1100 µg/kg 4700 mg/kg 1 mL/kg 930 mg/kg 1800 mg/kg 6400 mg/kg | 7 horas - - - - - - - - |\n| ligroína | CL50 Por inhalación Gas. DL50 Intravenosa | Rata Ratón | 3400 ppm 40 mg/kg | 4 horas - |\n| bis(2-etilhexanoato) de | DL50 Cutánea | Conejo | >5 g/kg | - |\n| cobalto | DL50 Oral | Rata | 1.22 g/kg | - |\n| butanona-oxima | DL50 Cutánea DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Subcutánea DL50 Subcutánea | Conejo Ratón Ratón Rata Ratón Rata | 200 uL/kg 200 mg/kg 1 g/kg 930 mg/kg 2700 mg/kg 2702 mg/kg | - - - - - - |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "6 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente                                        | Resultado                                                                                                                                                                                                                                                                                          | Especies                                                                                                       | Dosis                                                                                                                                                                                               | Exposición                                          |\n|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|\n| gasolina benceno ligroína bis(2-etilhexanoato) de cobalto butanona-oxima | DL50 Oral CL50 Por inhalación Gas. DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral CL50 Por inhalación Gas. DL50 Intravenosa DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Subcutánea DL50 Subcutánea | Rata Rata Ratón Ratón Rata Ratón Rata Rata Rata Rata Rata Ratón Conejo Rata Conejo Ratón Ratón Rata Ratón Rata | 13.6 g/kg 10000 ppm 48 mg/kg 340 mg/kg 1100 µg/kg 4700 mg/kg 1 mL/kg 930 mg/kg 1800 mg/kg 6400 mg/kg 3400 ppm 40 mg/kg >5 g/kg 1.22 g/kg 200 uL/kg 200 mg/kg 1 g/kg 930 mg/kg 2700 mg/kg 2702 mg/kg | - 7 horas - - - - - - - - 4 horas - - - - - - - - - |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   22.577141164571298,
+   553.4884200973781,
+   544.9181373342307,
+   690.5824869588939
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Puntuación | Exposición | Observación |\n|---|---|---|---|---|---|\n| benceno | Ojos - Irritante moderado Ojos - Muy irritante Piel - Irritante leve Piel - Irritante leve Piel - Irritante moderado | Conejo Conejo Conejo Rata Conejo | - - - - - | 88 mg 24 horas 2 mg 24 horas 15 mg 8 horas 60 Ul 24 horas 20 mg | - - - - - |\n| butanona-oxima | Ojos - Muy irritante | Conejo | - | 100 Ul | - |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente   | Resultado                                                                                                                                 | Especies                                | Puntuación   | Exposición                                                             | Observación   |\n|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------|------------------------------------------------------------------------|---------------|\n| benceno butanona-oxima              | Ojos - Irritante moderado Ojos - Muy irritante Piel - Irritante leve Piel - Irritante leve Piel - Irritante moderado Ojos - Muy irritante | Conejo Conejo Conejo Rata Conejo Conejo | - - - - - -  | 88 mg 24 horas 2 mg 24 horas 15 mg 8 horas 60 Ul 24 horas 20 mg 100 Ul | - - - - - -   |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   28.03086462145894,
+   109.59352903535785,
+   545.0885970653887,
+   155.46550156345575
+  ],
+  "filas": 3,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | IARC   |\n|-------------------------------------|--------|\n| benceno                             | 1      |\n| bis(2-etilhexanoato) de cobalto     | 2B     |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 10,
+  "bbox_pt": [
+   22.519463005001807,
+   242.277142635902,
+   544.6987306985294,
+   323.2379255171263
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                  | Categoría                           | Vía de exposición   | Órganos destino                                                    |\n|-------------------------|-------------------------------------|---------------------|--------------------------------------------------------------------|\n| gasolina butanona-oxima | Categoría 3 Categoría 1 Categoría 3 | - -                 | Efectos narcóticos tracto respiratorio superior Efectos narcóticos |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   22.295339813232424,
+   340.40585256338966,
+   545.0839587053572,
+   420.65420609986654
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                     | Categoría   | Vía de exposición   | Órganos destino                |\n|------------------------------------------------------------|-------------|---------------------|--------------------------------|\n| nafta disolvente (petróleo), fracción alifática intermedia | Categoría 1 | -                   | sistema nervioso central (SNC) |\n| benceno                                                    | Categoría 1 | -                   | -                              |\n| butanona-oxima                                             | Categoría 2 | -                   | sistema sanguíneo              |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 10,
+  "bbox_pt": [
+   22.079162101681494,
+   437.926628270268,
+   545.4373285024948,
+   517.6852447401162
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                                                          | Resultado                                                                                                                                                                                |\n|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| nafta disolvente (petróleo), fracción alifática intermedia gasolina nafta disolvente (petróleo), fracción alifática intermedia benceno ligroína | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 11,
+  "bbox_pt": [
+   22.568453775614252,
+   556.6786306317421,
+   544.9738586856618,
+   672.9536595984624
+  ],
+  "filas": 5,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                               | Oral (mg/ kg)   | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|---------------------------------------------------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| Producto tal y como suministrado gasolina nafta disolvente (petróleo), fracción | N/A N/A         | 11815.3 N/A 1100  | N/A N/A N/A                | 118.2 N/A 11                  | N/A N/A N/A                            |\n|                                                                                 | 13600           |                   |                            |                               |                                        |\n| alifática                                                                       |                 |                   |                            |                               |                                        |\n| intermedia butanona-oxima                                                       | 100             | 1100              | N/A                        | N/A                           | N/A                                    |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 12,
+  "bbox_pt": [
+   17.040240011263297,
+   92.90835848879556,
+   545.0276270433956,
+   563.5634814887538
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| benceno | Agudo EC50 29000 µg/l Agua fresca Agudo EC50 1600000 µg/l Agua fresca Agudo EC50 9.23 mg/l Agua fresca Agudo EC50 10 mg/l Agua fresca Agudo EC50 11.73 mg/l Agua fresca Agudo EC50 10 mg/l Agua fresca Agudo EC50 10000 µg/l Agua fresca Agudo CL50 21 mg/l Agua marina Agudo CL50 42000 µg/l Agua fresca Agudo CL50 35 ppm Agua marina Agudo CL50 35000 µg/l Agua marina Agudo CL50 33000 µg/l Agua marina Agudo CL50 5.8 ul/L Agua marina Agudo CL50 5.28 ul/L Agua fresca Agudo CL50 5900 µg/l Agua fresca Agudo CL50 5300 µg/l Agua fresca Agudo CL50 5.55 ul/L Agua marina Crónico NOEC 98 mg/l Agua fresca Crónico NOEC 98 mg/l Agua fresca Crónico NOEC 1.5 a 5.4 ul/L Agua marina Crónico NOEC 3.6 a 8.1 ul/L Agua marina | Algas - Pseudokirchneriella subcapitata Algas - Selenastrum sp. Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Juvenil (Nuevo, Cría, Destetado) Crustáceos - Artemia salina Crustáceos - Gammarus pulex Crustáceos - Palaemonetes pugio - Adulto Crustáceos - Palaemonetes pugio Crustáceos - Palaemonetes pugio Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus gorbuscha - Alevín Pescado - Oncorhynchus mykiss Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus nerka - Smolt Dafnia - Daphnia magna Dafnia - Daphnia magna Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) | 72 horas 96 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 96 horas 21 días 21 días 4 semanas 4 semanas |\n| butanona-oxima | Agudo CL50 843000 µg/l Agua fresca | Pescado - Pimephales promelas | 96 horas |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente   | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Especies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Exposición                                                                                                                                                                                            |\n|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| benceno butanona-oxima              | Agudo EC50 29000 µg/l Agua fresca Agudo EC50 1600000 µg/l Agua fresca Agudo EC50 9.23 mg/l Agua fresca Agudo EC50 10 mg/l Agua fresca Agudo EC50 11.73 mg/l Agua fresca Agudo EC50 10 mg/l Agua fresca Agudo EC50 10000 µg/l Agua fresca Agudo CL50 21 mg/l Agua marina Agudo CL50 42000 µg/l Agua fresca Agudo CL50 35 ppm Agua marina Agudo CL50 35000 µg/l Agua marina Agudo CL50 33000 µg/l Agua marina Agudo CL50 5.8 ul/L Agua marina Agudo CL50 5.28 ul/L Agua fresca Agudo CL50 5900 µg/l Agua fresca Agudo CL50 5300 µg/l Agua fresca Agudo CL50 5.55 ul/L Agua marina Crónico NOEC 98 mg/l Agua fresca Crónico NOEC 98 mg/l Agua fresca Crónico NOEC 1.5 a 5.4 ul/L Agua marina Crónico NOEC 3.6 a 8.1 ul/L Agua marina Agudo CL50 843000 µg/l Agua fresca | Algas - Pseudokirchneriella subcapitata Algas - Selenastrum sp. Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Neonato Dafnia - Daphnia magna - Juvenil (Nuevo, Cría, Destetado) Crustáceos - Artemia salina Crustáceos - Gammarus pulex Crustáceos - Palaemonetes pugio - Adulto Crustáceos - Palaemonetes pugio Crustáceos - Palaemonetes pugio Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus gorbuscha - Alevín Pescado - Oncorhynchus mykiss Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus nerka Smolt Dafnia - Daphnia magna Dafnia - Daphnia magna Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Pescado - Morone saxatilis - Juvenil (Nuevo, Cría, Destetado) Pescado - Pimephales promelas | 72 horas 96 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 96 horas 21 días 21 días 4 semanas 4 semanas 96 horas |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 12,
+  "bbox_pt": [
+   16.754183651194854,
+   638.0434481170762,
+   545.1269245667017,
+   742.4295656729593
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | LogPow   | FBC       | Potencial   |\n|-------------------------------------|----------|-----------|-------------|\n| gasolina                            | 2 a 7    | 10 a 2500 | alta        |\n| benceno                             | 2.13     | 11        | bajo        |\n| ligroína                            | -        | 10 a 2500 | alta        |\n| bis(2-etilhexanoato) de cobalto     | -        | 15600     | alta        |\n| butanona-oxima                      | 0.63     | 2.5 a 5.8 | bajo        |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 13,
+  "bbox_pt": [
+   17.317149342256435,
+   379.17393989535833,
+   544.6654077435662,
+   597.7000998370079
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - UN   | Marítimo - IMDG   | Aéreo - IATA   |\n|----------------------------------------------------------|------------------|-------------------|----------------|\n| Número ONU                                               | UN1263           | UN1263            | UN1263         |\n| Designación oficial de transporte de las Naciones Unidas | PINTURAS         | PINTURAS          | PAINT          |\n| Clase(s) de peligro para el transporte                   | 3                | 3                 | 3              |\n| Grupo de embalaje I                                      | I                |                   | I              |\n| Peligros para el medio ambiente No.                      |                  | No.               | No.            |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 15,
+  "bbox_pt": [
+   17.582424628762638,
+   75.46529346398188,
+   544.5742273503151,
+   211.83200963790728
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                                                                                                                                                                                                                     | Justificación                                                                                                                                                              |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| LÍQUIDOS INFLAMABLES - Categoría 3 IRRITACIÓN CUTÁNEA - Categoría 2 SENSIBILIZACIÓN CUTÁNEA - Categoría 1 MUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B CARCINOGENICIDAD - Categoría 1A TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 1B TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIONES REPETIDAS - Categoría 1 PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 3 PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 3 | En base a datos de ensayos Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior."
+ }
+]

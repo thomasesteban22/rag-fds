@@ -1,0 +1,257 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   16.65634536743164,
+   665.6634521484375,
+   545.1687622070312,
+   769.2615356445312
+  ],
+  "filas": 8,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente             | %         | Número CAS   |\n|------------------------------------|-----------|--------------|\n| anacardo, licor de cáscara de nuez | ≥10 - ≤25 | 8007-24-7    |\n| alcohol bencilico                  | ≤10       | 100-51-6     |\n| 2,4,6-tris(dimetilaminometil)fenol | ≤5        | 90-72-2      |\n| m-fenilenbis(metilamina)           | ≤5        | 1477-55-0    |\n| fenol                              | ≤2.5      | 108-95-2     |\n| 3-aminopropildimetilamina          | ≤3        | 109-55-7     |\n| 2,4,6-tris(dimetilaminometil)fenol | ≤3        | 90-72-2      |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 6,
+  "bbox_pt": [
+   21.96221160888672,
+   325.60205078125,
+   544.87744140625,
+   434.11981201171875
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente | Límites de exposición |\n|---|---|\n| m-fenilenbis(metilamina) | ACGIH TLV (Estados Unidos, 1/2023). Absorbido a través de la piel. C: 0.018 ppm |\n| fenol | ACGIH TLV (Estados Unidos, 1/2023). Absorbido a través de la piel. TWA: 19 mg/m³ 8 horas. TWA: 5 ppm 8 horas. |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del ingrediente)",
+  "markdown_original": "| Nombre del ingrediente   | Límites de exposición                                                                                               |\n|--------------------------|---------------------------------------------------------------------------------------------------------------------|\n| m-fenilenbis(metilamina) | ACGIH TLV (Estados Unidos, 1/2023). Absorbido a través de la piel. C: 0.018 ppm ACGIH TLV (Estados Unidos, 1/2023). |\n| fenol                    | Absorbido a través de la piel. TWA: 19 mg/m³ 8 horas. TWA: 5 ppm 8 horas.                                           |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   169.72035217285156,
+   695.5616455078125,
+   544.941650390625,
+   779.546875
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| ASTM D 5191 - Nombre del ingrediente   |   Presión de vapor a 20 ºC - mm Hg |   Presión de vapor a 20 ºC - kPa |\n|----------------------------------------|------------------------------------|----------------------------------|\n| 3-aminopropildimetilamina              |                            4.42538 |                             0.59 |\n| fenol                                  |                            0.15001 |                             0.02 |\n| 2,4,6-tris(dimetilaminometil)fenol     |                              0.056 |                           0.0075 |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 8,
+  "bbox_pt": [
+   24.368654251098633,
+   139.40342712402344,
+   545.19384765625,
+   173.57424926757812
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 8,
+  "bbox_pt": [
+   24.845195770263672,
+   229.52349853515625,
+   383.2342224121094,
+   294.18060302734375
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente             |   °C |    °F |\n|------------------------------------|------|-------|\n| 3-aminopropildimetilamina          |  215 |   419 |\n| 2,4,6-tris(dimetilaminometil)fenol |  382 | 719.6 |\n| 2,4,6-tris(dimetilaminometil)fenol |  382 | 719.6 |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 9,
+  "bbox_pt": [
+   21.69159698486328,
+   76.12955474853516,
+   545.2440185546875,
+   530.5130004882812
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                            | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Especies                                                                                                                                                                 | Dosis                                                                                                                                                                                                                                                                                                                                                                | Exposición                                                            |\n|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n| alcohol bencilico fenol 2,4,6-tris(dimetilaminometil) fenol  | DL50 Cutánea DL50 Intraarterial DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intravenosa DL50 Intravenosa DL50 Oral DL50 Oral DL50 Oral DL50 Cutánea DL50 Oral DL50 Oral DL50 Oral CL50 Por inhalación Gas. DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor CL50 Por inhalación Vapor DL50 Cutánea DL50 Cutánea DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intravenosa DL50 Oral DL50 Oral DL50 Oral DL50 Subcutánea DL50 Subcutánea DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral | Conejo Rata Ratón Rata Ratón Rata Rata Rata Rata Rata Rata Rata Rata Rata Rata Ratón Rata Rata Rata Ratón Rata Ratón Ratón Rata Rata Ratón Rata Rata Rata Rata Rata Rata | 2000 mg/kg 441 mg/kg 650 mg/kg 400 mg/kg 324 mg/kg 53 mg/kg 1.5 mL/kg 1660 mg/kg 1230 mg/kg 1280 mg/kg 1200 mg/kg 1673 mg/kg 2169 mg/kg 700 ppm 2 g/kg 930 mg/kg 177 mg/m³ 316 mg/m³ 630 mg/kg 669 mg/kg 1500 mg/kg 180 mg/kg 127 mg/kg 112 mg/kg 270 mg/kg 317 mg/kg 512 mg/kg 344 mg/kg 300 mg/kg 600 uL/kg 1870 mg/kg 1280 mg/kg 1200 mg/kg 1673 mg/kg 2169 mg/kg | - - - - - - - - - - - - - 1 - - 4 4 - - - - - - - - - - - - - - - - - |\n| 2,4,6-tris(dimetilaminometil) fenol m-fenilenbis(metilamina) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Conejo Conejo                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                      | horas horas horas                                                     |\n| 3-aminopropildimetilamina                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Conejo                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                      |                                                                       |\n|                                                              | DL50 Oral DL50 Oral                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                      |                                                                       |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   21.842498779296875,
+   546.8540649414062,
+   545.3896484375,
+   789.0897827148438
+  ],
+  "filas": 11,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                 | Especies    | Puntuación   | Exposición             | Observación   |\n|-------------------------------------|-------------------------------------------|-------------|--------------|------------------------|---------------|\n| alcohol bencilico                   | Piel - Irritante moderado                 | Conejo      | -            | 24 horas 100 mg        | -             |\n| 2,4,6-tris(dimetilaminometil) fenol | Ojos - Muy irritante                      | Conejo      | -            | 24 horas 50 ug         | -             |\n|                                     | Piel - Irritante leve                     | Rata        | -            | 0.025 Ml               | -             |\n|                                     | Piel - Muy irritante                      | Conejo      | -            | 24 horas 2 mg          | -             |\n|                                     | Piel - Muy irritante                      | Conejo      | -            | 24 horas 500 Ul        | -             |\n| m-fenilenbis(metilamina)            | Piel - Muy irritante Ojos - Muy irritante | Rata Conejo | - -          | 0.25 Ml 24 horas 50 ug | - -           |\n|                                     | Piel - Muy irritante                      | Conejo      | -            | 24 horas 750 ug        | -             |\n| fenol                               | Ojos - Irritante leve                     | Conejo      | -            | 0.5 minutos 5 mg       | -             |\n|                                     | Ojos - Muy irritante                      | Conejo      | -            | 5 mg                   | -             |\n|                                     | Piel - Irritante leve                     | Conejo      | -            | 100 mg                 | -             |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   21.398941040039062,
+   75.66910552978516,
+   545.6798095703125,
+   192.3426513671875
+  ],
+  "filas": 7,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "|                                     | Piel - Muy irritante      | Conejo   | -   | 535 mg          | -   |\n|-------------------------------------|---------------------------|----------|-----|-----------------|-----|\n| 3-aminopropildimetilamina           | Ojos - Irritante moderado | Conejo   | -   | 5 mg            | -   |\n| 2,4,6-tris(dimetilaminometil) fenol | Ojos - Muy irritante      | Conejo   | -   | 24 horas 50 ug  | -   |\n|                                     | Piel - Irritante leve     | Rata     | -   | 0.025 Ml        | -   |\n|                                     | Piel - Muy irritante      | Conejo   | -   | 24 horas 2 mg   | -   |\n|                                     | Piel - Muy irritante      | Conejo   | -   | 24 horas 500 Ul | -   |\n|                                     | Piel - Muy irritante      | Rata     | -   | 0.25 Ml         | -   |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 10,
+  "bbox_pt": [
+   27.100345611572266,
+   313.96697998046875,
+   545.195556640625,
+   354.3828125
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   |   IARC |\n|-------------------------------------|--------|\n| fenol                               |      3 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   22.329057693481445,
+   440.7519836425781,
+   544.7312622070312,
+   498.40594482421875
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                    | Categoría   | Vía de exposición   | Órganos destino                      |\n|---------------------------|-------------|---------------------|--------------------------------------|\n| 3-aminopropildimetilamina | Categoría 3 | -                   | Irritación de las vías respiratorias |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 10,
+  "bbox_pt": [
+   22.025497436523438,
+   515.4920654296875,
+   544.8353271484375,
+   584.4346923828125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre   | Categoría   | Vía de exposición   | Órganos destino                         |\n|----------|-------------|---------------------|-----------------------------------------|\n| fenol    | Categoría 2 | -                   | riñones, hígado, sistema nervioso, piel |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   13.709915161132812,
+   790.4816284179688,
+   547.5337524414062,
+   823.836181640625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Fecha de emisión/Fecha de revisión   | : 21-3-2025                  | Versión   | : 1   |\n|--------------------------------------|------------------------------|-----------|-------|\n| Fecha de la emisión anterior         | : No hay validación anterior | 10/16     |       |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 11,
+  "bbox_pt": [
+   21.928573608398438,
+   554.2103881835938,
+   545.1817016601562,
+   704.0697021484375
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                                                                                                    | Oral (mg/ kg)                       | Cutánea (mg/kg)                    | Inhalación (gases) (ppm)        | Inhalación (vapores) (mg/l)     | Inhalación (polvos y nieblas) (mg/l)   |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------------------------|---------------------------------|---------------------------------|----------------------------------------|\n| Producto tal y como suministrado anacardo, licor de cáscara de nuez alcohol bencilico 2,4,6-tris(dimetilaminometil)fenol m-fenilenbis(metilamina) fenol 3-aminopropildimetilamina 2,4,6-tris(dimetilaminometil)fenol | 1291.7 500 1660 500 500 100 500 500 | 4259 1100 N/A N/A N/A 300 1100 N/A | N/A N/A N/A N/A N/A N/A N/A N/A | N/A N/A N/A N/A N/A N/A N/A N/A | 8.5 N/A 1.5 N/A 1.5 0.5 N/A N/A        |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 12,
+  "bbox_pt": [
+   17.048816680908203,
+   93.87920379638672,
+   545.2057495117188,
+   788.9370727539062
+  ],
+  "filas": 26,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                                                              | Especies                                                                                                        | Exposición                 |\n|-------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------|\n| alcohol bencilico                   | Agudo CL50 10000 µg/l Agua fresca Agudo CL50 15000 µg/l Agua marina Agudo CL50 460000 µg/l Agua fresca | Pescado - Lepomis macrochirus Pescado - Menidia beryllina Pescado - Pimephales promelas - Juvenil (Nuevo, Cría, | 96 horas 96 horas 96 horas |\n| fenol                               | Agudo EC50 36 mg/l Agua marina                                                                         | Destetado) Algas - Hormosira banksii - Gameto                                                                   | 72 horas                   |\n|                                     | Agudo EC50 10 ppm Agua marina                                                                          | Algas - Macrocystis pyrifera - Joven                                                                            | 4 días                     |\n|                                     | Agudo EC50 46420 µg/l Agua fresca                                                                      | Algas - Pseudokirchneriella subcapitata                                                                         | 96 horas                   |\n|                                     | Agudo EC50 61.1 µg/l Agua fresca                                                                       | Algas - Pseudokirchneriella subcapitata                                                                         | 96 horas                   |\n|                                     | Agudo EC50 63.1 µg/l Agua fresca                                                                       | Algas - Pseudokirchneriella subcapitata                                                                         | 96 horas                   |\n|                                     | Agudo EC50 160 mg/l Agua fresca                                                                        | Plantas acuáticas - Lemna aequinoctialis                                                                        | 96 horas                   |\n|                                     | Agudo EC50 94 mg/l Agua fresca                                                                         | Plantas acuáticas - Lemna aequinoctialis                                                                        | 96 horas                   |\n|                                     | Agudo EC50 140 mg/l Agua fresca                                                                        | Plantas acuáticas - Lemna aequinoctialis                                                                        | 96 horas                   |\n|                                     | Agudo EC50 130 mg/l Agua fresca                                                                        | Plantas acuáticas - Lemna aequinoctialis                                                                        | 96 horas                   |\n|                                     | Agudo EC50 6600 µg/l Agua fresca                                                                       | Dafnia - Daphnia magna - Recién nacido                                                                          | 48 horas                   |\n|                                     | Agudo EC50 4200 µg/l Agua fresca Agudo EC50 5550 µg/l Agua fresca Agudo EC50 5.5 mg/l Agua fresca      | Dafnia - Daphnia magna Dafnia - Daphnia magna - Dafnia - Daphnia obtusa - Neonato                               | 48 horas 48 horas          |\n|                                     | Agudo CL50 800 µg/l Agua marina                                                                        | Larva Crustáceos - Archaeomysis                                                                                 | 48 horas 48 horas          |\n|                                     | Agudo CL50 1450 µg/l Agua marina                                                                       | kokuboi - Juvenil (Nuevo, Cría, Destetado) Crustáceos - Archaeomysis kokuboi - Juvenil (Nuevo, Cría,            | 48 horas                   |\n|                                     | Agudo CL50 3.29 mg/l Agua fresca                                                                       | Destetado) Crustáceos - Ceriodaphnia dubia - Neonato                                                            | 48 horas                   |\n|                                     | Agudo CL50 3100 µg/l Agua fresca                                                                       | Crustáceos - Ceriodaphnia dubia - Neonato                                                                       | 48 horas                   |\n|                                     | Agudo CL50 3000 µg/l Agua fresca Agudo CL50 8300 µg/l Agua fresca                                      | Crustáceos - Ceriodaphnia dubia Dafnia - Daphnia magna -                                                        | 48 horas 48 horas          |\n|                                     | Agudo CL50 1555 µg/l Agua fresca                                                                       | Neonato Pescado - Cirrhinus mrigala - Larva                                                                     | 96 horas                   |\n|                                     | Agudo CL50 1.75 µg/l Agua fresca                                                                       | Pescado - Cyprinus carpio -                                                                                     | 96 horas                   |\n|                                     | Agudo CL50 2480 µg/l Agua fresca                                                                       | Larva Pescado - Notopterus                                                                                      | 96 horas                   |\n|                                     | Agudo CL50 3.73 ppm Agua marina                                                                        | Pescado - Oncorhynchus gorbuscha - Alevín                                                                       | 96 horas                   |\n|                                     |                                                                                                        | notopterus                                                                                                      |                            |\n|                                     | Agudo CL50 5020 µg/l Agua fresca                                                                       | Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado)                                                | 96 horas                   |\n|                                     | Crónico NOEC 11000 µg/l Agua marina Crónico NOEC 16 µg/l Agua marina                                   | Algas - Gracilaria tenuistipitata Algas - Hormosira banksii - Gameto                                            | 4 días 72 horas            |\n|                                     | Crónico NOEC 1.5 mg/l Agua fresca                                                                      | Dafnia - Daphnia magna                                                                                          | 21 días                    |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 13,
+  "bbox_pt": [
+   16.117422103881836,
+   75.4075698852539,
+   546.1016235351562,
+   159.55874633789062
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Crónico NOEC 1.5 mg/l Agua fresca Crónico NOEC 4.13 mg/l Agua fresca Crónico NOEC 0.63 mg/l Agua fresca Crónico NOEC 118 µg/l Agua fresca Crónico NOEC 20.2 mg/l Agua fresca   | Dafnia - Daphnia magna Dafnia - Daphnia magna - Joven Pescado - Notopterus notopterus Pescado - Oncorhynchus mykiss Pescado - Pimephales promelas - Embrión   | 21 días 21 días 30 días 90 días 32 días   |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 13,
+  "bbox_pt": [
+   16.751373291015625,
+   233.87010192871094,
+   545.1668090820312,
+   384.704345703125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                                                                     | LogPow                                  | FBC                | Potencial                          |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------|------------------------------------|\n| anacardo, licor de cáscara de nuez alcohol bencilico 2,4,6-tris(dimetilaminometil) fenol m-fenilenbis(metilamina) fenol 3-aminopropildimetilamina 2,4,6-tris(dimetilaminometil) fenol | >4.78 0.87 0.219 0.18 1.47 -0.352 0.219 | - - - 2.69 647 - - | alta bajo bajo bajo alta bajo bajo |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 14,
+  "bbox_pt": [
+   15.782280921936035,
+   80.06861877441406,
+   545.20751953125,
+   297.6210632324219
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - NTC 1692   | Marítimo - IMDG   | Aéreo - IATA   |\n|----------------------------------------------------------|------------------------|-------------------|----------------|\n| Número ONU UN3066                                        | UN3066                 |                   | UN3066         |\n| Designación oficial de transporte de las Naciones Unidas | PINTURAS               | PINTURAS          | PAINT          |\n| Clase(s) de peligro para el transporte                   | 8                      | 8                 | 8              |\n| II Grupo de embalaje                                     |                        | II                | II             |\n| Peligros para el medio ambiente                          | No.                    | No.               | No.            |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 15,
+  "bbox_pt": [
+   16.920629501342773,
+   470.8313903808594,
+   544.9419555664062,
+   574.0955810546875
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                                              | Justificación                                                                                                                          |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|\n| LÍQUIDOS INFLAMABLES - Categoría 4 TOXICIDAD AGUDA (oral) - Categoría 4 TOXICIDAD AGUDA (dérmica) - Categoría 5 CORROSIÓN CUTÁNEA - Categoría 1B LESIÓN OCULAR GRAVE - Categoría 1 SENSIBILIZACIÓN CUTÁNEA - Categoría 1 MUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 2 | En base a datos de ensayos Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior."
+ }
+]

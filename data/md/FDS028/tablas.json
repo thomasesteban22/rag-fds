@@ -1,0 +1,44 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   29.23529052734375,
+   276.4387512207031,
+   582.8673706054688,
+   461.6855773925781
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| Nombre del producto o ingrediente Identificadores             | Concentración (%w/w)   |\n|---------------------------------------------------------------|------------------------|\n| Dióxido de titanio CAS: 13463-67-7                            | 5% - 10%               |\n| Etanodiol CAS: 107-21-1                                       | 1% - 5%                |\n| Diuron CAS: 330-54-1                                          | 0,025% - 0,1%          |\n| 2-octil-2H-isotiazol-3-ona (OIT) CAS: 26530-20-1              | 0,025% - 0,025%        |\n| Mezcla de: 5-cloro-2-metil-2H-isotiazol-3-ona CAS: 55965-84-9 | 0,025% - 0,025%        |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   28.90468978881836,
+   203.04470825195312,
+   586.8499145507812,
+   290.9212646484375
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Componentes        | No. CAS    | Tipo de valor (Forma de exposición)                                      | Parámetros de control Concentración permisible   | / Base   |\n|--------------------|------------|--------------------------------------------------------------------------|--------------------------------------------------|----------|\n| Dióxido de titanio | 13463-67-7 | TWA (fracción inhalable)                                                 | 10 mg/m3                                         | ACGIH    |\n| etanodiol          | 107-21-1   | STEL (fracción inhalable, aerosol) STEL (Vapor) TWA (fracción inhalable) | 10 mg/m3 50 ppm 25 ppm                           | ACGIH    |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   28.826152801513672,
+   65.90128326416016,
+   587.3541870117188,
+   232.1727294921875
+  ],
+  "filas": 8,
+  "columnas": 4,
+  "seccion": 13,
+  "markdown": "| SECCIÓN 14: Información relativa al transporte - 14.1 Número ONU   | SECCIÓN 14: Información relativa al transporte - ADR/RID-ADN - No regulado.   | SECCIÓN 14: Información relativa al transporte - IMDG - No regulado.   | SECCIÓN 14: Información relativa al transporte - IATA - No regulado.   |\n|--------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|\n| 14.2 Designación oficial de transporte de las Naciones Unidas      |                                                                               |                                                                        |                                                                        |\n| 14.3 Clase(s) de peligro para el transporte                        | -                                                                             | -                                                                      | -                                                                      |\n| 14.4 Grupo de embalaje                                             | -                                                                             | -                                                                      | -                                                                      |\n| 14.5 Peligros para el medio ambiente                               | No                                                                            | No                                                                     | No                                                                     |\n| 14.6 Información adicional                                         | -                                                                             | -                                                                      | -                                                                      |"
+ }
+]

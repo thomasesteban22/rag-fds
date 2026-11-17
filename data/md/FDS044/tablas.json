@@ -1,0 +1,156 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   71.77557504948355,
+   281.82351701677555,
+   547.3560716298763,
+   319.8519971254035
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                      | Concentración   |\n|------------------|------------------|---------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 8031-18-3        | Tierra de batan Acuático agudo. 2: H401; Acuático crónico. 2: H411; Tox. Agud. 4: H302 - Atención | 1 - <2.5 %      |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   83.37300528916738,
+   422.2121894861796,
+   548.5889209475934,
+   497.57965354357646
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.2184300416268,
+   510.20009949165393,
+   548.5390411008285,
+   578.1636706861917
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                 |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección contra riesgos menores | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable la utilización de guantes de protección química |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.79664448168455,
+   612.2561167258943,
+   548.6400813283217,
+   679.7509025258406
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                    | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas panorámicas contra salpicaduras y/o proyecciones | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   84.97868816810967,
+   113.14989818437084,
+   548.0921347476012,
+   224.72730461791116
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP                                  | Observaciones                                                                                                                                                                                                                                    |\n|--------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|              | Ropa de trabajo                      | NORMATIVIDAD APLICABLE: EN ISO 13688. Reemplazar ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable ropa de trabajo para protección química. |\n|              | Calzado de trabajo antideslizamiento | Reemplazar ante cualquier indicio de deterioro.                                                                                                                                                                                                  |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.65569427899867,
+   237.66731595943202,
+   548.188845550742,
+   295.518993699896
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   71.70644908213777,
+   448.27488197743463,
+   331.0363838595192,
+   735.6739159460361
+  ],
+  "filas": 20,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Estado físico a 20 ºC:                           | Sólido         |\n|--------------------------------------------------|----------------|\n| Aspecto:                                         | Pastoso        |\n| Color:                                           | Blanco         |\n| Olor:                                            | Característico |\n| Umbral olfativo:                                 | No relevante * |\n| Volatilidad:                                     |                |\n| Temperatura de ebullición a presión atmosférica: | No relevante * |\n| Presión de vapor a 20 ºC:                        | No relevante * |\n| Presión de vapor a 50 ºC:                        | No relevante * |\n| Tasa de evaporación a 20 ºC:                     | No relevante * |\n| Caracterización del producto:                    |                |\n| Densidad a 20 ºC:                                | 1873,5 kg/m³   |\n| Densidad relativa a 20 ºC:                       | 1,874          |\n| Viscosidad dinámica a 20 ºC:                     | No relevante * |\n| Viscosidad cinemática a 20 ºC:                   | No relevante * |\n| Viscosidad cinemática a 40 ºC:                   | >20,5 cSt      |\n| Concentración:                                   | No relevante * |\n| pH:                                              | 8 - 10         |\n| Densidad de vapor a 20 ºC:                       | No relevante * |\n| Coeficiente de reparto n-octanol/agua a 20 ºC:   | No relevante * |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   71.92199038819179,
+   546.5273221078904,
+   547.8957252287386,
+   569.7968565647732
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.05004378453198,
+   587.552313113541,
+   547.7452929769427,
+   611.1118374162614
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   71.90229455627852,
+   637.6769939040231,
+   548.1981141775248,
+   687.960488826362
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|------------------|-------------------|-------------------|----------|\n| Tierra de batan  | DL50 oral         | 500 mg/kg (ATEi)  |          |\n| CAS: 8031-18-3   | DL50 cutánea      | No relevante      |          |\n|                  | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   71.6583452140245,
+   113.2016439529383,
+   548.1736620766045,
+   162.34213319030903
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda     | Especie   | Género    |\n|------------------|-------------------|---------------------|-----------|-----------|\n| Tierra de batan  | CL50              | >1 - 10 mg/L (96 h) |           | Pez       |\n| CAS: 8031-18-3   | CE50              | >1 - 10 mg/L (48 h) |           | Crustáceo |\n|                  | CE50              | >1 - 10 mg/L (72 h) |           | Alga      |"
+ }
+]

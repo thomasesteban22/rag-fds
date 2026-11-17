@@ -1,0 +1,156 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.52372701760108,
+   206.36720429264165,
+   547.8804197989855,
+   271.4113074426356
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Identificación   | Nombre químico/clasificación                                 | Concentración   |\n|------------------|--------------------------------------------------------------|-----------------|\n| CAS: 64742-47-8  | Destilados (petróleo), fracción ligera tratada con hidrógeno | 50 - <75 %      |\n| CAS: 136-52-7    | Bis(2-etilhexanoato) de cobalto                              | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   86.61950188655982,
+   473.8608880252792,
+   548.5001372594642,
+   549.2245998471366
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                        | EPP                                     | Observaciones                                                                                                                                                                                                      |\n|---------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del las vías respiratorias | Máscara con filtro para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.51848658926536,
+   559.9882688168052,
+   548.8595404585257,
+   634.5456770814003
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPP                   | Observaciones                                                                                                                                                                                                                 |\n|-------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes de protección | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable la utilización de guantes de protección química |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.43747757162825,
+   667.6125730856127,
+   548.9261892024304,
+   736.7763410511152
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                     | Observaciones                                                                                                                                        |\n|-----------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   85.9030126451326,
+   120.16757771399125,
+   548.1932359529022,
+   253.6581235893775
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                       | Observaciones                                             |\n|------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección antiestática e ignífuga                              | Protección limitada frente a llama.                       |\n| Protección obligatoria de los pies | Calzado de seguridad con propiedades antiestáticas y resistencia al calor | Reemplazar las botas ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.68628020830603,
+   267.2773200695191,
+   548.3072644534527,
+   324.39357489724057
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                      | Medida de emergencia   | Normas                     |\n|------------------------|-----------------------------|------------------------|----------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2002 | Lavaojos               | DIN 12 899 ISO 3864-1:2002 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   72.75672322113243,
+   514.4280757891366,
+   548.2923248905464,
+   537.4069492686219
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   73.04446987382518,
+   554.6826687759798,
+   548.5047105950478,
+   578.3206544592488
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 8,
+  "bbox_pt": [
+   72.73474072142736,
+   120.77750665152723,
+   548.0680485135277,
+   206.54796747710532
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Toxicidad aguda   | Toxicidad aguda     | Especie   | Género    |\n|--------------------------------------------------------------|-------------------|---------------------|-----------|-----------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | CL50              | 1 - 10 mg/L (96 h)  |           | Pez       |\n| CAS: 64742-47-8                                              | CE50              | 1 - 10 mg/L         |           | Crustáceo |\n|                                                              | CE50              | 1 - 10 mg/L         |           | Alga      |\n| Bis(2-etilhexanoato) de cobalto                              | CL50              | 0,1 - 1 mg/L (96 h) |           | Pez       |\n| CAS: 136-52-7                                                | CE50              | 0,1 - 1 mg/L        |           | Crustáceo |\n|                                                              | CE50              | 0,1 - 1 mg/L        |           | Alga      |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   73.00783745580073,
+   248.70074931020122,
+   548.6061776671954,
+   298.1469008406324
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------------------------------|-------------------------------|-------------------------------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | BCF                           | 130                           |\n| CAS: 64742-47-8                                              | Log POW                       | 3,3                           |\n|                                                              | Potencial                     | Alto                          |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 11,
+  "bbox_pt": [
+   36.1170869486764,
+   99.75048203710708,
+   559.183571138318,
+   242.13827238757938
+  ],
+  "filas": 2,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico |"
+ }
+]

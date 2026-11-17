@@ -1,0 +1,655 @@
+[
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P01",
+    "tipo": "directa",
+    "respondible": true,
+    "user_input": "¿Cuál es el punto de inflamación del Esmalte Uretano Part A de Sika?",
+    "retrieved_contexts": [
+      "[Fabricante: Sika | Producto: Esmalte Uretano Part A | Versión: 4.0 | Fecha: 2023/09/30 | Documento: FDS069 | Sección 9: Propiedades físicas y químicas]\n## SECCIÓN 9. PROPIEDADES FÍSICAS Y QUÍMICAS\n\n| Aspecto | : | líquido |\n|---|---|---|\n| Color | : | varios |\n| Olor | : | disolvente |\n| Umbral de olor | : | Sin datos disponibles |\n| pH | : | No aplicable |\n| Punto de fusión/rango / Punto de congelación | : | Sin datos disponibles |\n| Punto / intervalo de ebullición | : | Sin datos disponibles |\n| Punto de inflamación | : | 36 °C (36 °C) |\n| Tasa de evaporación | : | Sin datos disponibles |\n| Inflamabilidad (sólido, gas) | : | Sin datos disponibles |\n| Límite superior de explosivi- dad / Límite de inflamabilidad superior | : | 7 %(V) |\n| Límite inferior de explosividad / Límite de inflamabilidad infe- rior | : | 0,8 %(V) |\n| Presión de vapor | : | 12,4989 hPa |\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Esmalte Uretano Part A\n\n*Texto OCR de la imagen (puede contener errores): Sika | R*\n\n## Versión 4.0",
+      "[Fabricante: Sika | Producto: Esmalte Uretano Part A | Versión: 4.0 | Fecha: 2023/09/30 | Documento: FDS069 | Sección 11: Información toxicológica]\n## SECCIÓN 11. INFORMACIÓN TOXICOLÓGICA\n\n## Toxicidad aguda\n\nNo se clasifica debido a la falta de datos.\n\n## Componentes:\n\n## acetato de n-butilo:\n\n- **Toxicidad oral aguda:** DL50 Oral (Rata): > 5.000 mg/kg  \n- **Toxicidad aguda por inhala-:** CL50 (Rata): 23,4 mg/l  \n- **ción:** Tiempo de exposición: 4 h Prueba de atmosfera: vapor  \n- **Toxicidad dérmica aguda:** LD50 Dermico (Conejo): > 5.000 mg/kg\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Esmalte Uretano Part A\n\n*Texto OCR de la imagen (puede contener errores): Sika | R*\n\nVersión 4.0\n\nNúmero de HDS: 000000613420\n\nFecha de revisión: 2023/09/30\n\n## Nafta disolvente (petróleo), fracción aromática ligera; nafta de bajo punto de ebullición, sin especificar:\n\n- **Toxicidad oral aguda:** DL50 Oral (Rata): > 2.000 mg/kg  \n- **Toxicidad dérmica aguda:** LD50 Dermico (Conejo): > 2.000 mg/kg\n\n## acetato de 2-metoxi-1-metiletilo:\n\n- **Toxicidad oral aguda:** DL50 Oral (Rata): > 5.000 mg/kg  \n- **Toxicidad dérmica aguda:** LD50 Dermico (Conejo): > 5.000 mg/kg\n\n## xileno:\n\nToxicidad oral aguda\n\n: DL50 Oral (Rata): 3.523 mg/kg\n\n## etilbenceno:\n\n- **Toxicidad oral aguda:** DL50 Oral (Rata): 3.500 mg/kg  \n- **Toxicidad dérmica aguda:** LD50 Dermico (Conejo): 5.510 mg/kg\n\n## metacrilato de metilo:",
+      "[Fabricante: Sika | Producto: Esmalte Uretano Part A | Versión: 4.0 | Fecha: 2023/09/30 | Documento: FDS069 | Sección 3: Composición / información sobre los componentes]\n## SECCIÓN 3. COMPOSICIÓN/INFORMACIÓN SOBRE LOS INGREDIENTES\n\nSustancia / mezcla\n\n: Mezcla\n\n## Componentes\n\n| Nombre químico | CAS No. | Concentración (% w/w) |\n|---|---|---|\n| acetato de n-butilo | 123-86-4 | >= 10 - < 20 |\n| Nafta disolvente (petróleo), fracción aromática ligera; nafta de bajo punto de ebullición, sin especificar | 64742-95-6 | >= 5 - < 10 |\n| acetato de 2-metoxi-1-metiletilo | 108-65-6 | >= 5 - < 10 |\n| xileno | 1330-20-7 | >= 2,5 - < 5 |\n| acetato de propilo | 109-60-4 | >= 1 - < 5 |\n| etilbenceno | 100-41-4 | >= 1 - < 2,5 |\n| sebacato de bis(1,2,2,6,6-pentametil-4- piperidilo) | 41556-26-7 | >= 0,25 - < 1 |\n| Poly(oxy-1,2-ethanediyl), .alpha.-[3-[3-(2H- benzotriazol-2-yl)-5-(1,1-dimethylethyl)-4- hydroxyphenyl]-1-oxopropyl]-.omega.-[3-[3-(2H- benzotriazol-2-yl)-5-(1,1-dimethylethyl)-4- hydroxyphenyl]-1-oxopropoxy]- | 104810-47-1 | >= 0,25 - < 1 |\n| Poly(oxy-1,2-ethanediyl), .alpha.-[3-[3-(2H- benzotriazol-2-yl)-5-(1,1-dimethylethyl)-4- hydroxyphenyl]-1-oxopropyl]-.omega.-hydroxy- | 104810-48-2 | >= 0,25 - < 1 |\n| sebacato de metilo y 1,2,2,6,6-pentametil-4- piperidilo | 82919-37-7 | >= 0,1 - < 0,25 |\n| metacrilato de metilo | 80-62-6 | >= 0,1 - < 0,25 |",
+      "[Fabricante: Sika | Producto: Esmalte Uretano Part A | Versión: 4.0 | Fecha: 2023/09/30 | Documento: FDS069 | Sección 7: Manipulación y almacenamiento]\n## SECCIÓN 7. MANEJO Y ALMACENAMIENTO\n\n- **Sugerencias para la protección contra incendios y explosiones:** Utilice un equipo a prueba de explosiones. Mantener alejado del calor/ de chispas/ de llamas al descubierto/ de superficies calientes. No fumar. Tomar medidas de precaución contra la acumulación de cargas electrostáticas.  \n- **Consejos para una manipulación segura:** No respire los vapores ni la niebla de la pulverización. Evitar sobrepasar los límites dados de exposición profesional (ver sección 8). Evitar todo contacto con los ojos, la piel o la ropa. Ver sección 8 para el equipo de protección personal. Las personas que hayan tenido problemas de sensibilisación de la piel, asma, alergías, enfermedades respiratorias crónicas o recurrentes, no deben ser empleadas en ninguna parte del proceso en la cual esté utilizada esta preparación. Fumar, comer y beber debe prohibirse en el área de aplicación. Tomar medidas de precaución contra las descargas electrostáticas. Abra el tambor con precaución, ya que el contenido puede estar presurizado. Adopte las acciones necesarias para evitar descargas de electricidad estática (que podrían ocasionar la inflamación de los vapores orgánicos). Cuando se manejen productos químicos, siga las medidas estándar de higiene.\n\nCondiciones para el almace- : Almacénelo en el envase original.\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Esmalte Uretano Part A\n\nVersión 4.0\n\nNúmero de HDS: 000000613420",
+      "[Fabricante: Sika | Producto: Esmalte Uretano Part A | Versión: 4.0 | Fecha: 2023/09/30 | Documento: FDS069 | Sección 12: Información ecotoxicológica]\n## SECCIÓN 12. INFORMACIÓN ECOTOXICOLOGICA\n\n## Ecotoxicidad\n\n## Componentes:\n\nacetato de n-butilo:\n\nToxicidad para las al-\n\ngas/plantas acuáticas\n\n: CE50 (Desmodesmus subspicatus (alga verde)): 647,7 mg/l\n\nTiempo de exposición: 72 h\n\n## Nafta disolvente (petróleo), fracción aromática ligera; nafta de bajo punto de ebullición, sin especificar:\n\nToxicidad para las al-:\n\ngas/plantas acuáticas\n\n## xileno:\n\nToxicidad para peces (Toxi-\n\ncidad crónica)\n\nToxicidad para la dafnia y\n\notros invertebrados acuáticos\n\n(Toxicidad crónica)\n\n## metacrilato de metilo:\n\n(Pseudokirchneriella subcapitata (alga verde)): 2,6 - 2,9 mg/l  \nTiempo de exposición: 72 h  \nNOEC (Oncorhynchus mykiss (trucha irisada)): > 1,3 mg/l  \nTiempo de exposición: 56 d  \nNOEC (Daphnia (Dafnia)): 1,17 mg/l  \nTiempo de exposición: 7 d  \n- **Toxicidad para peces:** NOEC (Danio rerio (pez zebra)): 9,4 mg/l  \n- **Toxicidad para la dafnia y:** CE50 (Daphnia magna (Pulga de mar grande)): 69 mg/l  \n- **otros invertebrados acuáticos:** Tiempo de exposición: 48 h Método: Directriz de Prueba de la OCDE 202 NOEC: 37 mg/l Tiempo de exposición: 21 d Método: Directriz de Prueba de la OCDE 202  \n- **Toxicidad para la dafnia y otros invertebrados acuáticos (Toxicidad crónica):** NOEC (Daphnia magna (Pulga de mar grande)): 37 mg/l\n\n## Persistencia y degradabilidad\n\nSin datos disponibles\n\n## Potencial de bioacumulación\n\nSin datos disponibles\n\n## Movilidad en el suelo\n\nSin datos disponibles\n\n## Otros efectos adversos\n\n## Producto:",
+      "[Fabricante: Sika | Producto: Esmalte Uretano Part A | Versión: 4.0 | Fecha: 2023/09/30 | Documento: FDS069 | Sección 2: Identificación del peligro o peligros]\n## SECCIÓN 2. IDENTIFICACIÓN DE LOS PELIGROS\n\n## Clasificación según SGA (GHS)\n\nLíquidos Inflamables\n\n: Categoría 3\n\nCorrosión/irritación cutáneas : Categoría 3\n\nSensibilización cutánea\n\n: Categoría 1\n\nToxicidad a la reproducción : Categoría 2\n\n- **Toxicidad sistémica específica de órganos blanco - exposición única:** Categoría 3 (Sistema nervioso central)  \n- **Toxicidad sistémica específica de órganos blanco - Exposiciones repetidas (Inhalación):** Categoría 2  \n- **Peligro de aspiración:** Categoría 1  \n- **Peligro a corto plazo (agudo) para el medio ambiente acuá- tico:** Categoría 3  \n- **Peligro a largo plazo (crónico) para el medio ambiente acuá-:** Categoría 3\n\n## FICHA DE DATOS DE SEGURIDAD\n\n## Esmalte Uretano Part A\n\n*Texto OCR de la imagen (puede contener errores): Sika | R*\n\nVersión 4.0\n\nNúmero de HDS: 000000613420\n\nFecha de revisión: 2023/09/30\n\ntico\n\n## Etiqueta SGA (GHS)\n\n*Imagen asociada a la tabla #/tables/0: imagen contenida en el área de la tabla en la página 2 (100% de su área).*\n\n*Imagen asociada a la tabla #/tables/0: imagen contenida en el área de la tabla en la página 2 (100% de su área).*\n\n*Imagen asociada a la tabla #/tables/0: imagen contenida en el área de la tabla en la página 2 (100% de su área).*"
+    ],
+    "retrieved_ids": [
+      "FDS069-s09-000",
+      "FDS069-s11-000",
+      "FDS069-s03-000",
+      "FDS069-s07-000",
+      "FDS069-s12-000",
+      "FDS069-s02-000"
+    ],
+    "similitudes": [
+      0.7491,
+      0.6822,
+      0.6555,
+      0.6446,
+      0.6256,
+      0.7012
+    ],
+    "similitud_max": 0.7491,
+    "response": "Según la FDS del producto Esmalte Uretano Part A de Sika (versión 4.0), el punto de inflamación es 36 °C [1].",
+    "response_modelo": "Según la FDS del producto Esmalte Uretano Part A de Sika (versión 4.0), el punto de inflamación es 36 °C [1].",
+    "reference": "Según la FDS del Esmalte Uretano Part A de Sika (versión 4.0, fecha de revisión 2023/09/30), el punto de inflamación es 36 °C.",
+    "fuentes_recuperadas": [
+      "[1] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 7-8 · sección 9: Propiedades físicas y químicas",
+      "[2] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 8-9 · sección 11: Información toxicológica",
+      "[3] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 3 · sección 3: Composición / información sobre los componentes",
+      "[4] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 5-6 · sección 7: Manipulación y almacenamiento",
+      "[5] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 10 · sección 12: Información ecotoxicológica",
+      "[6] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 1-2 · sección 2: Identificación del peligro o peligros"
+    ],
+    "fuentes_citadas": [
+      "[1] Sika · Esmalte Uretano Part A · FDS069 (FDS 69 - Esmalte Uretano Part A - SIKA.pdf) · versión 4.0, fecha 2023/09/30 · pág. 7-8 · sección 9: Propiedades físicas y químicas"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS069",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 1.48
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P02",
+    "tipo": "directa",
+    "respondible": true,
+    "user_input": "¿Qué sustancias y números CAS declara la hoja de seguridad de la Pintura Antideslizante para Canchas Deportivas de Tecnidecor?",
+    "retrieved_contexts": [
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 16: Otra información]\n## 16. OTRA INFORMACION.\n\nEsta hoja de seguridad tiene como fin sólo a brindar una guía basada en la Norma NTC 4435. Para el manejo del material con la precaución apropiada Las personas que reciban la información deben ejercer su propio criterio para determinar la conveniencia del uso de este producto para un fin específico. TECNIDECOR S.A.S no se hace responsable de ningún daño causado a propiedades o a personas por el uso inadecuado de nuestros productos, ya que no conocemos la manipulación ni las precauciones que cada cliente tiene en el almacenamiento.",
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 0: Encabezado de la ficha]\n142\n\n*Texto OCR de la imagen (puede contener errores): Pinturas | TECNI&DECOR*\n\n## HOJA DE SEGURIDAD PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): 0 0 | 1*\n\nPágina 1 de 3",
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 3: Composición / información sobre los componentes]\n## 2. COMPOSICION, INFORMACION SOBRE INGREDIENTES\n\n| N° | SUSTANCIA | NUMERO CAS | NUMERO ONU |\n|---|---|---|---|\n| 1 | NIVELADOR DE PH | 7664-41-7 | 1005 |\n| 2 | RESINA ACRILICA | 9002-89-5 | N/A |\n| 3 | CARGAS INERTES | 13463-67-7 | N/A |",
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 9: Propiedades físicas y químicas]\n## 9. PROPIEDADES FISICAS Y QUIMICAS.\n\nEstado físico Liquido espeso Punto de ebullición N/A Olor Característico vinílico pH 8-9 Presión de vapor N/A T de inflamabilidad N/A Solubilidad en agua Soluble en agua\n\n142\n\n*Texto OCR de la imagen (puede contener errores): Pinturas | TECNLDECOR*\n\n## HOJA DE SEGURIDAD PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): 0 0 | 1*\n\nPágina 3 de 3",
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 4: Primeros auxilios]\n## 4. PRIMEROS AUXILIOS\n\nInhalación: Trasladar al aire fresco. Si no respira administrar respiración artificial. Si respira con dificultad suministrar oxígeno. Mantener a la víctima abrigada y en reposo. Buscar atención médica inmediatamente. Ingestión: Lavar la boca con abundante agua. Si está consciente, suministrar abundante agua. No inducir el vómito. Buscar atención médica inmediatamente. Piel: Retirar la ropa y calzado contaminados. Lavar la zona afectada con abundante agua y jabón, mínimo durante 15 minutos. Si la irritación persiste repetir el lavado. Buscar atención médica de inmediato.\n\n142\n\n*Texto OCR de la imagen (puede contener errores): Pinturas | TECNIDECOR*\n\n## HOJA DE SEGURIDAD PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): 0 0 | 1*\n\nPágina 2 de 3\n\nOjos: Lavar con abundante agua, mínimo durante 15 minutos. Levantar y separar los párpados para asegurar la remoción del químico. Si la irritación persiste repetir el lavado. Buscar atención médica especializada. Nota para los médicos: Después de proporcionar los primeros auxilios, es indispensable la comunicación directa con un médico especialista en toxicología, que brinde información para el manejo médico de la persona afectada, con base en su estado, los síntomas existentes y las características de la sustancia química con la cual se tuvo contacto",
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 8: Controles de exposición / protección personal]\n## 8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL\n\nProtección de los ojos: Use gafas de seguridad. Cuando haya riesgo de salpicadura, se recomienda utilizar monogafas, si los vapores molestan la vista, use facial completa. Protección para la piel: Use guantes, use bata manga larga, delantal de caucho y botas de caucho. Protección respiratoria: Para exposiciones cortas se debe usar mascaras con filtros para vapores, en espacios confinados o en situaciones donde continuamente hay operaciones de rociado, o si la propia respiración se dificulta debe usarse un equipo\n\nautónomo.Controles de Ingeniería"
+    ],
+    "retrieved_ids": [
+      "FDS001-s16-000",
+      "FDS001-s00-000",
+      "FDS001-s03-000",
+      "FDS001-s09-000",
+      "FDS001-s04-000",
+      "FDS001-s08-000"
+    ],
+    "similitudes": [
+      0.7411,
+      0.7188,
+      0.7556,
+      0.7314,
+      0.6061,
+      0.6018
+    ],
+    "similitud_max": 0.7556,
+    "response": "Según la hoja de seguridad de la Pintura Antideslizante para Canchas Deportivas de Tecnidecor, se declara la siguiente sustancia y número CAS:\n\n* Nivelador de pH: 7664-41-7\n* Resina acrílica: 9002-89-5\n* Cargas inertes: 13463-67-7\n\n[3]",
+    "response_modelo": "Según la hoja de seguridad de la Pintura Antideslizante para Canchas Deportivas de Tecnidecor, se declara la siguiente sustancia y número CAS:\n\n* Nivelador de pH: 7664-41-7\n* Resina acrílica: 9002-89-5\n* Cargas inertes: 13463-67-7\n\n[3]",
+    "reference": "La hoja de seguridad de Tecnidecor (fecha de actualización octubre de 2018) declara tres sustancias: nivelador de pH (CAS 7664-41-7, número ONU 1005), resina acrílica (CAS 9002-89-5) y cargas inertes (CAS 13463-67-7).",
+    "fuentes_recuperadas": [
+      "[1] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 3 · sección 16: Otra información",
+      "[2] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[3] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 1 · sección 3: Composición / información sobre los componentes",
+      "[4] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 2-3 · sección 9: Propiedades físicas y químicas",
+      "[5] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 1-2 · sección 4: Primeros auxilios",
+      "[6] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 2 · sección 8: Controles de exposición / protección personal"
+    ],
+    "fuentes_citadas": [
+      "[3] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 1 · sección 3: Composición / información sobre los componentes"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS001",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 1.93
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P03",
+    "tipo": "directa",
+    "respondible": true,
+    "user_input": "¿Cuál es el número ONU, la clase y el grupo de embalaje para el transporte del Tufcote 3.5 HH - Aluminum de Axalta?",
+    "retrieved_contexts": [
+      "[Fabricante: Axalta | Producto: Tufcote 3.5 HH - Aluminum | Versión: 2 | Fecha: 2/28/2020 | Documento: FDS023 | Sección 14: Información relativa al transporte]\n## Sección 14. Información relativa al transporte\n\n*Imagen asociada a la tabla #/tables/10: imagen contenida en el área de la tabla en la página 12 (100% de su área).*\n\n|  | Clasificación DOT | Clasificación para el TDG | Clasificación de México | IMDG | IATA |\n|---|---|---|---|---|---|\n| Número ONU | UN1263 UN1263 |  | UN1263 |\n| Designación oficial de transporte | PINTURA |\n| Clase(s) relativas al transporte | 3 |\n| Grupo de embalaje | II |\n| Riesgos ambientales | No. |\n\n## Información adicional\n\n- **Clasificación DOT:** Previsiones especiales 383  \n- **Clasificación para el TDG:** Product classified as per the following sections of the Transportation of Dangerous Goods Regulations: 2.18-2.19 (Class 3).  \n- **Precauciones especiales para el usuario:** Transporte dentro de las instalaciones de usuarios: siempre transporte en recipientes cerrados que estén verticales y seguros. Asegurar que las personas que transportan el producto conocen qué hacer en caso de un accidente o derrame.  \n- **Transporte a granel con arreglo al anexo II de MARPOL y al Código IBC:**\n\n: No disponible.",
+      "[Fabricante: Axalta | Producto: Tufcote 3.5 HH - Aluminum | Versión: 2 | Fecha: 2/28/2020 | Documento: FDS023 | Sección 1: Identificación del producto y del proveedor]\n## Sección 1. Identificación\n\n- **Identificador del producto:** 983  \n- **Nombre del producto:** Tufcote 3.5 HH - Aluminum  \n- **Fecha de emisión:**\n\n: 2/28/2020\n\nVersión :\n\n2\n\n## Uso recomendado de la sustancia química peligrosa o mezcla, y restricciones de uso\n\n- **Usos identificados:**  \n- **Usos contraindicados:** Para uso industrial solo por parte de profesionales capacitados. No está a la venta ni es usado por los consumidores.  \n- **Datos del proveedor o fabricante:**  \n- **Información de productos Componente de recubrimiento para uso profesional.:**\n\n: Axalta Coating Systems, LLC\n\nTwo Commerce Square, 2001 Market Street Suite 3600 Philadelphia, PA 19109 USA\n\n855-6AXALTA\n\nNúmero de teléfono en caso de emergencia :\n\n(CHEMTREC) - 800-424-9300",
+      "[Fabricante: Axalta | Producto: Tufcote 3.5 HH - Aluminum | Versión: 2 | Fecha: 2/28/2020 | Documento: FDS023 | Sección 14: Información relativa al transporte]\n: No disponible.\n\nLa descripción real del envío de este producto puede variar en función de varios factores, incluyendo, entre otros, el volumen de material, el tamaño del contenedor, el modo de transporte y el uso de las exenciones o excepciones que se encuentran en las regulaciones aplicables. La información proporcionada en la Sección 14 es una posible descripción de envío para este producto. Consulte a su especialista en envíos o proveedor para obtener la información de asignación apropiada.",
+      "[Fabricante: Axalta | Producto: Tufcote 3.5 HH - Aluminum | Versión: 2 | Fecha: 2/28/2020 | Documento: FDS023 | Sección 16: Otra información]\n## Historial\n\n## Sección 16. Otra información incluidas las relativas a la preparación y actualización de las hojas de datos de seguridad\n\nMARPOL = Convenio Internacional para Prevenir la Contaminación por los Buques,\n\nFecha de emisión Versión : : Explicación de Abreviaturas : ETA = Estimación de Toxicidad Aguda SGA = Sistema Globalmente Armonizado IATA = Asociación de Transporte Aéreo Internacional IBC = Contenedor Intermedio para Productos a Granel IMDG = Código Marítimo Internacional de Mercancías Peligrosas Log Kow = logaritmo del coeficiente de reparto octanol/agua 1973 con el Protocolo de 1978. (\"Marpol\" = polución marina) ONU = Organización de las Naciones Unidas 2/28/2020 2 Administración de productos y cumplimiento regulatorio.\n\nIndica la información que ha cambiado desde la edición de la versión anterior.\n\n## Aviso al lector\n\nEste producto está destinado exclusivamente para uso industrial.",
+      "[Fabricante: Axalta | Producto: Tufcote 3.5 HH - Aluminum | Versión: 2 | Fecha: 2/28/2020 | Documento: FDS023 | Sección 16: Otra información]\n## National Fire Protection Association (Estados Unidos)\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): 0 | 4 | 2 | Salud | Especial | Inestabilidad/Reactividad | Inflamabilidad*\n\nReimpreso con permiso del estándar NFPA 704-2001, Identificación de los riesgos de materiales para respuesta ante casos de emergencia (Identification of the Hazards of Materials for Emergency Response) Copyright ©1997, Asociación Nacional de Protección contra Incendios (National Fire Protection Association, NFPA), Quincy, MA 02269. Este material reimpreso no es la postura completa y oficial de la Asociación Nacional de Protección contra Incendios en el tema al que se hace referencia, la cual está representada solamente por el estándar completo.\n\nCopyright ©2001, Asociación Nacional de Protección contra Incendios, Quincy, MA 02269. Este sistema de advertencia está diseñado para ser interpretado y aplicado solamente por personas debidamente capacitadas para identificar riesgos de incendio, de reactividad y contra la salud representados por sustancias químicas. El usuario es derivado a determinado número limitado de sustancias químicas con clasificaciones recomendadas en los códigos NFPA 49 y NFPA 325, los cuales se utilizarán solamente como lineamientos. Independientemente de que las sustancias químicas estén o no clasificadas por la NFPA, cualquier persona que utilice los sistemas 704 para clasificar sustancias químicas lo hace bajo su propio riesgo.\n\n## Historial",
+      "[Fabricante: Axalta | Producto: Tufcote 3.5 HH - Aluminum | Versión: 2 | Fecha: 2/28/2020 | Documento: FDS023 | Sección 3: Composición / información sobre los componentes]\n## Sección 3. Composición / información sobre los componentes\n\n## Sustancia/mezcla :\n\nMezcla\n\n| Nombre de ingrediente | % | Número CAS |\n|---|---|---|\n| propanona | ≥25 - ≤38 | 67-64-1 |\n| destilado (petróleo), hidrotratado ligero | ≥10 - ≤25 | 64742-47-8 |\n| heptan-2-ona | ≤10 | 110-43-0 |\n| nafta disolvente (petroleo), fraccion aromatica ligera (<0,1% benceno) | ≤2.5 | 64742-95-6 |\n| 2-butanona-oxima | ≤0.3 | 96-29-7 |\n\nSi alguna concentración se presenta como un rango, es para proteger la confidencialidad o debido a variación en los lotes.\n\nNo hay ningún ingrediente adicional presente que, bajo el conocimiento actual del proveedor y en las concentraciones aplicables, sea clasificado como de riesgo para la salud o el medio ambiente y por lo tanto deban ser reportados en esta sección.\n\nLos límites de exposición laboral, en caso de existir, figuran en la sección 8."
+    ],
+    "retrieved_ids": [
+      "FDS023-s14-000",
+      "FDS023-s01-000",
+      "FDS023-s14-001",
+      "FDS023-s16-002",
+      "FDS023-s16-001",
+      "FDS023-s03-000"
+    ],
+    "similitudes": [
+      0.7783,
+      0.7155,
+      0.7126,
+      0.6819,
+      0.6641,
+      0.6426
+    ],
+    "similitud_max": 0.7783,
+    "response": "Según la FDS del producto Tufcote 3.5 HH - Aluminum de Axalta (versión 2), el número ONU es UN1263 [1], la clase relativa al transporte es 3 [1] y el grupo de embalaje es II [1].",
+    "response_modelo": "Según la FDS del producto Tufcote 3.5 HH - Aluminum de Axalta (versión 2), el número ONU es UN1263 [1], la clase relativa al transporte es 3 [1] y el grupo de embalaje es II [1].",
+    "reference": "Para el Tufcote 3.5 HH - Aluminum (Axalta, versión 2, fecha de emisión 2/28/2020) el número ONU es UN1263, con designación oficial PINTURA, clase 3 y grupo de embalaje II; es igual en las clasificaciones DOT, TDG, México, IMDG e IATA, y no indica riesgos ambientales.",
+    "fuentes_recuperadas": [
+      "[1] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 12 · sección 14: Información relativa al transporte",
+      "[2] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 1 · sección 1: Identificación del producto y del proveedor",
+      "[3] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 12 · sección 14: Información relativa al transporte",
+      "[4] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 13-14 · sección 16: Otra información",
+      "[5] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 13 · sección 16: Otra información",
+      "[6] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 2 · sección 3: Composición / información sobre los componentes"
+    ],
+    "fuentes_citadas": [
+      "[1] Axalta · Tufcote 3.5 HH - Aluminum · FDS023 (FDS 23 - Tufcote 3.5 HH - Aluminum.pdf) · versión 2, fecha 2/28/2020 · pág. 12 · sección 14: Información relativa al transporte"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS023",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 1.57
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P04",
+    "tipo": "directa",
+    "respondible": true,
+    "user_input": "¿Qué primeros auxilios indica la FDS del Sikafloor-161 Part A en caso de contacto con la piel?",
+    "retrieved_contexts": [
+      "[Fabricante: Sika | Producto: Sikafloor®-161 Part A | Versión: 2.0 | Fecha: 2023/05/05 | Documento: FDS073 | Sección 4: Primeros auxilios]\n## SECCIÓN 4. PRIMEROS AUXILIOS\n\n- **Consejos generales:** Retire a la persona de la zona peligrosa. Consulte a un médico. Muéstrele esta hoja de seguridad al doctor que esté de servicio.  \n- **En caso de inhalación:** Salga al aire libre.  \n- **En caso de contacto con la piel:** Quítese inmediatamente la ropa y zapatos contaminados. Elimínelo lavando con jabón y mucha agua. Si persisten los síntomas, llame a un médico.  \n- **En caso de contacto con los ojos:** Enjuagar inmediatamente los ojos con agua abundante. Quítese los lentes de contacto. Manténgase el ojo bien abierto mientras se lava. Si persiste la irritación de los ojos, consulte a un especialista.  \n- **En caso de ingestión Consultar a un médico después de una exposición importante.:** Lávese la boca con agua y después beba agua abundante. Nunca debe administrarse nada por la boca a una persona inconsciente. Consulte al médico.  \n- **Síntomas y efectos más importante, agudos y retardados:** efectos irritantes efectos sensibilizantes Reacciones alérgicas Lacrimación excesiva Dermatitis Vea la Sección 11 para obtener información detallada sobre la salud y los síntomas. Provoca irritación cutánea. Puede provocar una reacción cutánea alérgica. Provoca irritación ocular grave.  \n- **Notas especiales para un medico tratante No dé leche ni bebidas alcohólicas.:** Trate sintomáticamente.",
+      "[Fabricante: Sika | Producto: Sikafloor®-161 Part A | Versión: 2.0 | Fecha: 2023/05/05 | Documento: FDS073 | Sección 2: Identificación del peligro o peligros]\n## HOJA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-161 Part A\n\n*Texto OCR de la imagen (puede contener errores): Sika | R*\n\nVersión 2.0\n\nNúmero de HDS: 100000027041\n\nFecha de revisión: 2023/05/05\n\n| Indicaciones de peligro | : | H227 Líquido combustible. H315 Provoca irritación cutánea. H317 Puede provocar una reacción cutánea alérgica. H319 Provoca irritación ocular grave. H411 Tóxico para los organismos acuáticos, con efectos noci- vos duraderos. |\n|---|---|---|\n| Consejos de prudencia | : | Prevención: P210 Mantener alejado del calor, chispas, llamas al descubier- to, superficies calientes y otras fuentes de ignición. No fumar. P261 Evitar respirar nieblas o vapores. P264 Lavarse la piel cuidadosamente después de la manipula- ción. P272 La ropa de trabajo contaminada no debe salir del lugar de trabajo. P273 No dispersar en el medio ambiente. P280 Usar guantes/ ropa de protección/ equipo de protección para los ojos/ la cara. |\n| Consejos de prudencia |  | Intervención: |\n| Consejos de prudencia |  | P302 + P352 EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua. P305 + P351 + P338 EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua cuidadosamente durante varios minutos. Quitar las lentes de contacto cuando estén presentes y pueda hacerse con facilidad. Proseguir con el lavado. P333 + P313 En caso de irritación cutánea o sarpullido: consul- tar a un médico. P337 + P313 Si la irritación ocular persiste, consultar a un mé- dico. P362 + P364 Quitar la ropa contaminada y lavarla antes de volverla a usar. P370 + P378 En caso de incendio: Utilizar arena seca, produc- to químico seco o espuma resistente al alcohol para la extin- ción. P391 Recoger los vertidos. |",
+      "[Fabricante: Sika | Producto: Sikafloor®-161 Part A | Versión: 2.0 | Fecha: 2023/05/05 | Documento: FDS073 | Sección 7: Manipulación y almacenamiento]\n## SECCIÓN 7. MANEJO Y ALMACENAMIENTO\n\n- **Sugerencias para la protección contra incendios y explosiones:** Medidas normales preventivas para la protección contra incendios.  \n- **Consejos para una manipulación segura:** Evitar sobrepasar los límites dados de exposición profesional (ver sección 8). Cuando se manejen productos químicos, siga las medidas estándar de higiene.  \n- **Condiciones para el almacenamiento seguro Evitar todo contacto con los ojos, la piel o la ropa. Ver sección 8 para el equipo de protección personal. Las personas que hayan tenido problemas de sensibilisación de la piel, asma, alergías, enfermedades respiratorias crónicas o recurrentes, no deben ser empleadas en ninguna parte del proceso en la cual esté utilizada esta preparación. Fumar, comer y beber debe prohibirse en el área de aplicación.:** Almacénelo en el envase original. Mantenga en un lugar bien ventilado. Los contenedores que se abren deben ser cuidadosamente\n\n## HOJA DE DATOS DE SEGURIDAD\n\n## Sikafloor®-161 Part A\n\n*Texto OCR de la imagen (puede contener errores): Sika | R*\n\nVersión 2.0\n\nNúmero de HDS: 100000027041\n\nFecha de revisión: 2023/05/05\n\nresellados y mantenerlos en posición vertical para evitar fugas.\n\nObservar las indicaciones de la etiqueta.\n\nAlmacenar en conformidad con la reglamentación local.",
+      "[Fabricante: Sika | Producto: Sikafloor®-161 Part A | Versión: 2.0 | Fecha: 2023/05/05 | Documento: FDS073 | Sección 8: Controles de exposición / protección personal]\n## Componentes con parámetros de control en el área de trabajo\n\nNo contiene sustancias con valores límite de exposición laboral.\n\n## Protección personal\n\n| Protección respiratoria | : | Utilice protección respiratoria a menos que exista una venti- lación de escape adecuada o que la evaluación de la exposi- ción indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuada para la concentración máxima prevista del contaminante (gas/vapor/aerosol/partículas) que puede presentarse al ma- nejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo. |\n|---|---|---|\n| Protección de las manos | : | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario. |\n| Protección de los ojos | : | Equipo de protección ocular que cumpla con estándares aprobados debe ser utilizado cuando la evaluación del riesgo indica que es necesario. |\n| Protección de la piel y del cuerpo | : | Elegir la protección para el cuerpo según sus caraterísticas, la concentración y la cantidad de sustancias peligrosas, y el lugar específico de trabajo. |\n| Medidas de higiene | : | Manipúlelo con las precauciones de higiene industrial ade- cuadas, y respete las prácticas de seguridad. No coma ni beba durante su utilización. No fume durante su utilización. Lavarse las manos antes de los descansos y después de terminar la jornada laboral. |",
+      "[Fabricante: Sika | Producto: Sikafloor®-161 Part A | Versión: 2.0 | Fecha: 2023/05/05 | Documento: FDS073 | Sección 6: Medidas en caso de vertido accidental]\n## SECCIÓN 6. MEDIDAS QUE DEBEN TOMARSE EN CASO DE DERRAME ACCIDENTAL O FUGA ACCIDENTAL\n\n- **Precauciones personales, equipo de protección y procedimientos de emergencia:** Utilice equipo de protección personal. Negar el acceso a personas sin protección.  \n- **Precauciones relativas al medio ambiente:** No lo vierta en el agua superficial o el sistema de alcantarillado sanitario.  \n- **Métodos y materiales de contención y limpieza Si el producto contamina los ríos, lagos o alcantarillados, informar a las autoridades respectivas.:** Recójalo con un producto absorbente inerte (por ejemplo, arena, silicagel, aglutinante de ácidos, aglutinante universal, aserrín). Guarde en contenedores apropiados y cerrados para su eliminación.",
+      "[Fabricante: Sika | Producto: Sikafloor®-161 Part A | Versión: 2.0 | Fecha: 2023/05/05 | Documento: FDS073 | Sección 2: Identificación del peligro o peligros]\ny lavarla antes de volverla a usar. P370 + P378 En caso de incendio: Utilizar arena seca, produc- to químico seco o espuma resistente al alcohol para la extin- ción. P391 Recoger los vertidos. |\n\n| Indicaciones de peligro | : | H227 Líquido combustible. H315 Provoca irritación cutánea. H317 Puede provocar una reacción cutánea alérgica. H319 Provoca irritación ocular grave. H411 Tóxico para los organismos acuáticos, con efectos noci- vos duraderos. |\n|---|---|---|\n| Consejos de prudencia |  | Almacenamiento: |\n| Consejos de prudencia |  | P403 Almacenar en un lugar bien ventilado. |\n| Consejos de prudencia |  | Eliminación: P501 Eliminar el contenido/ recipiente en una planta de elimi- nación de residuos aprobada. |\n\n## Otros peligros no clasificables\n\nNo conocidos."
+    ],
+    "retrieved_ids": [
+      "FDS073-s04-000",
+      "FDS073-s02-001",
+      "FDS073-s07-000",
+      "FDS073-s08-001",
+      "FDS073-s06-000",
+      "FDS073-s02-002"
+    ],
+    "similitudes": [
+      0.7475,
+      0.6952,
+      0.6752,
+      0.6714,
+      0.6391,
+      0.6349
+    ],
+    "similitud_max": 0.7475,
+    "response": "En caso de contacto con la piel, se indica que se retire inmediatamente la ropa y zapatos contaminados, y se elimine lavando con jabón y mucha agua [1]. Si persisten los síntomas, se debe llamar a un médico [1].",
+    "response_modelo": "En caso de contacto con la piel, se indica que se retire inmediatamente la ropa y zapatos contaminados, y se elimine lavando con jabón y mucha agua. Si persisten los síntomas, se debe llamar a un médico [1].",
+    "reference": "En caso de contacto con la piel, la FDS del Sikafloor-161 Part A (Sika, versión 2.0, fecha de revisión 2023/05/05) indica quitarse inmediatamente la ropa y los zapatos contaminados, eliminar el producto lavando con jabón y mucha agua, y llamar a un médico si persisten los síntomas.",
+    "fuentes_recuperadas": [
+      "[1] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 3 · sección 4: Primeros auxilios",
+      "[2] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 2 · sección 2: Identificación del peligro o peligros",
+      "[3] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 4-5 · sección 7: Manipulación y almacenamiento",
+      "[4] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 5 · sección 8: Controles de exposición / protección personal",
+      "[5] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 4 · sección 6: Medidas en caso de vertido accidental",
+      "[6] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 2 · sección 2: Identificación del peligro o peligros"
+    ],
+    "fuentes_citadas": [
+      "[1] Sika · Sikafloor®-161 Part A · FDS073 (FDS 73 - Sikafloor®-161 Part A Level Comercial - SIKA.pdf) · versión 2.0, fecha 2023/05/05 · pág. 3 · sección 4: Primeros auxilios"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS073",
+    "advertencias": [
+      "citas [1] agregadas automáticamente a oraciones sin cita, por coincidencia de palabras"
+    ],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 1.56
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P05",
+    "tipo": "directa",
+    "respondible": true,
+    "user_input": "¿A qué temperaturas y por cuánto tiempo máximo se debe almacenar el KORAZA PRO 550 BLANCO de Pintuco?",
+    "retrieved_contexts": [
+      "[Fabricante: Pintuco | Producto: KORAZA PRO 550 BLANCO | Versión: 1 | Fecha: 16/05/2018 | Documento: FDS005 | Sección 7: Manipulación y almacenamiento]\nbeber ni fumar en las zonas de trabajo; lavarse las manos después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para comer.\n\n- D.- Recomendaciones técnicas para prevenir riesgos medioambientales\n\nSe recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3)\n\n## 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\n\n- A.- Medidas técnicas de almacenamiento\n- B.- Condiciones generales de almacenamiento.\n\n- **Tª mínima:** 5 ºC  \n- **Tª máxima:** 30 ºC  \n- **Tiempo máximo:** 18 meses\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## 7.3 Usos específicos finales:\n\nSalvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.",
+      "[Fabricante: Pintuco | Producto: KORAZA PRO 550 BLANCO | Versión: 1 | Fecha: 16/05/2018 | Documento: FDS005 | Sección 17: Encabezados y pies de página]\n- (págs. 1-7) - CONTINÚA EN LA SIGUIENTE PÁGINA -\n- (págs. 1-7) Emisión: 16/05/2018\n- (págs. 1-7) Versión: 1\n- (págs. 2, 4, 6, 8) Ficha de datos de seguridad\n- (págs. 2, 4, 6, 8) según Decreto 1496 de 2018\n- (págs. 8) 10350789-10289257\n- (págs. 8) La información contenida en esta ficha de datos de seguridad está fundamentada en fuentes, conocimientos técnicos y legislación vigente a nivel europeo y estatal, no pudiendo garantizar la exactitud de la misma. Esta información no es posible considerarla como una garantía de las propiedades del producto, se trata simplemente de una descripción en cuanto a los requerimientos en materia de seguridad. La metodología y condiciones de trabajo de los usuarios de este producto se encuentran fuera de nuestro conocimiento y control, siendo siempre responsabilidad última del usuario tomar las medidas necesarias para adecuarse a las exigencias legislativas en cuanto a manipulación, almacenamiento, uso y eliminación de productos químicos. La información de esta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican.\n- (págs. 8) FIN DE LA FICHA DE DATOS DE SEGURIDAD\n- (págs. 8) Emisión: 16/05/2018 Versión: 1",
+      "[Fabricante: Pintuco | Producto: KORAZA PRO 550 BLANCO | Versión: 1 | Fecha: 16/05/2018 | Documento: FDS005 | Sección 10: Estabilidad y reactividad]\n## SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD\n\n## 10.1 Reactividad:\n\nNo se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7.\n\n## 10.2 Estabilidad química:\n\nEstable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.\n\n## 10.3 Posibilidad de reacciones peligrosas:\n\nBajo las condiciones indicadas no se esperan reacciones peligrosas que puedan producir una presión o temperaturas excesivas.\n\n## 10.4 Condiciones que deben evitarse:\n\nAplicables para manipulación y almacenamiento a temperatura ambiente:\n\n| Choque y fricción | Contacto con el aire | Calentamiento | Luz Solar | Humedad |\n|---|---|---|---|---|\n| No aplicable |\n\n## 10.5 Materiales incompatibles:\n\n| Ácidos | Agua | Materias comburentes | Materias combustibles | Otros |\n|---|---|---|---|---|\n| Evitar ácidos fuertes | No aplicable | Evitar alcalis o bases fuertes |\n\n## 10.6 Productos de descomposición peligrosos:\n\nVer epígrafe 10.3, 10.4 y 10.5 para conocer los productos de descomposición específicamente. En dependencia de las condiciones de descomposición, como consecuencia de la misma pueden liberarse mezclas complejas de sustancias químicas: dióxido de carbono (CO2), monóxido de carbono y otros compuestos orgánicos.",
+      "[Fabricante: Pintuco | Producto: KORAZA PRO 550 BLANCO | Versión: 1 | Fecha: 16/05/2018 | Documento: FDS005 | Sección 5: Medidas de lucha contra incendios]\n## SECCIÓN 5: MEDIDAS DE LUCHA CONTRA INCENDIOS\n\n## 5.1 Medios de extinción apropiados:\n\nProducto no inflamable bajo condiciones normales de almacenamiento, manipulación y uso. En caso de inflamación como consecuencia de manipulación, almacenamiento o uso indebido emplear preferentemente extintores de polvo polivalente (polvo ABC). NO SE RECOMIENDA emplear agua a chorro como agente de extinción.\n\n## 5.2 Peligros específicos del producto químico:\n\nComo consecuencia de la combustión o descomposición térmica se generan subproductos de reacción que pueden resultar altamente tóxicos y, consecuentemente, pueden presentar un riesgo elevado para la salud.\n\n## 5.3 Medidas especiales que deben tomar los equipos de lucha contra incendios:\n\nEn función de la magnitud del incendio puede hacerse necesario el uso de ropa protectora completa y equipo de respiración autónomo. Disponer de un mínimo de instalaciones de emergencia o elementos de actuación (mantas ignífugas, botiquín portátil,...).\n\n## Disposiciones adicionales:\n\nActuar conforme el Plan de Emergencia Interior y las Fichas Informativas sobre actuación ante accidentes y otras emergencias. Suprimir cualquier fuente de ignición. En caso de incendio, refrigerar los recipientes y tanques de almacenamiento de productos susceptibles a inflamación, explosión como consecuencia de elevadas temperaturas. Evitar el vertido de los productos empleados en la extinción del incendio al medio acuático.",
+      "[Fabricante: Pintuco | Producto: KORAZA PRO 550 BLANCO | Versión: 1 | Fecha: 16/05/2018 | Documento: FDS005 | Sección 9: Propiedades físicas y químicas]\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## KORAZA PRO 550 BLANCO 10350789-10289257\n\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\n- **Densidad de vapor a 20 ºC:** No relevante *  \n- **Coeficiente de reparto n-octanol/agua a 20 ºC:** No relevante *  \n- **Solubilidad en agua a 20 ºC:** No relevante *  \n- **Propiedad de solubilidad:** No relevante *  \n- **Temperatura de descomposición:** No relevante *  \n- **Punto de fusión/punto de congelación:** No relevante *  \n- **Propiedades explosivas:** No relevante *  \n- **Propiedades comburentes:** No relevante *\n\n## Inflamabilidad:\n\n- **Punto de inflamación:** No inflamable (>93 ºC)  \n- **Inflamabilidad (sólido, gas):** No relevante *  \n- **Temperatura de auto-inflamación:** 220 ºC  \n- **Límite de inflamabilidad inferior:** No relevante *  \n- **Límite de inflamabilidad superior:** No relevante *\n\n## Explosividad:\n\n- **Límite inferior de explosividad:** No relevante *  \n- **Límite superior de explosividad:** No relevante *\n\n## 9.2 Información adicional:\n\n- **Tensión superficial a 20 ºC:** No relevante *  \n- **Índice de refracción:** No relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+      "[Fabricante: Pintuco | Producto: KORAZA PRO 550 BLANCO | Versión: 1 | Fecha: 16/05/2018 | Documento: FDS005 | Sección 7: Manipulación y almacenamiento]\n## SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO\n\n## 7.1 Precauciones que se deben tomar para garantizar una manipulación segura:\n\n## A.- Precauciones generales\n\nCumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6). Evitar el vertido libre desde el recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos.\n\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## KORAZA PRO 550 BLANCO 10350789-10289257\n\n## SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)\n\n- B.- Recomendaciones técnicas para la prevención de incendios y explosiones.\n\nProducto no inflamable bajo condiciones normales de almacenamiento, manipulación y uso. Se recomienda trasvasar a velocidades lentas para evitar la generación de cargas electroestáticas que pudieran afectar a productos inflamables. Consultar la sección 10 sobre condiciones y materias que deben evitarse.\n\n- C.- Recomendaciones técnicas para prevenir riesgos ergonómicos y toxicológicos.\n\nPara control de exposición consultar la sección 8. No comer, beber ni fumar en las zonas de trabajo; lavarse las manos después de cada utilización, y despojarse de prendas de vestir y equipos de protección contaminados antes de entrar en las zonas para comer."
+    ],
+    "retrieved_ids": [
+      "FDS005-s07-001",
+      "FDS005-s17-000",
+      "FDS005-s10-000",
+      "FDS005-s05-000",
+      "FDS005-s09-001",
+      "FDS005-s07-000"
+    ],
+    "similitudes": [
+      0.797,
+      0.6725,
+      0.6494,
+      0.6521,
+      0.7487,
+      0.7338
+    ],
+    "similitud_max": 0.797,
+    "response": "Según la FDS del producto KORAZA PRO 550 BLANCO de Pintuco (versión 1), se debe almacenar el producto a temperaturas entre 5 ºC y 30 ºC, y el tiempo máximo de almacenamiento es de 18 meses [2] [1].",
+    "response_modelo": "Según la FDS del producto KORAZA PRO 550 BLANCO de Pintuco (versión 1), se debe almacenar el producto a temperaturas entre 5 ºC y 30 ºC, y el tiempo máximo de almacenamiento es de 18 meses [2].",
+    "reference": "La FDS del KORAZA PRO 550 BLANCO (Pintuco, versión 1, emisión 16/05/2018) indica como medidas técnicas de almacenamiento una temperatura mínima de 5 ºC, una temperatura máxima de 30 ºC y un tiempo máximo de 18 meses.",
+    "fuentes_recuperadas": [
+      "[1] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 3 · sección 7: Manipulación y almacenamiento",
+      "[2] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 1-2, 8 · sección 17: Encabezados y pies de página",
+      "[3] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 5 · sección 10: Estabilidad y reactividad",
+      "[4] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 2 · sección 5: Medidas de lucha contra incendios",
+      "[5] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 5 · sección 9: Propiedades físicas y químicas",
+      "[6] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 2-3 · sección 7: Manipulación y almacenamiento"
+    ],
+    "fuentes_citadas": [
+      "[1] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 3 · sección 7: Manipulación y almacenamiento",
+      "[2] Pintuco · KORAZA PRO 550 BLANCO · FDS005 (FDS 5 - KORAZA PRO 550 BLANCO _ 10350789-10289257 _COL (Versión 1).pdf) · versión 1, fecha 16/05/2018 · pág. 1-2, 8 · sección 17: Encabezados y pies de página"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS005",
+    "advertencias": [
+      "citas [1] agregadas automáticamente: respaldan la oración mejor que la cita del modelo"
+    ],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 1.8
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P06",
+    "tipo": "directa",
+    "respondible": true,
+    "user_input": "¿Qué protección respiratoria recomienda la FDS de la Pintura Lavable Antibacterial de Corona?",
+    "retrieved_contexts": [
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE ANTIBACTERIAL | Versión: 2 (sustituye a 1) | Fecha: 10/09/2020 | Documento: FDS042 | Sección 8: Controles de exposición / protección personal]\ny/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información ver epígrafes 7.1 y 7.2 de la FDS.\n\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.\n\n## B.- Protección respiratoria.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección obligatoria | de las vías | respiratorias*\n\n*Imagen asociada a la tabla #/tables/2: imagen contenida en el área de la tabla en la página 4 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |\n\n## C.- Protección específica de las manos.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección obligatoria | de la manos*\n\n*Imagen asociada a la tabla #/tables/3: imagen contenida en el área de la tabla en la página 4 (100% de su área).*",
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE | Versión: 7 (sustituye a 6) | Fecha: 18/09/2024 | Documento: FDS088 | Sección 8: Controles de exposición / protección personal]\n- B.- Protección respiratoria.\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA LAVABLE\n\n## SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección obligatoria | de las vías | respiratorias*\n\n*Imagen asociada a la tabla #/tables/4: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |\n\n## C.- Protección específica de las manos.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección obligatoria | de las manos*\n\n*Imagen asociada a la tabla #/tables/5: imagen contenida en el área de la tabla en la página 5 (100% de su área).*",
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE ANTIBACTERIAL | Versión: 2 (sustituye a 1) | Fecha: 10/09/2020 | Documento: FDS042 | Sección 8: Controles de exposición / protección personal]\n*Imagen asociada a la tabla #/tables/3: imagen contenida en el área de la tabla en la página 4 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n## D.- Protección ocular y facial\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección obligatoria | de la cara*\n\n*Imagen asociada a la tabla #/tables/4: imagen contenida en el área de la tabla en la página 4 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de la cara | Pantalla facial | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## PINTURA LAVABLE ANTIBACTERIAL\n\n## SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\n## E.- Protección corporal",
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE | Versión: 7 (sustituye a 6) | Fecha: 18/09/2024 | Documento: FDS088 | Sección 8: Controles de exposición / protección personal]\n## 8.2 Controles técnicos apropiados:\n\n- A.- Medidas de protección individual, como equipo de protección personal (EPP)\n\nRealizar la identificación de los peligros y la valoración de los riesgos de acuerdo a la Guia técnica colombiana GTC 45. Como medida de prevención se recomienda la utilización de equipos de protección individual básicos. Para más información sobre los equipos de protección individual (almacenamiento, uso, limpieza, mantenimiento, clase de protección,…) consultar el folleto informativo facilitado por el fabricante del EPP. Las indicaciones contenidas en este punto se refieren al producto puro. Las medidas de protección para el producto diluido podrán variar en función de su grado de dilución, uso, método de aplicación, etc. Para determinar la obligación de instalación de duchas de emergencia y/o lavaojos en los almacenes se tendrá en cuenta la normativa referente al almacenamiento de productos químicos aplicable en cada caso. Para más información ver epígrafes 7.1 y 7.2 de la FDS.\n\nToda la información aquí incluida es una recomendación siendo necesario su concreción por parte de los servicios de prevención de riesgos laborales al desconocer las medidas de prevención adicionales que la empresa pudiese disponer.\n\n- B.- Protección respiratoria.\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA LAVABLE",
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE ANTIBACTERIAL | Versión: 2 (sustituye a 1) | Fecha: 10/09/2020 | Documento: FDS042 | Sección 8: Controles de exposición / protección personal]\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## PINTURA LAVABLE ANTIBACTERIAL\n\n## SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\n## E.- Protección corporal\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Protección obligatoria | de los pies*\n\n*Imagen asociada a la tabla #/tables/5: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria del cuerpo | Prenda de protección frente a riesgos químicos | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico | Reemplazar las botas ante cualquier indicio de deterioro. |\n\n## F.- Medidas complementarias de emergencia\n\n| Medida de emergencia | Normas | Medida de emergencia | Normas |\n|---|---|---|---|\n| Ducha de emergencia | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |\n\n## Controles de la exposición del medio ambiente:\n\nSe recomienda evitar el vertido tanto del producto como de su envase al medio ambiente. Para información adicional ver epígrafe 7.1.D de la FDS.\n\nNTC 6018- Etiquetas ambientales tipo I. Sello ambiental colombiano. Criterios ambientales para pinturas y materiales de recubrimiento (determinados de acuerdo con la norma ASTM D6886):",
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE | Versión: 7 (sustituye a 6) | Fecha: 18/09/2024 | Documento: FDS088 | Sección 8: Controles de exposición / protección personal]\n*Imagen asociada a la tabla #/tables/5: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n## D.- Protección ocular y facial\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección obligatoria | de la cara*\n\n*Imagen asociada a la tabla #/tables/6: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n## E.- Protección corporal\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Protección obligatoria | del cuerpo*"
+    ],
+    "retrieved_ids": [
+      "FDS042-s08-001",
+      "FDS088-s08-002",
+      "FDS042-s08-002",
+      "FDS088-s08-001",
+      "FDS042-s08-003",
+      "FDS088-s08-003"
+    ],
+    "similitudes": [
+      0.7175,
+      0.7191,
+      0.674,
+      0.655,
+      0.661,
+      0.6323
+    ],
+    "similitud_max": 0.7191,
+    "response": "Según la FDS de la Pintura Lavable Antibacterial de Corona, la protección respiratoria se recomienda mediante la utilización de máscaras autofiltrantes para gases y vapores [1][2].",
+    "response_modelo": "Según la FDS de la Pintura Lavable Antibacterial de Corona, la protección respiratoria se recomienda mediante la utilización de máscaras autofiltrantes para gases y vapores [1][2].",
+    "reference": "La FDS de la Pintura Lavable Antibacterial de Corona (versión 2, revisión 10/09/2020) recomienda una máscara autofiltrante para gases y vapores, que se debe reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o del adaptador facial; cuando el contaminante no tiene buenas propiedades de aviso recomienda usar equipos aislantes.",
+    "fuentes_recuperadas": [
+      "[1] Corona · PINTURA LAVABLE ANTIBACTERIAL · FDS042 (FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf) · versión 2 (sustituye a 1), fecha 10/09/2020 · pág. 4 · sección 8: Controles de exposición / protección personal",
+      "[2] Corona · PINTURA LAVABLE · FDS088 (FDS 88 - PINTURA LAVABLE - CORONA.pdf) · versión 7 (sustituye a 6), fecha 18/09/2024 · pág. 4-5 · sección 8: Controles de exposición / protección personal",
+      "[3] Corona · PINTURA LAVABLE ANTIBACTERIAL · FDS042 (FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf) · versión 2 (sustituye a 1), fecha 10/09/2020 · pág. 4-5 · sección 8: Controles de exposición / protección personal",
+      "[4] Corona · PINTURA LAVABLE · FDS088 (FDS 88 - PINTURA LAVABLE - CORONA.pdf) · versión 7 (sustituye a 6), fecha 18/09/2024 · pág. 4-5 · sección 8: Controles de exposición / protección personal",
+      "[5] Corona · PINTURA LAVABLE ANTIBACTERIAL · FDS042 (FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf) · versión 2 (sustituye a 1), fecha 10/09/2020 · pág. 5 · sección 8: Controles de exposición / protección personal",
+      "[6] Corona · PINTURA LAVABLE · FDS088 (FDS 88 - PINTURA LAVABLE - CORONA.pdf) · versión 7 (sustituye a 6), fecha 18/09/2024 · pág. 5 · sección 8: Controles de exposición / protección personal"
+    ],
+    "fuentes_citadas": [
+      "[1] Corona · PINTURA LAVABLE ANTIBACTERIAL · FDS042 (FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf) · versión 2 (sustituye a 1), fecha 10/09/2020 · pág. 4 · sección 8: Controles de exposición / protección personal",
+      "[2] Corona · PINTURA LAVABLE · FDS088 (FDS 88 - PINTURA LAVABLE - CORONA.pdf) · versión 7 (sustituye a 6), fecha 18/09/2024 · pág. 4-5 · sección 8: Controles de exposición / protección personal"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS042, FDS088",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.03,
+      "generacion": 1.5
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P07",
+    "tipo": "integradora: compara versiones",
+    "respondible": true,
+    "user_input": "¿Cómo cambiaron las indicaciones de peligro de la Pintura Primera Mano & Acabado de Corona entre la ficha de 2019 y la de 2021?",
+    "retrieved_contexts": [
+      "[Fabricante: Corona | Producto: PINTURA PRIMERA MANO & ACABADO | Versión: 1 | Fecha: 05/06/2019 | Documento: FDS029 | Sección 2: Identificación del peligro o peligros]\n## SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS\n\n## 2.1 Clasificación de la sustancia o de la mezcla:\n\n## NFPA:\n\nSalud: 1\n\nInflamabilidad: 0\n\nInestabilidad: 0\n\nEspeciales: No relevante\n\n## SGA:\n\nLa clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.\n\nCarc. 2: Carcinogenicidad, Categoría 2, H351\n\nSens. Cut. 1: Sensibilización cutánea, Categoría 1, H317\n\n## 2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:\n\n## NFPA:\n\n*Texto OCR de la imagen (puede contener errores): 1*\n\n## SGA:\n\n## Atención\n\n*Texto OCR de la imagen (puede contener errores): X*\n\n## Indicaciones de peligro:\n\nCarc. 2: H351 - Susceptible de provocar cáncer\n\nSens. Cut. 1: H317 - Puede provocar una reacción cutánea alérgica\n\n## Consejos de prudencia:\n\nP101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto\n\nP102: Mantener fuera del alcance de los niños\n\nP201: Procurarse las instrucciones antes del uso\n\nP261: Evitar respirar polvos/humos/gases/ nieblas/vapores/aerosoles\n\nP280: Usar guantes/ropa de protección/equipo de protección para los ojos/la cara\n\nP302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua\n\nP308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico",
+      "[Fabricante: Corona | Producto: PINTURA PRIMERA MANO & ACABADO | Versión: 3 (sustituye a 2) | Fecha: 24/11/2021 | Documento: FDS043 | Sección 2: Identificación del peligro o peligros]\n## SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS\n\n## 2.1 Clasificación de la sustancia o de la mezcla:\n\n## NFPA:\n\nSalud: 1\n\nInflamabilidad: 0 Inestabilidad: 0 Especiales: No relevante\n\n## SGA:\n\nLa clasificación del producto se ha realizado conforme con al decreto 1496 de 2018, por el cual se adopta el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos y se dictan otras disposiciones en materia de seguridad química.\n\nCarc. 2: Carcinogenicidad, Categoría 2, H351\n\n## 2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:\n\n## NFPA:\n\n*Texto OCR de la imagen (puede contener errores): 1 | 0*\n\n## SGA:\n\n## Atención\n\n## Indicaciones de peligro:\n\nCarc. 2: H351 - Susceptible de provocar cáncer (Inhalación).\n\n## Consejos de prudencia:\n\nP101: Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto.\n\nP102: Mantener fuera del alcance de los niños.\n\nP201: Procurarse las instrucciones antes del uso.\n\nP202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad.\n\nP308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico.\n\nP405: Guardar bajo llave.\n\nP501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio.\n\n## Sustancias que contribuyen a la clasificación\n\nDioxido de titanio (diámetro aerodinámico ≤ 10 μm)\n\n## 2.3 Otros peligros que no conducen a una clasificación:\n\nNo relevante",
+      "[Fabricante: Corona | Producto: PINTURA PRIMERA MANO & ACABADO | Versión: 3 (sustituye a 2) | Fecha: 24/11/2021 | Documento: FDS043 | Sección 2: Identificación del peligro o peligros]\n## Sustancias que contribuyen a la clasificación\n\nDioxido de titanio (diámetro aerodinámico ≤ 10 μm)\n\n## 2.3 Otros peligros que no conducen a una clasificación:\n\nNo relevante\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## PINTURA PRIMERA MANO & ACABADO",
+      "[Fabricante: Corona | Producto: PINTURA PRIMERA MANO & ACABADO | Versión: 1 | Fecha: 05/06/2019 | Documento: FDS029 | Sección 2: Identificación del peligro o peligros]\nP302+P352: EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua\n\nP308+P313: EN CASO DE exposición demostrada o supuesta: consultar a un médico\n\nP501: Eliminar el contenido/recipiente mediante el sistema de recogida selectiva habilitado en su municipio\n\n## Sustancias que contribuyen a la clasificación\n\nDioxido de titanio; Mezcla de: 5-cloro-2-metil-2H-isotiazol-3-ona [EC no. 247-500-7] y 2-metil-2H-isotiazol-3-ona [EC no. 220-2396] (3:1)\n\n## 2.3 Otros peligros que no conducen a una clasificación:\n\n*Texto OCR de la imagen (puede contener errores): 0 | 1 | 0*\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\n## PINTURA PRIMERA MANO & ACABADO\n\n## SECCIÓN 2: IDENTIFICACIÓN DEL PELIGRO O PELIGROS (continúa)\n\nNo relevante",
+      "[Fabricante: Corona | Producto: PINTURA PRIMERA MANO & ACABADO | Versión: 3 (sustituye a 2) | Fecha: 24/11/2021 | Documento: FDS043 | Sección 7: Manipulación y almacenamiento]\nSe recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3 de la FDS para mayor información)\n\n## 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\n\n- A.- Medidas técnicas de almacenamiento\n- B.- Condiciones generales de almacenamiento.\n\n- **Temperatura mínima:** 5 ºC  \n- **Temperatura máxima:** 30 ºC  \n- **Tiempo máximo:** 12 meses\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## 7.3 Usos específicos finales:\n\nSalvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.\n\n- CONTINÚA EN LA SIGUIENTE PÁGINA -\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## PINTURA PRIMERA MANO & ACABADO",
+      "[Fabricante: Corona | Producto: PINTURA PRIMERA MANO & ACABADO | Versión: 1 | Fecha: 05/06/2019 | Documento: FDS029 | Sección 7: Manipulación y almacenamiento]\nSe recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3)\n\n## 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\n\n- A.- Medidas técnicas de almacenamiento\n- B.- Condiciones generales de almacenamiento.\n\n- **Tª mínima:** 5 ºC  \n- **Tª máxima:** 30 ºC  \n- **Tiempo máximo:** 36 meses\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## 7.3 Usos específicos finales:\n\n*Texto OCR de la imagen (puede contener errores): 0 | 1 | 0*\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## PINTURA PRIMERA MANO & ACABADO\n\n## SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)\n\nSalvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto."
+    ],
+    "retrieved_ids": [
+      "FDS029-s02-000",
+      "FDS043-s02-000",
+      "FDS043-s02-001",
+      "FDS029-s02-001",
+      "FDS043-s07-001",
+      "FDS029-s07-001"
+    ],
+    "similitudes": [
+      0.6799,
+      0.6792,
+      0.6835,
+      0.6666,
+      0.6203,
+      0.62
+    ],
+    "similitud_max": 0.6835,
+    "response": "Según la FDS del producto PINTURA PRIMERA MANO & ACABADO de Corona, versión 1 (2019) [1], las indicaciones de peligro son:\n\n- Carcinogenicidad, Categoría 2, H351\n- Sensibilización cutánea, Categoría 1, H317\n\nMientras que, según la FDS del producto PINTURA PRIMERA MANO & ACABADO de Corona, versión 3 (2021) [2], las indicaciones de peligro son:\n\n- Carcinogenicidad, Categoría 2, H351\n- Sensibilización cutánea, Categoría 1, H317\n- Atención (sin especificar el código de peligro)\n\nAdemás, en la versión 2021, se agregan nuevas indicaciones de peligro, como P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad, y P405: Guardar bajo llave. En resumen, las indicaciones de peligro de la Pintura Primera Mano & Acabado de Corona se mantuvieron similares entre la ficha de 2019 y la de 2021, pero se agregaron nuevas indicaciones de peligro en la versión 2021.",
+    "response_modelo": "Según la FDS del producto PINTURA PRIMERA MANO & ACABADO de Corona, versión 1 (2019) [1], las indicaciones de peligro son:\n\n- Carcinogenicidad, Categoría 2, H351\n- Sensibilización cutánea, Categoría 1, H317\n\nMientras que, según la FDS del producto PINTURA PRIMERA MANO & ACABADO de Corona, versión 3 (2021) [2], las indicaciones de peligro son:\n\n- Carcinogenicidad, Categoría 2, H351\n- Sensibilización cutánea, Categoría 1, H317\n- Atención (sin especificar el código de peligro)\n\nAdemás, en la versión 2021, se agregan nuevas indicaciones de peligro, como P202: No manipular antes de haber leído y comprendido todas las precauciones de seguridad, y P405: Guardar bajo llave.\n\nEn resumen, las indicaciones de peligro de la Pintura Primera Mano & Acabado de Corona se mantuvieron similares entre la ficha de 2019 y la de 2021, pero se agregaron nuevas indicaciones de peligro en la versión 2021.",
+    "reference": "En la versión 1 de la ficha (emisión 05/06/2019) las indicaciones de peligro son H351 - Susceptible de provocar cáncer (Carc. 2) y H317 - Puede provocar una reacción cutánea alérgica (Sens. Cut. 1). En la versión 3 (revisión 24/11/2021) solo aparece H351 - Susceptible de provocar cáncer (Inhalación); la H317 ya no figura.",
+    "fuentes_recuperadas": [
+      "[1] Corona · PINTURA PRIMERA MANO & ACABADO · FDS029 (FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 1, fecha 05/06/2019 · pág. 1 · sección 2: Identificación del peligro o peligros",
+      "[2] Corona · PINTURA PRIMERA MANO & ACABADO · FDS043 (FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 3 (sustituye a 2), fecha 24/11/2021 · pág. 1 · sección 2: Identificación del peligro o peligros",
+      "[3] Corona · PINTURA PRIMERA MANO & ACABADO · FDS043 (FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 3 (sustituye a 2), fecha 24/11/2021 · pág. 1-2 · sección 2: Identificación del peligro o peligros",
+      "[4] Corona · PINTURA PRIMERA MANO & ACABADO · FDS029 (FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 1, fecha 05/06/2019 · pág. 1-2 · sección 2: Identificación del peligro o peligros",
+      "[5] Corona · PINTURA PRIMERA MANO & ACABADO · FDS043 (FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 3 (sustituye a 2), fecha 24/11/2021 · pág. 3-4 · sección 7: Manipulación y almacenamiento",
+      "[6] Corona · PINTURA PRIMERA MANO & ACABADO · FDS029 (FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 1, fecha 05/06/2019 · pág. 3-4 · sección 7: Manipulación y almacenamiento"
+    ],
+    "fuentes_citadas": [
+      "[1] Corona · PINTURA PRIMERA MANO & ACABADO · FDS029 (FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 1, fecha 05/06/2019 · pág. 1 · sección 2: Identificación del peligro o peligros",
+      "[2] Corona · PINTURA PRIMERA MANO & ACABADO · FDS043 (FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf) · versión 3 (sustituye a 2), fecha 24/11/2021 · pág. 1 · sección 2: Identificación del peligro o peligros"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS029, FDS043",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 5.27
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P08",
+    "tipo": "integradora: compara productos",
+    "respondible": true,
+    "user_input": "Compara el punto de inflamación del TOPCOAT 400 1793 BLANCO y del TOPCOAT 400 1772 NEGRO de International.",
+    "retrieved_contexts": [
+      "[Fabricante: AkzoNobel | Producto: TOPCOAT 400 1793 BLANCO | Versión: 1 | Fecha: 2-5-2024 | Documento: FDS080 | Sección 9: Propiedades físicas y químicas]\n| Soporte | Resultado |\n|---|---|\n| agua fría | No soluble [OECD (TG 105)] |\n\nCoeficiente de reparto: noctanol/agua\n\n: No aplicable.\n\nTemperatura de auto-:\n\ninflamación\n\n| Nombre del ingrediente | °C | °F |\n|---|---|---|\n| nafta disolvente (petróleo), fracción alifática intermedia | >220 | >428 |\n| nafta disolvente (petróleo), fracción alifática intermedia | >220 | >428 |\n| gasolina | 280 a 470 | 536 a 878 |\n\n- **Temperatura de descomposición:** No disponible.  \n- **Viscosidad:** Cinemática (temperatura ambiente): 1274 mm 2 /s (1274 cSt) Cinemática (40°C (104°F)): 201 mm 2 /s (201 cSt)\n\n## Características de las partículas\n\nTamaño de partícula medio : No aplicable.\n\nPorcentaje de partículas con diámetro aerodinámico ≤ 10 μm\n\n: 0",
+      "[Fabricante: AkzoNobel | Producto: TOPCOAT 400 1772 NEGRO | Versión: 1 | Fecha: 2-5-2024 | Documento: FDS081 | Sección 9: Propiedades físicas y químicas]\n## Sección 9. Propiedades físicas y químicas y características de seguridad\n\nLas condiciones de medición de todas las propiedades son a temperatura y presión estándar a menos que se indique lo contrario.\n\n## Aspecto\n\n- **Estado físico:** Líquido.  \n- **Color:** Negro.  \n- **Olor:** Característico.  \n- **Umbral olfativo:** No disponible.  \n- **pH:** No disponible.  \n- **Punto de fusión/punto de congelación:** No disponible.  \n- **Punto de ebullición, punto de ebullición inicial e intervalo de ebullición:** 146°C (294.8°F)  \n- **Punto de inflamación:** Vaso cerrado: 56°C (132.8°F)  \n- **Tasa de evaporación:** No disponible.  \n- **Inflamabilidad:** No disponible.  \n- **Límite superior e inferior de explosividad:** Intervalo más amplio conocido: Punto mínimo: 0.6% Punto maximo: 8% (disolvente de Stoddard)  \n- **Presión de vapor:**\n\n| Nombre del ingrediente | Presión de vapor a 20 ºC - mm Hg | Presión de vapor a 20 ºC - kPa | Presión de vapor a 20 ºC - Método |\n|---|---|---|---|\n| ligroína | 2 a 20 | 0.27 a 2.7 |  |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5 | 0.2 a 0.6 |  |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5 | 0.2 a 0.6 |  |\n\n- **Densidad de vapor relativa:** No disponible.  \n- **Densidad:** 0.916 g/cm³  \n- **Solubilidad(es):** 2-5-2024  \n- **Fecha de la emisión anterior:**\n\n## Sección 9. Propiedades físicas y químicas y características de seguridad",
+      "[Fabricante: AkzoNobel | Producto: TOPCOAT 400 1793 BLANCO | Versión: 1 | Fecha: 2-5-2024 | Documento: FDS080 | Sección 9: Propiedades físicas y químicas]\n## Sección 9. Propiedades físicas y químicas y características de seguridad\n\nLas condiciones de medición de todas las propiedades son a temperatura y presión estándar a menos que se indique lo contrario.\n\n## Aspecto\n\n- **Estado físico:** Líquido.  \n- **Color:** Blanco.  \n- **Olor:** Característico.  \n- **Umbral olfativo:** No disponible.  \n- **pH:** No disponible.  \n- **Punto de fusión/punto de congelación:** No disponible. 2-5-2024\n\n## Sección 9. Propiedades físicas y químicas y características de seguridad\n\n- **Punto de ebullición, punto de ebullición inicial e intervalo de ebullición:** 35°C (95°F)  \n- **Punto de inflamación:** Vaso cerrado: 49°C (120.2°F)  \n- **Tasa de evaporación:** No disponible.  \n- **Inflamabilidad:** No disponible.  \n- **Límite superior e inferior de explosividad:** Intervalo más amplio conocido: Punto mínimo: 1.2% Punto maximo: 7.8% (benceno)  \n- **Presión de vapor:**\n\n| Nombre del ingrediente | Presión de vapor a 20 ºC - mm Hg | Presión de vapor a 20 ºC - kPa | Presión de vapor a 20 ºC - Método |\n|---|---|---|---|\n| benceno | 75.01 | 10 |  |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5 | 0.2 a 0.6 |  |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5 | 0.2 a 0.6 |  |\n\n- **Densidad de vapor relativa:** No disponible.  \n- **Densidad:** 1.053 g/cm³  \n- **Solubilidad(es):**\n\n| Soporte | Resultado |\n|---|---|\n| agua fría | No soluble [OECD (TG 105)] |\n\nCoeficiente de reparto: noctanol/agua",
+      "[Fabricante: AkzoNobel | Producto: TOPCOAT 400 1772 NEGRO | Versión: 1 | Fecha: 2-5-2024 | Documento: FDS081 | Sección 0: Encabezado de la ficha]\n*Texto OCR de la imagen (puede contener errores): R | R*\n\n## FICHA DE DATOS DE SEGURIDAD\n\nTOPCOAT 400 1772 NEGRO",
+      "[Fabricante: AkzoNobel | Producto: TOPCOAT 400 1793 BLANCO | Versión: 1 | Fecha: 2-5-2024 | Documento: FDS080 | Sección 0: Encabezado de la ficha]\n*Texto OCR de la imagen (puede contener errores): R | R*\n\n## FICHA DE DATOS DE SEGURIDAD\n\nTOPCOAT 400 1793 BLANCO",
+      "[Fabricante: AkzoNobel | Producto: TOPCOAT 400 1772 NEGRO | Versión: 1 | Fecha: 2-5-2024 | Documento: FDS081 | Sección 2: Identificación del peligro o peligros]\n## Sección 2. Identificación de los peligros\n\n## Clasificación de la sustancia o de la mezcla\n\n: LÍQUIDOS INFLAMABLES - Categoría 3\n\nIRRITACIÓN CUTÁNEA - Categoría 2\n\nLESIÓN OCULAR GRAVE - Categoría 1 SENSIBILIZACIÓN RESPIRATORIA - Categoría 1 SENSIBILIZACIÓN CUTÁNEA - Categoría 1 MUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B CARCINOGENICIDAD - Categoría 1B TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 1B TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIONES REPETIDAS - Categoría 1\n\nPELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 3\n\n## Elementos de las etiquetas del SGA\n\nPictogramas de peligro :\n\n- **Palabra de advertencia:** Peligro  \n- **Indicaciones de peligro:** H226 - Líquidos y vapores inflamables.\n\n## Consejos de prudencia"
+    ],
+    "retrieved_ids": [
+      "FDS080-s09-001",
+      "FDS081-s09-000",
+      "FDS080-s09-000",
+      "FDS081-s00-000",
+      "FDS080-s00-000",
+      "FDS081-s02-000"
+    ],
+    "similitudes": [
+      0.6608,
+      0.6065,
+      0.6201,
+      0.6336,
+      0.6593,
+      0.6317
+    ],
+    "similitud_max": 0.6608,
+    "response": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "response_modelo": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "reference": "Las dos fichas son de AkzoNobel (marca International), versión 1 del 2-5-2024. El TOPCOAT 400 1793 BLANCO tiene un punto de inflamación en vaso cerrado de 49 °C (120.2 °F) y el TOPCOAT 400 1772 NEGRO de 56 °C (132.8 °F); el blanco tiene el punto de inflamación más bajo.",
+    "fuentes_recuperadas": [
+      "[1] AkzoNobel · TOPCOAT 400 1793 BLANCO · FDS080 (FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 2-5-2024 · pág. 8 · sección 9: Propiedades físicas y químicas",
+      "[2] AkzoNobel · TOPCOAT 400 1772 NEGRO · FDS081 (FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 2-5-2024 · pág. 8-9 · sección 9: Propiedades físicas y químicas",
+      "[3] AkzoNobel · TOPCOAT 400 1793 BLANCO · FDS080 (FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 2-5-2024 · pág. 7-8 · sección 9: Propiedades físicas y químicas",
+      "[4] AkzoNobel · TOPCOAT 400 1772 NEGRO · FDS081 (FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 2-5-2024 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[5] AkzoNobel · TOPCOAT 400 1793 BLANCO · FDS080 (FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 2-5-2024 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[6] AkzoNobel · TOPCOAT 400 1772 NEGRO · FDS081 (FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf) · versión 1, fecha 2-5-2024 · pág. 2 · sección 2: Identificación del peligro o peligros"
+    ],
+    "fuentes_citadas": [],
+    "insuficiente": true,
+    "filtro": "fichas FDS080, FDS081",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 0.68
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P09",
+    "tipo": "integradora: dos secciones",
+    "respondible": true,
+    "user_input": "¿Qué indicación de peligro ambiental tiene el EPOXY ZINC PRIMER 10056 y cómo se clasifica para el transporte?",
+    "retrieved_contexts": [
+      "[Fabricante: AkzoNobel | Producto: EPOXY ZINC PRIMER 10056 | Versión: 1 | Fecha: 13-11-2024 | Documento: FDS083 | Sección 14: Información relativa al transporte]\n## Sección 14. Información relativa al transporte\n\n*Imagen asociada a la tabla #/tables/10: imagen contenida en el área de la tabla en la página 10 (100% de su área).*\n\n|  | Carretera - NTC 1692 | Marítimo - IMDG | Aéreo - IATA |\n|---|---|---|---|\n| Número ONU | UN3077 |\n| Designación oficial de transporte de las Naciones Unidas | SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), óxido de cinc) | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Zinc powder - zinc dust (stabilized), zinc oxide) |\n| Clase(s) de peligro para el transporte | 9 |\n| Grupo de embalaje | III |\n| Peligros para el medio ambiente | Sí. | cinc en polvo (estabilizado), óxido de cinc Sustancias contaminantes marinas: | Yes. |\n\n## Información adicional\n\nIMDG\n\nIATA\n\nPrecauciones particulares para los usuarios\n\nTransporte a granel según los instrumentos de la IMO\n\n*Imagen asociada a la tabla #/tables/10: imagen contenida en el área de la tabla en la página 10 (100% de su área).*\n\n:\n\n:\n\n:\n\n*Imagen asociada a la tabla #/tables/10: imagen contenida en el área de la tabla en la página 10 (100% de su área).*\n\n*Imagen asociada a la tabla #/tables/10: imagen contenida en el área de la tabla en la página 10 (100% de su área).*\n\n## Programas de emergencia F-A, S-F\n\nEste producto no está regulado como mercancía peligrosa cuando se transporta en tamaños ≤5 l o ≤5 kg, siempre y cuando los envases cumplan las disposiciones generales 4.1.1.1, 4.1.1.2 y de 4.1.1.4 a 4.1.1.8.",
+      "[Fabricante: AkzoNobel | Producto: EPOXY ZINC PRIMER 10056 | Versión: 1 | Fecha: 13-11-2024 | Documento: FDS083 | Sección 2: Identificación del peligro o peligros]\n## Sección 2. Identificación de los peligros\n\nClasificación de la sustancia o de la mezcla\n\n:\n\nPELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 1 PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 1\n\n## Elementos de las etiquetas del SGA\n\nPictogramas de peligro\n\n:\n\n- **Palabra de advertencia:** Atención  \n- **Indicaciones de peligro:** H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos.  \n- **Consejos de prudencia:**  \n- **Prevención Respuesta:** P273 - Evitar su liberación al medio ambiente. P391 - Recoger el vertido.  \n- **Almacenamiento:** No aplicable.  \n- **Fecha de emisión/Fecha de revisión:** 13-11-2024  \n- **Fecha de la emisión anterior:** No hay validación anterior Versión : 1\n\n## Sección 2. Identificación de los peligros\n\n- **Eliminación:** P501 - Eliminar el contenido / el recipiente en conformidad con las reglamentaciones locales y nacionales.  \n- **Otros peligros que no conducen a una clasificación:** No se conoce ninguno.",
+      "[Fabricante: AkzoNobel | Producto: EPOXY ZINC PRIMER 10056 | Versión: 1 | Fecha: 13-11-2024 | Documento: FDS083 | Sección 14: Información relativa al transporte]\nno está regulado como mercancía peligrosa cuando se transporta en tamaños ≤5 l o ≤5 kg, siempre y cuando los envases cumplan las disposiciones generales 4.1.1.1, 4.1.1.2 y de 4.1.1.4 a 4.1.1.8.\n\nGrupo de segregación del código IMDG SGG7 - Metales pesados y sus sales (incluidos sus compuestos organometálicos)SGG15 - Metales en polvo\n\nThis product is not regulated as a dangerous good when transported in sizes of ≤5 L or ≤5 kg, provided the packagings meet the general provisions of 5.0.2.4.1, 5.0.2.6.1.1 and 5.0.2.8.\n\nTransporte dentro de las premisas de usuarios: siempre transporte en recipientes cerrados que estén verticales y seguros. Asegurar que las personas que transportan el producto conocen qué hacer en caso de un accidente o derrame.\n\n: No disponible.",
+      "[Fabricante: AkzoNobel | Producto: EPOXY ZINC PRIMER 10056 | Versión: 1 | Fecha: 13-11-2024 | Documento: FDS083 | Sección 16: Otra información]\n## Sección 16. Otra información\n\n## Historial\n\n- **Fecha de impresión:** 13-11-2024  \n- **Fecha de emisión/ Fecha de revisión:** 13-11-2024  \n- **Fecha de la emisión anterior:** No hay validación anterior  \n- **Versión:** 1  \n- **Unique ID:** 655BA9EE76931EDFA8B74A203F59F103  \n- **Clave para las abreviaciones:** ETA = Estimación de Toxicidad Aguda FBC = Factor de Bioconcentración SGA - Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos IATA = Asociación de Transporte Aéreo Internacional IBC = Contenedor Intermedio para Productos a Granel IMDG = Código Marítimo Internacional de Mercancías Peligrosas Log Kow = logaritmo del coeficiente de reparto octanol/agua MARPOL = Convenio Internacional para Prevenir la Contaminación por los Buques, 1973 con el Protocolo de 1978. (\"Marpol\" = polución marina) N/A = No disponible SGG = Grupo de segregación ONU = Organización de las Naciones Unidas\n\n## Procedimiento utilizado para obtener la clasificación\n\n| Clasificación | Justificación |\n|---|---|\n| PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 1 | Método de cálculo |\n| PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría | 1 Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior.\n\n## Aviso al lector\n\n## PARA USO PROFESIONAL SOLAMENTE",
+      "[Fabricante: AkzoNobel | Producto: EPOXY ZINC PRIMER 10056 | Versión: 1 | Fecha: 13-11-2024 | Documento: FDS083 | Sección 11: Información toxicológica]\n## Sección 11. Información toxicológica\n\n## Información sobre los efectos toxicológicos\n\n## Toxicidad aguda\n\n| Nombre del producto o ingrediente | Resultado | Especies | Dosis | Exposición |\n|---|---|---|---|---|\n| óxido de cinc | DL50 Intraperitoneal DL50 Oral | Rata Ratón | 240 mg/kg 7950 mg/kg | - - |\n\n## Irritación/Corrosión\n\n| Nombre del producto o ingrediente | Resultado | Especies | Puntuación | Exposición | Observación |\n|---|---|---|---|---|---|\n| óxido de cinc | Ojos - Irritante leve Piel - Irritante leve | Conejo Conejo | - - | 24 horas 500 mg 24 horas 500 mg | - - |\n\n## Sensibilización\n\nNo disponible.\n\n## Mutagénesis\n\nNo disponible.\n\n## Carcinogenicidad\n\n## Sección 11. Información toxicológica\n\nNo disponible.\n\n| Nombre del producto o ingrediente | IARC |\n|---|---|\n| No disponible. |  |\n\n## Toxicidad para la reproducción\n\nNo disponible.\n\n## Teratogenicidad\n\nNo disponible.\n\n## Toxicidad específica en determinados órganos (STOT) - exposición única\n\nNo disponible.\n\n## Toxicidad específica en determinados órganos (STOT) - exposición repetida\n\nNo disponible.\n\n## Peligro de aspiración\n\nNo disponible.\n\nInformación sobre posibles\n\nvías de exposición\n\n: No disponible.\n\n## Efectos agudos potenciales para la salud",
+      "[Fabricante: AkzoNobel | Producto: EPOXY ZINC PRIMER 10056 | Versión: 1 | Fecha: 13-11-2024 | Documento: FDS083 | Sección 11: Información toxicológica]\nNo disponible.\n\n## Peligro de aspiración\n\nNo disponible.\n\nInformación sobre posibles\n\nvías de exposición\n\n: No disponible.\n\n## Efectos agudos potenciales para la salud\n\n- **Contacto con los ojos:** No se conocen efectos significativos o riesgos críticos.  \n- **Por inhalación:** No se conocen efectos significativos o riesgos críticos.  \n- **Contacto con la piel:** No se conocen efectos significativos o riesgos críticos.  \n- **Ingestión:** No se conocen efectos significativos o riesgos críticos.\n\n## Síntomas relacionados con las características físicas, químicas y toxicológicas\n\n- **Contacto con los ojos:** Ningún dato específico.  \n- **Por inhalación:** Ningún dato específico.  \n- **Contacto con la piel:** Ningún dato específico.  \n- **Ingestión:** Ningún dato específico.\n\n## Efectos retardados e inmediatos, así como efectos crónicos producidos por una exposición a corto y largo plazo\n\n## Exposición a corto plazo\n\nPosibles efectos\n\ninmediatos\n\nPosibles efectos\n\nretardados\n\n## Exposición a largo plazo\n\nNo disponible.  \nNo disponible.  \n- **Posibles efectos inmediatos:** No disponible.  \n- **Posibles efectos retardados:** No disponible.\n\n## Efectos crónicos potenciales para la salud\n\n- **No disponible.:**  \n- **General Carcinogenicidad Mutagénesis:** No se conocen efectos significativos o riesgos críticos. No se conocen efectos significativos o riesgos críticos. No se conocen efectos significativos o riesgos críticos. 13-11-2024 No hay validación anterior"
+    ],
+    "retrieved_ids": [
+      "FDS083-s14-000",
+      "FDS083-s02-000",
+      "FDS083-s14-001",
+      "FDS083-s16-000",
+      "FDS083-s11-000",
+      "FDS083-s11-001"
+    ],
+    "similitudes": [
+      0.7154,
+      0.6868,
+      0.679,
+      0.6497,
+      0.6552,
+      0.6553
+    ],
+    "similitud_max": 0.7154,
+    "response": "Según la FDS del producto EPOXY ZINC PRIMER 10056 (versión 1), la sustancia tiene la indicación de peligro ambiental \"SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P [1]. (cinc en polvo (estabilizado), óxido de cinc)\" [1]. Esta sustancia se clasifica como peligro acuático a corto plazo (Categoría 1) y peligro acuático a largo plazo (Categoría 1) según la clasificación de la Organización de las Naciones Unidas (ONU) [1][4].",
+    "response_modelo": "Según la FDS del producto EPOXY ZINC PRIMER 10056 (versión 1), la sustancia tiene la indicación de peligro ambiental \"SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), óxido de cinc)\" [1]. Esta sustancia se clasifica como peligro acuático a corto plazo (Categoría 1) y peligro acuático a largo plazo (Categoría 1) según la clasificación de la Organización de las Naciones Unidas (ONU) [1][4].",
+    "reference": "El EPOXY ZINC PRIMER 10056 (AkzoNobel/International, versión 1, 13-11-2024) tiene la indicación H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos (peligro acuático agudo y crónico, categoría 1). Para el transporte se clasifica como UN3077, SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), óxido de cinc), clase 9, grupo de embalaje III.",
+    "fuentes_recuperadas": [
+      "[1] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 10 · sección 14: Información relativa al transporte",
+      "[2] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 1-2 · sección 2: Identificación del peligro o peligros",
+      "[3] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 10 · sección 14: Información relativa al transporte",
+      "[4] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 11 · sección 16: Otra información",
+      "[5] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 6-7 · sección 11: Información toxicológica",
+      "[6] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 7 · sección 11: Información toxicológica"
+    ],
+    "fuentes_citadas": [
+      "[1] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 10 · sección 14: Información relativa al transporte",
+      "[4] AkzoNobel · EPOXY ZINC PRIMER 10056 · FDS083 (FDS 83 - epoxy-zinc-primer-10056.pdf) · versión 1, fecha 13-11-2024 · pág. 11 · sección 16: Otra información"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS083",
+    "advertencias": [
+      "citas [1] agregadas automáticamente a oraciones sin cita, por coincidencia de palabras"
+    ],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 3.22
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P10",
+    "tipo": "integradora: compara productos de dos fabricantes",
+    "respondible": true,
+    "user_input": "Compara el número ONU y la clase de transporte del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco y de la PINTURA EXTERIORES de Corona en su versión de 2025.",
+    "retrieved_contexts": [
+      "[Fabricante: Pintuco | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 (sustituye a 2) | Fecha: 28/01/2019 | Documento: FDS035 | Sección 14: Información relativa al transporte]\n## SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Transporte terrestre de mercancías peligrosas:\n\nEn aplicación a la norma técnica colombiana 1692:\n\n- **14.1 Número ONU:** UN1263  \n- **14.2 Designación oficial de transporte de las Naciones Unidas:** PINTURA  \n- **14.3 Clase(s) relativas al transporte:** 3  \n- **3 Etiquetas:**  \n- **14.4 Grupo de embalaje/envasado si se aplica:** III  \n- **Riesgos ambientales:** 14.5 Sí\n\n- 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\n- Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC: 14.7\n\nver epígrafe 9\n\nNo relevante\n\nTransporte marítimo de mercancías peligrosas:\n\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## ESMALTE TOP QUALITY NEGRO 1772 10013034\n\n## SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\nEn aplicación al IMDG 38-16:\n\n- **14.1:**  \n- **Número ONU:** UN1263  \n- **14.2 Designación oficial de transporte de las Naciones Unidas:** PINTURA  \n- **14.3 Clase(s) relativas al transporte:** 3  \n- **3 Etiquetas:**\n\nGrupo de embalaje/envasado si\n\n- **14.4 se aplica:** III\n\n- Riesgos ambientales: Sí 14.5\n- 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\n- Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC: 14.7\n\nver epígrafe 9\n\nNo relevante\n\n## Transporte aéreo de mercancías peligrosas:\n\nEn aplicación al IATA/OACI 2019:",
+      "[Fabricante: Corona | Producto: PINTURA EXTERIORES | Versión: 9 (sustituye a 8) | Fecha: 09/09/2025 | Documento: FDS091 | Sección 14: Información relativa al transporte]\n## SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE\n\n## Transporte terrestre de mercancías peligrosas:\n\nEn aplicación a la norma técnica colombiana 1692:\n\n## 14.1 Número ONU:\n\nUN3082\n\n14.2 Designación oficial de transporte de las Naciones Unidas:\n\nSUSTANCIA LIQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico)\n\n## 14.3 Clase(s) relativas al 9\n\n- **transporte:**  \n- **Etiquetas:** 9  \n- **14.4 Grupo de:**\n\nembalaje/envasado si se\n\nIII  \n- **aplica:**  \n- **14.5 Riesgos ambientales:** Sí\n\n## 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\n## Transporte marítimo de mercancías peligrosas:\n\nEn aplicación al IMDG 41-22:\n\nNo relevante\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021\n\n## PINTURA EXTERIORES\n\nEmisión: 13/09/2019\n\nRevisión: 09/09/2025\n\nVersión: 9 (sustituye a 8)\n\n## SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)\n\n- **14.1 Número ONU:** UN3082  \n- **14.2 Designación oficial de transporte de las Naciones Unidas:** SUSTANCIA LIQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico)\n\n## 14.3 Clase(s) relativas al 9\n\ntransporte:\n\nEtiquetas: 9\n\n14.4 Grupo de III\n\nembalaje/envasado si se aplica:\n\n## 14.5 Contaminante marino: Sí",
+      "[Fabricante: Pintuco | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 (sustituye a 2) | Fecha: 28/01/2019 | Documento: FDS035 | Sección 1: Identificación del producto y del proveedor]\n## SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO\n\n- 1.1 Identificador SGA del producto: ESMALTE TOP QUALITY NEGRO 1772\n\n10013034\n\n## 1.2 Uso recomendado del producto químico y restricciones:\n\nUsos pertinentes: Pintura\n\nUsos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3\n\n## 1.3 Datos sobre el proveedor:\n\nPintuco\n\nAutopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1 054040 Rionegro - Antioquia - Colombia Tfno.: 57 4 569 81 00 contacto@pintuco.com http://www.pintuco.com\n\n- 1.4 Número de teléfono para emergencias: 57 4 561 22 23",
+      "[Fabricante: Corona | Producto: PINTURA EXTERIORES | Versión: 9 (sustituye a 8) | Fecha: 09/09/2025 | Documento: FDS091 | Sección 14: Información relativa al transporte]\n## 14.3 Clase(s) relativas al 9\n\ntransporte:\n\nEtiquetas: 9\n\n14.4 Grupo de III\n\nembalaje/envasado si se aplica:\n\n## 14.5 Contaminante marino: Sí\n\n## Precauciones especiales para el usuario 14.6\n\n- **Disposiciones especiales:** 335, 969, 274  \n- **Códigos FEm:** F-A, S-F  \n- **Propiedades físico-químicas:** Ver sección 9  \n- **Cantidades limitadas:** 5 L  \n- **Grupo de segregación:** No relevante\n\n## 14.7 Transporte a granel con\n\nNo relevante\n\narreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\n## Transporte aéreo de mercancías peligrosas:\n\nEn aplicación al IATA/OACI 2025:\n\n*Texto OCR de la imagen (puede contener errores): 9*\n\n14.1 Número ONU:\n\nUN3082\n\n14.2 Designación oficial de\n\ntransporte de las Naciones SUSTANCIA LIQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico)\n\nUnidas:\n\n## 14.3 Clase(s) relativas al 9\n\ntransporte:\n\nEtiquetas: 9\n\n- **14.4 Grupo de embalaje/envasado si se aplica:** III  \n- **14.5 Riesgos ambientales:** Sí\n\n## 14.6 Precauciones especiales para el usuario\n\nPropiedades físico-químicas:\n\nVer sección 9\n\n14.7 Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC:\n\nNo relevante",
+      "[Fabricante: Pintuco | Producto: ESMALTE TOP QUALITY NEGRO 1772 | Versión: 3 (sustituye a 2) | Fecha: 28/01/2019 | Documento: FDS035 | Sección 0: Encabezado de la ficha]\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## ESMALTE TOP QUALITY NEGRO 1772 10013034",
+      "[Fabricante: Corona | Producto: PINTURA EXTERIORES | Versión: 9 (sustituye a 8) | Fecha: 09/09/2025 | Documento: FDS091 | Sección 1: Identificación del producto y del proveedor]\n## SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO\n\n- 1.1 Identificador SGA del producto:\n\nPINTURA EXTERIORES\n\n## Otros medios de identificación:\n\nNo relevante\n\n## 1.2 Uso recomendado del producto químico y restricciones:\n\nUsos pertinentes (Uso por el consumidor): Pintura decorativa\n\nUsos pertinentes (Usuario profesional): Pintura decorativa\n\nUsos pertinentes (Usuario industrial): Pintura decorativa\n\nUsos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3\n\n## 1.3 Datos sobre el proveedor:\n\nCORLANC S.A.S. Carrera 48 N° 72 sur 01 Avenida Las Vegas 055450 Sabaneta - Antioquia - Colombia Tfno.: +57-4-3787800 materialesypinturascorona@corona.com.co https://www.corona.co\n\n1.4 Número de teléfono para emergencias: CISTEMA - ARL SURA 018000511414 - 0314055911"
+    ],
+    "retrieved_ids": [
+      "FDS035-s14-000",
+      "FDS091-s14-000",
+      "FDS035-s01-000",
+      "FDS091-s14-001",
+      "FDS035-s00-000",
+      "FDS091-s01-000"
+    ],
+    "similitudes": [
+      0.7268,
+      0.6302,
+      0.7292,
+      0.6018,
+      0.7514,
+      0.6101
+    ],
+    "similitud_max": 0.7514,
+    "response": "Según la FDS del producto PINTURA EXTERIORES de Corona en su versión de 2025, el número ONU es UN3082 [2] y la clase de transporte es 3 [2]. En cambio, la FDS del producto ESMALTE TOP QUALITY NEGRO 1772 de Pintuco no menciona el número ONU y la clase de transporte es 3 [1].",
+    "response_modelo": "Según la FDS del producto PINTURA EXTERIORES de Corona en su versión de 2025, el número ONU es UN3082 [2] y la clase de transporte es 3 [2]. \n\nEn cambio, la FDS del producto ESMALTE TOP QUALITY NEGRO 1772 de Pintuco no menciona el número ONU y la clase de transporte es 3 [1].",
+    "reference": "El ESMALTE TOP QUALITY NEGRO 1772 de Pintuco (versión 3, revisión 28/01/2019) se transporta como UN1263, PINTURA, clase 3, grupo de embalaje III. La PINTURA EXTERIORES de Corona (versión 9, revisión 09/09/2025) se transporta como UN3082, SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P., clase 9, grupo de embalaje III.",
+    "fuentes_recuperadas": [
+      "[1] Pintuco · ESMALTE TOP QUALITY NEGRO 1772 · FDS035 (FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf) · versión 3 (sustituye a 2), fecha 28/01/2019 · pág. 8-9 · sección 14: Información relativa al transporte",
+      "[2] Corona · PINTURA EXTERIORES · FDS091 (FDS 91 - PINTURA EXTERIORES - CORONA.pdf) · versión 9 (sustituye a 8), fecha 09/09/2025 · pág. 9-10 · sección 14: Información relativa al transporte",
+      "[3] Pintuco · ESMALTE TOP QUALITY NEGRO 1772 · FDS035 (FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf) · versión 3 (sustituye a 2), fecha 28/01/2019 · pág. 1 · sección 1: Identificación del producto y del proveedor",
+      "[4] Corona · PINTURA EXTERIORES · FDS091 (FDS 91 - PINTURA EXTERIORES - CORONA.pdf) · versión 9 (sustituye a 8), fecha 09/09/2025 · pág. 10 · sección 14: Información relativa al transporte",
+      "[5] Pintuco · ESMALTE TOP QUALITY NEGRO 1772 · FDS035 (FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf) · versión 3 (sustituye a 2), fecha 28/01/2019 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[6] Corona · PINTURA EXTERIORES · FDS091 (FDS 91 - PINTURA EXTERIORES - CORONA.pdf) · versión 9 (sustituye a 8), fecha 09/09/2025 · pág. 1 · sección 1: Identificación del producto y del proveedor"
+    ],
+    "fuentes_citadas": [
+      "[1] Pintuco · ESMALTE TOP QUALITY NEGRO 1772 · FDS035 (FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf) · versión 3 (sustituye a 2), fecha 28/01/2019 · pág. 8-9 · sección 14: Información relativa al transporte",
+      "[2] Corona · PINTURA EXTERIORES · FDS091 (FDS 91 - PINTURA EXTERIORES - CORONA.pdf) · versión 9 (sustituye a 8), fecha 09/09/2025 · pág. 9-10 · sección 14: Información relativa al transporte"
+    ],
+    "insuficiente": false,
+    "filtro": "fichas FDS035, FDS091",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.03,
+      "generacion": 2.09
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P11",
+    "tipo": "sin respuesta en el corpus",
+    "respondible": false,
+    "user_input": "¿Cuál es el tiempo de secado al tacto del VINILTEX PRO 650 BLANCO de Pintuco?",
+    "retrieved_contexts": [
+      "[Fabricante: Pintuco | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 (sustituye a 3) | Fecha: 31/05/2021 | Documento: FDS045 | Sección 8: Controles de exposición / protección personal]\nEl tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |\n\nDado que el producto es una mezcla de diferentes materiales, la resistencia del material de los guantes no se puede calcular de antemano con total fiabilidad y por lo tanto tiene que ser controlados antes de su aplicación.\n\n- D.- Protección ocular y facial\n\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## VINILTEX PRO 650 BLANCO 10382444,10289235\n\n## SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Protección | obligatoria de la cara*\n\n*Imagen asociada a la tabla #/tables/5: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de la cara | Gafas de seguridad | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n\n## E.- Protección corporal\n\n*Imagen asociada a la tabla #/tables/6: imagen contenida en el área de la tabla en la página 5 (100% de su área).*",
+      "[Fabricante: Pintuco | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 (sustituye a 3) | Fecha: 31/05/2021 | Documento: FDS045 | Sección 7: Manipulación y almacenamiento]\n- D.- Recomendaciones técnicas para prevenir riesgos medioambientales\n\nDebido a la peligrosidad de este producto para el medio ambiente se recomienda manipularlo dentro de un área que disponga de barreras de control de la contaminación en caso de vertido, así como disponer de material absorbente en las proximidades del mismo\n\n## 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:\n\n- A.- Medidas técnicas de almacenamiento\n- B.- Condiciones generales de almacenamiento.\n\n- **Temperatura mínima:** 5 ºC  \n- **Temperatura máxima:** 30 ºC  \n- **Tiempo máximo:** 18 meses\n\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\n## VINILTEX PRO 650 BLANCO 10382444,10289235\n\n## SECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO (continúa)\n\nEvitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5\n\n## 7.3 Usos específicos finales:\n\nSalvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.",
+      "[Fabricante: Pintuco | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 (sustituye a 3) | Fecha: 31/05/2021 | Documento: FDS045 | Sección 8: Controles de exposición / protección personal]\n## B.- Protección respiratoria.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Protección | obligatoria de las | vías respiratorias*\n\n*Imagen asociada a la tabla #/tables/3: imagen contenida en el área de la tabla en la página 4 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las vías respiratorias | Máscara con filtro para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |\n\n## C.- Protección específica de las manos.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Pictograma | Protección | obligatoria de las | manos*\n\n*Imagen asociada a la tabla #/tables/4: imagen contenida en el área de la tabla en la página 4 (100% de su área).*\n\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Protección obligatoria de las manos | Guantes de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |",
+      "[Fabricante: Pintuco | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 (sustituye a 3) | Fecha: 31/05/2021 | Documento: FDS045 | Sección 0: Encabezado de la ficha]\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## VINILTEX PRO 650 BLANCO 10382444,10289235",
+      "[Fabricante: Pintuco | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 (sustituye a 3) | Fecha: 31/05/2021 | Documento: FDS045 | Sección 9: Propiedades físicas y químicas]\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD\n\n## 9.1 Información de propiedades físicas y químicas básicas:\n\nPara completar la información ver la ficha técnica/hoja de especificaciones del producto.\n\n## Aspecto físico:\n\n- **Estado físico a 20 ºC:** Líquido  \n- **Aspecto:** Viscoso  \n- **Color:**  \n- **Olor:**\n\n- [ ] Blanco\n\nCaracterístico\n\nUmbral olfativo:\n\nNo relevante *\n\n## Volatilidad:\n\n- **Temperatura de ebullición a presión atmosférica:** 20 - 2590 ºC  \n- **Presión de vapor a 20 ºC:** 2477 Pa  \n- **Presión de vapor a 50 ºC:** 12729,62 Pa (12,73 kPa)  \n- **Tasa de evaporación a 20 ºC:** No relevante *\n\n## Caracterización del producto:\n\n- **Densidad a 20 ºC:** 1419,3 kg/m³  \n- **Densidad relativa a 20 ºC:** 1,453 - 1,479  \n- **Viscosidad dinámica a 20 ºC:** No relevante *  \n- **Viscosidad cinemática a 20 ºC:** No relevante *  \n- **Viscosidad cinemática a 40 ºC:** >20,5 cSt  \n- **Concentración:** No relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Lavaojos*\n\n*Imagen asociada a la tabla #/tables/7: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## VINILTEX PRO 650 BLANCO 10382444,10289235",
+      "[Fabricante: Pintuco | Producto: VINILTEX PRO 650 BLANCO | Versión: 4 (sustituye a 3) | Fecha: 31/05/2021 | Documento: FDS045 | Sección 9: Propiedades físicas y químicas]\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## VINILTEX PRO 650 BLANCO 10382444,10289235\n\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\n- **pH:** 8,5 - 9,5  \n- **Densidad de vapor a 20 ºC:** No relevante *  \n- **Coeficiente de reparto n-octanol/agua a 20 ºC:** No relevante *  \n- **Solubilidad en agua a 20 ºC:**  \n- **Propiedad de solubilidad:** No relevante *  \n- **Temperatura de descomposición:** No relevante *  \n- **Punto de fusión/punto de congelación:** No relevante *  \n- **Propiedades explosivas:** No relevante *  \n- **Propiedades comburentes:** No relevante *\n\n## Inflamabilidad:\n\n- **Punto de inflamación:** No inflamable (>93 ºC)  \n- **Calor de combustión:** No relevante *  \n- **Inflamabilidad (sólido, gas):** No relevante *  \n- **Temperatura de auto-inflamación:** 185 ºC  \n- **Límite de inflamabilidad inferior:** No relevante *  \n- **Límite de inflamabilidad superior:** No relevante *\n\n## Explosividad:\n\n- **Límite inferior de explosividad:** No relevante *  \n- **Límite superior de explosividad:** No relevante *\n\n## 9.2 Información adicional:\n\n- **Tensión superficial a 20 ºC:** No relevante *  \n- **Índice de refracción:** No relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad."
+    ],
+    "retrieved_ids": [
+      "FDS045-s08-003",
+      "FDS045-s07-001",
+      "FDS045-s08-002",
+      "FDS045-s00-000",
+      "FDS045-s09-000",
+      "FDS045-s09-001"
+    ],
+    "similitudes": [
+      0.7372,
+      0.7258,
+      0.656,
+      0.7401,
+      0.7347,
+      0.7343
+    ],
+    "similitud_max": 0.7401,
+    "response": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "response_modelo": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "reference": null,
+    "fuentes_recuperadas": [
+      "[1] Pintuco · VINILTEX PRO 650 BLANCO · FDS045 (FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf) · versión 4 (sustituye a 3), fecha 31/05/2021 · pág. 4-5 · sección 8: Controles de exposición / protección personal",
+      "[2] Pintuco · VINILTEX PRO 650 BLANCO · FDS045 (FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf) · versión 4 (sustituye a 3), fecha 31/05/2021 · pág. 3-4 · sección 7: Manipulación y almacenamiento",
+      "[3] Pintuco · VINILTEX PRO 650 BLANCO · FDS045 (FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf) · versión 4 (sustituye a 3), fecha 31/05/2021 · pág. 4 · sección 8: Controles de exposición / protección personal",
+      "[4] Pintuco · VINILTEX PRO 650 BLANCO · FDS045 (FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf) · versión 4 (sustituye a 3), fecha 31/05/2021 · pág. 1 · sección 0: Encabezado de la ficha",
+      "[5] Pintuco · VINILTEX PRO 650 BLANCO · FDS045 (FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf) · versión 4 (sustituye a 3), fecha 31/05/2021 · pág. 5-6 · sección 9: Propiedades físicas y químicas",
+      "[6] Pintuco · VINILTEX PRO 650 BLANCO · FDS045 (FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf) · versión 4 (sustituye a 3), fecha 31/05/2021 · pág. 6 · sección 9: Propiedades físicas y químicas"
+    ],
+    "fuentes_citadas": [],
+    "insuficiente": true,
+    "filtro": "fichas FDS045",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.02,
+      "generacion": 0.95
+    }
+  },
+  {
+    "configuracion": "k6",
+    "top_k": 6,
+    "id": "P12",
+    "tipo": "sin respuesta en el corpus",
+    "respondible": false,
+    "user_input": "¿Cuál es el punto de inflamación de la pintura ProMar 200 de Sherwin-Williams?",
+    "retrieved_contexts": [
+      "[Fabricante: Pintuco | Producto: PINTURA ANTICORROSIVA GRIS 507 | Versión: 3 (sustituye a 2) | Fecha: 28/01/2019 | Documento: FDS006 | Sección 9: Propiedades físicas y químicas]\n## Inflamabilidad:\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.\n\n*Texto del PDF en el área de la imagen (capa de texto, no OCR): Lavaojos*\n\n*Imagen asociada a la tabla #/tables/8: imagen contenida en el área de la tabla en la página 5 (100% de su área).*\n\n*Texto OCR de la imagen (puede contener errores): Pintuco | El Color de la Calidad**\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## PINTURA ANTICORROSIVA GRIS 507 10014333-10012454-10171712\n\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\n- **Punto de inflamación:** No inflamable (>93 ºC)  \n- **Inflamabilidad (sólido, gas):** No relevante *  \n- **Temperatura de auto-inflamación:** 200 ºC  \n- **Límite de inflamabilidad inferior:** No relevante *  \n- **Límite de inflamabilidad superior:** No relevante *\n\n## Explosividad:\n\n- **Límite inferior de explosividad:** No relevante *  \n- **Límite superior de explosividad:** No relevante *\n\n## 9.2 Información adicional:\n\n- **Tensión superficial a 20 ºC:** No relevante *  \n- **Índice de refracción:** No relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+      "[Fabricante: Pintuco | Producto: PINTURA EPOXI POLIAMIDA BLANCO 13243 | Versión: 2 (sustituye a 1) | Fecha: 15/08/2018 | Documento: FDS010 | Sección 9: Propiedades físicas y químicas]\n## PINTURA EPOXI POLIAMIDA BLANCO 13243 10012925-10344427\n\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\n|  | Olor: | Característico |\n|---|---|---|\n|  | Umbral olfativo: | No relevante * |\n|  | Volatilidad: |  |\n|  | Temperatura de ebullición a presión atmosférica: | 135 ºC |\n|  | Presión de vapor a 20 ºC: | 1271 Pa |\n|  | Presión de vapor a 50 ºC: | 51,46 (6,86 kPa) |\n|  | Tasa de evaporación a 20 ºC: | No relevante * |\n|  | Caracterización del producto: |  |\n|  | Densidad a 20 ºC: | 1372 kg/m³ |\n|  | Densidad relativa a 20 ºC: | 1,421 - 1,448 |\n|  | Viscosidad dinámica a 20 ºC: | No relevante * |\n|  | Viscosidad cinemática a 20 ºC: | No relevante * |\n|  | Viscosidad cinemática a 40 ºC: | No relevante * |\n|  | Concentración: | No relevante * |\n|  | pH: | No relevante * |\n|  | Densidad de vapor a 20 ºC: | No relevante * |\n|  | Coeficiente de reparto n-octanol/agua a 20 ºC: | No relevante * |\n|  | Solubilidad en agua a 20 ºC: | No relevante * |\n|  | Propiedad de solubilidad: | No relevante * |\n|  | Temperatura de descomposición: | No relevante * |\n|  | Punto de fusión/punto de congelación: | No relevante * |\n|  | Propiedades explosivas: | No relevante * |\n|  | Propiedades comburentes: | No relevante * |\n|  | Inflamabilidad: |  |\n|  | Punto de inflamación: | 50 ºC |\n|  | Inflamabilidad (sólido, gas): | No relevante * |\n|  | Temperatura de auto-inflamación: | 238 ºC |\n|  | Límite de inflamabilidad inferior: | No determinado |\n|  | Límite de inflamabilidad superior: | No determinado |\n|  | Explosividad: |  |\n|  | Límite inferior de explosividad: | No relevante * |",
+      "[Fabricante: Corona | Producto: 321654 - PINTURA ALTA COBERTURA | Versión: 5 (sustituye a 4) | Fecha: 17/05/2023 | Documento: FDS075 | Sección 9: Propiedades físicas y químicas]\nRevisión: 17/05/2023\n\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## PINTURA ALTA COBERTURA\n\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\n- **Densidad a 20 ºC:** 1451,1 kg/m³  \n- **Densidad relativa a 20 ºC:** 1,451  \n- **Viscosidad dinámica a 20 ºC:** No relevante *  \n- **Viscosidad cinemática a 20 ºC:** No relevante *  \n- **Viscosidad cinemática a 40 ºC:** No relevante *  \n- **Concentración:** No relevante *  \n- **pH:** No relevante *  \n- **Densidad de vapor a 20 ºC:** No relevante *  \n- **Coeficiente de reparto n-octanol/agua a 20 ºC:** No relevante *  \n- **Solubilidad en agua a 20 ºC:** No relevante *  \n- **Propiedad de solubilidad:** No relevante *  \n- **Temperatura de descomposición:** No relevante *  \n- **Punto de fusión/punto de congelación:** No relevante *\n\n## Inflamabilidad:\n\n- **Punto de inflamación:** No inflamable (>93 ºC)  \n- **Inflamabilidad (sólido, gas):** No relevante *  \n- **Temperatura de auto-inflamación:** 330 ºC  \n- **Límite de inflamabilidad inferior:** No relevante *  \n- **Límite de inflamabilidad superior:** No relevante *  \n- **Características de las partículas:**  \n- **Diámetro medio equivalente:** No aplicable\n\n## 9.2 Información adicional:",
+      "[Fabricante: Corona | Producto: PINTURA LAVABLE ANTIBACTERIAL | Versión: 2 (sustituye a 1) | Fecha: 10/09/2020 | Documento: FDS042 | Sección 9: Propiedades físicas y químicas]\n*Texto OCR de la imagen (puede contener errores): corona*\n\n## Ficha de datos de seguridad\n\nsegún Decreto 1496 de 2018\n\n## PINTURA LAVABLE ANTIBACTERIAL\n\n## SECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD (continúa)\n\n- **Densidad de vapor a 20 ºC:** No relevante *  \n- **Coeficiente de reparto n-octanol/agua a 20 ºC:** No relevante *  \n- **Solubilidad en agua a 20 ºC:** No relevante *  \n- **Propiedad de solubilidad:** No relevante *  \n- **Temperatura de descomposición:** No relevante *  \n- **Punto de fusión/punto de congelación:** No relevante *  \n- **Propiedades explosivas:** No relevante *  \n- **Propiedades comburentes:** No relevante *\n\n## Inflamabilidad:\n\n- **Punto de inflamación:** No inflamable (>93 ºC)  \n- **Inflamabilidad (sólido, gas):** No relevante *  \n- **Temperatura de auto-inflamación:** 330 ºC  \n- **Límite de inflamabilidad inferior:** No relevante *  \n- **Límite de inflamabilidad superior:** No relevante *\n\n## Explosividad:\n\n- **Límite inferior de explosividad:** No relevante *  \n- **Límite superior de explosividad:** No relevante *\n\n## 9.2 Información adicional:\n\n- **Tensión superficial a 20 ºC:** No relevante *  \n- **Índice de refracción:** No relevante *\n\n*No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+      "[Fabricante: Tecnidecor | Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS | Versión: no indicada | Fecha: Octubre de 2018 | Documento: FDS001 | Sección 5: Medidas de lucha contra incendios]\n## 5. COMBATE DE INCENDIOS\n\n| Punto de inflamación (ºC): | N/A |\n|---|---|\n| Temperatura de auto ignición (ºC): | N/A |\n| Límites de inflamabilidad (%V/V): | N/A |\n| Peligros de incendio y/o explosión: | No combustible, ni inflamable. El envase metálico al ser sometido a un sobrecalentamiento sobre 90º C, su contenido puede ocasionar sobrepresión interior originando una explosión de vapores. |\n| Medios de extinción: | Si el producto es sometido al fuego o calor intenso, aplicar agua en forma de roció para refrigerar. |",
+      "[Fabricante: Corona | Producto: PINTURA SUPERLAVABLE ZERO | Versión: 6 (sustituye a 5) | Fecha: 02/05/2023 | Documento: FDS068 | Sección 9: Propiedades físicas y químicas]\n- **Presión de vapor a 20 ºC:** 2349 Pa  \n- **Presión de vapor a 50 ºC:** 12378,01 Pa (12,38 kPa)  \n- **Tasa de evaporación a 20 ºC:** No relevante *\n\n## Caracterización del producto:\n\n- **Densidad a 20 ºC:** 1322 kg/m³  \n- **Densidad relativa a 20 ºC:** 1,322  \n- **Viscosidad dinámica a 20 ºC:** No relevante *  \n- **Viscosidad cinemática a 20 ºC:** No relevante *  \n- **Viscosidad cinemática a 40 ºC:** No relevante *  \n- **Concentración:** No relevante *  \n- **pH:** 8,5 - 9,5  \n- **Densidad de vapor a 20 ºC:** No relevante *  \n- **Coeficiente de reparto n-octanol/agua a 20 ºC:** No relevante *  \n- **Solubilidad en agua a 20 ºC:** No relevante *  \n- **Propiedad de solubilidad:** No relevante *  \n- **Temperatura de descomposición:** No relevante *  \n- **Punto de fusión/punto de congelación:** No relevante *\n\n## Inflamabilidad:\n\n- **Punto de inflamación:** No inflamable (>93 ºC)  \n- **Inflamabilidad (sólido, gas):** No relevante *  \n- **Temperatura de auto-inflamación:** 330 ºC  \n- **Límite de inflamabilidad inferior:** No relevante *  \n- **Límite de inflamabilidad superior:** No relevante *\n\n## Características de las partículas:\n\nDiámetro medio equivalente:\n\nNo aplicable\n\n## 9.2 Información adicional:\n\n## Información relativa a las clases de peligro físico:"
+    ],
+    "retrieved_ids": [
+      "FDS006-s09-001",
+      "FDS010-s09-001",
+      "FDS075-s09-001",
+      "FDS042-s09-001",
+      "FDS001-s05-000",
+      "FDS068-s09-001"
+    ],
+    "similitudes": [
+      0.5491,
+      0.558,
+      0.5386,
+      0.5276,
+      0.562,
+      0.5388
+    ],
+    "similitud_max": 0.5688,
+    "response": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "response_modelo": "No hay evidencia suficiente en las FDS disponibles para responder esta pregunta.",
+    "reference": null,
+    "fuentes_recuperadas": [
+      "[1] Pintuco · PINTURA ANTICORROSIVA GRIS 507 · FDS006 (FDS 6 - PINTURA ANTICORROSIVA GRIS 507 _ 10014333-10012454-10171712 _COL (Versión 3).pdf) · versión 3 (sustituye a 2), fecha 28/01/2019 · pág. 5-6 · sección 9: Propiedades físicas y químicas",
+      "[2] Pintuco · PINTURA EPOXI POLIAMIDA BLANCO 13243 · FDS010 (FDS 10 - pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja-de-seguridad-pdf.pdf) · versión 2 (sustituye a 1), fecha 15/08/2018 · pág. 6 · sección 9: Propiedades físicas y químicas",
+      "[3] Corona · 321654 - PINTURA ALTA COBERTURA · FDS075 (FDS 75 -PINTURA-ALTA-COBERTURA - CORONA.pdf) · versión 5 (sustituye a 4), fecha 17/05/2023 · pág. 5-6 · sección 9: Propiedades físicas y químicas",
+      "[4] Corona · PINTURA LAVABLE ANTIBACTERIAL · FDS042 (FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf) · versión 2 (sustituye a 1), fecha 10/09/2020 · pág. 6 · sección 9: Propiedades físicas y químicas",
+      "[5] Tecnidecor · PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS · FDS001 (FDS 1 -pintura-antideslizante-para-canchas.pdf) · versión no indicada, fecha Octubre de 2018 · pág. 2 · sección 5: Medidas de lucha contra incendios",
+      "[6] Corona · PINTURA SUPERLAVABLE ZERO · FDS068 (FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf) · versión 6 (sustituye a 5), fecha 02/05/2023 · pág. 6 · sección 9: Propiedades físicas y químicas"
+    ],
+    "fuentes_citadas": [],
+    "insuficiente": true,
+    "filtro": "sin filtro",
+    "advertencias": [],
+    "segundos": {
+      "recuperacion": 0.04,
+      "generacion": 0.98
+    }
+  }
+]

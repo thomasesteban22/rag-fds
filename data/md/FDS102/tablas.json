@@ -1,0 +1,341 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   43.62571334838867,
+   268.6007995605469,
+   572.4927978515625,
+   306.3117370605469
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 1,
+  "markdown": "| Restricciones de uso   | Motivo   |\n|------------------------|----------|\n| No aplicable.          |          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   40.941715240478516,
+   222.54623413085938,
+   570.1077270507812,
+   383.2451171875
+  ],
+  "filas": 12,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente                                                             | %                                                                            | Número CAS                                                                                                      |\n|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|\n| Sulfato de bario                                                                  | 30 - <60 20 - <30 7 - <10 7 - <10 7 - <10 3 - <5 3 - <5 2 - <3 1 - <2 1 - <2 | 7727-43-7 14808-60-7 108-10-1 25036-25-3 1330-20-7 1309-37-1 14808-60-7 1675-54-3 68515-49-1 100-41-4 2210-79-9 |\n| sílice cristalina, polvo no respirable (>10 micras)                               |                                                                              |                                                                                                                 |\n| Metilisobutilcetona                                                               |                                                                              |                                                                                                                 |\n| RESINA EPOXI (700<MW<=1100)                                                       |                                                                              |                                                                                                                 |\n| Xilenos, mezcla isómeros                                                          |                                                                              |                                                                                                                 |\n| Oxido de hierro (Fe2O3)                                                           |                                                                              |                                                                                                                 |\n| sílice cristalina, polvo respirable (<10 micras)                                  |                                                                              |                                                                                                                 |\n| 2,2'-[(1-metiletiliden)bis(4,1-fenilenoximetilen)]bisoxirano                      |                                                                              |                                                                                                                 |\n| ácido 1,2-bencenodicarboxílico, di-C9-11-alquil ésteres ramificados, ricos en C10 |                                                                              |                                                                                                                 |\n| Etilbenceno                                                                       |                                                                              |                                                                                                                 |\n| 2,3-epoxipropil o-tolil éter                                                      | 0.2 - <0.5                                                                   |                                                                                                                 |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   45.398292541503906,
+   517.0971069335938,
+   563.0322875976562,
+   638.6390380859375
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Quítese los lentes de contacto, lavar inmediatamente con abundante agua fresca y limpia, manteniendo los párpados separados durante al menos 10 minutos y busque atención médica inmediata.                            |\n|-------------------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Traslade al aire libre. Mantenga a la persona caliente y en reposo. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. |\n| Contacto con la piel    | :   | Quítese la ropa y calzado contaminados. Lavar perfectamente la piel con agua y jabón, o con un limpiador cutáneo reconocido. NO utilizar disolventes ni diluyentes.                                                    |\n| Ingestión               | :   | En caso de ingestión, acúdase inmediatamente al médico y muéstrele la etiqueta o el envase. Mantenga a la persona caliente y en reposo. No provocar el vómito.                                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   38.05546188354492,
+   276.4707336425781,
+   564.3599243164062,
+   583.1677856445312
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 5,
+  "markdown": "| Medios de extinción Medios de extinción                                     | :   | Utilizar polvo químico seco, CO₂, agua pulverizada o espuma (neblina).                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n|-----------------------------------------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| apropiados Medios no apropiados de extinción                                | :   | No usar chorro de agua.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| Peligros específicos de la sustancia química peligrosa o mezcla             | :   | Líquido y vapores muy inflamables. Los residuos líquidos que se filtran en el alcantarillado pueden causar un riesgo de incendio o de explosión. En caso de incendio o calentamiento, ocurrirá un aumento de presión y el recipiente estallará, con el riesgo de que ocurra una explosión. Este material es nocivo para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados. |\n| Productos de descomposición térmica peligrosos                              | :   | Los productos de descomposición pueden incluir los siguientes materiales: óxidos de carbono óxidos de azufre óxido/óxidos metálico/metálicos                                                                                                                                                                                                                                                                                                                                                                   |\n| Medidas especiales que deberán seguir los grupos de combate contra incendio | :   | En caso de incendio, aísle rápidamente la zona evacuando a todas las personas de las proximidades del lugar del incidente. No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Desplazar los contenedores lejos del incendio si esto puede hacerse sin riesgo. Use agua pulverizada para refrigerar los envases expuestos al fuego.                                                                                                                   |\n| Equipo de protección especial para los bomberos                             | :   | Los bomberos deben llevar equipo de protección apropiado y un equipo de respiración autónomo con una máscara facial completa que opere en modo de presión positiva.                                                                                                                                                                                                                                                                                                                                            |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   39.22193908691406,
+   91.03982543945312,
+   559.6097412109375,
+   302.90478515625
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 6,
+  "markdown": "| Para personal de no emergencia              | :   | No se tomará ninguna medida que implique algún riesgo personal o que no contemple el entrenamiento adecuado. Evacuar los alrededores. No deje que entre el personal innecesario y sin protección. No toque o camine sobre el material derramado. Apagar todas las fuentes de ignición. No permitir el uso de bengalas, fumar, o el encendido de llamas en el área de peligro. Evite respirar vapor o neblina. Proporcione ventilación adecuada. Llevar un aparato de respiración apropiado cuando el sistema de ventilación sea inadecuado. Llevar puestos equipos de protección personal adecuados.   |\n|---------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Para el personal de respuesta a emergencias | :   | Si fuera necesario usar ropa especial para hacer frente al derrame, se tomará en cuenta la información de la Sección 8 sobre los materiales adecuados y no adecuados. Consultar también la información bajo \"Para personal de no emergencia\".                                                                                                                                                                                                                                                                                                                                                          |\n| Precauciones relativas al medio ambiente    | :   | Evite la dispersión del material derramado, su contacto con el suelo, el medio acuático, los desagües y las alcantarillas. Informe a las autoridades pertinentes si el producto ha causado polución medioambiental (alcantarillas, canales, tierra o aire). Material contaminante del agua. Puede ser dañino para el medio ambiente si es liberado en cantidades grandes.                                                                                                                                                                                                                              |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   37.852752685546875,
+   334.6443786621094,
+   556.6478881835938,
+   541.903076171875
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 6,
+  "markdown": "| Derrame pequeño   | :   | Detener la fuga si esto no presenta ningún riesgo. Retire los envases del área del derrame. Use herramientas a prueba de chispas y equipo a prueba de explosión. Diluir con agua y fregar si es soluble en agua. Alternativamente, o si es insoluble en agua, absorber con un material seco inerte y colocar en un contenedor de residuos adecuado. Disponga por medio de un contratista autorizado para la disposición.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n|-------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Gran derrame      | :   | Detener la fuga si esto no presenta ningún riesgo. Retire los envases del área del derrame. Use herramientas a prueba de chispas y equipo a prueba de explosión. Aproximarse al vertido en el sentido del viento. Evite la entrada en alcantarillas, canales de agua, sótanos o áreas reducidas. Trate los derrames en una planta de tratamiento de aguas residuales o proceda tal como se indica a continuación. Detener y recoger los derrames con materiales absorbentes no combustibles, como arena, tierra, vermiculita o tierra de diatomeas, y colocar el material en un envase para desecharlo de acuerdo con las normativas locales (ver la Sección 13). Disponga por medio de un contratista autorizado para la disposición. El material absorbente contaminado puede presentar el mismo riesgo que el producto derramado. Nota: Véase la Sección 1 para información de contacto de emergencia y la Sección 13 para eliminación de desechos. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   46.84012222290039,
+   364.4943542480469,
+   569.9024658203125,
+   676.1980590820312
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente | Límites de exposición |\n|---|---|\n| Sulfato de bario | ACGIH TLV (Estados Unidos, 1/2024) TWA 8 horas: 5 mg/m³. Estado: Fracción inhalable. |\n| sílice cristalina, polvo no respirable (>10 micras) | ACGIH TLV (Estados Unidos, 1/2024) [Silica, crystalline] TWA 8 horas: 0.025 mg/m³. Estado: Fracción respirable. |\n| Metilisobutilcetona | ACGIH TLV (Estados Unidos, 1/2024) TWA 8 horas: 20 ppm. STEL 15 minutos: 75 ppm. |\n| Xilenos, mezcla isómeros | ACGIH TLV (Estados Unidos, 1/2024) [p￾xylene and mixtures containing p-xylene] Ototoxicante. TWA 8 horas: 20 ppm. |\n| Oxido de hierro (Fe2O3) | ACGIH TLV (Estados Unidos, 1/2024) TWA 8 horas: 5 mg/m³. Estado: Fracción respirable. |\n| sílice cristalina, polvo respirable (<10 micras) | ACGIH TLV (Estados Unidos, 1/2024) [Silica, crystalline] TWA 8 horas: 0.025 mg/m³. Estado: Fracción respirable. |\n| Etilbenceno | ACGIH TLV (Estados Unidos, 1/2024) Ototoxicante. TWA 8 horas: 20 ppm. |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "7 filas; columna ancla 1 (Nombre de ingrediente)",
+  "markdown_original": "| Nombre de ingrediente                                                                                                                                                                                  | Límites de exposición                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Sulfato de bario sílice cristalina, polvo no respirable (>10 micras) Metilisobutilcetona Xilenos, mezcla isómeros Oxido de hierro (Fe2O3) sílice cristalina, polvo respirable (<10 micras) Etilbenceno | ACGIH TLV (Estados Unidos, 1/2024) TWA 8 horas: 5 mg/m³. Estado: Fracción inhalable. ACGIH TLV (Estados Unidos, 1/2024) [Silica, crystalline] TWA 8 horas: 0.025 mg/m³. Estado: Fracción respirable. ACGIH TLV (Estados Unidos, 1/2024) TWA 8 horas: 20 ppm. STEL 15 minutos: 75 ppm. ACGIH TLV (Estados Unidos, 1/2024) [p- xylene and mixtures containing p-xylene] Ototoxicante. TWA 8 horas: 20 ppm. ACGIH TLV (Estados Unidos, 1/2024) TWA 8 horas: 5 mg/m³. Estado: Fracción respirable. ACGIH TLV (Estados Unidos, 1/2024) [Silica, crystalline] TWA 8 horas: 0.025 mg/m³. Estado: Fracción respirable. ACGIH TLV (Estados Unidos, 1/2024) Ototoxicante. TWA 8 horas: 20 ppm. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 7,
+  "bbox_pt": [
+   41.3366813659668,
+   68.44617462158203,
+   567.1436157226562,
+   669.7864990234375
+  ],
+  "filas": 11,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Procedimientos de control recomendados       | :                                | Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n|----------------------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Controles técnicos apropiados                | :                                | Use sólo con ventilación adecuada. Utilizar recintos de proceso, sistemas de ventilación locales, u otros procedimientos de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por debajo del menor límite de explosión. Utilizar equipo de ventilación anti-explosión.                                                                                                                                                                                                      |\n| Control de la exposición medioambiental      | :                                | Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable.                                                                                                                                                                                                                                                                                      |\n| Medidas de protección individual             | Medidas de protección individual | Medidas de protección individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| Medidas higiénicas                           | :                                | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                                                                                                                                                          |\n| Protección de los ojos Protección de la piel | :                                | Gafas protectoras contra salpicaduras químicas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Protección de las manos                      | :                                | Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. |\n| Guantes                                      | :                                | caucho butílico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Protección del cuerpo                        | :                                | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos.                                                                                                                                                                                       |\n| Otro tipo de protección para la piel         | :                                | Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                                                                                                                                                                                                               |\n| Protección de las vías respiratorias         | :                                | La selección del respirador se debe basar en el conocimiento previo de los niveles, los riesgos de producto y los límites de trabajo de seguridad del respirador seleccionado. Si los trabajadores están expuestos a concentraciones superiores al límite de exposición, deben utilizar respiradores certificados adecuados. Use un respirador purificador de aire o con suministro de aire, que esté ajustado apropiadamente y que cumpla con las normas aprobadas si una evaluación de riesgo indica que es necesario.                                                                                                                                |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   43.96645736694336,
+   104.2126693725586,
+   567.2543334960938,
+   470.8885803222656
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Sulfato de bario Metilisobutilcetona RESINA EPOXI (700<MW <=1100) Xilenos, mezcla isómeros Oxido de hierro (Fe2O3) 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano ácido 1,2-bencenodicarboxílico, di- C9-11-alquil ésteres ramificados, ricos en C10 Etilbenceno 2,3-epoxipropil o-tolil éter Nombre de producto o ingrediente   | DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Polvo y nieblas DL50 Oral DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral CL50 Por inhalación Polvo y nieblas CL50 Por inhalación Vapor DL50 Oral Resultado   | Rata Rata Rata Conejo Rata Rata Rata Conejo Rata Rata Rata Conejo Rata Conejo Rata Rata Conejo Rata Rata Rata Rata Especies   | >2000 mg/kg >5000 mg/kg 11 mg/l >5000 mg/kg 2.08 g/kg >2000 mg/kg >2000 mg/kg 1.7 g/kg 4.3 g/kg >5 mg/l 10 g/kg 23000 mg/kg 15000 mg/kg 16000 mg/kg >60000 mg/kg 17.8 mg/l 17.8 g/kg 3.5 g/kg 6090 mg/m³ 6090 mg/m³ 4 g/kg Dosis   | - - 4 horas - - - - - - 4 horas - - - - - 4 horas - - 4 horas 4 horas - Exposición   |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 9,
+  "bbox_pt": [
+   43.93287658691406,
+   501.1144714355469,
+   567.0952758789062,
+   651.5186767578125
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                                        | Resultado                                                                                                                                       | Especies                                  | Puntuación        | Exposición                                                | Observación   |\n|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------|-----------------------------------------------------------|---------------|\n| Xilenos, mezcla isómeros 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano | Piel - Irritante moderado Ojos - Irritante leve Ojos - Enrojecimiento de la conjuntiva Piel - Edema Piel - Eritema/Escama Piel - Irritante leve | Conejo Conejo Conejo Conejo Conejo Conejo | - - 0.4 0.5 0.8 - | 24 horas 500 mg 24 horas 24 horas 4 horas 4 horas 4 horas | - - - - - -   |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   55.269832611083984,
+   667.1320190429688,
+   418.71087646484375,
+   694.0646362304688
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Piel   | : No existen datos disponibles sobre la mezcla en sí.   |\n|--------|---------------------------------------------------------|\n| Ojos   | : No existen datos disponibles sobre la mezcla en sí.   |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   38.020389556884766,
+   15.475822448730469,
+   572.9451293945312,
+   72.24542236328125
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Código 00280673                                                                       | Fecha de emisión                                                                      | 14 Agosto 2025                                                                        | Versión                                                                               | 7                                                                                     |\n|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|\n| AMERCOAT 370 RESIN OXIDE RED Nombre del producto Sección 11. Información toxicológica | AMERCOAT 370 RESIN OXIDE RED Nombre del producto Sección 11. Información toxicológica | AMERCOAT 370 RESIN OXIDE RED Nombre del producto Sección 11. Información toxicológica | AMERCOAT 370 RESIN OXIDE RED Nombre del producto Sección 11. Información toxicológica | AMERCOAT 370 RESIN OXIDE RED Nombre del producto Sección 11. Información toxicológica |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 10,
+  "bbox_pt": [
+   43.70224380493164,
+   100.943603515625,
+   567.1956176757812,
+   169.39503479003906
+  ],
+  "filas": 1,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano Nombre de producto o ingrediente   | piel Ruta de exposición   | Ratón Especies   | Sensibilizante Resultado   |\n|---------------------------------------------------------------------------------------------------|---------------------------|------------------|----------------------------|"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 10,
+  "bbox_pt": [
+   50.49607849121094,
+   325.80780029296875,
+   573.7479858398438,
+   487.6815185546875
+  ],
+  "filas": 8,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                               | OSHA   | IARC   | NTP                               |\n|----------------------------------------------------------------|--------|--------|-----------------------------------|\n| sílice cristalina, polvo no respirable (>10 micras)            | +      | 1      | Conocido como carcinógeno humano. |\n| Metilisobutilcetona                                            | -      | 2B     | -                                 |\n| Xilenos, mezcla isómeros                                       | -      | 3      | -                                 |\n| Oxido de hierro (Fe2O3)                                        | -      | 3      | -                                 |\n| sílice cristalina, polvo respirable (<10 micras)               | +      | 1      | Conocido como carcinógeno humano. |\n| 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano | -      | 3      | -                                 |\n| Etilbenceno                                                    | -      | 2B     | -                                 |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 11,
+  "bbox_pt": [
+   43.49125671386719,
+   73.20562744140625,
+   567.2157592773438,
+   142.49134826660156
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                       | Categoría               | Ruta de exposición   | Órganos vitales                                       |\n|----------------------------------------------|-------------------------|----------------------|-------------------------------------------------------|\n| Metilisobutilcetona Xilenos, mezcla isómeros | Categoría 3 Categoría 3 | - -                  | Efecto narcótico Irritación de las vías respiratorias |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 11,
+  "bbox_pt": [
+   44.22264099121094,
+   162.68765258789062,
+   567.3450927734375,
+   220.64442443847656
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                       | Categoría               | Ruta de exposición   | Órganos vitales     |\n|--------------------------------------------------------------|-------------------------|----------------------|---------------------|\n| sílice cristalina, polvo respirable (<10 micras) Etilbenceno | Categoría 1 Categoría 2 | inhalación -         | - órganos auditivos |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 11,
+  "bbox_pt": [
+   43.910789489746094,
+   314.1378173828125,
+   567.459228515625,
+   372.6181640625
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                                   | Resultado                                                                                                      |\n|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n| Metilisobutilcetona Xilenos, mezcla isómeros Etilbenceno | PELIGRO POR ASPIRACIÓN - Categoría 2 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 12,
+  "bbox_pt": [
+   48.32864761352539,
+   481.48321533203125,
+   558.1096801757812,
+   593.3594360351562
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| Generales              | :   | Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas. El contacto prolongado o repetido puede desengrasar la piel y conducir a irritación, agrietamiento y/o dermatitis. Una vez que la persona esté sensibilizada, puede ocurrir una reacción alérgica severa si posteriormente se expone incluso a muy bajos niveles.   |\n|------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Carcinogenicidad       | :   | Puede provocar cáncer. El riesgo de cáncer depende de la duración y el grado de exposición.                                                                                                                                                                                                                                                        |\n| Mutagenicidad          | :   | No se conocen efectos significativos o riesgos críticos.                                                                                                                                                                                                                                                                                           |\n| Toxicidad reproductiva | :   | No se conocen efectos significativos o riesgos críticos.                                                                                                                                                                                                                                                                                           |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 13,
+  "bbox_pt": [
+   43.524471282958984,
+   72.50550842285156,
+   567.4429321289062,
+   269.8736572265625
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                                                                                                                                                                                                                                                                                        | Oral (mg/ kg)                                       | Cutánea (mg/kg)                                     | Inhalación (gases) (ppm)                | Inhalación (vapores) (mg/l)              | Inhalación (polvos y nieblas) (mg/l)     |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------|------------------------------------------|------------------------------------------|\n| AMERCOAT 370 RESIN OXIDE RED Sulfato de bario Metilisobutilcetona RESINA EPOXI (700<MW<=1100) Xilenos, mezcla isómeros Oxido de hierro (Fe2O3) 2,2'-[(1-metiletiliden)bis(4,1-fenilenoximetilen)] bisoxirano ácido 1,2-bencenodicarboxílico, di-C9-11-alquil ésteres ramificados, ricos en C10 Etilbenceno 2,3-epoxipropil o-tolil éter | 7396.0 N/A 2080 2500 4300 10000 15000 N/A 3500 4000 | 3128.1 2500 N/A 2500 1700 N/A 23000 16000 17800 N/A | N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A | 16.2 N/A 11 N/A 11 N/A N/A N/A 17.8 6.09 | 2.1 N/A 1.5 N/A 1.5 N/A N/A N/A 1.5 6.09 |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 13,
+  "bbox_pt": [
+   40.72837448120117,
+   352.7926940917969,
+   569.9910278320312,
+   479.81292724609375
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente                                                                                       | Resultado                                                                                                                                                       | Especies                                                                    | Exposición                                    |\n|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|\n| Metilisobutilcetona Oxido de hierro (Fe2O3) 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano Etilbenceno | Agudo CL50 >179 mg/l Agudo EC50 >100 mg/l Agudo CL50 1.8 mg/l Agua fresca Crónico NOEC 0.3 mg/l Agudo EC50 1.8 mg/l Agua fresca Crónico NOEC 1 mg/l Agua fresca | Pez Dafnia Dafnia - daphnia magna Dafnia Dafnia Dafnia - Ceriodaphnia dubia | 96 horas 48 horas 48 horas 21 días 48 horas - |"
+ },
+ {
+  "ref": "#/tables/20",
+  "pagina": 13,
+  "bbox_pt": [
+   41.18854522705078,
+   506.365478515625,
+   570.10400390625,
+   670.393310546875
+  ],
+  "filas": 4,
+  "columnas": 7,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente                                                                                        | Prueba           | Resultado                                     | Resultado                                     | Dosis     | Dosis                         | Inóculo           |\n|-------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------|-----------------------------------------------|-----------|-------------------------------|-------------------|\n| Metilisobutilcetona Etilbenceno                                                                                         | OECD 301F -      | 83 % - Fácil - 28 días 79 % - Fácil - 10 días | 83 % - Fácil - 28 días 79 % - Fácil - 10 días | - -       | - -                           | - -               |\n| Nombre de producto o ingrediente                                                                                        | Período acuático | Período acuático                              | Fotólisis                                     | Fotólisis | Biodegradabilidad             | Biodegradabilidad |\n| Metilisobutilcetona Xilenos, mezcla isómeros 2,2'-[(1-metiletiliden)bis (4,1-fenilenoximetilen)] bisoxirano Etilbenceno | - - - -          | - - - -                                       | - - - -                                       | - - - -   | Fácil Fácil No inmediatamente | Fácil             |"
+ },
+ {
+  "ref": "#/tables/21",
+  "pagina": 13,
+  "bbox_pt": [
+   38.24788284301758,
+   707.6484375,
+   572.7254638671875,
+   727.500732421875
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Spanish (MX)   | Colombia   | 13/16   |\n|----------------|------------|---------|"
+ },
+ {
+  "ref": "#/tables/22",
+  "pagina": 14,
+  "bbox_pt": [
+   40.57637023925781,
+   72.66048431396484,
+   570.8306884765625,
+   187.65972900390625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente                                                                                                            | LogPow           | FBC                  | Potencial           |\n|---------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------|---------------------|\n| Metilisobutilcetona Xilenos, mezcla isómeros ácido 1,2-bencenodicarboxílico, di- C9-11-alquil ésteres ramificados, ricos en C10 Etilbenceno | 1.9 3.12 8.8 3.6 | - 7.4 a 18.5 - 79.43 | Bajo Bajo Alta Bajo |"
+ },
+ {
+  "ref": "#/tables/23",
+  "pagina": 14,
+  "bbox_pt": [
+   40.05418395996094,
+   521.6140747070312,
+   569.9915771484375,
+   704.4157104492188
+  ],
+  "filas": 6,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "|                                   | UN      | Brasil (ANTT)   | IMDG   | IATA   |\n|-----------------------------------|---------|-----------------|--------|--------|\n| Número ONU                        | UN1263  | UN1263          | UN1263 | UN1263 |\n| Designación oficial de transporte | PINTURA | PINTURA         | PAINT  | PAINT  |\n| Clase(s) relativas al transporte  | 3       | 3               | 3      | 3      |\n| Grupo de embalaje                 | II      | II              | II     | II     |\n| Riesgos ambientales               | No.     | No.             | No.    | No.    |"
+ }
+]

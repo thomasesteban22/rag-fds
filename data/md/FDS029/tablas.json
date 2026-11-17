@@ -1,0 +1,142 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   71.87836076672446,
+   250.91546820488793,
+   549.2279073953309,
+   289.26947762604846
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                | Concentración   |\n|------------------|------------------|---------------------------------------------|-----------------|\n| CAS:             | 13463-67-7       | Dioxido de titanio Carc. 2: H351 - Atención | 1 - <10 %       |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   72.39981248996402,
+   198.0315367767986,
+   548.3676934609638,
+   229.48768653126615
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación     | Valores límite ambientales   | Valores límite ambientales   |\n|--------------------|------------------------------|------------------------------|\n| Dioxido de titanio | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 13463-67-7    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   84.61488694466202,
+   363.17860330975816,
+   548.0134733755638,
+   437.6201193563502
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                        | EPP                                        | Observaciones                                                                                                                                                                                                      |\n|---------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del las vias respiratorias | Máscara autofiltrante para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   84.63241806439906,
+   451.2869204182749,
+   549.410840818674,
+   518.3601745866426
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                       |\n|------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes NO desechables de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras despues del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.70028430093856,
+   553.2996496669017,
+   548.321411304858,
+   620.1086610365479
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                        |\n|-----------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                                   | Pantalla facial | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |\n| Proteccion obligatoria de la cara |                 |                                                                                                                                                      |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   85.0315635496818,
+   633.691265593685,
+   548.391596761614,
+   754.2573047918831
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                      |\n|------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Proteccion obligatoria de los pies | Calzado de seguridad contra riesgo químico     | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.99599617977272,
+   135.73888998652296,
+   548.3675105275404,
+   193.27207004284344
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   71.89924566588947,
+   369.68580339662816,
+   547.7766355701422,
+   393.0017984610442
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar    | Humedad      |\n|---------------------|------------------------|-----------------|--------------|--------------|\n| No aplicable        | No aplicable           | No aplicable    | No aplicable | No aplicable |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   71.98184772875486,
+   410.23782968842784,
+   547.6171786027948,
+   433.7732847729318
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | No aplicable           | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   71.87530425410944,
+   525.2989427725096,
+   548.5153207336017,
+   576.5594222101859
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------|-------------------|-------------------|----------|\n| Dioxido de titanio | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |"
+ }
+]

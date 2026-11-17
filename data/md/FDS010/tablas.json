@@ -1,0 +1,268 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.57661002139918,
+   272.4135204034293,
+   547.9390804500708,
+   499.70143597020666
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                | Concentración   |\n|------------------|------------------|-------------------------------------------------------------|-----------------|\n| CAS:             | 25036-25-3       | Copolimero epoxy epicloridrina/Bisfenol A (700 < MW < 1100) | 10 - <25 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio                                          | 2.5 - <10 %     |\n| CAS:             | 1330-20-7        | Xileno                                                      | 2.5 - <10 %     |\n| CAS:             | 111-76-2         | 2-butoxietanol                                              | 2.5 - <10 %     |\n| CAS:             | 108-38-3         | m-xileno                                                    | 2.5 - <10 %     |\n| CAS:             | 78-83-1          | 2-metilpropan-1-ol                                          | 2.5 - <10 %     |\n| CAS:             | 106-42-3         | p-xileno                                                    | 1 - <2.5 %      |\n| CAS:             | 95-47-6          | o-xileno                                                    | 1 - <2.5 %      |\n| CAS:             | 100-41-4         | Etilbenceno                                                 | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   72.40541482605391,
+   477.9697079648994,
+   548.4034874341312,
+   586.6260295369563
+  ],
+  "filas": 1,
+  "columnas": 1,
+  "seccion": 8,
+  "markdown": "| Identificación  Valores límite ambientales  Dioxido de titanio  TLV-TWA  10 mg/m³  CAS: 13463-67-7  TLV-STEL  Xileno  TLV-TWA  100 ppm  CAS: 1330-20-7  TLV-STEL  150 ppm  2-butoxietanol  TLV-TWA  20 ppm  CAS: 111-76-2  TLV-STEL  2-metilpropan-1-ol  TLV-TWA  50 ppm  CAS: 78-83-1  TLV-STEL  Etilbenceno  TLV-TWA  20 ppm  CAS: 100-41-4  TLV-STEL   |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   85.32085751424701,
+   119.8606951817311,
+   548.5226380705354,
+   195.0234336073778
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                        | EPP                                      | Observaciones                                                                                                                                                                                                      |\n|---------------------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del las vias respiratorias | Máscara con filtros para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   86.11253239266826,
+   207.85537751476443,
+   548.5250771828466,
+   281.32370704052846
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                           | Observaciones                                                                                                                                                                                       |\n|------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras despues del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   86.00719322972651,
+   315.8600150891664,
+   548.323057705668,
+   383.7847216651898
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                        |\n|-----------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   83.89042485486742,
+   394.2099572927878,
+   548.0737804274592,
+   527.5568123759
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                                                             | EPP                                                                                              | Observaciones                                                                                      |\n|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del cuerpo Proteccion obligatoria de pies  <!-- image -->  Icon | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| los                                                                                    | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   84.97810125670978,
+   540.4790844900534,
+   549.0249122732279,
+   599.4173089730087
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                      | Medida de emergencia   | Normas                     |\n|------------------------|-----------------------------|------------------------|----------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2002 | Lavaojos               | DIN 12 899 ISO 3864-1:2002 |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   36.353562698364264,
+   104.58648827487104,
+   556.8669022651007,
+   631.7682296267258
+  ],
+  "filas": 36,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "|     | Olor:                                                                                                          | Característico                                                                                                 |\n|-----|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n|     | Umbral olfativo:                                                                                               | No relevante *                                                                                                 |\n|     | Volatilidad:                                                                                                   |                                                                                                                |\n|     | Temperatura de ebullición a presión atmosférica:                                                               | 135 ºC                                                                                                         |\n|     | Presión de vapor a 20 ºC:                                                                                      | 1271 Pa                                                                                                        |\n|     | Presión de vapor a 50 ºC:                                                                                      | 51,46 (6,86 kPa)                                                                                               |\n|     | Tasa de evaporación a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n|     | Caracterización del producto:                                                                                  |                                                                                                                |\n|     | Densidad a 20 ºC:                                                                                              | 1372 kg/m³                                                                                                     |\n|     | Densidad relativa a 20 ºC:                                                                                     | 1,421 - 1,448                                                                                                  |\n|     | Viscosidad dinámica a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n|     | Viscosidad cinemática a 20 ºC:                                                                                 | No relevante *                                                                                                 |\n|     | Viscosidad cinemática a 40 ºC:                                                                                 | No relevante *                                                                                                 |\n|     | Concentración:                                                                                                 | No relevante *                                                                                                 |\n|     | pH:                                                                                                            | No relevante *                                                                                                 |\n|     | Densidad de vapor a 20 ºC:                                                                                     | No relevante *                                                                                                 |\n|     | Coeficiente de reparto n-octanol/agua a 20 ºC:                                                                 | No relevante *                                                                                                 |\n|     | Solubilidad en agua a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n|     | Propiedad de solubilidad:                                                                                      | No relevante *                                                                                                 |\n|     | Temperatura de descomposición:                                                                                 | No relevante *                                                                                                 |\n|     | Punto de fusión/punto de congelación:                                                                          | No relevante *                                                                                                 |\n|     | Propiedades explosivas:                                                                                        | No relevante *                                                                                                 |\n|     | Propiedades comburentes:                                                                                       | No relevante *                                                                                                 |\n|     | Inflamabilidad:                                                                                                |                                                                                                                |\n|     | Punto de inflamación:                                                                                          | 50 ºC                                                                                                          |\n|     | Inflamabilidad (sólido, gas):                                                                                  | No relevante *                                                                                                 |\n|     | Temperatura de auto-inflamación:                                                                               | 238 ºC                                                                                                         |\n|     | Límite de inflamabilidad inferior:                                                                             | No determinado                                                                                                 |\n|     | Límite de inflamabilidad superior:                                                                             | No determinado                                                                                                 |\n|     | Explosividad:                                                                                                  |                                                                                                                |\n|     | Límite inferior de explosividad:                                                                               | No relevante *                                                                                                 |\n|     | Límite superior de explosividad:                                                                               | No relevante *                                                                                                 |\n| 9.2 | Información adicional:                                                                                         |                                                                                                                |\n| 9.2 | Tensión superficial a 20 ºC:                                                                                   | No relevante *                                                                                                 |\n| 9.2 | Índice de refracción:                                                                                          | No relevante *                                                                                                 |\n| 9.2 | *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. | *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   35.75816394985122,
+   643.8335887628043,
+   559.0675303701107,
+   774.293205369238
+  ],
+  "filas": 8,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "|   SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD | SECCIÓN 10: ESTABILIDAD Y REACTIVIDAD                                                                                                |\n|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|\n|                                    10.1 | Reactividad:                                                                                                                         |\n|                                         | No se esperan reacciones peligrosas si se cumplen las instrucciones técnicas de almacenamiento de productos químicos. Ver sección 7. |\n|                                    10.2 | Estabilidad química:                                                                                                                 |\n|                                         | Estable químicamente bajo las condiciones indicadas de almacenamiento, manipulación y uso.                                           |\n|                                    10.3 | Posibilidad de reacciones peligrosas:                                                                                                |\n|                                         | Bajo las condiciones indicadas no se esperan reacciones peligrosas que puedan producir una presión o temperaturas excesivas.         |\n|                                    10.4 | Condiciones que deben evitarse:                                                                                                      |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   73.12085982252289,
+   135.44107535681644,
+   548.0572554415505,
+   157.55107751406854
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   73.1279561149034,
+   175.98373631275751,
+   548.0508527717335,
+   198.43204978816016
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.04293224769951,
+   317.83823637393755,
+   548.5210526475331,
+   621.4331086640346
+  ],
+  "filas": 25,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda      | Género   |\n|--------------------|-------------------|----------------------|----------|\n| Xileno             | DL50 oral         | 2100 mg/kg           | Rata     |\n| CAS: 1330-20-7     | DL50 cutánea      | 1100 mg/kg (ATEi)    | Rata     |\n|                    | CL50 inhalación   | 11 mg/L (4 h) (ATEi) |          |\n| 2-metilpropan-1-ol | DL50 oral         | 3350 mg/kg           | Rata     |\n| CAS: 78-83-1       | DL50 cutánea      | 2460 mg/kg           | Conejo   |\n|                    | CL50 inhalación   | 24,6 mg/L (4 h)      | Rata     |\n| p-xileno           | DL50 oral         | 1590 mg/kg           | Ratón    |\n| CAS: 106-42-3      | DL50 cutánea      | 1100 mg/kg (ATEi)    |          |\n|                    | CL50 inhalación   | 11 mg/L (4 h) (ATEi) |          |\n| m-xileno           | DL50 oral         | 1590 mg/kg           | Ratón    |\n| CAS: 108-38-3      | DL50 cutánea      | 1100 mg/kg (ATEi)    |          |\n|                    | CL50 inhalación   | 11 mg/L (4 h) (ATEi) |          |\n| o-xileno           | DL50 oral         | 1590 mg/kg           | Ratón    |\n| CAS: 95-47-6       | DL50 cutánea      | 1100 mg/kg (ATEi)    |          |\n|                    | CL50 inhalación   | 11 mg/L (4 h) (ATEi) |          |\n| Dioxido de titanio | DL50 oral         | 10000 mg/kg          | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg          | Conejo   |\n|                    | CL50 inhalación   | No relevante         |          |\n| 2-butoxietanol     | DL50 oral         | 1414 mg/kg           | Rata     |\n| CAS: 111-76-2      | DL50 cutánea      | 1060 mg/kg           | Conejo   |\n|                    | CL50 inhalación   | 11 mg/L (4 h)        | Rata     |\n| Etilbenceno        | DL50 oral         | 3500 mg/kg           | Rata     |\n| CAS: 100-41-4      | DL50 cutánea      | 15354 mg/kg          | Conejo   |\n|                    | CL50 inhalación   | 17,2 mg/L (4 h)      | Rata     |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.72568551697188,
+   685.2202586672821,
+   548.4636725304111,
+   771.9737136862566
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Especie                         | Género    |\n|------------------|-------------------|-------------------|---------------------------------|-----------|\n| Xileno           | CL50              | 13,5 mg/L (96 h)  | Oncorhynchus mykiss             | Pez       |\n| CAS: 1330-20-7   | CE50              | 3,4 mg/L (48 h)   | Ceriodaphnia dubia              | Crustáceo |\n|                  | CE50              | 10 mg/L (72 h)    | Skeletonema costatum            | Alga      |\n| 2-butoxietanol   | CL50              | 1490 mg/L (96 h)  | Lepomis macrochirus             | Pez       |\n| CAS: 111-76-2    | CE50              | 1815 mg/L (48 h)  | Daphnia magna                   | Crustáceo |\n|                  | CE50              | 911 mg/L (72 h)   | Pseudokirchneriella subcapitata | Alga      |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   72.73163085323053,
+   120.76083513345964,
+   547.9463977870046,
+   313.1886674329163
+  ],
+  "filas": 16,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Especie                 | Género    |\n|--------------------|-------------------|-------------------|-------------------------|-----------|\n| m-xileno           | CL50              | 16 mg/L (96 h)    | Carassius auratus       | Pez       |\n| CAS: 108-38-3      | CE50              | 9,56 mg/L (48 h)  | Daphnia magna           | Crustáceo |\n|                    | CE50              | No relevante      |                         |           |\n| 2-metilpropan-1-ol | CL50              | 2030 mg/L (96 h)  | Carassius auratus       | Pez       |\n| CAS: 78-83-1       | CE50              | 1439 mg/L (48 h)  | Daphnia magna           | Crustáceo |\n|                    | CE50              | 1250 mg/L (48 h)  | Scenedesmus subspicatus | Alga      |\n| p-xileno           | CL50              | 2,6 mg/L (96 h)   | Oncorhynchus mykiss     | Pez       |\n| CAS: 106-42-3      | CE50              | 8,5 mg/L (48 h)   | Daphnia magna           | Crustáceo |\n|                    | CE50              | No relevante      |                         |           |\n| o-xileno           | CL50              | 16,1 mg/L (96 h)  | Lepomis macrochirus     | Pez       |\n| CAS: 95-47-6       | CE50              | 1,39 mg/L (48 h)  | Daphnia magna           | Crustáceo |\n|                    | CE50              | No relevante      |                         |           |\n| Etilbenceno        | CL50              | 42,3 mg/L (96 h)  | Pimephales promelas     | Pez       |\n| CAS: 100-41-4      | CE50              | 75 mg/L (48 h)    | Daphnia magna           | Crustáceo |\n|                    | CE50              | 63 mg/L (3 h)     | Chlorella vulgaris      | Alga      |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 9,
+  "bbox_pt": [
+   71.37232880662752,
+   326.50312442589257,
+   548.1211601841051,
+   553.8311248503841
+  ],
+  "filas": 19,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|---------------------------------|------------------|------------------|---------------------|---------------------|\n| Xileno CAS: 1330-20-7           | DBO5             | No relevante     | Concentración       | No relevante        |\n| Xileno CAS: 1330-20-7           | DQO              | No relevante     | Periodo             | 28 días             |\n| Xileno CAS: 1330-20-7           | DBO5/DQO         | No relevante     | % Biodegradado      | 88 %                |\n| 2-butoxietanol CAS: 111-76-2    | DBO5             | 0.71 g O2/g      | Concentración       | 100 mg/L            |\n| 2-butoxietanol CAS: 111-76-2    | DQO              | 2.2 g O2/g       | Periodo             | 14 días             |\n| 2-butoxietanol CAS: 111-76-2    | DBO5/DQO         | 0.32             | % Biodegradado      | 96 %                |\n| 2-metilpropan-1-ol CAS: 78-83-1 | DBO5             | 0.4 g O2/g       | Concentración       | 100 mg/L            |\n| 2-metilpropan-1-ol CAS: 78-83-1 | DQO              | 2.41 g O2/g      | Periodo             | 14 días             |\n| 2-metilpropan-1-ol CAS: 78-83-1 | DBO5/DQO         | 0.17             | % Biodegradado      | 90 %                |\n| p-xileno CAS: 106-42-3          | DBO5             | No relevante     | Concentración       | No relevante        |\n| p-xileno CAS: 106-42-3          | DQO              | No relevante     | Periodo             | No relevante        |\n| p-xileno CAS: 106-42-3          | DBO5/DQO         | 0.92             | % Biodegradado      | No relevante        |\n| o-xileno CAS: 95-47-6           | DBO5             | No relevante     | Concentración       | 36 mg/L             |\n|                                 | DQO              | No relevante     | Periodo             | 28 días             |\n|                                 | DBO5/DQO         | 0.56             | % Biodegradado      | 70 %                |\n| Etilbenceno CAS:                | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| 100-41-4                        | DQO              | No relevante     | Periodo             | 14 días             |\n| 100-41-4                        | DBO5/DQO         | No relevante     | % Biodegradado      | 90 %                |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 9,
+  "bbox_pt": [
+   72.67177351266747,
+   567.5230628398251,
+   548.9336894727874,
+   762.0192463419498
+  ],
+  "filas": 16,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación - Xileno   | Potencial de bioacumulación - BCF   | Potencial de bioacumulación - 9   |\n|---------------------------|-------------------------------------|-----------------------------------|\n| CAS: 1330-20-7            | Log POW                             | 2,77                              |\n| CAS: 1330-20-7            | Potencial                           | Bajo                              |\n| 2-butoxietanol            | BCF                                 | 3                                 |\n| CAS: 111-76-2             | Log POW                             | 0,83                              |\n| CAS: 111-76-2             | Potencial                           | Bajo                              |\n| m-xileno                  | BCF                                 | 15                                |\n| CAS: 108-38-3             | Log POW                             | 3,2                               |\n| CAS: 108-38-3             | Potencial                           | Bajo                              |\n| 2-metilpropan-1-ol        | BCF                                 | 3                                 |\n| CAS: 78-83-1              | Log POW                             | 0,76                              |\n| CAS: 78-83-1              | Potencial                           | Bajo                              |\n| p-xileno                  | BCF                                 | 15                                |\n| CAS: 106-42-3             | Log POW                             | 3,15                              |\n| CAS: 106-42-3             | Potencial                           | Bajo                              |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 10,
+  "bbox_pt": [
+   71.58280895463572,
+   120.1121254688544,
+   548.3937919626941,
+   206.24658364773927
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación   | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|------------------|-------------------------------|-------------------------------|\n| o-xileno         | BCF                           | 6                             |\n| CAS: 95-47-6     | Log POW                       | 3,12                          |\n|                  | Potencial                     | Bajo                          |\n| Etilbenceno      | BCF                           | 1                             |\n| CAS: 100-41-4    | Log POW                       | 3,15                          |\n|                  | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 10,
+  "bbox_pt": [
+   72.27113407109408,
+   220.0562747199632,
+   548.0924396366402,
+   482.47504463250164
+  ],
+  "filas": 22,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad        |\n|---------------------------------|-----------------------|-----------------------|---------------|--------------------|\n| Xileno CAS: 1330-20-7           | Koc                   | 202                   | Henry         | 524,86 Pa·m³/mol   |\n| Xileno CAS: 1330-20-7           | Conclusión            | Moderado              | Suelo seco    | Sí                 |\n| Xileno CAS: 1330-20-7           | Tensión superficial   | No relevante          | Suelo húmedo  | Sí                 |\n| 2-butoxietanol CAS: 111-76-2    | Koc                   | 8                     | Henry         | 1,621E-1 Pa·m³/mol |\n| 2-butoxietanol CAS: 111-76-2    | Conclusión            | Muy Alto              | Suelo seco    | No                 |\n| 2-butoxietanol CAS: 111-76-2    | Tensión superficial   | 2,729E-2 N/m (25 ºC)  | Suelo húmedo  | Sí                 |\n| m-xileno CAS: 108-38-3          | Koc                   | 182                   | Henry         | 790,34 Pa·m³/mol   |\n| m-xileno CAS: 108-38-3          | Conclusión            | Moderado              | Suelo seco    | Sí                 |\n| m-xileno CAS: 108-38-3          | Tensión superficial   | 2,826E-2 N/m (25 ºC)  | Suelo húmedo  | Sí                 |\n| 2-metilpropan-1-ol CAS: 78-83-1 | Koc                   | No relevante          | Henry         | No relevante       |\n| 2-metilpropan-1-ol CAS: 78-83-1 | Conclusión            | No relevante          | Suelo seco    | No relevante       |\n| 2-metilpropan-1-ol CAS: 78-83-1 | Tensión superficial   | 2,378E-2 N/m (25 ºC)  | Suelo húmedo  | No relevante       |\n| p-xileno CAS: 106-42-3          | Koc                   | 540                   | Henry         | 699,14 Pa·m³/mol   |\n| p-xileno CAS: 106-42-3          | Conclusión            | Bajo                  | Suelo seco    | Sí                 |\n| p-xileno CAS: 106-42-3          | Tensión superficial   | 2,792E-2 N/m (25 ºC)  | Suelo húmedo  | Sí                 |\n| o-xileno CAS:                   | Koc                   | 537                   | Henry         | 524,86 Pa·m³/mol   |\n| 95-47-6                         | Conclusión            | Bajo                  | Suelo seco    | Sí                 |\n| 95-47-6                         | Tensión superficial   | 2,96E-2 N/m (25 ºC)   | Suelo húmedo  | Sí                 |\n| Etilbenceno CAS:                | Koc                   | 520                   | Henry         | 798,44 Pa·m³/mol   |\n| 100-41-4                        | Conclusión            | Moderado              | Suelo seco    | Sí                 |\n| 100-41-4                        | Tensión superficial   | 2,859E-2 N/m (25 ºC)  | Suelo húmedo  | Sí                 |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 13,
+  "bbox_pt": [
+   36.467419698830426,
+   100.07598847015458,
+   559.1925348760618,
+   242.20184684989
+  ],
+  "filas": 2,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico |"
+ }
+]

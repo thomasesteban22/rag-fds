@@ -1,0 +1,57 @@
+{
+  "fecha": "2026-11-16T16:29:04",
+  "equipo": {
+    "so": "Windows-11-10.0.26300-SP0",
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13420H",
+    "nucleos_fisicos": 8,
+    "hilos": 12,
+    "ram_gb": 15.6,
+    "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU, 6144 MiB, 4132 MiB, 617.42"
+  },
+  "ollama": {
+    "version": "0.40.16",
+    "modelos_cargados": [
+      {
+        "modelo": "llama3.2:latest",
+        "vram_mb": 2974,
+        "total_mb": 2974
+      },
+      {
+        "modelo": "bge-m3:latest",
+        "vram_mb": 657,
+        "total_mb": 657
+      }
+    ]
+  },
+  "extraccion": {
+    "documentos": 101,
+    "paginas": 1134,
+    "minutos_total": 64.0,
+    "segundos_por_pagina": 3.38,
+    "segundos_docling_total": 2804.1,
+    "segundos_imagenes_ocr_total": 1033.8,
+    "ram_proceso_max_mb": 1789
+  },
+  "consultas_rag": {
+    "respuestas_k3": {
+      "preguntas": 12,
+      "recuperacion_s_mediana": 0.02,
+      "generacion_s_mediana": 1.23,
+      "generacion_s_max": 3.74
+    },
+    "respuestas_k6": {
+      "preguntas": 12,
+      "recuperacion_s_mediana": 0.02,
+      "generacion_s_mediana": 1.56,
+      "generacion_s_max": 5.27
+    }
+  },
+  "disco": {
+    "pdf_originales_mb": 40.6,
+    "markdown_e_imagenes_mb": 16.4,
+    "docling_json_mb": 4.3,
+    "indice_chroma_mb": 68.6,
+    "entorno_python_mb": 1525.3,
+    "disco_libre_gb": 4.6
+  }
+}

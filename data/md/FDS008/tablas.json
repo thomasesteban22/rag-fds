@@ -1,0 +1,212 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.8212301195388,
+   206.24383810953964,
+   547.775537969602,
+   314.1812710100115
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación    | Concentración   |\n|------------------|------------------|---------------------------------|-----------------|\n| CAS:             | 108-88-3         | Tolueno                         | 25 - <50 %      |\n| CAS:             | 1344-37-2        | Amarillo sulfocromato de plomo  | 2.5 - <10 %     |\n| CAS:             | 141-78-6         | Acetato de etilo                | 1 - <2.5 %      |\n| CAS:             | 136-52-7         | Bis(2-etilhexanoato) de cobalto | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   71.90345313462636,
+   326.82056965372624,
+   548.6427033740563,
+   377.5659556191777
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación   | Valores límite ambientales   | Valores límite ambientales   |\n|------------------|------------------------------|------------------------------|\n| Tolueno          | TLV-TWA                      | 20 ppm                       |\n| CAS: 108-88-3    | TLV-STEL                     |                              |\n| Acetato de etilo | TLV-TWA                      | 150 ppm                      |\n| CAS: 141-78-6    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   83.35458236899153,
+   553.0461449731387,
+   548.4685507550336,
+   630.8543924899792
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                        | EPP                                     | Observaciones                                                                                                                                                                                                      |\n|---------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del las vias respiratorias | Máscara con filtro para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.8253421624715,
+   641.937886153921,
+   548.7290479498743,
+   716.1449027322873
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                           | Observaciones                                                                                                                                                                                       |\n|------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras despues del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   85.7606751973197,
+   120.02197267147255,
+   548.8938099864986,
+   188.08550433596065
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                        |\n|-----------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.06103663399716,
+   200.86755571306458,
+   548.2729949254798,
+   333.39174078064684
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                   | EPP                                                                                              | Observaciones                                                                                      |\n|----------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del cuerpo Proteccion | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| obligatoria de los pies                      | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   86.57611617632361,
+   346.5503122158458,
+   548.1712229642933,
+   403.6799591687852
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   72.78568767982843,
+   585.5345255727156,
+   547.8834077115667,
+   607.6293357519298
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.87319083399422,
+   625.930422258898,
+   547.7663303206272,
+   648.9183865204219
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   72.44152893271223,
+   637.0586376895134,
+   548.3692179061583,
+   760.1586256100616
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                 | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------------------|-------------------|-------------------|----------|\n| Tolueno                        | DL50 oral         | 5580 mg/kg        | Rata     |\n| CAS: 108-88-3                  | DL50 cutánea      | 12124 mg/kg       | Rata     |\n|                                | CL50 inhalación   | 28,1 mg/L (4 h)   | Rata     |\n| Acetato de etilo               | DL50 oral         | 4100 mg/kg        | Rata     |\n| CAS: 141-78-6                  | DL50 cutánea      | 20000 mg/kg       | Conejo   |\n|                                | CL50 inhalación   | No relevante      |          |\n| Amarillo sulfocromato de plomo | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 1344-37-2                 | DL50 cutánea      | No relevante      |          |\n|                                | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   72.64300723184677,
+   149.65251493259166,
+   548.2460427344406,
+   305.7636034199404
+  ],
+  "filas": 13,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Toxicidad aguda   | Toxicidad aguda     | Especie                 | Género    |\n|---------------------------------|-------------------|---------------------|-------------------------|-----------|\n| Tolueno                         | CL50              | 13 mg/L (96 h)      | Carassius auratus       | Pez       |\n| CAS: 108-88-3                   | CE50              | 11,5 mg/L (48 h)    | Daphnia magna           | Crustáceo |\n|                                 | CE50              | 125 mg/L (48 h)     | Scenedesmus subspicatus | Alga      |\n| Amarillo sulfocromato de plomo  | CL50              | 0,1 - 1 mg/L (96 h) |                         | Pez       |\n| CAS: 1344-37-2                  | CE50              | 0,1 - 1 mg/L        |                         | Crustáceo |\n|                                 | CE50              | 0,1 - 1 mg/L        |                         | Alga      |\n| Acetato de etilo                | CL50              | 230 mg/L (96 h)     | Pimephales promelas     | Pez       |\n| CAS: 141-78-6                   | CE50              | 717 mg/L (48 h)     | Daphnia magna           | Crustáceo |\n|                                 | CE50              | 3300 mg/L (48 h)    | Scenedesmus subspicatus | Alga      |\n| Bis(2-etilhexanoato) de cobalto | CL50              | 0,1 - 1 mg/L (96 h) |                         | Pez       |\n| CAS: 136-52-7                   | CE50              | 0,1 - 1 mg/L        |                         | Crustáceo |\n|                                 | CE50              | 0,1 - 1 mg/L        |                         | Alga      |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.52211110569488,
+   319.37747660657294,
+   547.8409671573512,
+   404.3495959356675
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|------------------|------------------|------------------|---------------------|---------------------|\n| Tolueno          | DBO5             | 2.5 g O2/g       | Concentración       | 100 mg/L            |\n| CAS: 108-88-3    | DQO              | No relevante     | Periodo             | 14 días             |\n|                  | DBO5/DQO         | No relevante     | % Biodegradado      | 100 %               |\n| Acetato de etilo | DBO5             | 1.36 g O2/g      | Concentración       | 100 mg/L            |\n| CAS: 141-78-6    | DQO              | 1.69 g O2/g      | Periodo             | 14 días             |\n|                  | DBO5/DQO         | 0.81             | % Biodegradado      | 83 %                |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.70394692849794,
+   418.96247895519406,
+   548.0304861839346,
+   503.69067246824426
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación   | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|------------------|-------------------------------|-------------------------------|\n| Tolueno          | BCF                           | 13                            |\n| CAS: 108-88-3    | Log POW                       | 2,73                          |\n|                  | Potencial                     | Bajo                          |\n| Acetato de etilo | BCF                           | 30                            |\n| CAS: 141-78-6    | Log POW                       | 0,73                          |\n|                  | Potencial                     | Moderado                      |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.47785646169778,
+   518.2103902248645,
+   547.8941398057362,
+   602.3808429056561
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Tolueno   | Absorción/Desorción - Koc   | Absorción/Desorción - 178   | Volatilidad - Henry   | Volatilidad - 672,8 Pa·m³/mol   |\n|----------------------------|-----------------------------|-----------------------------|-----------------------|---------------------------------|\n| CAS: 108-88-3              | Conclusión                  | Moderado                    | Suelo seco            | Sí                              |\n|                            | Tensión superficial         | 2,793E-2 N/m (25 ºC)        | Suelo húmedo          | Sí                              |\n| Acetato de etilo           | Koc                         | 59                          | Henry                 | 13,58 Pa·m³/mol                 |\n| CAS: 141-78-6              | Conclusión                  | Muy Alto                    | Suelo seco            | Sí                              |\n|                            | Tensión superficial         | 2,324E-2 N/m (25 ºC)        | Suelo húmedo          | Sí                              |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 11,
+  "bbox_pt": [
+   36.380232867042494,
+   99.4072592561771,
+   558.8253874954122,
+   302.18680777144266
+  ],
+  "filas": 2,
+  "columnas": 1,
+  "seccion": 16,
+  "markdown": "| SECCIÓN 16: OTRAS INFORMACIONES (continúa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) IARC:Agencia Internacional para la Investigación sobre Cáncer OSHA:Occupational Safety and Health Administration, U.S Department of Labor NTP:National Toxicology Program TOXNET: Toxicology data network Abreviaturas y acrónimos: IMDG: Código Marítimo Internacional de Mercancías Peligrosas IATA: Asociación Internacional de Transporte Aéreo OACI: Organización de Aviación Civil Internacional DQO:Demanda Quimica de oxígeno DBO5:Demanda biológica de oxígeno a los 5 días BCF: factor de bioconcentración DL50: dosis letal 50 CL50: concentración letal 50 EC50: concentración efectiva 50 Log POW: logaritmo coeficiente partición octanol-agua Koc: coeficiente de partición del carbono orgánico |"
+ }
+]

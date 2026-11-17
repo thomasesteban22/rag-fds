@@ -1,0 +1,44 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   29.03672218322754,
+   447.3960266113281,
+   586.4219360351562,
+   527.1265258789062
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| Nombre del producto o ingrediente Identificadores   | %          |\n|-----------------------------------------------------|------------|\n| Homopolimero Hexametileno-1,6-diisocianato          | 90% - 100% |\n| CAS: 28182-81-2                                     |            |\n| 1,6-diisocianato de hexametileno                    | 0,1% - 1%  |\n| CAS: 822-06-0                                       |            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   29.266115188598633,
+   657.9539184570312,
+   583.0123291015625,
+   696.8938598632812
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Componentes                      | Tipo de valor - Parámetros de control   |\n|----------------------------------|-----------------------------------------|\n| 1,6-diisocianato de hexametileno | TWA: 0,005 ppm Base: ACGIH              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   29.025196075439453,
+   473.89617919921875,
+   586.7984008789062,
+   698.6775512695312
+  ],
+  "filas": 8,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                               | ADR/RID-ADN                                                                     | IMDG                                                                            | IATA                                                                            |\n|---------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|\n| 14.1 Número ONU                                               | UN3082                                                                          | UN3082                                                                          | UN3082                                                                          |\n| 14.2 Designación oficial de transporte de las Naciones Unidas | Sustancia líquida peligrosa para el medio ambiente, n.e.p Contiene: Isocianatos | Sustancia líquida peligrosa para el medio ambiente, n.e.p Contiene: Isocianatos | Sustancia líquida peligrosa para el medio ambiente, n.e.p Contiene: Isocianatos |\n| 14.3 Clase(s) de peligro para el transporte                   | 9                                                                               | 9                                                                               | 9                                                                               |\n| 14.4 Grupo de embalaje                                        | III                                                                             | III                                                                             | III                                                                             |\n| 14.5 Peligros para el medio ambiente                          |                                                                                 |                                                                                 |                                                                                 |\n| 14.6 Información adicional                                    |                                                                                 | Emergency schedules (EmS) F-A, S-F                                              | -                                                                               |\n| Código de clasificación                                       |                                                                                 |                                                                                 |                                                                                 |"
+ }
+]

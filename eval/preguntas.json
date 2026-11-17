@@ -1,0 +1,152 @@
+[
+  {
+    "id": "P01",
+    "tipo": "directa",
+    "respondible": true,
+    "secciones": [9],
+    "pregunta": "¿Cuál es el punto de inflamación del Esmalte Uretano Part A de Sika?",
+    "referencia": "Según la FDS del Esmalte Uretano Part A de Sika (versión 4.0, fecha de revisión 2023/09/30), el punto de inflamación es 36 °C.",
+    "evidencias": [
+      {"doc_id": "FDS069", "fabricante": "Sika", "producto": "Esmalte Uretano Part A", "version": "4.0 (2023/09/30)", "pagina": 7, "seccion": 9,
+       "texto": "Punto de inflamación : 36 °C (36 °C)"}
+    ]
+  },
+  {
+    "id": "P02",
+    "tipo": "directa",
+    "respondible": true,
+    "secciones": [3],
+    "pregunta": "¿Qué sustancias y números CAS declara la hoja de seguridad de la Pintura Antideslizante para Canchas Deportivas de Tecnidecor?",
+    "referencia": "La hoja de seguridad de Tecnidecor (fecha de actualización octubre de 2018) declara tres sustancias: nivelador de pH (CAS 7664-41-7, número ONU 1005), resina acrílica (CAS 9002-89-5) y cargas inertes (CAS 13463-67-7).",
+    "evidencias": [
+      {"doc_id": "FDS001", "fabricante": "Tecnidecor", "producto": "PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS", "version": "sin número de versión (actualización octubre de 2018)", "pagina": 1, "seccion": 3,
+       "texto": "2. COMPOSICION, INFORMACION SOBRE INGREDIENTES | 1 NIVELADOR DE PH 7664-41-7 1005 | 2 RESINA ACRILICA 9002-89-5 N/A | 3 CARGAS INERTES 13463-67-7 N/A",
+       "nota": "En el documento es la sección 2 (orden ANSI); corresponde a la sección 3 canónica del SGA."}
+    ]
+  },
+  {
+    "id": "P03",
+    "tipo": "directa",
+    "respondible": true,
+    "secciones": [14],
+    "pregunta": "¿Cuál es el número ONU, la clase y el grupo de embalaje para el transporte del Tufcote 3.5 HH - Aluminum de Axalta?",
+    "referencia": "Para el Tufcote 3.5 HH - Aluminum (Axalta, versión 2, fecha de emisión 2/28/2020) el número ONU es UN1263, con designación oficial PINTURA, clase 3 y grupo de embalaje II; es igual en las clasificaciones DOT, TDG, México, IMDG e IATA, y no indica riesgos ambientales.",
+    "evidencias": [
+      {"doc_id": "FDS023", "fabricante": "Axalta", "producto": "Tufcote 3.5 HH - Aluminum", "version": "2 (2/28/2020)", "pagina": 12, "seccion": 14,
+       "texto": "Número ONU UN1263 | Designación oficial de transporte PINTURA | Clase(s) relativas al transporte 3 | Grupo de embalaje II | Riesgos ambientales No.",
+       "nota": "Tabla con columnas Clasificación DOT, TDG, México, IMDG e IATA; los valores son iguales en las cinco."}
+    ]
+  },
+  {
+    "id": "P04",
+    "tipo": "directa",
+    "respondible": true,
+    "secciones": [4],
+    "pregunta": "¿Qué primeros auxilios indica la FDS del Sikafloor-161 Part A en caso de contacto con la piel?",
+    "referencia": "En caso de contacto con la piel, la FDS del Sikafloor-161 Part A (Sika, versión 2.0, fecha de revisión 2023/05/05) indica quitarse inmediatamente la ropa y los zapatos contaminados, eliminar el producto lavando con jabón y mucha agua, y llamar a un médico si persisten los síntomas.",
+    "evidencias": [
+      {"doc_id": "FDS073", "fabricante": "Sika", "producto": "Sikafloor®-161 Part A", "version": "2.0 (2023/05/05)", "pagina": 3, "seccion": 4,
+       "texto": "En caso de contacto con la piel : Quítese inmediatamente la ropa y zapatos contaminados. Elimínelo lavando con jabón y mucha agua. Si persisten los síntomas, llame a un médico."}
+    ]
+  },
+  {
+    "id": "P05",
+    "tipo": "directa",
+    "respondible": true,
+    "secciones": [7],
+    "pregunta": "¿A qué temperaturas y por cuánto tiempo máximo se debe almacenar el KORAZA PRO 550 BLANCO de Pintuco?",
+    "referencia": "La FDS del KORAZA PRO 550 BLANCO (Pintuco, versión 1, emisión 16/05/2018) indica como medidas técnicas de almacenamiento una temperatura mínima de 5 ºC, una temperatura máxima de 30 ºC y un tiempo máximo de 18 meses.",
+    "evidencias": [
+      {"doc_id": "FDS005", "fabricante": "Pintuco", "producto": "KORAZA PRO 550 BLANCO", "version": "1 (emisión 16/05/2018)", "pagina": 3, "seccion": 7,
+       "texto": "7.2 Condiciones de almacenamiento seguro... A.- Medidas técnicas de almacenamiento: Tª mínima: 5 ºC; Tª máxima: 30 ºC; Tiempo máximo: 18 meses"}
+    ]
+  },
+  {
+    "id": "P06",
+    "tipo": "directa",
+    "respondible": true,
+    "secciones": [8],
+    "pregunta": "¿Qué protección respiratoria recomienda la FDS de la Pintura Lavable Antibacterial de Corona?",
+    "referencia": "La FDS de la Pintura Lavable Antibacterial de Corona (versión 2, revisión 10/09/2020) recomienda una máscara autofiltrante para gases y vapores, que se debe reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o del adaptador facial; cuando el contaminante no tiene buenas propiedades de aviso recomienda usar equipos aislantes.",
+    "evidencias": [
+      {"doc_id": "FDS042", "fabricante": "Corona", "producto": "PINTURA LAVABLE ANTIBACTERIAL", "version": "2 (revisión 10/09/2020)", "pagina": 4, "seccion": 8,
+       "texto": "B.- Protección respiratoria. EPP: Máscara autofiltrante para gases y vapores. Observaciones: Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes."}
+    ]
+  },
+  {
+    "id": "P07",
+    "tipo": "integradora: compara versiones",
+    "respondible": true,
+    "secciones": [2],
+    "pregunta": "¿Cómo cambiaron las indicaciones de peligro de la Pintura Primera Mano & Acabado de Corona entre la ficha de 2019 y la de 2021?",
+    "referencia": "En la versión 1 de la ficha (emisión 05/06/2019) las indicaciones de peligro son H351 - Susceptible de provocar cáncer (Carc. 2) y H317 - Puede provocar una reacción cutánea alérgica (Sens. Cut. 1). En la versión 3 (revisión 24/11/2021) solo aparece H351 - Susceptible de provocar cáncer (Inhalación); la H317 ya no figura.",
+    "evidencias": [
+      {"doc_id": "FDS029", "fabricante": "Corona", "producto": "PINTURA PRIMERA MANO & ACABADO", "version": "1 (emisión 05/06/2019)", "pagina": 1, "seccion": 2,
+       "texto": "Indicaciones de peligro: Carc. 2: H351 - Susceptible de provocar cáncer; Sens. Cut. 1: H317 - Puede provocar una reacción cutánea alérgica"},
+      {"doc_id": "FDS043", "fabricante": "Corona", "producto": "PINTURA PRIMERA MANO & ACABADO", "version": "3 (revisión 24/11/2021)", "pagina": 1, "seccion": 2,
+       "texto": "Indicaciones de peligro: Carc. 2: H351 - Susceptible de provocar cáncer (Inhalación)."}
+    ]
+  },
+  {
+    "id": "P08",
+    "tipo": "integradora: compara productos",
+    "respondible": true,
+    "secciones": [9],
+    "pregunta": "Compara el punto de inflamación del TOPCOAT 400 1793 BLANCO y del TOPCOAT 400 1772 NEGRO de International.",
+    "referencia": "Las dos fichas son de AkzoNobel (marca International), versión 1 del 2-5-2024. El TOPCOAT 400 1793 BLANCO tiene un punto de inflamación en vaso cerrado de 49 °C (120.2 °F) y el TOPCOAT 400 1772 NEGRO de 56 °C (132.8 °F); el blanco tiene el punto de inflamación más bajo.",
+    "evidencias": [
+      {"doc_id": "FDS080", "fabricante": "AkzoNobel", "producto": "TOPCOAT 400 1793 BLANCO", "version": "1 (2-5-2024)", "pagina": 8, "seccion": 9,
+       "texto": "Punto de inflamación : Vaso cerrado: 49°C (120.2°F)"},
+      {"doc_id": "FDS081", "fabricante": "AkzoNobel", "producto": "TOPCOAT 400 1772 NEGRO", "version": "1 (2-5-2024)", "pagina": 8, "seccion": 9,
+       "texto": "Punto de inflamación : Vaso cerrado: 56°C (132.8°F)"}
+    ]
+  },
+  {
+    "id": "P09",
+    "tipo": "integradora: dos secciones",
+    "respondible": true,
+    "secciones": [2, 14],
+    "pregunta": "¿Qué indicación de peligro ambiental tiene el EPOXY ZINC PRIMER 10056 y cómo se clasifica para el transporte?",
+    "referencia": "El EPOXY ZINC PRIMER 10056 (AkzoNobel/International, versión 1, 13-11-2024) tiene la indicación H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos (peligro acuático agudo y crónico, categoría 1). Para el transporte se clasifica como UN3077, SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), óxido de cinc), clase 9, grupo de embalaje III.",
+    "evidencias": [
+      {"doc_id": "FDS083", "fabricante": "AkzoNobel", "producto": "EPOXY ZINC PRIMER 10056", "version": "1 (13-11-2024)", "pagina": 1, "seccion": 2,
+       "texto": "Clasificación: PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 1; PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 1. Indicaciones de peligro: H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos."},
+      {"doc_id": "FDS083", "fabricante": "AkzoNobel", "producto": "EPOXY ZINC PRIMER 10056", "version": "1 (13-11-2024)", "pagina": 10, "seccion": 14,
+       "texto": "Número ONU UN3077 | SUSTANCIA SÓLIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (cinc en polvo (estabilizado), óxido de cinc) | Clase 9 | Grupo de embalaje III"}
+    ]
+  },
+  {
+    "id": "P10",
+    "tipo": "integradora: compara productos de dos fabricantes",
+    "respondible": true,
+    "secciones": [14],
+    "pregunta": "Compara el número ONU y la clase de transporte del ESMALTE TOP QUALITY NEGRO 1772 de Pintuco y de la PINTURA EXTERIORES de Corona en su versión de 2025.",
+    "referencia": "El ESMALTE TOP QUALITY NEGRO 1772 de Pintuco (versión 3, revisión 28/01/2019) se transporta como UN1263, PINTURA, clase 3, grupo de embalaje III. La PINTURA EXTERIORES de Corona (versión 9, revisión 09/09/2025) se transporta como UN3082, SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P., clase 9, grupo de embalaje III.",
+    "evidencias": [
+      {"doc_id": "FDS035", "fabricante": "Pintuco", "producto": "ESMALTE TOP QUALITY NEGRO 1772", "version": "3 (revisión 28/01/2019)", "pagina": 8, "seccion": 14,
+       "texto": "14.1 Número ONU: UN1263; 14.2 Designación oficial: PINTURA; 14.3 Clase: 3; 14.4 Grupo de embalaje: III"},
+      {"doc_id": "FDS091", "fabricante": "Corona", "producto": "PINTURA EXTERIORES", "version": "9 (revisión 09/09/2025)", "pagina": 9, "seccion": 14,
+       "texto": "14.1 Número ONU: UN3082; 14.2 Designación oficial: SUSTANCIA LIQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (1,2-bencisotiazol-3(2H)-ona; Piritionato cincico); 14.3 Clase: 9; 14.4 Grupo de embalaje: III"}
+    ]
+  },
+  {
+    "id": "P11",
+    "tipo": "sin respuesta en el corpus",
+    "respondible": false,
+    "secciones": [],
+    "pregunta": "¿Cuál es el tiempo de secado al tacto del VINILTEX PRO 650 BLANCO de Pintuco?",
+    "referencia": null,
+    "esperado": "Reconocer que no hay evidencia suficiente en las FDS.",
+    "verificacion": "El producto sí está en el corpus (FDS045), pero ninguna de las 101 FDS menciona 'tiempo de secado' ni 'secado al tacto' (búsqueda en la capa de texto de todas las páginas). Es un dato de ficha técnica, no de FDS."
+  },
+  {
+    "id": "P12",
+    "tipo": "sin respuesta en el corpus",
+    "respondible": false,
+    "secciones": [],
+    "pregunta": "¿Cuál es el punto de inflamación de la pintura ProMar 200 de Sherwin-Williams?",
+    "referencia": null,
+    "esperado": "Reconocer que no hay evidencia suficiente en las FDS y no usar datos de otros productos.",
+    "verificacion": "Ninguna de las 101 FDS menciona Sherwin-Williams ni ProMar (búsqueda en la capa de texto de todas las páginas)."
+  }
+]

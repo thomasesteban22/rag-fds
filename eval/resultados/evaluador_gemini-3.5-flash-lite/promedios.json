@@ -1,0 +1,38 @@
+{
+  "k3|faithfulness": {
+    "promedio": 0.88,
+    "validos": 10,
+    "fallos": 0,
+    "sin_evaluar": 0
+  },
+  "k3|context_precision": {
+    "promedio": 0.533,
+    "validos": 10,
+    "fallos": 0,
+    "sin_evaluar": 0
+  },
+  "k3|context_recall": {
+    "promedio": 0.975,
+    "validos": 10,
+    "fallos": 0,
+    "sin_evaluar": 0
+  },
+  "k6|faithfulness": {
+    "promedio": 0.75,
+    "validos": 10,
+    "fallos": 0,
+    "sin_evaluar": 0
+  },
+  "k6|context_precision": {
+    "promedio": 0.533,
+    "validos": 10,
+    "fallos": 0,
+    "sin_evaluar": 0
+  },
+  "k6|context_recall": {
+    "promedio": 1.0,
+    "validos": 10,
+    "fallos": 0,
+    "sin_evaluar": 0
+  }
+}

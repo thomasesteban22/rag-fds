@@ -1,0 +1,226 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.84465321995269,
+   135.19303123347265,
+   547.8522480517906,
+   270.018953503679
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación   | Concentración   |\n|------------------|------------------|--------------------------------|-----------------|\n| CAS:             | 13463-67-7       | Dióxido de titanio             | 10 - <25 %      |\n| CAS:             | 14464-46-1       | Cristobalita                   | <1 %            |\n| CAS:             | 108-05-4         | Acetato de vinilo              | <1 %            |\n| CAS:             | 75-07-0          | Acetaldehído                   | <1 %            |\n| CAS:             | 14808-60-7       | Cuarzo (1 % < RCS < 10 %)      | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   81.23511572613813,
+   253.4996907822706,
+   548.9758251379641,
+   344.58478141875275
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Dióxido de titanio CAS: 13463-67-7   | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales   | Valores límite ambientales - 15 mg/m³   |\n|-------------------------------------------------------|-----------------------------------------------|------------------------------|-----------------------------------------|\n|                                                       | Ceiling Values - TWA PEL                      |                              |                                         |\n| Cristobalita                                          | 8-hour TWA PEL                                |                              | 0,5 mg/m³                               |\n| CAS: 14464-46-1                                       | Ceiling Values - TWA PEL                      |                              |                                         |\n| Acetaldehído                                          | 8-hour TWA PEL                                | 200 ppm                      | 360 mg/m³                               |\n| CAS: 75-07-0                                          | Ceiling Values - TWA PEL                      |                              |                                         |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   81.01517639569789,
+   361.1714928619312,
+   548.8171608821178,
+   430.56442174916026
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Dióxido de titanio   | Valores límite ambientales - TLV-TWA   | Valores límite ambientales   | Valores límite ambientales - 10 mg/m³   |\n|---------------------------------------|----------------------------------------|------------------------------|-----------------------------------------|\n| CAS: 13463-67-7                       | TLV-STEL                               |                              |                                         |\n| Acetato de vinilo                     | TLV-TWA                                | 10 ppm                       |                                         |\n| CAS: 108-05-4                         | TLV-STEL                               | 15 ppm                       |                                         |\n| Cuarzo (1 % < RCS < 10 %)             | TLV-TWA                                |                              | 0,025 mg/m³                             |\n| CAS: 14808-60-7                       | TLV-STEL                               |                              |                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.6161425484267,
+   574.2928278965168,
+   548.6641675623952,
+   649.2630430824116
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                     | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara con filtro para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   85.94718344464398,
+   662.3067900089073,
+   548.3612907911468,
+   735.1540940469121
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPP                           | Observaciones                                                                                                                                                                                                                                         |\n|-------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.71190819554681,
+   120.7385352620829,
+   548.5542855527738,
+   187.67766988940025
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas de seguridad | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.9703778782787,
+   200.5934137238346,
+   548.4463548330014,
+   333.46446703695625
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                                                             | EPP                                            | Observaciones                                                                                                                                       |\n|----------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo Protección obligatoria de pies  <!-- image -->  Icon | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| los                                                                                    | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.71121250946251,
+   346.56904288756306,
+   548.0445110797243,
+   403.37453329706983
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.70779615261411,
+   605.867615407187,
+   547.8974326073563,
+   628.5982312214685
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar   | Humedad      |\n|---------------------|------------------------|-----------------|-------------|--------------|\n| No aplicable        | No aplicable           | Precaución      | Precaución  | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   73.01052047934309,
+   646.7396494291401,
+   547.6996205989147,
+   669.2972963368467
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   65.50236874061943,
+   120.72628711111474,
+   549.5443822177145,
+   208.2933213635805
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------|-------------------|-------------------|----------|\n| Dióxido de titanio | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |\n| Acetato de vinilo  | DL50 oral         | 2920 mg/kg        | Rata     |\n| CAS: 108-05-4      | DL50 cutánea      | 2340 mg/kg        | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.89756671265468,
+   273.7070959791605,
+   548.1135989359402,
+   357.73240120713325
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación    | Toxicidad aguda   | Toxicidad aguda   | Especie                         | Género    |\n|-------------------|-------------------|-------------------|---------------------------------|-----------|\n| Acetato de vinilo | CL50              | 31,1 mg/L (96 h)  | Lebistes reticulatus            | Pez       |\n| CAS: 108-05-4     | CE50              | 12,6 mg/L (48 h)  | Daphnia magna                   | Crustáceo |\n|                   | CE50              | 12,7 mg/L (72 h)  | Pseudokirchneriella subcapitata | Alga      |\n| Acetaldehído      | CL50              | 37,3 mg/L (96 h)  | Pimephales promelas             | Pez       |\n| CAS: 75-07-0      | CE50              | 42 mg/L (48 h)    | Daphnia magna                   | Crustáceo |\n|                   | CE50              | 237 mg/L (120 h)  | Nitzschia linearis              | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.13304220314795,
+   372.9067467884779,
+   547.8591385440699,
+   457.2506564715242
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación    | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|-------------------|------------------|------------------|---------------------|---------------------|\n| Acetato de vinilo | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 108-05-4     | DQO              | No relevante     | Periodo             | 14 días             |\n|                   | DBO5/DQO         | No relevante     | % Biodegradado      | 98 %                |\n| Acetaldehído      | DBO5             | No relevante     | Concentración       | 100 mg/L            |\n| CAS: 75-07-0      | DQO              | No relevante     | Periodo             | 14 días             |\n|                   | DBO5/DQO         | No relevante     | % Biodegradado      | 80 %                |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.84664262093155,
+   472.067899051041,
+   547.8246860826736,
+   556.4521376396415
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación    | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|-------------------|-------------------------------|-------------------------------|\n| Acetato de vinilo | BCF                           | 3                             |\n| CAS: 108-05-4     | Log POW                       | 0,73                          |\n|                   | Potencial                     | Bajo                          |\n| Acetaldehído      | BCF                           | 1                             |\n| CAS: 75-07-0      | Log POW                       | -0,34                         |\n|                   | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 8,
+  "bbox_pt": [
+   72.98830169063287,
+   571.1082476328218,
+   547.83962564558,
+   655.4703998919053
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación    | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad    |\n|-------------------|-----------------------|-----------------------|---------------|----------------|\n| Acetato de vinilo | Koc                   | 24                    | Henry         | 56,1 Pa·m³/mol |\n| CAS: 108-05-4     | Conclusión            | Muy Alto              | Suelo seco    | Sí             |\n|                   | Tensión superficial   | 2,399E-2 N/m (25 ºC)  | Suelo húmedo  | Sí             |\n| Acetaldehído      | Koc                   | No relevante          | Henry         | No relevante   |\n| CAS: 75-07-0      | Conclusión            | No relevante          | Suelo seco    | No relevante   |\n|                   | Tensión superficial   | 1,953E-2 N/m (25 ºC)  | Suelo húmedo  | No relevante   |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 8,
+  "bbox_pt": [
+   35.63373492196103,
+   728.7422861594881,
+   559.4721791025456,
+   769.7941834394948
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 12,
+  "markdown": "|      | SECCIÓN 13: INFORMACIÓN RELATIVA A LA ELIMINACIÓN DE LOS PRODUCTOS   |\n|------|----------------------------------------------------------------------|\n| 13.1 | Métodos de eliminación:                                              |"
+ }
+]

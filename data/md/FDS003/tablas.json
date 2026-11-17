@@ -1,0 +1,58 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   56.073753356933594,
+   271.55908203125,
+   431.5427551269531,
+   326.7891845703125
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| COMPONENTE            | NUMERO CAS    | %        |\n|-----------------------|---------------|----------|\n| POLIOL ACRILICO       | NO DISPONIBLE | 36 AL 50 |\n| HIDOCARBURO AROMATICO | 123-86-4      | 20 AL 25 |\n| ESTER                 | 1330-20-7     | 20 AL 23 |\n| ADITIVOS              | NO DISPONIBLE | 1        |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   55.90055847167969,
+   33.93716812133789,
+   555.31787109375,
+   82.54867553710938
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| 100   | HOJA DE SEGURIDAD ESMALTE POLIURETANO   | 2 0 3 Página 4 de 4   |\n|-------|-----------------------------------------|-----------------------|"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   56.393775939941406,
+   96.14903259277344,
+   554.991943359375,
+   197.252197265625
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Mutagenicidad de células reproductoras:                       | No se espera que perjudicial para la fertilidad.                                                                                                                 |\n|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Carcinogenicidad:                                             | No está clasificado como cancerígeno                                                                                                                             |\n| Toxicidad reproductiva:                                       | No está clasificado como tóxico para el desarrollo.                                                                                                              |\n| Toxicidad específica en órganos:                              | La aspiración a los pulmones cuando se traga vómito puede causar neumonía química que puede ser fatal                                                            |\n| Particulares-exposición única:                                | Alta concentración puede causar depresión del sistema nervioso central de ocasionando dolores de cabeza, mareos y nauseas                                        |\n| Particulares-exposiciones repetitivas: Peligro de Inhalación: | Riñón: causa efectos renales en ratas macho que no son relevantes en humanos La inhalación de vapores o nieblas puede causar irritación al sistema respiratorio. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   56.551544189453125,
+   241.903076171875,
+   555.9734497070312,
+   301.62298583984375
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 12,
+  "markdown": "| Ecotoxicidad:                | Estable.                                                                                |\n|------------------------------|-----------------------------------------------------------------------------------------|\n| Persistencia/degradabilidad: | Es degradable en el mediano plazo.                                                      |\n| Potencial bioacumulativo:    | Contiene componentes con el potencial de bioacumulación                                 |\n| Movilidad en el suelo:       | Grandes cantidades pueden penetrar el suelo y contaminar aguas subterráneas.            |\n| Otros efectos adversos:      | Puede formar película en la superficie del agua afectando la transferencia de oxígeno y |"
+ }
+]

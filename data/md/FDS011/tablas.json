@@ -1,0 +1,226 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   67.0806651889878,
+   722.4787127004156,
+   537.9492520284973,
+   767.8091831901351
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 3,
+  "markdown": "| Identificación                                                 | Nombre químico/clasificación   | Nombre químico/clasificación                                     | Nombre químico/clasificación   | Concentración   |\n|----------------------------------------------------------------|--------------------------------|------------------------------------------------------------------|--------------------------------|-----------------|\n| CAS: 1305-62-0                                                 | Dihidróxido de calcio          | Dihidróxido de calcio                                            | Autoclasificada                |                 |\n| CE: 215-137-3 Index: No aplicable REACH: 01-2119475151-45-XXXX | Reglamento 1272/2008           | Eye Dam. 1: H318; Skin Irrit. 2: H315; STOT SE 3: H335 - Peligro |                                | 10 - < 25 %     |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   92.01812293955145,
+   626.3428891172431,
+   533.2277774232186,
+   661.9344778754082
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación        | Valores límites ambientales   | Valores límites ambientales   |\n|-----------------------|-------------------------------|-------------------------------|\n| Dihidróxido de calcio | VLA-ED                        | 5 mg/m 3                      |\n| CAS: 1305-62-0        | VLA-EC                        |                               |\n| CE: 215-137-3         | Año                           | 2016                          |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   92.05608921639872,
+   685.2660621566953,
+   533.2457622512716,
+   729.3714293302776
+  ],
+  "filas": 5,
+  "columnas": 6,
+  "seccion": 8,
+  "markdown": "| Identificación        | Identificación   | Corta exposición - Sistemática   | Corta exposición - Local   | Larga exposición - Sistemática   | Larga exposición - Local   |\n|-----------------------|------------------|----------------------------------|----------------------------|----------------------------------|----------------------------|\n| Dihidróxido de calcio | Oral             | No relevante                     | No relevante               | No relevante                     | No relevante               |\n| CAS: 1305-62-0        | Cutánea          | No relevante                     | No relevante               | No relevante                     | No relevante               |\n| CE: 215-137-3         | Inhalación       | No relevante                     | 4 mg/m 3                   | No relevante                     | 1 mg/m 3                   |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   90.86293304750585,
+   101.79934792996585,
+   533.8457239220127,
+   147.52951493723094
+  ],
+  "filas": 5,
+  "columnas": 6,
+  "seccion": 8,
+  "markdown": "| Identificación        | Identificación   | Corta exposición - Sistemática   | Corta exposición - Local   | Larga exposición - Sistemática   | Larga exposición - Local   |\n|-----------------------|------------------|----------------------------------|----------------------------|----------------------------------|----------------------------|\n| Dihidróxido de calcio | Oral             | No relevante                     | No relevante               | No relevante                     | No relevante               |\n| CAS: 1305-62-0        | Cutánea          | No relevante                     | No relevante               | No relevante                     | No relevante               |\n| CE: 215-137-3         | Inhalación       | No relevante                     | 4 mg/m 3                   | No relevante                     | 1 mg/m 3                   |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   92.33247639598464,
+   170.3821560806673,
+   533.1972336982882,
+   214.6105279236565
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Identificación        |              |              |                         |              |\n|-----------------------|--------------|--------------|-------------------------|--------------|\n| Dihidróxido de calcio | STO          | 3 mg/l       | Agua dulce              | 0.49 mg/l    |\n| CAS: 1305-62-0        | Suelo        | 1080 mg/kg   | Agua salada             | 0.32 mg/l    |\n| CE: 215-137-3         | Intermitente | 0.49 mg/l    | Sedimento (agua dulce)  | No relevante |\n|                       | Oral         | No relevante | Sedimento (agua salada) | No relevante |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   92.00783500825,
+   364.1969000287633,
+   533.079570246959,
+   434.836733178073
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Pictograma                                         | EPI                                          | Marcado   | Normas CEN          | Observaciones                                                                                                                                                                                                        |\n|----------------------------------------------------|----------------------------------------------|-----------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respirato- rias | Máscara autofiltrante para ga- ses y vapores |           | EN 405:2001+A1:2009 | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se re- comienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 4,
+  "bbox_pt": [
+   92.28274377400444,
+   450.4254618839073,
+   533.2212541127045,
+   512.1982176690543
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPI                                          | Marcado   | Normas CEN                                               | Observaciones                                                                                                                                                                                         |\n|-------------------------------------|----------------------------------------------|-----------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes NO desechables de protección química |           | EN 374-1:2003 EN 374-3:2003/AC:2006 EN 420: 2003+A1:2009 | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser supe- rior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 4,
+  "bbox_pt": [
+   91.59490792856921,
+   548.0553451603325,
+   533.2910596317573,
+   610.0772227815097
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPI             | Marcado   | Normas CEN                                            | Observaciones                                                                                                                                        |\n|-----------------------------------|-----------------|-----------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial |           | EN 166:2001 EN 167:2001 EN 168:2001 EN I SO 4007:2012 | Limpiar a diario y desinfectar periodicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 4,
+  "bbox_pt": [
+   91.85305117664723,
+   626.0280386635243,
+   533.9023608889996,
+   740.8625249359783
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPI                                            | Marcado   | Normas CEN                                                                                                       | Observaciones                                                                                          |\n|------------------------------------|------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos |           | EN 13034:2005+ A1:2009 EN 168:2001 EN I SO 13982-1:2004/ A1:2010 EN I SO 6529:2001 EN I SO 6530:2005 EN 464:1994 | Uso exclusivo en el trabajo. Limpiar pe- riódicamente de acuerdo a las instruc- ciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad con- tra riesgo químico   |           | EN ISO 20345:2011 EN 13832-1:2006                                                                                | Reemplazar las botas ante cualquier indicio de deterioro.                                              |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 5,
+  "bbox_pt": [
+   92.41550381193227,
+   112.36343048603123,
+   533.8099981279822,
+   166.70130771809124
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medidas de emergencias   | Normas                       | Marcado    | Normas                     |\n|--------------------------|------------------------------|------------|----------------------------|\n| Ducha de emergencia      | ANSI Z358-1 ISO 3864-1: 2002 | Lavar ojor | DIN 12 899 ISO 3864-1:2002 |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 5,
+  "bbox_pt": [
+   93.38162438872678,
+   742.4729676133833,
+   526.8229229121881,
+   765.2638317900088
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire      | Calentamiento             | Luz Solar                 | Humedad                   |\n|---------------------|---------------------------|---------------------------|---------------------------|---------------------------|\n| No aplicable        | Evitar incidencia directa | Evitar incidencia directa | Evitar incidencia directa | Evitar incidencia directa |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 6,
+  "bbox_pt": [
+   93.50019470214845,
+   122.61190735008256,
+   526.9304660873926,
+   146.28862027492198
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                         | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|--------------------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Puede reaccionar violentamente | No aplicable | Precaución             | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 6,
+  "bbox_pt": [
+   92.50394953836532,
+   725.6982554093676,
+   533.663680882806,
+   761.8935465688094
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación        | Toxicidad aguada   | Toxicidad aguada   | Género   |\n|-----------------------|--------------------|--------------------|----------|\n| Dihidróxido de calcio | DL50 oral          | 7340 mg/kg         | Rata     |\n| CAS: 1305-62-0        | DL50 cutánea       | No relevante       |          |\n| CE: 215-137-3         | CL50 inhalación    | No relevante       |          |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 7,
+  "bbox_pt": [
+   92.27679963591916,
+   159.74811099525868,
+   536.3441518489147,
+   195.4969571495509
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación        | Toxicidad aguada   | Toxicidad aguada   | Especie          | Género   |\n|-----------------------|--------------------|--------------------|------------------|----------|\n| Dihidróxido de calcio | CL50               | 160 mg/l (96 h)    | Gambussia afinis | Pez      |\n| CAS: 1305-62-0        | CE50               | No relevante       |                  |          |\n| CE: 215-137-3         | CE50               | No relevante       |                  |          |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 7,
+  "bbox_pt": [
+   94.2297614452183,
+   400.0037393297209,
+   522.1755823777987,
+   423.48057348110893
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 13,
+  "markdown": "| Código    | Descripción                                                     | Tipo de residuo (Reglamento (UE) nº 1357/2014)   |\n|-----------|-----------------------------------------------------------------|--------------------------------------------------|\n| 08 01 11* | Residuo de pintura y barniz que contienen sustancias peligrosas | Peligroso                                        |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 7,
+  "bbox_pt": [
+   158.95686040071834,
+   639.6668183779319,
+   480.07175866453446,
+   765.0101937815468
+  ],
+  "filas": 11,
+  "columnas": 3,
+  "seccion": 14,
+  "markdown": "|   14.1 | Número ONU:                                               | UN3066         |\n|--------|-----------------------------------------------------------|----------------|\n|   14.2 | Designación oficial de transporte de las Naciones Unidas: | PINTURA        |\n|   14.3 | Clase(s) de peligro para el transporte:                   | 8              |\n|        | Etiquetas:                                                | 8              |\n|   14.4 | Grupo de embalaje:                                        | II             |\n|   14.5 | Peligros para el medio ambiente:                          | No             |\n|   14.6 | Precauciones particulares para los usuarios               |                |\n|        | Disposiciones especiales:                                 | 163.367        |\n|        | Código de restricción en túneles:                         | E              |\n|        | Propiedades físico-químicas:                              | Ver epígrafe 9 |\n|        | Cantidades limitadas:                                     | 1 L            |"
+ }
+]

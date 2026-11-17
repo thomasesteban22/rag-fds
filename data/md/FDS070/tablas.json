@@ -1,0 +1,128 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   85.72889715565933,
+   160.08076892567692,
+   530.1946818962354,
+   784.4197790570785
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 2,
+  "markdown": "| Etiqueta SGA (GHS) Pictogramas de peligro   | :   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n|---------------------------------------------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Palabra de advertencia                      | :   | Peligro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |\n| Indicaciones de peligro                     | :   | H226 Líquido y vapores inflamables. H304 Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias. H315 Provoca irritación cutánea. H317 Puede provocar una reacción cutánea alérgica. H319 Provoca irritación ocular grave. H331 Tóxico si se inhala. H334 Puede provocar síntomas de alergia o asma o dificulta- des respiratorias si se inhala. H335 Puede irritar las vías respiratorias. H373 Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas por inhalación. H402 Nocivo para los organismos acuáticos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Consejos de prudencia                       | :   | Prevención: P210 Mantener alejado del calor, chispas, llamas al descubier- to, superficies calientes y otras fuentes de ignición. No fumar. P233 Mantener el recipiente herméticamente cerrado. P240 Toma de tierra y enlace equipotencial del recipiente y del equipo receptor. P241 Utilizar material eléctrico, de ventilación o de iluminación/ antideflagrante. P242 No utilizar herramientas que produzcan chispas. P243 Tomar medidas de precaución contra las descargas elec- trostáticas. P260 No respirar nieblas o vapores. P264 Lavarse la piel cuidadosamente después de la manipula- ción. P271 Utilizar sólo al aire libre o en un lugar bien ventilado. P272 La ropa de trabajo contaminada no debe salir del lugar de trabajo. P273 No dispersar en el medio ambiente. P280 Usar guantes/ ropa de protección/ equipo de protección para los ojos/ la cara. P284 Llevar equipo de protección respiratoria. Intervención: P301 + P310 EN CASO DE INGESTIÓN: Llamar inmediata- mente a un CENTRO DE TOXICOLOGÍA o a un médico. P303 + P361 + P353 EN CASO DE CONTACTO CON LA PIEL (o el pelo): Quitar inmediatamente toda la ropa contaminada. Enjuagar la piel con agua. P304 + P340 + P311 EN CASO DE INHALACIÓN: Transportar a la persona al aire libre y mantenerla en una posición que le facilite la respiración. Llamar a un CENTRO DE |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   84.75990357879026,
+   546.8233504086966,
+   534.2657763467059,
+   621.596439882326
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre químico                               | CAS No.    | Concentración (% w/w)   |\n|----------------------------------------------|------------|-------------------------|\n| Homopolímero de hexametilen-1,6-diisocianato | 28182-81-2 | >= 70 - < 90            |\n| acetato de n-butilo                          | 123-86-4   | >= 10 - < 20            |\n| xileno                                       | 1330-20-7  | >= 10 - < 20            |\n| etilbenceno                                  | 100-41-4   | >= 2,5 - < 5            |\n| Di-isocianato de hexametileno                | 822-06-0   | >= 0,1 - < 1            |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   90.15961958097932,
+   671.9800991332573,
+   516.8868236198682,
+   775.3766832236292
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Consejos generales    | :   | Retire a la persona de la zona peligrosa. Consulte a un médico. Muéstrele esta hoja de seguridad al doctor que esté de servi- cio. Los síntomas de envenenamiento pueden aparecer varias horas después.   |\n|-----------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| En caso de inhalación | :   | Llame inmediatamente a un médico o a un centro de informa- ción toxicológica.                                                                                                                             |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   80.00411300710384,
+   115.7393314206812,
+   530.7609296350672,
+   612.2385783978119
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| En caso de contacto con la piel                            | :   | Quítese inmediatamente la ropa y zapatos contaminados. Elimínelo lavando con jabón y mucha agua. Si persisten los síntomas, llame a un médico.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n|------------------------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| En caso de contacto con los ojos                           | :   | Enjuagar inmediatamente los ojos con agua abundante. Quítese los lentes de contacto. Manténgase el ojo bien abierto mientras se lava. Si persiste la irritación de los ojos, consulte a un especialista.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |\n| En caso de ingestión                                       | :   | Lávese la boca con agua y después beba agua abundante. No provoque vómitos. No dé leche ni bebidas alcohólicas. Nunca debe administrarse nada por la boca a una persona inconsciente. Lleve al afectado enseguida a un hospital.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |\n| Síntomas y efectos más im- portante, agudos y retarda- dos | :   | Riesgo de lesiones pulmonares graves (por aspiración). efectos irritantes efectos sensibilizantes Su inhalación puede causar edema pulmonar y neumonía. Tos Desordenes respiratorios Reacciones alérgicas Lacrimación excesiva Dolor de cabeza Dermatitis Vea la Sección 11 para obtener información detallada sobre la salud y los síntomas. Puede ser mortal en caso de ingestión y de penetración en las vías respiratorias. Provoca irritación cutánea. Puede provocar una reacción cutánea alérgica. Provoca irritación ocular grave. Tóxico si se inhala. Puede provocar síntomas de alergia o asma o dificultades respiratorias si se inhala. Puede irritar las vías respiratorias. Puede provocar daños en los órganos tras exposiciones pro- longadas o repetidas por inhalación. |\n| Notas especiales para un medico tratante                   | :   | Trate sintomáticamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 6,
+  "bbox_pt": [
+   85.47461759733675,
+   266.60083664646345,
+   540.5680868550755,
+   364.5760198257826
+  ],
+  "filas": 6,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Componentes                   | CAS No.   | Tipo de valor (Forma de exposición)   | Parámetros de control / Concen- tración permisible   | Bases   |\n|-------------------------------|-----------|---------------------------------------|------------------------------------------------------|---------|\n| acetato de n-butilo           | 123-86-4  | TWA                                   | 50 ppm                                               | ACGIH   |\n|                               |           | STEL                                  | 150 ppm                                              | ACGIH   |\n| xileno                        | 1330-20-7 | TWA                                   | 20 ppm                                               | ACGIH   |\n| etilbenceno                   | 100-41-4  | TWA                                   | 20 ppm                                               | ACGIH   |\n| Di-isocianato de hexametileno | 822-06-0  | TWA                                   | 0,005 ppm                                            | ACGIH   |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 6,
+  "bbox_pt": [
+   87.31883978312449,
+   384.23741147513067,
+   542.9789682969472,
+   734.0729430587605
+  ],
+  "filas": 4,
+  "columnas": 7,
+  "seccion": 8,
+  "markdown": "| Componentes                     | CAS No.   | Parámetros de control                                   | Análisis biológico   | Tiempo de toma de mues- tras                                                         | Concentra- ción permisi- ble   | Bases     |\n|---------------------------------|-----------|---------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|--------------------------------|-----------|\n| xileno                          | 1330-20-7 | Acidos me- tilhipúricos                                 | Orina                | Al final del turno (Tan pronto como sea posible después de que cese la exposi- ción) | 1.5 g/g crea- tinina           | ACGIH BEI |\n| etilbenceno                     | 100-41-4  | Suma del ácido man- délico y el ácido fenil- glioxílico | Orina                | Al final del turno (Tan pronto como sea posible después de que cese la exposi- ción) | 0.15 g/g creatinina            | ACGIH BEI |\n| Di-isocianato de hexa- metileno | 822-06-0  | 1,6- Hexameti- leno diami- na                           | Orina                | Al final del turno de trabajo                                                        | 15 µg/g crea- tinina           | ACGIH BEI |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 7,
+  "bbox_pt": [
+   68.33848291128274,
+   107.79145300705659,
+   519.0429301585767,
+   419.9130466925461
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "|                                      | ción indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuada para la concentración máxima prevista del contaminante (gas/vapor/aerosol/partículas) que puede presentarse al ma- nejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo.   |\n|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de las manos :            | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario.                                                                                                                                                                       |\n| Protección de los ojos :             | Equipo de protección ocular que cumpla con estándares aprobados debe ser utilizado cuando la evaluación del riesgo indica que es necesario.                                                                                                                                                                                                                         |\n| Protección de la piel y del cuerpo : | Elegir la protección para el cuerpo según sus caraterísticas, la concentración y la cantidad de sustancias peligrosas, y el lugar específico de trabajo.                                                                                                                                                                                                            |\n| Medidas de higiene :                 | Evite el contacto con la piel, ojos y ropa. No coma ni beba durante su utilización. No fume durante su utilización. Lávese las manos antes de los descansos e inmediatamente después de manipular la substancia.                                                                                                                                                    |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 7,
+  "bbox_pt": [
+   90.0354556812056,
+   465.3705899732053,
+   343.54042422505836,
+   775.4675830078124
+  ],
+  "filas": 12,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Aspecto                                                               | :   | líquido               |\n|-----------------------------------------------------------------------|-----|-----------------------|\n| Color                                                                 | :   | amarillo              |\n| Olor                                                                  | :   | característico        |\n| Umbral de olor                                                        | :   | Sin datos disponibles |\n| pH                                                                    | :   | Sin datos disponibles |\n| Punto de fusión/rango / Punto de congelación                          | :   | Sin datos disponibles |\n| Punto / intervalo de ebullición                                       | :   | Sin datos disponibles |\n| Punto de inflamación                                                  | :   | aprox. 50 °C (50 °C)  |\n| Tasa de evaporación                                                   | :   | Sin datos disponibles |\n| Inflamabilidad (sólido, gas)                                          | :   | Sin datos disponibles |\n| Límite superior de explosivi- dad / Límite de inflamabilidad superior | :   | 7 %(v)                |\n| Límite inferior de explosividad / Límite de inflamabilidad infe- rior | :   | 1 %(v)                |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 13,
+  "bbox_pt": [
+   63.590354943243454,
+   93.7411797509244,
+   568.2124746069172,
+   209.43378862156987
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 16,
+  "markdown": "| Versión 2.0   | Número de HDS: 100000033904                                                                                                                                                                                                                | Fecha de revisión: 2023/10/07                                                                                                                                                                                                              |\n|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| PBT           | : Persistent, bioaccumulative and toxic                                                                                                                                                                                                    |                                                                                                                                                                                                                                            |\n| PNEC          | : Predicted no effect concentration                                                                                                                                                                                                        |                                                                                                                                                                                                                                            |\n| REACH         | : Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Re- gistration, Evaluation, Authorisation and Restriction of Chemi- cals (REACH), establishing a European Chemicals Agency | : Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Re- gistration, Evaluation, Authorisation and Restriction of Chemi- cals (REACH), establishing a European Chemicals Agency |\n| SVHC          | : Substances of Very High Concern                                                                                                                                                                                                          |                                                                                                                                                                                                                                            |\n| vPvB          | : Very persistent and very bioaccumulative                                                                                                                                                                                                 |                                                                                                                                                                                                                                            |"
+ }
+]

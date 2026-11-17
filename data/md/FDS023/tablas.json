@@ -1,0 +1,170 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   24.170974731445312,
+   607.9745483398438,
+   569.3384399414062,
+   687.0260620117188
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente                                                  | %         | Número CAS   |\n|------------------------------------------------------------------------|-----------|--------------|\n| propanona                                                              | ≥25 - ≤38 | 67-64-1      |\n| destilado (petróleo), hidrotratado ligero                              | ≥10 - ≤25 | 64742-47-8   |\n| heptan-2-ona                                                           | ≤10       | 110-43-0     |\n| nafta disolvente (petroleo), fraccion aromatica ligera (<0,1% benceno) | ≤2.5      | 64742-95-6   |\n| 2-butanona-oxima                                                       | ≤0.3      | 96-29-7      |\n\nSi alguna concentración se presenta como un rango, es para proteger la confidencialidad o debido a variación en los lotes."
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   27.994394302368164,
+   131.2988739013672,
+   567.3397827148438,
+   506.91912841796875
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Enjuagar los ojos inmediatamente con mucha agua, levantando ocasionalmente los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos por 10 minutos. Procurar atención médica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|-------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Transportar la víctima al aire libre y mantenerla en reposo en una posición que le facilite la respiración. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda dar respiración boca a boca. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. Si está inconsciente, coloque en posición de recuperación y obtenga atención médica inmediatamente. Asegure una buena circulación de aire. Aflojar todo lo que pudiera estar apretado, como el cuello de una camisa, una corbata, un cinturón.                                                                                                                               |\n| Contacto con la piel    | :   | Lavar con abundante agua y jabón. Quítese la ropa y calzado contaminados. Lave bien la ropa contaminada con agua antes de quitársela, o use guantes. Continúe enjuagando por lo menos por 10 minutos. Procurar atención médica. En el caso de que existan quejas o síntomas, evite otras exposiciones. Lavar la ropa antes de volver a usarla. Limpiar el calzado completamente antes de volver a usarlo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |\n| Ingestión               | :   | Lave la boca con agua. Retirar las prótesis dentales si es posible. Transportar la víctima al aire libre y mantenerla en reposo en una posición que le facilite la respiración. Si se ha ingerido el material y la persona expuesta está consciente, proporcione cantidades pequeñas de agua para beber. Deténgase si la persona expuesta se siente descompuesta porque vomitar sería peligroso. No inducir al vómito a menos que lo indique expresamente el personal médico. En caso de vómito, se debe mantener la cabeza baja de manera que el vómito no entre en los pulmones. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. No suministrar nada por vía oral a una persona inconsciente. Si está inconsciente, coloque en posición de recuperación y obtenga atención médica inmediatamente. Asegure una buena circulación de aire. Aflojar todo lo que pudiera estar apretado, como el cuello de una camisa, una corbata, un cinturón. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 6,
+  "bbox_pt": [
+   23.423429489135742,
+   112.33544158935547,
+   569.4374389648438,
+   329.3955078125
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 7,
+  "markdown": "| Orientaciones sobre higiene ocupacional general                           | :   | Está prohibido comer, beber o fumar en los lugares donde se manipula, almacena o trata este producto. Las personas que trabajan con este producto deberán lavarse las manos y la cara antes comer, beber o fumar. Quitar la ropa contaminada y el equipo de protección antes de entrar a las áreas de comedor. Véase también la Sección 8 acerca de la información adicional sobre las medidas higiénicas.                                                                                                                                                                                                                                                                                                                                                                                                                                          |\n|---------------------------------------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Condiciones de almacenamiento seguro, incluida cualquier incompatibilidad | :   | Conservar de acuerdo con las normas locales. Almacenar en un área separada y homologada. Almacenar en el contenedor original protegido de la luz directa del sol en un área seca, fresca y bien ventilada, separado de materiales incompatibles (ver Sección 10) y comida y bebida. Guardar bajo llave. Eliminar todas las fuentes de ignición. Mantener separado de materiales oxidantes. Mantener el contenedor bien cerrado y sellado hasta el momento de usarlo. Los envases que han sido abiertos deben cerrarse cuidadosamente y mantenerse en posición vertical para evitar derrames. No almacenar en contenedores sin etiquetar. Utilícese un envase de seguridad adecuado para evitar la contaminación del medio ambiente. Consulte la Sección 10 para obtener información acerca de los materiales no compatibles previo al manejo o uso. |\n| Código de almacenimiento                                                  | :   | IB                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 6,
+  "bbox_pt": [
+   29.709470748901367,
+   401.31524658203125,
+   569.1023559570312,
+   768.2430419921875
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente                     | Límites de exposición                                                                                                                                                                                                                                                                                                                                                                                      |\n|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| propanona                                 | ACGIH TLV (Estados Unidos, 3/2018). TWA: 250 ppm 8 horas. STEL: 500 ppm 15 minutos. OSHA PEL 1989 (Estados Unidos, 3/1989). TWA: 750 ppm 8 horas. TWA: 1800 mg/m³ 8 horas. STEL: 1000 ppm 15 minutos. STEL: 2400 mg/m³ 15 minutos. NIOSH REL (Estados Unidos, 10/2016). TWA: 250 ppm 10 horas. TWA: 590 mg/m³ 10 horas. OSHA PEL (Estados Unidos, 5/2018). TWA: 1000 ppm 8 horas. TWA: 2400 mg/m³ 8 horas. |\n| destilado (petróleo), hidrotratado ligero | ACGIH TLV (Estados Unidos, 3/2018). Absorbido a través de la piel. TWA: 200 mg/m³, (as total hydrocarbon vapor) 8 horas.                                                                                                                                                                                                                                                                                   |\n| heptan-2-ona                              | ACGIH TLV (Estados Unidos, 3/2018). TWA: 50 ppm 8 horas. TWA: 233 mg/m³ 8 horas. OSHA PEL 1989 (Estados Unidos, 3/1989). TWA: 100 ppm 8 horas. TWA: 465 mg/m³ 8 horas. NIOSH REL (Estados Unidos, 10/2016). TWA: 100 ppm 10 horas. TWA: 465 mg/m³ 10 horas. OSHA PEL (Estados Unidos, 5/2018).                                                                                                             |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 7,
+  "bbox_pt": [
+   29.488187789916992,
+   393.4427490234375,
+   565.2703857421875,
+   752.8880615234375
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Medidas higiénicas                   | :   | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                                                                                                                                                          |\n|--------------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de los ojos y la cara     | :   | Equipo protector ocular que cumpla con las normas aprobadas debe ser usado cuando una evaluación del riesgo indique que es necesario para evitar toda exposición a salpicaduras del líquido, lloviznas, gases o polvos. Si existe la posibilidad de contacto con el producto se debe usar el siguiente equipo de protección, a menos que la evaluación del riesgo exija un grado superior de protección: gafas protectoras contra salpicaduras químicas.                                                                                                                                                                                                |\n| Protección de la piel                |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Protección de las manos              | :   | Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. |\n| Protección del cuerpo                | :   | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos.                                                                                                                                                                                       |\n| Otro tipo de protección para la piel | :   | Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                                                                                                                                                                                                               |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 9,
+  "bbox_pt": [
+   29.619373321533203,
+   196.41688537597656,
+   569.1719970703125,
+   435.6643371582031
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                       | Resultado                 | Especies   | Dosis       | Exposición   |\n|------------------------------------------------------------------------|---------------------------|------------|-------------|--------------|\n| propanona                                                              | CL50 Por inhalación Vapor | Rata       | 21 mg/l     | 4 horas      |\n|                                                                        | DL50 Cutánea              | Conejo     | 2001 mg/kg  | -            |\n|                                                                        | DL50 Oral                 | Rata       | 5800 mg/kg  | -            |\n| heptan-2-ona                                                           | CL50 Por inhalación Vapor | Rata       | 16.8 mg/l   | 4 horas      |\n|                                                                        | DL50 Cutánea              | Conejo     | 10332 mg/kg | -            |\n|                                                                        | DL50 Oral                 | Rata       | 1600 mg/kg  | -            |\n| nafta disolvente (petroleo), fraccion aromatica ligera (<0,1% benceno) | DL50 Cutánea              | Conejo     | 3492 mg/kg  | -            |\n|                                                                        | DL50 Oral                 | Rata       | 8400 mg/kg  | -            |\n| 2-butanona-oxima                                                       | DL50 Oral                 | Rata       | 930 mg/kg   | -            |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   29.859912872314453,
+   452.6547546386719,
+   569.2809448242188,
+   646.5660400390625
+  ],
+  "filas": 9,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente   | Resultado                 | Especies                                         | Puntuación   | Exposición                                                                                                          | Observación   |\n|------------------------------------|---------------------------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|---------------|\n| propanona                          | Ojos - Irritante leve     | Humano Conejo Conejo Conejo Conejo Conejo Conejo | -            | 186300 parts per million 10 microliters 24 horas 20 milligrams 20 milligrams 24 horas 500 milligrams 395 milligrams | - - - - - -   |\n|                                    | Ojos - Irritante leve     |                                                  | -            |                                                                                                                     |               |\n|                                    | Ojos - Irritante moderado |                                                  | -            |                                                                                                                     |               |\n|                                    | Ojos - Irritante fuerte   |                                                  | -            |                                                                                                                     |               |\n|                                    | Piel - Irritante leve     |                                                  | -            |                                                                                                                     |               |\n|                                    | Piel - Irritante leve     |                                                  | -            |                                                                                                                     |               |\n| heptan-2-ona                       | Piel - Irritante leve     |                                                  | -            | 24 horas 14 milligrams                                                                                              | -             |\n| 2-butanona-oxima                   | Ojos - Irritante fuerte   | Conejo                                           | -            | 100 microliters                                                                                                     | -             |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   29.766746520996094,
+   180.16786193847656,
+   569.0775756835938,
+   294.34063720703125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                                                  | Categoría                                                   | Ruta de exposición                                                    | Órganos vitales                                                                                          |\n|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|\n| propanona destilado (petróleo), hidrotratado ligero heptan-2-ona nafta disolvente (petroleo), fraccion aromatica ligera (<0,1% benceno) | Categoría 3 Categoría 3 Categoría 3 Categoría 3 Categoría 3 | No aplicable. No aplicable. No aplicable. No aplicable. No aplicable. | Efecto narcótico Efecto narcótico Efecto narcótico Efecto narcótico Irritación de las vías respiratorias |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 10,
+  "bbox_pt": [
+   29.672090530395508,
+   344.8756103515625,
+   569.1923828125,
+   390.9109802246094
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                           | Resultado                                                                 |\n|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|\n| destilado (petróleo), hidrotratado ligero nafta disolvente (petroleo), fraccion aromatica ligera (<0,1% benceno) | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 11,
+  "bbox_pt": [
+   29.803524017333984,
+   420.7454833984375,
+   569.3746948242188,
+   490.3636169433594
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Ruta                 | Valor ETA (estimación de toxicidad aguda según GHS)   |\n|----------------------|-------------------------------------------------------|\n| Oral                 | 27761.28 mg/kg                                        |\n| Cutánea              | 6658.69 mg/kg                                         |\n| Inhalación (vapores) | 291.49 mg/l                                           |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 12,
+  "bbox_pt": [
+   23.37161636352539,
+   154.1103973388672,
+   569.2694702148438,
+   384.2944641113281
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 14,
+  "markdown": "|                                   | Clasificación DOT   | Clasificación para el TDG   | Clasificación de México   | IMDG    | IATA    |\n|-----------------------------------|---------------------|-----------------------------|---------------------------|---------|---------|\n| Número ONU                        | UN1263 UN1263       |                             | UN1263                    | UN1263  | UN1263  |\n| Designación oficial de transporte | PINTURA             | PINTURA                     | PINTURA                   | PINTURA | PINTURA |\n| Clase(s) relativas al transporte  | 3                   | 3                           | 3                         | 3       | 3       |\n| Grupo de embalaje                 | II                  | II                          | II                        | II      | II      |\n| Riesgos ambientales               | No.                 | No.                         | No.                       | No.     | No.     |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 13,
+  "bbox_pt": [
+   34.91791534423828,
+   209.4959259033203,
+   569.2275390625,
+   290.4892272949219
+  ],
+  "filas": 3,
+  "columnas": 4,
+  "seccion": 15,
+  "markdown": "|                                       | Nombre del producto              | Número CAS   | %         |\n|---------------------------------------|----------------------------------|--------------|-----------|\n| Formulario R - Requisitos de informes | aluminio en polvo (estabilizado) | 7429-90-5    | ≥25 - ≤50 |\n| Notificación del proveedor            | aluminio en polvo (estabilizado) | 7429-90-5    | ≥25 - ≤50 |"
+ }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "P01",
+    "configuracion": "k3",
+    "metrica": "faithfulness",
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 7.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P01",
+    "configuracion": "k3",
+    "metrica": "context_precision",
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 2,
+    "segundos": 4.7,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  {
+    "id": "P01",
+    "configuracion": "k3",
+    "metrica": "context_recall",
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 0.9,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P07",
+    "configuracion": "k3",
+    "metrica": "faithfulness",
+    "estado": "ok",
+    "valor": 0.8,
+    "intentos": 3,
+    "segundos": 7.6,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "intento 2: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  {
+    "id": "P07",
+    "configuracion": "k3",
+    "metrica": "context_precision",
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 14.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P07",
+    "configuracion": "k3",
+    "metrica": "context_recall",
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 2.1,
+    "razon": null,
+    "errores_previos": []
+  }
+]

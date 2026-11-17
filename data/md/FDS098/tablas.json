@@ -1,0 +1,310 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   17.028121948242188,
+   506.10736083984375,
+   545.1835327148438,
+   631.6280517578125
+  ],
+  "filas": 9,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente                                                                                             | %         | Número CAS   |\n|--------------------------------------------------------------------------------------------------------------------|-----------|--------------|\n| cinc en polvo (estabilizado)                                                                                       | ≥60 - ≤80 | 7440-66-6    |\n| fenol,4,4´-(1-metiletilideno)bis-,polímero con 2,2´-[(1-metiletilideno)bis (4,1-fenilidenoximetileno)]bis[oxirano] | ≤10       | 25036-25-3   |\n| óxido de cinc                                                                                                      | ≤5        | 1314-13-2    |\n| xileno                                                                                                             | ≤3        | 1330-20-7    |\n| producto de reacción: bisfenol-A-epiclorhidrina                                                                    | ≤3        | 25068-38-6   |\n| heptan-2-ona                                                                                                       | ≤3        | 110-43-0     |\n| 1-metoxipropan-2-ol                                                                                                | ≤3        | 107-98-2     |\n| tolueno                                                                                                            | <3        | 108-88-3     |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 6,
+  "bbox_pt": [
+   22.865781784057617,
+   109.81412506103516,
+   545.2354125976562,
+   314.8481750488281
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente   | Límites de exposición                                                                                                                  |\n|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------|\n| xileno                   | ACGIH TLV (Estados Unidos, 1/2023). [p- xylene and mixtures containing p-xylene] Ototóxico. TWA: 20 ppm 8 horas.                       |\n| heptan-2-ona             | ACGIH TLV (Estados Unidos, 1/2023). TWA: 50 ppm 8 horas. TWA: 233 mg/m³ 8 horas.                                                       |\n| 1-metoxipropan-2-ol      | ACGIH TLV (Estados Unidos, 1/2023). STEL: 369 mg/m³ 15 minutos. STEL: 100 ppm 15 minutos. TWA: 184 mg/m³ 8 horas. TWA: 50 ppm 8 horas. |\n| tolueno                  | ACGIH TLV (Estados Unidos, 1/2023). Ototóxico. TWA: 20 ppm 8 horas.                                                                    |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   170.19020080566406,
+   624.8505859375,
+   545.1080322265625,
+   709.6642456054688
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| ASTM D 5191 - Nombre del ingrediente   |   Presión de vapor a 20 ºC - mm Hg |   Presión de vapor a 20 ºC - kPa |\n|----------------------------------------|------------------------------------|----------------------------------|\n| tolueno                                |                              23.17 |                              3.1 |\n| 1-metoxipropan-2-ol                    |                                8.5 |                              1.1 |\n| heptan-2-ona                           |                               6.88 |                             0.92 |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 8,
+  "bbox_pt": [
+   24.345460891723633,
+   94.13386535644531,
+   545.8291625976562,
+   128.4499053955078
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 8,
+  "bbox_pt": [
+   25.10511589050293,
+   184.3514404296875,
+   383.07281494140625,
+   250.24586486816406
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente   |   °C |    °F |\n|--------------------------|------|-------|\n| 1-metoxipropan-2-ol      |  270 |   518 |\n| heptan-2-ona             |  393 | 739.4 |\n| xileno                   |  432 | 809.6 |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 9,
+  "bbox_pt": [
+   21.540605545043945,
+   76.58306121826172,
+   545.197265625,
+   423.369873046875
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                                                                                                        | Especies                                              | Dosis                                                                                                                             | Exposición              |\n|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------|\n| óxido de cinc heptan-2-ona          | DL50 Intraperitoneal DL50 Oral                                                                                                                   | Rata Ratón                                            | 240 mg/kg 7950 mg/kg 4300 mg/kg 1700 mg/kg 12600 400 mg/kg 800 mg/kg 730 mg/kg 1670 mg/kg 1600 mg/kg 10000 ppm 13 g/kg 3720 mg/kg | - - - - - -             |\n| xileno                              | DL50 Oral DL50 Subcutánea DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal                                                                 | Rata Rata Conejo Ratón Rata Ratón Rata Rata Rata Rata | uL/kg 5300 mg/kg 1200 mg/kg                                                                                                       | - - - - 5 -             |\n|                                     | DL50 Oral DL50 Oral DL50 Oral CL50 Por inhalación Gas. DL50 Cutánea                                                                              |                                                       |                                                                                                                                   | horas                   |\n| 1-metoxipropan-2-ol                 | DL50 Intraperitoneal DL50 Intravenosa DL50 Intravenosa DL50 Intravenosa                                                                          | Conejo Ratón Conejo Rata                              | 4200 mg/kg                                                                                                                        | - - - -                 |\n|                                     | DL50 Oral DL50 Oral                                                                                                                              | Ratón Conejo Rata                                     | 11700 mg/kg 5700 mg/kg                                                                                                            | - -                     |\n| tolueno                             | DL50 Oral DL50 Subcutánea DL50 Subcutánea CL50 Por inhalación Vapor DL50 Cutánea DL50 Intraperitoneal DL50 Intravenosa DL50 Oral DL50 Subcutánea | Conejo Rata Rata Conejo Rata Rata Rata Ratón          | 6600 mg/kg 5 g/kg 7800 mg/kg 49 g/m³ 14100 uL/kg 1332 mg/kg 1960 mg/kg 636 mg/kg 2250 mg/kg                                       | - - - 4 horas - - - - - |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   22.282085418701172,
+   439.73486328125,
+   545.4602661132812,
+   789.5615844726562
+  ],
+  "filas": 16,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente               | Resultado                                       | Especies    | Puntuación   | Exposición            | Observación   |\n|-------------------------------------------------|-------------------------------------------------|-------------|--------------|-----------------------|---------------|\n| óxido de cinc                                   | Ojos - Irritante leve                           | Conejo      | -            | 24 horas 500 mg       | -             |\n|                                                 | Piel - Irritante leve                           | Conejo      | -            | 24 horas 500 mg       | -             |\n| xileno                                          | Ojos - Irritante leve                           | Conejo      | -            | 87 mg                 | -             |\n|                                                 | Ojos - Muy irritante                            | Conejo      | -            | 24 horas 5 mg         | -             |\n|                                                 | Piel - Irritante leve Piel - Irritante moderado | Rata Conejo | -            | 8 horas 60 Ul         | -             |\n|                                                 | Piel - Irritante moderado                       | Conejo      | - -          | 100 % 24 horas 500 mg | - -           |\n| producto de reacción: bisfenol-A-epiclorhidrina | Ojos - Irritante leve                           | Conejo      | -            | 100 mg                | -             |\n|                                                 | Piel - Irritante moderado                       | Conejo      | -            | 24 horas 500 Ul       | -             |\n|                                                 | Piel - Muy irritante                            | Conejo      | -            | 24 horas 2 mg         | -             |\n| heptan-2-ona                                    | Piel - Irritante leve                           | Conejo      | -            | 24 horas 14 mg        | -             |\n| 1-metoxipropan-2-ol                             | Ojos - Irritante leve                           | Conejo      | -            | 24 horas 500 mg       | -             |\n|                                                 | Piel - Irritante leve                           | Conejo      | -            | 500 mg                | -             |\n| tolueno                                         | Ojos - Irritante leve                           | Conejo      | -            | 0.5 minutos 100 mg    | -             |\n|                                                 | Ojos - Irritante leve                           | Conejo      | -            | 870 ug 24 horas       | -             |\n|                                                 | Ojos - Muy irritante                            | Conejo      | -            | 2 mg                  | -             |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   21.195392608642578,
+   75.8431167602539,
+   545.798828125,
+   125.5776596069336
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Piel - Irritante leve Piel - Irritante moderado Piel - Irritante moderado   | Conejo Conejo Conejo   | - - -   | 435 mg 24 horas 20 mg 500 mg   | - - -   |\n|-----------------------------------------------------------------------------|------------------------|---------|--------------------------------|---------|"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 10,
+  "bbox_pt": [
+   27.458362579345703,
+   246.58523559570312,
+   545.1815795898438,
+   292.2884216308594
+  ],
+  "filas": 3,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   |   IARC |\n|-------------------------------------|--------|\n| xileno                              |      3 |\n| tolueno                             |      3 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   22.392948150634766,
+   309.25579833984375,
+   545.0469360351562,
+   388.6492004394531
+  ],
+  "filas": 2,
+  "columnas": 7,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Toxicidad materna   | Fertilidad   | Tóxico para el desarrollo   | Especies   | Dosis                       | Exposición   |\n|-------------------------------------|---------------------|--------------|-----------------------------|------------|-----------------------------|--------------|\n| tolueno                             | -                   | -            | Positivo                    | Rata       | Por inhalación: 2261 mg/ m³ | -            |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 10,
+  "bbox_pt": [
+   22.24273681640625,
+   440.7738342285156,
+   544.6864013671875,
+   533.305419921875
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre              | Categoría   | Vía de exposición   | Órganos destino                      |\n|---------------------|-------------|---------------------|--------------------------------------|\n| xileno              | Categoría 3 | -                   | Irritación de las vías respiratorias |\n| heptan-2-ona        | Categoría 3 | -                   | Efectos narcóticos                   |\n| 1-metoxipropan-2-ol | Categoría 3 | -                   | Efectos narcóticos                   |\n| tolueno             | Categoría 3 | -                   | Efectos narcóticos                   |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   22.329856872558594,
+   550.1157836914062,
+   545.0171508789062,
+   608.1160278320312
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre   | Categoría   | Vía de exposición   | Órganos destino         |\n|----------|-------------|---------------------|-------------------------|\n| tolueno  | Categoría 2 | inhalación          | cerebral nervous system |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 10,
+  "bbox_pt": [
+   22.058692932128906,
+   624.7753295898438,
+   545.3818359375,
+   670.80224609375
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre         | Resultado                                                                 |\n|----------------|---------------------------------------------------------------------------|\n| xileno tolueno | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 10,
+  "bbox_pt": [
+   13.506932258605957,
+   790.5538940429688,
+   548.8592529296875,
+   822.7007446289062
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Fecha de emisión/Fecha de revisión   | : 5-9-2025   | Versión   | : 2   |\n|--------------------------------------|--------------|-----------|-------|\n| Fecha de la emisión anterior         | : 12-6-2024  | 10/16     |       |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 11,
+  "bbox_pt": [
+   22.41507911682129,
+   563.3903198242188,
+   545.2094116210938,
+   656.8450317382812
+  ],
+  "filas": 2,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                    | Oral (mg/ kg)   | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|------------------------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| Producto tal y como suministrado xileno heptan-2-ona | 20192 N/A 500   | 36671.7 1100 N/A  | N/A N/A N/A                | 200.9 11 11                   | N/A N/A N/A                            |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 12,
+  "bbox_pt": [
+   17.340301513671875,
+   93.984375,
+   545.5726318359375,
+   788.9931640625
+  ],
+  "filas": 33,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                            | Especies                                                                                          | Exposición      |\n|-------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------|\n| cinc en polvo (estabilizado)        | Agudo EC50 0.005 mg/l                                                | Algas - Pseudokirchneriella subcapitata                                                           | 72 horas        |\n|                                     | Agudo EC50 0.0092 mg/l                                               | Algas - Pseudokirchneriella                                                                       | 72 horas        |\n|                                     | Agudo EC50 106 µg/l Agua fresca                                      | subcapitata Algas - Pseudokirchneriella subcapitata - Fase de                                     | 72 horas        |\n|                                     | Agudo EC50 246 µg/l Agua fresca                                      | crecimiento exponencial Algas - Pseudokirchneriella subcapitata - Fase de crecimiento exponencial | 72 horas        |\n|                                     | Agudo EC50 10000 µg/l Agua fresca                                    | Plantas acuáticas - Lemna minor                                                                   | 4 días          |\n|                                     | Agudo EC50 70 µg/l Agua fresca                                       | Crustáceos - Ceriodaphnia dubia - Neonato                                                         | 48 horas        |\n|                                     | Agudo EC50 356 µg/l Agua fresca                                      | Dafnia - Daphnia magna                                                                            | 48 horas        |\n|                                     | Agudo EC50 354 µg/l Agua fresca                                      | Dafnia - Daphnia magna                                                                            | 48 horas        |\n|                                     | Agudo EC50 175 µg/l Agua fresca                                      | Pescado - Pimephales promelas - Larva                                                             | 96 horas        |\n|                                     | Agudo CL50 70 µg/l Agua fresca                                       | Crustáceos - Ceriodaphnia dubia - Neonato                                                         | 48 horas        |\n|                                     | Agudo CL50 65 µg/l Agua fresca                                       | Crustáceos - Ceriodaphnia dubia - Neonato                                                         | 48 horas        |\n|                                     | Agudo CL50 76 µg/l Agua fresca                                       | Crustáceos - Ceriodaphnia reticulata                                                              | 48 horas        |\n|                                     | Agudo CL50 96 µg/l Agua fresca                                       | Crustáceos - Ceriodaphnia reticulata                                                              | 48 horas        |\n|                                     | Agudo CL50 100 ppb Agua fresca                                       | Dafnia - Daphnia magna                                                                            | 48 horas        |\n|                                     | Agudo CL50 68 µg/l Agua fresca                                       | Dafnia - Daphnia magna                                                                            | 48 horas        |\n|                                     | Agudo CL50 107 µg/l Agua fresca                                      | Dafnia - Daphnia pulex                                                                            | 48 horas        |\n|                                     | Agudo CL50 0.24 mg/l Agua fresca                                     | Pescado - Oncorhynchus mykiss                                                                     | 96 horas        |\n|                                     | Agudo CL50 182 µg/l Agua fresca                                      | Pescado - Oncorhynchus                                                                            | 96 horas        |\n|                                     | Agudo CL50 12.21 µg/l Agua marina                                    | tshawytscha Pescado - Periophthalmus waltoni - Adulto                                             | 96 horas        |\n|                                     | Agudo CL50 238 µg/l Agua fresca                                      | Pescado - Pimephales promelas - Recién nacido                                                     | 96 horas        |\n|                                     | Crónico NOEC 105 µg/l Agua fresca                                    | Algas - Pseudokirchneriella subcapitata - Fase de crecimiento exponencial                         | 72 horas        |\n|                                     | Crónico NOEC 72.9 µg/l Agua fresca                                   | Algas - Pseudokirchneriella subcapitata - Fase de crecimiento exponencial                         | 72 horas        |\n|                                     | Crónico NOEC 91 µg/l Agua fresca                                     | Algas - Pseudokirchneriella subcapitata - Fase de crecimiento exponencial                         | 72 horas        |\n|                                     | Crónico NOEC 9 mg/l Agua fresca                                      | Plantas acuáticas - Ceratophyllum demersum                                                        | 3 días          |\n|                                     | Crónico NOEC 9 mg/l Agua fresca                                      | Plantas acuáticas - Ceratophyllum demersum                                                        | 3 días          |\n|                                     | Crónico NOEC 178 µg/l Agua marina                                    | Crustáceos - Palaemon elegans                                                                     | 21 días         |\n|                                     | Crónico NOEC 62.6 µg/l Agua fresca                                   | Dafnia - Daphnia magna                                                                            | 21 días         |\n|                                     | Crónico NOEC 94.5 µg/l Agua fresca                                   | Dafnia - Daphnia magna                                                                            | 21 días         |\n|                                     | Crónico NOEC 72.7 µg/l Agua fresca Crónico NOEC 172 µg/l Agua fresca | Dafnia - Daphnia magna Pescado - Cottus bairdi                                                    | 21 días 30 días |\n|                                     | Crónico NOEC 8.3 µg/l Agua fresca Crónico NOEC 2.6 µg/l Agua fresca  | Pescado - Cyprinus carpio Pescado - Cyprinus carpio                                               | 4 semanas       |\n|                                     | Crónico NOEC 199 µg/l Agua fresca                                    | Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría,                                             | 4 semanas       |\n|                                     |                                                                      |                                                                                                   | 30 días         |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 13,
+  "bbox_pt": [
+   16.665407180786133,
+   74.23614501953125,
+   544.2715454101562,
+   789.0968627929688
+  ],
+  "filas": 31,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| óxido de cinc        | Agudo EC50 1 mg/l Agua fresca                                        | Destetado) Dafnia - Daphnia magna -                                                          | 48 horas          |\n|----------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------|\n|                      | Agudo EC50 0.622 mg/l Agua fresca                                    | Neonato Dafnia - Daphnia magna - Neonato                                                     | 48 horas          |\n|                      | Agudo EC50 0.481 mg/l Agua fresca                                    | Dafnia - Daphnia magna - Neonato                                                             | 48 horas          |\n|                      | Agudo CL50 1.25 mg/l Agua fresca                                     | Dafnia - Daphnia magna - Neonato                                                             | 48 horas          |\n|                      | Agudo CL50 98 µg/l Agua fresca                                       | Dafnia - Daphnia magna - Neonato                                                             | 48 horas          |\n|                      | Agudo CL50 3.969 mg/l Agua fresca Agudo CL50 2.525 mg/l Agua fresca  | Pescado - Danio rerio - Adulto                                                               | 96 horas          |\n|                      |                                                                      | Pescado - Danio rerio - Adulto                                                               | 96 horas          |\n|                      | Agudo CL50 1.1 ppm Agua fresca                                       | Pescado - Oncorhynchus mykiss                                                                | 96 horas          |\n|                      | Agudo CL50 2246000 µg/l Agua fresca                                  | Pescado - Pimephales promelas - Neonato                                                      | 96 horas          |\n| xileno               | Agudo EC50 90 mg/l Agua fresca Agudo CL50 8.5 ppm Agua marina        | Crustáceos - Cypris subglobosa Crustáceos - Palaemonetes                                     | 48 horas 48 horas |\n|                      | Agudo CL50 8500 µg/l Agua marina                                     | pugio - Adulto Crustáceos - Palaemonetes                                                     | 48 horas          |\n|                      |                                                                      | pugio                                                                                        |                   |\n|                      | Agudo CL50 16940 µg/l Agua fresca Agudo CL50 15700 µg/l Agua fresca  | Pescado - Carassius auratus Pescado - Lepomis macrochirus - Juvenil (Nuevo, Cría, Destetado) | 96 horas 96 horas |\n|                      | Agudo CL50 20870 µg/l Agua fresca                                    |                                                                                              | 96 horas          |\n|                      | Agudo CL50 19000 µg/l Agua fresca                                    | Pescado - Lepomis macrochirus                                                                |                   |\n|                      | Agudo CL50 13400 µg/l Agua fresca                                    | Pescado - Lepomis macrochirus Pescado - Pimephales promelas                                  | 96 horas 96 horas |\n| heptan-2-ona tolueno | Agudo CL50 131000 µg/l Agua fresca Agudo EC50 12500 µg/l Agua fresca | Pescado - Pimephales promelas Algas - Pseudokirchneriella subcapitata                        | 96 horas 72 horas |\n|                      | Agudo EC50 16500 µg/l Agua fresca                                    | Crustáceos - Gammarus pseudolimnaeus - Adulto                                                | 48 horas          |\n|                      | Agudo EC50 11600 µg/l Agua fresca                                    | Crustáceos - Gammarus pseudolimnaeus - Adulto                                                | 48 horas          |\n|                      | Agudo EC50 6.88 mg/l Agua fresca                                     | Dafnia - Daphnia magna - Neonato                                                             | 48 horas          |\n|                      | Agudo EC50 6.56 mg/l Agua fresca                                     | Dafnia - Daphnia magna - Neonato                                                             | 48 horas          |\n|                      | Agudo EC50 19600 µg/l Agua fresca Agudo EC50 6000 µg/l Agua fresca   | Dafnia - Daphnia magna - Larva Dafnia - Daphnia magna - Juvenil (Nuevo, Cría, Destetado)     | 48 horas 48 horas |\n|                      | Agudo EC50 6780 µg/l Agua fresca                                     | Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado)                             | 96 horas          |\n|                      | Agudo CL50 56.3 ppm Agua marina                                      | Crustáceos - Americamysis bahia                                                              | 48 horas          |\n|                      | Agudo CL50 15.5 ppm Agua marina                                      | Crustáceos - Palaemonetes pugio - Adulto                                                     | 48 horas          |\n|                      | Agudo CL50 15500 µg/l Agua marina                                    | Crustáceos - Palaemonetes pugio                                                              | 48 horas          |\n|                      | Agudo CL50 86.3 mg/l Agua fresca                                     | Dafnia - Daphnia magna - Neonato                                                             | 48 horas          |\n|                      | Agudo CL50 6410 µg/l Agua marina                                     | Pescado - Oncorhynchus gorbuscha - Alevín                                                    | 96 horas          |\n|                      | Agudo CL50 5500 µg/l Agua fresca                                     | Pescado - Oncorhynchus kisutch - Alevín                                                      | 96 horas          |\n|                      | Agudo CL50 5800 µg/l Agua fresca                                     | Pescado - Oncorhynchus mykiss Pescado - Oncorhynchus Cría,                                   | 96 horas          |\n|                      | Agudo CL50 6780 µg/l Agua fresca Crónico NOEC 2 mg/l Agua fresca     | mykiss - Juvenil (Nuevo, Destetado) Dafnia - Daphnia magna                                   | 96 horas 21 días  |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 14,
+  "bbox_pt": [
+   15.481575012207031,
+   75.42760467529297,
+   546.8961181640625,
+   91.69279479980469
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Crónico NOEC 1000 µg/l Agua fresca   | Dafnia - Daphnia magna   | 21 días   |\n|--------------------------------------|--------------------------|-----------|"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 14,
+  "bbox_pt": [
+   16.95607566833496,
+   165.7323760986328,
+   545.1302490234375,
+   281.3842468261719
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                             | LogPow                          | FBC                        | Potencial                     |\n|---------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------|-------------------------------|\n| óxido de cinc xileno producto de reacción: bisfenol-A-epiclorhidrina heptan-2-ona 1-metoxipropan-2-ol tolueno | - 3.12 2.64 a 3.78 2.26 <1 2.73 | 28960 8.1 a 25.9 31 - - 90 | alta bajo bajo bajo bajo bajo |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 14,
+  "bbox_pt": [
+   16.236780166625977,
+   620.7158203125,
+   545.308349609375,
+   786.912841796875
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - NTC 1692   | Marítimo - IMDG   | Aéreo - IATA   |\n|----------------------------------------------------------|------------------------|-------------------|----------------|\n| Número ONU                                               | UN1263                 | UN1263            | UN1263         |\n| Designación oficial de transporte de las Naciones Unidas | PINTURAS               | PINTURAS          | PINTURAS       |\n| Clase(s) de peligro para el transporte                   | 3                      | 3                 | 3              |"
+ },
+ {
+  "ref": "#/tables/20",
+  "pagina": 15,
+  "bbox_pt": [
+   17.149890899658203,
+   76.19306182861328,
+   545.4361572265625,
+   192.429931640625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "| Grupo de embalaje               | III                                                                                    | III                                                                                                                                                                                                         | III                                                                                    |\n|---------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|\n| Peligros para el medio ambiente | Sí. No es necesaria la identificación de sustancias peligrosas para el medio ambiente. | cinc en polvo (estabilizado), fenol,4,4´-(1-metiletilideno)bis-, polímero con 2,2´-[ (1-metiletilideno)bis (4,1-fenilidenoximetileno)]bis [oxirano] Sustancias contaminantes marinas:  <!-- image -->  Logo | Sí. No es necesaria la identificación de sustancias peligrosas para el medio ambiente. |"
+ },
+ {
+  "ref": "#/tables/21",
+  "pagina": 16,
+  "bbox_pt": [
+   17.469179153442383,
+   360.4797058105469,
+   544.91845703125,
+   451.8951416015625
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                          | Justificación                                                                                                        |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|\n| LÍQUIDOS INFLAMABLES - Categoría 3 IRRITACIÓN CUTÁNEA - Categoría 2 IRRITACIÓN OCULAR - Categoría 2A SENSIBILIZACIÓN CUTÁNEA - Categoría 1 PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 1 PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 1 | En base a datos de ensayos Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior."
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   35.13646697998047,
+   98.590087890625,
+   559.4671630859375,
+   272.84210205078125
+  ],
+  "filas": 7,
+  "columnas": 2,
+  "seccion": null,
+  "markdown": "|   SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO | SECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO                                                                                                                               |\n|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|                                      1.1 | Identificador SGA del producto: 407141521 - RECUBRIMIENTO ANTIGRAFFITI                                                                                               |\n|                                      1.2 | Uso recomendado del producto químico y restricciones:                                                                                                                |\n|                                          | Usos pertinentes: Recubrimiento, protección y decoración para sustratos al exterior.                                                                                 |\n|                                          | Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3                                                                           |\n|                                      1.3 | Datos sobre el proveedor: CORLANC S.A.S. Carrera 48 N° 72 sur 01 Avenida Las Vegas 055450 Sabaneta - Antioquia - Colombia                                            |\n|                                      1.4 | Tfno.: +57-4-3787800 materialesypinturascorona@corona.com.co https://www.corona.co Número de teléfono para emergencias: CISTEMA - ARL SURA 018000511414 - 0314055911 |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 2,
+  "bbox_pt": [
+   72.52232360839844,
+   398.0517578125,
+   548.3761596679688,
+   485.0131530761719
+  ],
+  "filas": 1,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| CAS:   | 1760-24-3   | N-(3-(trimetoxisilil)propil)etilenodiamina Les. Oc. 1: H318; Sens. Cut. 1: H317; Tox. Agud. 5: H303 - Peligro   | 1 - <10 %   |\n|--------|-------------|-----------------------------------------------------------------------------------------------------------------|-------------|\n\nPara ampliar información sobre la peligrosidad de la sustancias consultar las secciones 8, 11, 12, 15 y 16. La clasificación respecto"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   82.98690795898438,
+   632.3734741210938,
+   549.2026977539062,
+   714.3696899414062
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Proteccion obligatoria del las vias respiratorias   | Máscara autofiltrante para gases y vapores   | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes.   |\n|-----------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   85.16834259033203,
+   121.50617980957031,
+   547.305908203125,
+   187.9660186767578
+  ],
+  "filas": 0,
+  "columnas": 0,
+  "seccion": 8,
+  "markdown": ""
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   85.48699951171875,
+   223.9759979248047,
+   547.8423461914062,
+   289.83331298828125
+  ],
+  "filas": 0,
+  "columnas": 0,
+  "seccion": 8,
+  "markdown": ""
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.00529479980469,
+   304.3109436035156,
+   548.601318359375,
+   424.64459228515625
+  ],
+  "filas": 0,
+  "columnas": 0,
+  "seccion": 8,
+  "markdown": ""
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.53709411621094,
+   436.3922424316406,
+   549.1497802734375,
+   494.20819091796875
+  ],
+  "filas": 1,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Ducha de emergencia   | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011   | Lavaojos   | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011   |\n|-----------------------|------------------------------------------------|------------|-----------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   72.08281707763672,
+   135.4202423095703,
+   332.51641845703125,
+   344.3091735839844
+  ],
+  "filas": 15,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Densidad a 20 ºC:                              | 981,6 kg/m³    |\n|------------------------------------------------|----------------|\n| Densidad relativa a 20 ºC:                     | 0,982          |\n| Viscosidad dinámica a 20 ºC:                   | 6,59 cP        |\n| Viscosidad cinemática a 20 ºC:                 | 6,51 cSt       |\n| Viscosidad cinemática a 40 ºC:                 | <20,5 cSt      |\n| Concentración:                                 | No relevante * |\n| pH:                                            | No relevante * |\n| Densidad de vapor a 20 ºC:                     | No relevante * |\n| Coeficiente de reparto n-octanol/agua a 20 ºC: | No relevante * |\n| Solubilidad en agua a 20 ºC:                   | No relevante * |\n| Propiedad de solubilidad:                      | No relevante * |\n| Temperatura de descomposición:                 | No relevante * |\n| Punto de fusión/punto de congelación:          | No relevante * |\n| Propiedades explosivas:                        | No relevante * |\n| Propiedades comburentes:                       | No relevante * |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.47784423828125,
+   686.491455078125,
+   547.9513549804688,
+   709.6766357421875
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.5802001953125,
+   727.4149169921875,
+   548.0684204101562,
+   750.4581298828125
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   53.150882720947266,
+   119.75191497802734,
+   549.335205078125,
+   208.4641571044922
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                          | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|---------------------------------------------------------|-------------------|-------------------|----------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | DL50 oral         | 15000 mg/kg       | Rata     |\n| CAS: 64742-48-9                                         | DL50 cutánea      | 3160 mg/kg        | Conejo   |\n|                                                         | CL50 inhalación   | No relevante      |          |\n| N-(3-(trimetoxisilil)propil)etilenodiamina              | DL50 oral         | 2413 mg/kg        | Rata     |\n| CAS: 1760-24-3                                          | DL50 cutánea      | No relevante      |          |\n|                                                         | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.66409301757812,
+   273.2840270996094,
+   548.409423828125,
+   357.63238525390625
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                          | Toxicidad aguda   | Toxicidad aguda   | Especie                   | Género    |\n|---------------------------------------------------------|-------------------|-------------------|---------------------------|-----------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | CL50              | 2200 mg/L (96 h)  | Pimephales promelas       | Pez       |\n| CAS: 64742-48-9                                         | CE50              | 1000 mg/L (96 h)  | Daphnia magna             | Crustáceo |\n|                                                         | CE50              | No relevante      |                           |           |\n| N-(3-(trimetoxisilil)propil)etilenodiamina              | CL50              | 597 mg/L (96 h)   | Brachydanio rerio         | Pez       |\n| CAS: 1760-24-3                                          | CE50              | 81 mg/L (48 h)    | Daphnia magna             | Crustáceo |\n|                                                         | CE50              | 8,8 mg/L (72 h)   | Selenastrum capricornutum | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   73.29046630859375,
+   373.3251037597656,
+   547.9368896484375,
+   457.0522155761719
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                          | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|---------------------------------------------------------|------------------|------------------|---------------------|---------------------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | DBO5             | No relevante     | Concentración       | No relevante        |\n| CAS: 64742-48-9                                         | DQO              | No relevante     | Periodo             | 28 días             |\n|                                                         | DBO5/DQO         | No relevante     | % Biodegradado      | 89,9 %              |\n| N-(3-(trimetoxisilil)propil)etilenodiamina              | DBO5             | No relevante     | Concentración       | No relevante        |\n| CAS: 1760-24-3                                          | DQO              | No relevante     | Periodo             | 28 días             |\n|                                                         | DBO5/DQO         | No relevante     | % Biodegradado      | 39 %                |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.81263732910156,
+   471.8905334472656,
+   548.5692749023438,
+   520.4530639648438
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------------------------------|-------------------------------|-------------------------------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | BCF                           | 130                           |\n| CAS: 64742-47-8                                              | Log POW                       | 3,3                           |\n|                                                              | Potencial                     | Alto                          |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 8,
+  "bbox_pt": [
+   73.26210021972656,
+   536.3432006835938,
+   547.91796875,
+   584.692626953125
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                          | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad   |\n|---------------------------------------------------------|-----------------------|-----------------------|---------------|---------------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | Koc                   | 100                   | Henry         | No relevante  |\n| CAS: 64742-48-9                                         | Conclusión            | Alto                  | Suelo seco    | No relevante  |\n|                                                         | Tensión superficial   | No relevante          | Suelo húmedo  | No relevante  |"
+ }
+]

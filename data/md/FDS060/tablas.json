@@ -1,0 +1,282 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.9123764038086,
+   412.0952453613281,
+   549.0144653320312,
+   709.8291015625
+  ],
+  "filas": 13,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                                       | Concentración   |\n|------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 25036-25-3       | Copolimero epoxy epicloridrina/Bisfenol A (700 < MW < 1100) Irrit. Cut. 2: H315; Irrit. oc. 2: H319; Sens. Cut. 1: H317 - Atención                 | 10 - <25 %      |\n| CAS:             | 25036-25-3       | 4,4´-Isopropilidendifenol, Polímero con 2,2-Bis(p-(2,3-Epoxipropoxi)Fenil)Propan Sens. Cut. 1: H317 - Atención                                     | 10 - <25 %      |\n| CAS:             | 108-38-3         | m-xileno Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332 - Atención                                                               | 2.5 - <10 %     |\n| CAS:             | 1330-20-7        | Xileno Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332; Tox. Agud. 5: H303 - Atención                                             | 2.5 - <10 %     |\n| CAS:             | 100-41-4         | Etilbenceno Acuático agudo. 3: H402; Carc. 2: H351; Liq. Infl. 2: H225; Tox. Agud. 4: H332; Tox. Agud. 5: H303 - Peligro                           | 2.5 - <10 %     |\n| CAS:             | 95-47-6          | o-xileno Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332 - Atención                                                               | 2.5 - <10 %     |\n| CAS:             | 106-42-3         | p-xileno Irrit. Cut. 2: H315; Liq. Infl. 3: H226; Tox. Agud. 4: H312+H332 - Atención                                                               | 2.5 - <10 %     |\n| CAS:             | 110-80-5         | 2-etoxietanol Liq. Infl. 3: H226; Repr. 1B: H360; Tox. Agud. 4: H302+H332 - Peligro                                                                | 2.5 - <10 %     |\n| CAS:             | 108-65-6         | acetato de 2-metoxi-1-metiletilo Liq. Infl. 3: H226; STOT única 3: H336 - Atención                                                                 | 0.2 - <2.5 %    |\n| CAS:             | 14808-60-7       | Cuarzo (1 % < RCS < 10 %) Carc. 1B: H350; STOT repe. 2: H373 - Peligro                                                                             | 0.2 - <2.5 %    |\n| CAS:             | 64742-95-6       | Nafta disolvente (petróleo), fracción aromática ligera Carc. 1B: H350; Muta. 1B: H340; Tox. Agud. 5: H303; Tox. Asp. 1: H304 - Peligro             | 0.2 - <2.5 %    |\n| CAS:             | 108-31-6         | Anhídrido maleico Corr. Cut. 1B: H314; Les. Oc. 1: H318; Sens. Cut. 1A: H317; Sens. Resp.1: H334; STOT repe. 1: H372; Tox. Agud. 4: H302 - Peligro | <0.2 %          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 5,
+  "bbox_pt": [
+   82.53739166259766,
+   182.28248596191406,
+   549.031005859375,
+   387.15631103515625
+  ],
+  "filas": 15,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - m-xileno   | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales - 100 ppm   | Valores límite ambientales - 435 mg/m³   |\n|-----------------------------|-----------------------------------------------|----------------------------------------|------------------------------------------|\n| CAS: 108-38-3               | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Xileno                      | 8-hour TWA PEL                                | 100 ppm                                | 435 mg/m³                                |\n| CAS: 1330-20-7              | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Etilbenceno                 | 8-hour TWA PEL                                | 100 ppm                                | 435 mg/m³                                |\n| CAS: 100-41-4               | Ceiling Values - TWA PEL                      |                                        |                                          |\n| o-xileno                    | 8-hour TWA PEL                                | 100 ppm                                | 435 mg/m³                                |\n| CAS: 95-47-6                | Ceiling Values - TWA PEL                      |                                        |                                          |\n| p-xileno                    | 8-hour TWA PEL                                | 100 ppm                                | 435 mg/m³                                |\n| CAS: 106-42-3               | Ceiling Values - TWA PEL                      |                                        |                                          |\n| 2-etoxietanol               | 8-hour TWA PEL                                | 200 ppm                                | 740 mg/m³                                |\n| CAS: 110-80-5               | Ceiling Values - TWA PEL                      |                                        |                                          |\n| Anhídrido maleico           | 8-hour TWA PEL                                | 0.25 ppm                               | 1 mg/m³                                  |\n| CAS: 108-31-6               | Ceiling Values - TWA PEL                      |                                        |                                          |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   82.82100677490234,
+   404.559326171875,
+   549.5344848632812,
+   599.1083374023438
+  ],
+  "filas": 19,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación                   | Valores límite ambientales   | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------|------------------------------|------------------------------|------------------------------|\n| m-xileno                         | TLV-TWA                      | 100 ppm                      |                              |\n| CAS: 108-38-3                    | TLV-STEL                     | 150 ppm                      |                              |\n| Xileno                           | TLV-TWA                      | 100 ppm                      |                              |\n| CAS: 1330-20-7                   | TLV-STEL                     | 150 ppm                      |                              |\n| Etilbenceno                      | TLV-TWA                      | 20 ppm                       |                              |\n| CAS: 100-41-4                    | TLV-STEL                     |                              |                              |\n| o-xileno                         | TLV-TWA                      | 100 ppm                      |                              |\n| CAS: 95-47-6                     | TLV-STEL                     | 150 ppm                      |                              |\n| p-xileno                         | TLV-TWA                      | 100 ppm                      |                              |\n| CAS: 106-42-3                    | TLV-STEL                     | 150 ppm                      |                              |\n| 2-etoxietanol                    | TLV-TWA                      | 5 ppm                        |                              |\n| CAS: 110-80-5                    | TLV-STEL                     |                              |                              |\n| acetato de 2-metoxi-1-metiletilo | TLV-TWA                      | 50 ppm                       |                              |\n| CAS: 108-65-6                    | TLV-STEL                     | 75 ppm                       |                              |\n| Cuarzo (1 % < RCS < 10 %)        | TLV-TWA                      |                              | 0.025 mg/m³                  |\n| CAS: 14808-60-7                  | TLV-STEL                     |                              |                              |\n| Anhídrido maleico                | TLV-TWA                      | 0.1 ppm                      |                              |\n| CAS: 108-31-6                    | TLV-STEL                     |                              |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   72.107421875,
+   630.1549682617188,
+   548.932373046875,
+   767.1026611328125
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "Indices de exposición biológicos (BEIs®) - ACGIH\n\n| Identificación              | BEIs®                  | Determinante                                                | Momento de muestreo                              |\n|-----------------------------|------------------------|-------------------------------------------------------------|--------------------------------------------------|\n| m-xileno CAS: 108-38-3      | 1500 mg/g (Creatinina) | Ácidos metilhipúricos en orina                              | Fin del turno                                    |\n| Xileno CAS: 1330-20-7       | 1500 mg/g (Creatinina) | Ácidos metilhipúricos en orina                              | Fin del turno                                    |\n| Etilbenceno CAS: 100-41-4   | 150 mg/g (Creatinina)  | Suma de ácido mandélico y ácido fenilglioxílico en la orina | Fin del turno                                    |\n| o-xileno CAS: 95-47-6       | 1500 mg/g (Creatinina) | Ácidos metilhipúricos en orina                              | Fin del turno                                    |\n| p-xileno CAS: 106-42-3      | 1500 mg/g (Creatinina) | Ácidos metilhipúricos en orina                              | Fin del turno                                    |\n| 2-etoxietanol CAS: 110-80-5 | 100 mg/g (Creatinina)  | Ácido 2-etoxiacético en la orina                            | Al final del turno al final de la semana laboral |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 6,
+  "bbox_pt": [
+   85.68045806884766,
+   275.0014953613281,
+   548.2180786132812,
+   350.1442565917969
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 6,
+  "bbox_pt": [
+   85.87435913085938,
+   362.06475830078125,
+   549.0117797851562,
+   428.8430480957031
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                                                                        | Observaciones                                                                                                 |\n|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección química (Material: Polietileno de baja densidad lineal (LLPDE), Tiempo de penetración: > 480 min, Espesor: 0.062 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   75.78244018554688,
+   462.2099914550781,
+   549.89306640625,
+   539.2979736328125
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   85.5050277709961,
+   545.5449829101562,
+   548.5016479492188,
+   664.6318969726562
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                                                       |\n|------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                          |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   88.01237487792969,
+   678.3056030273438,
+   547.851318359375,
+   735.51220703125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   47.6388053894043,
+   439.2057189941406,
+   549.1660766601562,
+   507.4320983886719
+  ],
+  "filas": 5,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción - No aplicable   | Contacto con el aire - No aplicable   | Calentamiento - Riesgo de inflamación   | Luz Solar - Evitar incidencia directa   | Humedad - No aplicable         |\n|------------------------------------|---------------------------------------|-----------------------------------------|-----------------------------------------|--------------------------------|\n| 10.5 Materiales incompatibles:     |                                       |                                         |                                         |                                |\n| Ácidos                             | Agua                                  | Materias comburentes                    | Materias combustibles                   | Otros                          |\n| Evitar ácidos fuertes              | No aplicable                          | Evitar incidencia directa               | No aplicable                            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   72.08784484863281,
+   584.2081298828125,
+   548.2103271484375,
+   744.2570190429688
+  ],
+  "filas": 13,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|------------------|-------------------|-------------------|----------|\n| m-xileno         | DL50 oral         | 1590 mg/kg        | Ratón    |\n| CAS: 108-38-3    | DL50 cutánea      | 1100 mg/kg (ATEi) |          |\n|                  | CL50 inhalación   | 11 mg/L (ATEi)    |          |\n| o-xileno         | DL50 oral         | 1590 mg/kg        | Ratón    |\n| CAS: 95-47-6     | DL50 cutánea      | 1100 mg/kg (ATEi) |          |\n|                  | CL50 inhalación   | 11 mg/L (ATEi)    |          |\n| p-xileno         | DL50 oral         | 1590 mg/kg        | Ratón    |\n| CAS: 106-42-3    | DL50 cutánea      | 1100 mg/kg (ATEi) |          |\n|                  | CL50 inhalación   | 11 mg/L (ATEi)    |          |\n| Etilbenceno      | DL50 oral         | 3500 mg/kg        | Rata     |\n| CAS: 100-41-4    | DL50 cutánea      | 15354 mg/kg       | Conejo   |\n|                  | CL50 inhalación   | 17.2 mg/L (4 h)   | Rata     |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   71.81009674072266,
+   130.06039428710938,
+   547.9901123046875,
+   325.9870300292969
+  ],
+  "filas": 16,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                         | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------------------------------------------|-------------------|-------------------|----------|\n| Xileno                                                 | DL50 oral         | 3523 mg/kg        | Rata     |\n| CAS: 1330-20-7                                         | DL50 cutánea      | 1100 mg/kg        |          |\n| CAS: 1330-20-7                                         | CL50 inhalación   | 11 mg/L (ATEi)    |          |\n| acetato de 2-metoxi-1-metiletilo                       | DL50 oral         | 8532 mg/kg        | Rata     |\n| CAS: 108-65-6                                          | DL50 cutánea      | >5000 mg/kg       | Rata     |\n| CAS: 108-65-6                                          | CL50 inhalación   | 30 mg/L (4 h)     | Rata     |\n| 2-etoxietanol                                          | DL50 oral         | 500 mg/kg (ATEi)  |          |\n| CAS: 110-80-5                                          | DL50 cutánea      | No relevante      |          |\n| CAS: 110-80-5                                          | CL50 inhalación   | 3 mg/L (ATEi)     |          |\n| Nafta disolvente (petróleo), fracción aromática ligera | DL50 oral         | 3500 mg/kg        | Rata     |\n| CAS: 64742-95-6                                        | DL50 cutánea      | No relevante      |          |\n| CAS: 64742-95-6                                        | CL50 inhalación   | No relevante      |          |\n| Anhídrido maleico                                      | DL50 oral         | 1090 mg/kg        | Rata     |\n| CAS: 108-31-6                                          | DL50 cutánea      | No relevante      |          |\n| CAS: 108-31-6                                          | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 10,
+  "bbox_pt": [
+   73.13497161865234,
+   426.0323486328125,
+   549.1220092773438,
+   652.711181640625
+  ],
+  "filas": 19,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                                         | Concentración   | Concentración    | Especie                   | Género    |\n|------------------------------------------------------------------------|-----------------|------------------|---------------------------|-----------|\n| m-xileno CAS: 108-38-3                                                 | CL50            | 16 mg/L (96 h)   | Carassius auratus         | Pez       |\n| m-xileno CAS: 108-38-3                                                 | CE50            | 9.56 mg/L (48 h) | Daphnia magna             | Crustáceo |\n| m-xileno CAS: 108-38-3                                                 | CE50            | No relevante     |                           |           |\n| Etilbenceno CAS: 100-41-4                                              | CL50            | 42.3 mg/L (96 h) | Pimephales promelas       | Pez       |\n| Etilbenceno CAS: 100-41-4                                              | CE50            | 75 mg/L (48 h)   | Daphnia magna             | Crustáceo |\n| Etilbenceno CAS: 100-41-4                                              | CE50            | 63 mg/L (3 h)    | Chlorella vulgaris        | Alga      |\n| o-xileno CAS: 95-47-6                                                  | CL50            | 16.1 mg/L (96 h) | Lepomis macrochirus       | Pez       |\n| o-xileno CAS: 95-47-6                                                  | CE50            | 1.39 mg/L (48 h) | Daphnia magna             | Crustáceo |\n| o-xileno CAS: 95-47-6                                                  | CE50            | No relevante     |                           |           |\n| p-xileno CAS: 106-42-3                                                 | CL50            | 2.6 mg/L (96 h)  | Oncorhynchus mykiss       | Pez       |\n| p-xileno CAS: 106-42-3                                                 | CE50            | 8.5 mg/L (48 h)  | Daphnia magna             | Crustáceo |\n| p-xileno CAS: 106-42-3                                                 | CE50            | No relevante     |                           |           |\n| acetato de 2-metoxi-1-metiletilo CAS: 108-65-6                         | CL50            | 161 mg/L (96 h)  | Pimephales promelas       | Pez       |\n|                                                                        | CE50            | 481 mg/L (48 h)  | Daphnia sp.               | Crustáceo |\n|                                                                        | CE50            | No relevante     |                           |           |\n| Nafta disolvente (petróleo), fracción aromática ligera CAS: 64742-95-6 | CL50            | 320 mg/L (48 h)  | Leuciscus idus melanotos  | Pez       |\n|                                                                        | CE50            | 170 mg/L (24 h)  | Daphnia magna             | Crustáceo |\n|                                                                        | CE50            | 56 mg/L (72 h)   | Selenastrum capricornutum | Alga      |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 10,
+  "bbox_pt": [
+   72.79582214355469,
+   667.5371704101562,
+   548.3206176757812,
+   754.8366088867188
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Concentración   | Concentración   | Especie             | Género    |\n|------------------|-----------------|-----------------|---------------------|-----------|\n| m-xileno         | NOEC            | 0.714 mg/L      | Danio rerio         | Pez       |\n| CAS: 108-38-3    | NOEC            | 1.57 mg/L       | Daphnia magna       | Crustáceo |\n| Xileno           | NOEC            | 1.3 mg/L        | Oncorhynchus mykiss | Pez       |\n| CAS: 1330-20-7   | NOEC            | 1.17 mg/L       | Ceriodaphnia dubia  | Crustáceo |\n| Etilbenceno      | NOEC            | No relevante    |                     |           |\n| CAS: 100-41-4    | NOEC            | 0.96 mg/L       | Ceriodaphnia dubia  | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 11,
+  "bbox_pt": [
+   72.74849700927734,
+   130.8419189453125,
+   548.2381591796875,
+   218.32794189453125
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                   | Concentración   | Concentración   | Especie             | Género    |\n|----------------------------------|-----------------|-----------------|---------------------|-----------|\n| o-xileno                         | NOEC            | 1.3 mg/L        | Oncorhynchus mykiss | Pez       |\n| CAS: 95-47-6                     | NOEC            | 1.57 mg/L       | Daphnia magna       | Crustáceo |\n| p-xileno                         | NOEC            | 0.714 mg/L      | Danio rerio         | Pez       |\n| CAS: 106-42-3                    | NOEC            | 1.57 mg/L       | Daphnia magna       | Crustáceo |\n| acetato de 2-metoxi-1-metiletilo | NOEC            | 47.5 mg/L       | Oryzias latipes     | Pez       |\n| CAS: 108-65-6                    | NOEC            | 100 mg/L        | Daphnia magna       | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 11,
+  "bbox_pt": [
+   72.85724639892578,
+   246.3116912841797,
+   547.8434448242188,
+   473.435302734375
+  ],
+  "filas": 19,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Xileno CAS:                                           | Degradabilidad - DBO5   | Degradabilidad - No relevante   | Biodegradabilidad - Concentración   | Biodegradabilidad - No relevante   |\n|------------------------------------------------------------------------|-------------------------|---------------------------------|-------------------------------------|------------------------------------|\n| 1330-20-7                                                              | DQO                     | No relevante                    | Periodo                             | 28 días                            |\n|                                                                        | DBO5/DQO                | No relevante                    | % Biodegradado                      | 88 %                               |\n| Etilbenceno                                                            | DBO5                    | No relevante                    | Concentración                       | 100 mg/L                           |\n| CAS: 100-41-4                                                          | DQO                     | No relevante                    | Periodo                             | 14 días                            |\n|                                                                        | DBO5/DQO                | No relevante                    | % Biodegradado                      | 90 %                               |\n| o-xileno                                                               | DBO5                    | No relevante                    | Concentración                       | 36 mg/L                            |\n| CAS: 95-47-6                                                           | DQO                     | No relevante                    | Periodo                             | 28 días                            |\n|                                                                        | DBO5/DQO                | No relevante                    | % Biodegradado                      | 70 %                               |\n| acetato de 2-metoxi-1-metiletilo                                       | DBO5                    | No relevante                    | Concentración                       | 785 mg/L                           |\n| CAS: 108-65-6                                                          | DQO                     | No relevante                    | Periodo                             | 8 días                             |\n|                                                                        | DBO5/DQO                | No relevante                    | % Biodegradado                      | 100 %                              |\n| Nafta disolvente (petróleo), fracción aromática ligera CAS: 64742-95-6 | DBO5                    | 0.19 g O2/g                     | Concentración                       | No relevante                       |\n|                                                                        | DQO                     | 0.44 g O2/g                     | Periodo                             | No relevante                       |\n|                                                                        | DBO5/DQO                | 0.43                            | % Biodegradado                      | No relevante                       |\n| Anhídrido maleico                                                      | DBO5                    | No relevante                    | Concentración                       | 33.33 mg/L                         |\n| CAS: 108-31-6                                                          | DQO                     | No relevante                    | Periodo                             | 29 días                            |\n|                                                                        | DBO5/DQO                | No relevante                    | % Biodegradado                      | 98.19 %                            |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 11,
+  "bbox_pt": [
+   72.39778900146484,
+   500.7167663574219,
+   549.7130737304688,
+   766.44091796875
+  ],
+  "filas": 22,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                         | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------------------------|-------------------------------|-------------------------------|\n| m-xileno CAS: 108-38-3                                 | BCF                           | 15                            |\n| m-xileno CAS: 108-38-3                                 | Log POW                       | 3.2                           |\n| m-xileno CAS: 108-38-3                                 | Potencial                     | Bajo                          |\n| Xileno                                                 | BCF                           | 9                             |\n| CAS: 1330-20-7                                         | Log POW                       | 2.77                          |\n| CAS: 1330-20-7                                         | Potencial                     | Bajo                          |\n| Etilbenceno CAS:                                       | BCF                           | 1                             |\n| 100-41-4                                               | Log POW                       | 3.15                          |\n| 100-41-4                                               | Potencial                     | Bajo                          |\n| o-xileno                                               | BCF                           | 6                             |\n| CAS: 95-47-6                                           | Log POW                       | 3.12                          |\n| CAS: 95-47-6                                           | Potencial                     | Bajo                          |\n| p-xileno                                               | BCF                           | 15                            |\n| CAS: 106-42-3                                          | Log POW                       | 3.15                          |\n| CAS: 106-42-3                                          | Potencial                     | Bajo                          |\n| acetato de 2-metoxi-1-metiletilo                       | BCF                           | 1                             |\n| CAS: 108-65-6                                          | Log POW                       | 0.43                          |\n| CAS: 108-65-6                                          | Potencial                     | Bajo                          |\n| Nafta disolvente (petróleo), fracción aromática ligera | BCF                           |                               |\n| CAS: 64742-95-6                                        | Log POW                       | 4                             |\n| CAS: 64742-95-6                                        | Potencial                     |                               |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 12,
+  "bbox_pt": [
+   72.50138092041016,
+   130.49818420410156,
+   548.141845703125,
+   180.5487060546875
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación    | Potencial de bioacumulación   |   Potencial de bioacumulación |\n|-------------------|-------------------------------|-------------------------------|\n| Anhídrido maleico | BCF                           |                               |\n| CAS: 108-31-6     | Log POW                       |                         -2.61 |\n|                   | Potencial                     |                               |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 12,
+  "bbox_pt": [
+   73.14045715332031,
+   194.72686767578125,
+   547.9550170898438,
+   464.3739013671875
+  ],
+  "filas": 22,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                  | Absorción/Desorción   | Absorción/Desorción      | Volatilidad   | Volatilidad      |\n|---------------------------------|-----------------------|--------------------------|---------------|------------------|\n| m-xileno CAS: 108-38-3          | Koc                   | 182                      | Henry         | 790.34 Pa·m³/mol |\n| m-xileno CAS: 108-38-3          | Conclusión            | Moderado                 | Suelo seco    | Sí               |\n| m-xileno CAS: 108-38-3          | Tensión superficial   | 2.826E-2 N/m (25 ºC)     | Suelo húmedo  | Sí               |\n| Xileno CAS: 1330-20-7           | Koc                   | 202                      | Henry         | 524.86 Pa·m³/mol |\n| Xileno CAS: 1330-20-7           | Conclusión            | Moderado                 | Suelo seco    | Sí               |\n| Xileno CAS: 1330-20-7           | Tensión superficial   | No relevante             | Suelo húmedo  | Sí               |\n| Etilbenceno CAS: 100-41-4       | Koc                   | 520                      | Henry         | 798.44 Pa·m³/mol |\n| Etilbenceno CAS: 100-41-4       | Conclusión            | Moderado                 | Suelo seco    | Sí               |\n| Etilbenceno CAS: 100-41-4       | Tensión superficial   | 2.859E-2 N/m (25 ºC)     | Suelo húmedo  | Sí               |\n| o-xileno CAS: 95-47-6           | Koc                   | 537                      | Henry         | 524.86 Pa·m³/mol |\n| o-xileno CAS: 95-47-6           | Conclusión            | Bajo                     | Suelo seco    | Sí               |\n| o-xileno CAS: 95-47-6           | Tensión superficial   | 2.96E-2 N/m (25 ºC)      | Suelo húmedo  | Sí               |\n| p-xileno CAS: 106-42-3          | Koc                   | 540                      | Henry         | 699.14 Pa·m³/mol |\n| p-xileno CAS: 106-42-3          | Conclusión            | Bajo                     | Suelo seco    | Sí               |\n| p-xileno CAS: 106-42-3          | Tensión superficial   | 2.792E-2 N/m (25 ºC)     | Suelo húmedo  | Sí               |\n| 2-etoxietanol CAS: 110-80-5     | Koc                   | No relevante             | Henry         | No relevante     |\n| 2-etoxietanol CAS: 110-80-5     | Conclusión            | No relevante             | Suelo seco    | No relevante     |\n| 2-etoxietanol CAS: 110-80-5     | Tensión superficial   | 2.973E-2 N/m (25 ºC)     | Suelo húmedo  | No relevante     |\n| Anhídrido maleico CAS: 108-31-6 | Koc                   | 42                       | Henry         | 0E+0 Pa·m³/mol   |\n|                                 | Conclusión            | Muy Alto                 | Suelo seco    | No relevante     |\n|                                 | Tensión superficial   | 1.673E-2 N/m (250.21 ºC) | Suelo húmedo  | No relevante     |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 14,
+  "bbox_pt": [
+   142.62445068359375,
+   132.5651092529297,
+   341.44146728515625,
+   321.0165100097656
+  ],
+  "filas": 8,
+  "columnas": 3,
+  "seccion": 14,
+  "markdown": "|   14.1 | Número ONU:                                                                  | UN1263        |\n|--------|------------------------------------------------------------------------------|---------------|\n|   14.2 | Designación oficial de transporte de las Naciones Unidas:                    | PINTURA       |\n|   14.3 | Clase(s) relativas al transporte: Etiquetas:                                 | 3 3           |\n|   14.4 | Grupo de embalaje/envasado si se aplica:                                     | III           |\n|   14.5 | Riesgos ambientales:                                                         | No            |\n|   14.6 | Precauciones especiales para                                                 | el usuario    |\n|        | Propiedades físico-químicas:                                                 | Ver sección 9 |\n|   14.7 | Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código IBC: | No relevante  |"
+ }
+]

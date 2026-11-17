@@ -1,0 +1,240 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   73.03749553706022,
+   672.1574149973092,
+   548.2581163403812,
+   761.7201657140736
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación   | Concentración   |\n|------------------|------------------|--------------------------------|-----------------|\n| CAS:             | 13463-67-7       | Dioxido de titanio             | 10 - <25 %      |\n| CAS:             | 111-77-3         | 2-(2-Metoxietoxi)etanol        | 0.1 - <2.5 %    |\n| CAS:             | 13463-41-7       | Piritionato cincico            | 0.1 - <2.5 %    |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   82.08052729766642,
+   132.7283158327225,
+   549.0105215105915,
+   170.0605427069222
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación     | Valores límite ambientales   | Valores límite ambientales   |\n|--------------------|------------------------------|------------------------------|\n| Dioxido de titanio | 8-hour TWA PEL               | 15 mg/m³                     |\n| CAS: 13463-67-7    | Ceiling Values - TWA PEL     |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   82.88113542492759,
+   187.8499676644151,
+   549.141562819513,
+   217.75401891567924
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación     | Valores límite ambientales   | Valores límite ambientales   |\n|--------------------|------------------------------|------------------------------|\n| Dioxido de titanio | TLV-TWA                      | 10 mg/m³                     |\n| CAS: 13463-67-7    | TLV-STEL                     |                              |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   85.82897796426045,
+   361.96168926175585,
+   548.4921491666448,
+   435.8967450284618
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   86.31186884630448,
+   449.258882868171,
+   548.3301311313706,
+   522.645105548777
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   84.15135651658846,
+   554.2460671902835,
+   548.5711764055291,
+   624.1586959527167
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 4,
+  "bbox_pt": [
+   85.81343624550225,
+   636.1321100650887,
+   549.1674174100121,
+   768.9268374162614
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                                                             | EPP                                            | Observaciones                                                                                                                                       |\n|----------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo Protección obligatoria de pies  <!-- image -->  Icon | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| los                                                                                    | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.89035768649723,
+   135.43793324087687,
+   547.9690815314991,
+   192.5988945822818
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.8434793971529,
+   498.6127995680856,
+   547.956885969943,
+   521.371419872003
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar   | Humedad      |\n|---------------------|------------------------|-----------------|-------------|--------------|\n| No aplicable        | No aplicable           | Precaución      | Precaución  | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.89437299997215,
+   539.6546908866537,
+   547.9637764622222,
+   562.2488839583951
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   72.52307150616743,
+   682.5378068343136,
+   548.2912272900063,
+   768.8299504237956
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación      | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|---------------------|-------------------|-------------------|----------|\n| Dioxido de titanio  | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7     | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                     | CL50 inhalación   | No relevante      |          |\n| Piritionato cincico | DL50 oral         | 221 mg/kg         | Rata     |\n| CAS: 13463-41-7     | DL50 cutánea      | No relevante      |          |\n|                     | CL50 inhalación   | 0,14 mg/L (4 h)   | Rata     |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   36.00271544795709,
+   99.31394146337072,
+   559.2588787309276,
+   175.7990226038844
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "|                                                 |                                                 |                                                 |                                                 |\n|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|\n| SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) | SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) | SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) | SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA (continúa) |\n| Identificación                                  | Toxicidad aguda                                 | Toxicidad aguda                                 | Género                                          |\n| 2-(2-Metoxietoxi)etanol                         | DL50 oral                                       | 7128 mg/kg                                      | Rata                                            |\n| CAS: 111-77-3                                   | DL50 cutánea                                    | 9404 mg/kg                                      | Conejo                                          |\n| CAS: 111-77-3                                   | CL50 inhalación                                 | No relevante                                    |                                                 |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.86683389753304,
+   251.8097662614473,
+   548.1733571875656,
+   336.123612301208
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación          | Concentración   | Concentración     | Especie             | Género    |\n|-------------------------|-----------------|-------------------|---------------------|-----------|\n| 2-(2-Metoxietoxi)etanol | CL50            | 5741 mg/L (96 h)  | Pimephales promelas | Pez       |\n| CAS: 111-77-3           | CE50            | 1192 mg/L (48 h)  | Daphnia magna       | Crustáceo |\n|                         | CE50            | No relevante      |                     |           |\n| Piritionato cincico     | CL50            | 0,003 mg/L (96 h) | Pimephales promelas | Pez       |\n| CAS: 13463-41-7         | CE50            | 0,008 mg/L (48 h) | Daphnia magna       | Crustáceo |\n|                         | CE50            | No relevante      |                     |           |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   73.01681643799648,
+   350.8456457171587,
+   548.3939139183096,
+   388.7611926878433
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación      | Concentración   | Concentración   | Especie       | Género    |\n|---------------------|-----------------|-----------------|---------------|-----------|\n| Piritionato cincico | NOEC            | No relevante    |               |           |\n| CAS: 13463-41-7     | NOEC            | 0,022 mg/L      | Daphnia magna | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 8,
+  "bbox_pt": [
+   72.37175507615878,
+   403.69005664816376,
+   548.1374412587826,
+   452.5857430225653
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación          | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|-------------------------|------------------|------------------|---------------------|---------------------|\n| 2-(2-Metoxietoxi)etanol | DBO5             | No relevante     | Concentración       | No relevante        |\n| CAS: 111-77-3           | DQO              | No relevante     | Periodo             | 28 días             |\n|                         | DBO5/DQO         | No relevante     | % Biodegradado      | 100 %               |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 8,
+  "bbox_pt": [
+   73.05305250027037,
+   467.6074061740322,
+   548.4219027320811,
+   516.2708200167476
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación          | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|-------------------------|-------------------------------|-------------------------------|\n| 2-(2-Metoxietoxi)etanol | BCF                           | 3                             |\n| CAS: 111-77-3           | Log POW                       | -1,18                         |\n| CAS: 111-77-3           | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 9,
+  "bbox_pt": [
+   72.57962080065836,
+   120.44347379707096,
+   547.8287106179872,
+   170.36511441119774
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación          | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad        |\n|-------------------------|-----------------------|-----------------------|---------------|--------------------|\n| 2-(2-Metoxietoxi)etanol | Koc                   | 1                     | Henry         | 1,621E-6 Pa·m³/mol |\n| CAS: 111-77-3           | Conclusión            | Muy Alto              | Suelo seco    | No relevante       |\n|                         | Tensión superficial   | 3,59E-2 N/m (25 ºC)   | Suelo húmedo  | No                 |"
+ }
+]

@@ -1,0 +1,221 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   29.52478790283203,
+   659.2406005859375,
+   558.0939331054688,
+   750.31494140625
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente                              | %         | Número CAS   |\n|----------------------------------------------------|-----------|--------------|\n| xileno                                             | ≥25 - ≤50 | 1330-20-7    |\n| Tolueno                                            | ≥10 - ≤25 | 108-88-3     |\n| Acetato de n-butilo                                | ≥10 - ≤25 | 123-86-4     |\n| etilbenceno                                        | ≤10       | 100-41-4     |\n| acetato de etilo                                   | ≤3        | 141-78-6     |\n| sebacato de bis(1,2,2,6,6-pentametil-4-piperidilo) | ≤0.3      | 41556-26-7   |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   36.030338287353516,
+   232.61138916015625,
+   557.7951049804688,
+   643.6712036132812
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | Enjuagar los ojos inmediatamente con mucha agua, levantando ocasionalmente los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos por 10 minutos. Procurar atención médica. :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | Transportar la víctima al aire libre y mantenerla en reposo en una posición que le facilite la respiración. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda dar respiración boca a boca. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. Si está inconsciente, coloque en posición de recuperación y obtenga atención médica inmediatamente. Asegure una buena circulación de aire. Aflojar todo lo que pudiera estar apretado, como el cuello de una camisa, una corbata, un cinturón. :                                                                                                                               |\n| Contacto con la piel    | Lavar con abundante agua y jabón. Quítese la ropa y calzado contaminados. Lave bien la ropa contaminada con agua antes de quitársela, o use guantes. Continúe enjuagando por lo menos por 10 minutos. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. En el caso de que existan quejas o síntomas, evite otras exposiciones. Lavar la ropa antes de volver a usarla. Limpiar el calzado completamente antes de volver a usarlo. :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| Ingestión               | Lave la boca con agua. Retirar las prótesis dentales si es posible. Transportar la víctima al aire libre y mantenerla en reposo en una posición que le facilite la respiración. Si se ha ingerido el material y la persona expuesta está consciente, proporcione cantidades pequeñas de agua para beber. Deténgase si la persona expuesta se siente descompuesta porque vomitar sería peligroso. No inducir al vómito a menos que lo indique expresamente el personal médico. En caso de vómito, se debe mantener la cabeza baja de manera que el vómito no entre en los pulmones. Procurar atención médica. Si es necesario, llame a un Centro de Control de Envenenamiento o a un médico. No suministrar nada por vía oral a una persona inconsciente. Si está inconsciente, coloque en posición de recuperación y obtenga atención médica inmediatamente. Asegure una buena circulación de aire. Aflojar todo lo que pudiera estar apretado, como el cuello de una camisa, una corbata, un cinturón. : |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   43.361881256103516,
+   690.470458984375,
+   551.4548950195312,
+   753.8096923828125
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Provoca irritación ocular grave.                                                                                                                                |\n|-------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Nocivo si se inhala. Puede causar una depresión del sistema nervioso central (SNC). Puede provocar somnolencia o vértigo. Puede irritar las vías respiratorias. |\n| Contacto con la piel    | :   | Puede ser nocivo en contacto con la piel. Provoca irritación cutánea. Puede provocar una reacción cutánea alérgica.                                             |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 7,
+  "bbox_pt": [
+   36.82916259765625,
+   113.42048645019531,
+   561.4414672851562,
+   281.48382568359375
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente   | Límites de exposición                                                                     |\n|-------------------------|-------------------------------------------------------------------------------------------|\n| xileno                  | NOM-010-STPS-2014 (México, 4/2016). VLE-CT: 150 ppm 15 minutos. VLE-PPT: 100 ppm 8 horas. |\n| Tolueno                 | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 20 ppm 8 horas.                              |\n| Acetato de n-butilo     | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 150 ppm 8 horas. VLE-CT: 200 ppm 15 minutos. |\n| etilbenceno             | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 20 ppm 8 horas.                              |\n| acetato de etilo        | NOM-010-STPS-2014 (México, 4/2016). VLE-PPT: 400 ppm 8 horas.                             |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 8,
+  "bbox_pt": [
+   31.994802474975586,
+   111.84040832519531,
+   559.4838256835938,
+   269.0434265136719
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Protección del cuerpo                | :   | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos.   |\n|--------------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Otro tipo de protección para la piel | :   | Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                           |\n| Protección de las vías respiratorias | :   | Con base en el riesgo y el potencial de la exposición, seleccione un respirador que cumpla la norma o la certificación apropiada. Los respiradores se deben usar de acuerdo con un programa de protección respiratoria para asegurar el ajuste adecuado, la capacitación y otros aspectos importantes de uso.                                                                                                                                                       |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 9,
+  "bbox_pt": [
+   37.499855041503906,
+   333.51043701171875,
+   561.080810546875,
+   529.359619140625
+  ],
+  "filas": 6,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente   | Resultado                                                                                                                                         | Especies                                          | Dosis                                                                                                                                             | Exposición                                      |\n|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|\n| xileno                             | CL50 Por inhalación Gas. DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral TDLo Cutánea CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral | Rata Rata Rata Rata Rata Rata Rata Rata Rata Rata | 5000 ppm 4300 mg/kg 49 g/m³ 5001 mg/kg 5001 mg/kg 26.4 mg/kg 21.1 mg/l >17600 10768 mg/kg >5000 mg/kg 3500 mg/kg 22.6 mg/l 20001 mg/kg 5620 mg/kg | 4 horas - 4 horas - - - 4 horas - - - - 4 horas |\n| Tolueno                            |                                                                                                                                                   |                                                   |                                                                                                                                                   |                                                 |\n| Acetato de n-butilo                |                                                                                                                                                   | Conejo                                            | mg/kg                                                                                                                                             |                                                 |\n| etilbenceno                        | DL50 Cutánea DL50 Oral                                                                                                                            | Conejo                                            |                                                                                                                                                   |                                                 |\n| acetato de etilo                   | CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral                                                                                                  | Conejo Rata                                       |                                                                                                                                                   | - -                                             |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   38.125030517578125,
+   546.2787475585938,
+   561.3057250976562,
+   741.2260131835938
+  ],
+  "filas": 3,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente | Resultado | Especies | Puntuación | Exposición | Observación |\n|---|---|---|---|---|---|\n| xileno | Ojos - Irritante leve Ojos - Irritante fuerte Piel - Irritante leve Piel - Irritante moderado Piel - Irritante moderado | Conejo Conejo Rata Conejo Conejo | - - - - - | 87 milligrams 24 horas 5 milligrams 8 horas 60 microliters 24 horas 500 milligrams 100 Percent | - - - - - |\n| Tolueno | Piel - Irritante leve Piel - Irritante leve | Cerdo Conejo | - - | 24 horas 250 microliters 435 milligrams | - - |\n| etilbenceno | Piel - Irritante leve | Conejo | - | 24 horas 15 milligrams | - |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "3 filas; columna ancla 1 (Nombre de producto o ingrediente)",
+  "markdown_original": "| Nombre de producto o ingrediente   | Resultado                                                                                                                                                                                 | Especies                                             | Puntuación      | Exposición                                                                                                                                                    | Observación     |\n|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| xileno Tolueno etilbenceno         | Ojos - Irritante leve Ojos - Irritante fuerte Piel - Irritante leve Piel - Irritante moderado Piel - Irritante moderado Piel - Irritante leve Piel - Irritante leve Piel - Irritante leve | Conejo Conejo Rata Conejo Conejo Cerdo Conejo Conejo | - - - - - - - - | 87 milligrams 24 horas 5 milligrams 8 horas 60 microliters 24 horas 500 milligrams 100 Percent 24 horas 250 microliters 435 milligrams 24 horas 15 milligrams | - - - - - - - - |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   38.14207077026367,
+   285.9322814941406,
+   560.89794921875,
+   377.4825439453125
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre              | Categoría   | Ruta de exposición   | Órganos vitales                      |\n|---------------------|-------------|----------------------|--------------------------------------|\n| xileno              | Categoría 3 | No aplicable.        | Irritación de las vías respiratorias |\n| Tolueno             | Categoría 3 | No aplicable.        | Efecto narcótico                     |\n| Acetato de n-butilo | Categoría 3 | No aplicable.        | Efecto narcótico                     |\n| acetato de etilo    | Categoría 3 | No aplicable.        | Efecto narcótico                     |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 10,
+  "bbox_pt": [
+   38.71122741699219,
+   395.0596008300781,
+   561.1290283203125,
+   452.51513671875
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre              | Categoría               | Ruta de exposición            | Órganos vitales               |\n|---------------------|-------------------------|-------------------------------|-------------------------------|\n| Tolueno etilbenceno | Categoría 2 Categoría 2 | No determinado No determinado | No determinado No determinado |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   38.221317291259766,
+   470.0376892089844,
+   561.2211303710938,
+   526.8746948242188
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                     | Resultado                                                                                                      |\n|----------------------------|----------------------------------------------------------------------------------------------------------------|\n| xileno Tolueno etilbenceno | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 12,
+  "bbox_pt": [
+   37.159942626953125,
+   113.13237762451172,
+   561.7824096679688,
+   193.1304473876953
+  ],
+  "filas": 4,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Ruta | Valor ETA (estimación de toxicidad aguda según GHS) |\n|---|---|\n| Oral | 11392.5 mg/kg |\n| Cutánea | 3815.23 mg/kg |\n| Inhalación (gases) | 17341.95 ppm |\n| Inhalación (vapores) | 151.64 mg/l |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "4 filas; columna ancla 1 (Ruta)",
+  "markdown_original": "| Ruta                                                 | Valor ETA (estimación de toxicidad aguda según GHS)   |\n|------------------------------------------------------|-------------------------------------------------------|\n| Oral Cutánea Inhalación (gases) Inhalación (vapores) | 11392.5 mg/kg 3815.23 mg/kg 17341.95 ppm 151.64 mg/l  |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 12,
+  "bbox_pt": [
+   32.55631637573242,
+   266.3012390136719,
+   561.343994140625,
+   564.2962036132812
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| xileno | EC50 3.82 mg/l Agudo CL50 13400 µg/l Agua fresca | Crustáceos - Penaeus monodon Pez - Pimephales promelas | 48 horas 96 horas |\n| Tolueno | Agudo EC50 12500 µg/l Agua fresca Agudo EC50 11600 µg/l Agua fresca Agudo EC50 5.56 mg/l Agua fresca Agudo CL50 5500 µg/l Agua fresca Crónico NOEC 2 mg/l Agua fresca | Algas - Pseudokirchneriella subcapitata Crustáceos - Gammarus pseudolimnaeus - Adulto Dafnia - Daphnia magna - Neonato Pez - Oncorhynchus kisutch - Alevín Dafnia - Daphnia magna | 72 horas 48 horas 48 horas 96 horas 21 días |\n| Acetato de n-butilo | Agudo CL50 185000 µg/l Agua de mar | Pez - Menidia beryllina | 96 horas |\n| etilbenceno | Agudo CL50 13.3 mg/l Agua de mar Agudo CL50 13.9 mg/l Agua fresca | Crustáceos - Artemia sp. - Nauplio Dafnia - Daphnia magna - Neonato | 48 horas 48 horas |\n| acetato de etilo | Agudo EC50 2500000 µg/l Agua fresca Agudo CL50 750000 µg/l Agua fresca Agudo CL50 154000 µg/l Agua fresca Agudo CL50 212500 µg/l Agua fresca Crónico NOEC 2400 µg/l Agua fresca Crónico NOEC 75.6 mg/l Agua fresca | Algas - Selenastrum sp. Crustáceos - Gammarus pulex Dafnia - Daphnia cucullata Pez - Heteropneustes fossilis Dafnia - Daphnia magna Pez - Pimephales promelas - Embrión | 96 horas 48 horas 48 horas 96 horas 21 días 32 días |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "5 filas; columna ancla 1 (Nombre de producto o ingrediente)",
+  "markdown_original": "| Nombre de producto o ingrediente                                | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Especies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Exposición                                                                                                                                   |\n|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|\n| xileno Tolueno Acetato de n-butilo etilbenceno acetato de etilo | EC50 3.82 mg/l Agudo CL50 13400 µg/l Agua fresca Agudo EC50 12500 µg/l Agua fresca Agudo EC50 11600 µg/l Agua fresca Agudo EC50 5.56 mg/l Agua fresca Agudo CL50 5500 µg/l Agua fresca Crónico NOEC 2 mg/l Agua fresca Agudo CL50 185000 µg/l Agua de mar Agudo CL50 13.3 mg/l Agua de mar Agudo CL50 13.9 mg/l Agua fresca Agudo EC50 2500000 µg/l Agua fresca Agudo CL50 750000 µg/l Agua fresca Agudo CL50 154000 µg/l Agua fresca Agudo CL50 212500 µg/l Agua fresca Crónico NOEC 2400 µg/l Agua fresca Crónico NOEC 75.6 mg/l Agua fresca | Crustáceos - Penaeus monodon Pez - Pimephales promelas Algas - Pseudokirchneriella subcapitata Crustáceos - Gammarus pseudolimnaeus - Adulto Dafnia - Daphnia magna - Neonato Pez - Oncorhynchus kisutch - Alevín Dafnia - Daphnia magna Pez - Menidia beryllina Crustáceos - Artemia sp. - Nauplio Dafnia - Daphnia magna - Neonato Algas - Selenastrum sp. Crustáceos - Gammarus pulex Dafnia - Daphnia cucullata Pez - Heteropneustes fossilis Dafnia - Daphnia magna Pez - Pimephales promelas - Embrión | 48 horas 96 horas 72 horas 48 horas 48 horas 96 horas 21 días 96 horas 48 horas 48 horas 96 horas 48 horas 48 horas 96 horas 21 días 32 días |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 12,
+  "bbox_pt": [
+   32.57762908935547,
+   595.6177368164062,
+   561.1134643554688,
+   704.8759765625
+  ],
+  "filas": 5,
+  "columnas": 6,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente   | Prueba           | Resultado        | Resultado      | Dosis     | Inóculo           |\n|------------------------------------|------------------|------------------|----------------|-----------|-------------------|\n| xileno                             | OECD 301 F       | 90 % - 28 días   | 90 % - 28 días | -         | -                 |\n| Nombre de producto o ingrediente   | Período acuático | Período acuático | Fotólisis      | Fotólisis | Biodegradabilidad |\n| xileno                             | -                | -                | -              | -         | Fácil             |\n| Tolueno                            | -                | -                | -              | -         | Fácil             |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 13,
+  "bbox_pt": [
+   32.216705322265625,
+   112.78436279296875,
+   561.8111572265625,
+   204.61337280273438
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre de producto o ingrediente   |   LogPow | FBC        | Potencial   |\n|------------------------------------|----------|------------|-------------|\n| xileno                             |     3.12 | 8.1 a 25.9 | bajo        |\n| Tolueno                            |     2.73 | 90         | bajo        |\n| Acetato de n-butilo                |      2.3 | -          | bajo        |\n| etilbenceno                        |      3.6 | -          | bajo        |\n| acetato de etilo                   |     0.71 | 30         | bajo        |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 13,
+  "bbox_pt": [
+   32.33290481567383,
+   544.9966430664062,
+   561.391845703125,
+   768.1842651367188
+  ],
+  "filas": 5,
+  "columnas": 6,
+  "seccion": 14,
+  "markdown": "|                                   | Clasificación DOT   | Clasificación para el TDG   | Clasificación de México   | IMDG    | IATA    |\n|-----------------------------------|---------------------|-----------------------------|---------------------------|---------|---------|\n| Número ONU                        | UN1263              | UN1263                      | UN1263                    | UN1263  | UN1263  |\n| Designación oficial de transporte | PINTURA             | PINTURA                     | PINTURA                   | PINTURA | PINTURA |\n| Clase(s) relativas al transporte  | 3                   | 3                           | 3                         | 3       | 3       |\n| Grupo de embalaje                 | II                  | II                          | II                        | II      | II      |"
+ }
+]

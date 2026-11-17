@@ -1,0 +1,70 @@
+[
+  {
+    "id": "P01",
+    "configuracion": "k3",
+    "metrica": "faithfulness",
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 45.4,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P01",
+    "configuracion": "k3",
+    "metrica": "context_precision",
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 1,
+    "segundos": 57.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P01",
+    "configuracion": "k3",
+    "metrica": "context_recall",
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 23.3,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P07",
+    "configuracion": "k3",
+    "metrica": "faithfulness",
+    "estado": "ok",
+    "valor": 0.8571428571428571,
+    "intentos": 1,
+    "segundos": 62.3,
+    "razon": null,
+    "errores_previos": []
+  },
+  {
+    "id": "P07",
+    "configuracion": "k3",
+    "metrica": "context_precision",
+    "estado": "ok",
+    "valor": 0.49999999995,
+    "intentos": 2,
+    "segundos": 39.7,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  {
+    "id": "P07",
+    "configuracion": "k3",
+    "metrica": "context_recall",
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 10.8,
+    "razon": null,
+    "errores_previos": []
+  }
+]

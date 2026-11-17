@@ -1,0 +1,240 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   72.684326171875,
+   681.2940673828125,
+   548.5570068359375,
+   767.0725708007812
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                                                                       | Concentración   |\n|------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención                                                        | 10 - <25 %      |\n| CAS:             | 111-76-2         | 2-butoxietanol Irrit. Cut. 2: H315; Irrit. oc. 2: H319; Liq. Infl. 4: H227; Tox. Agud. 4: H302+H332; Tox. Agud. 5: H313 - Atención | 2 - <10 %       |\n| CAS:             | 1333-86-4        | Negro de carbon Carc. 2: H351 - Atención                                                                                           | <2 %            |\n\n- CONTINÚA EN LA SIGUIENTE PÁGINA -"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   82.91190338134766,
+   132.1723175048828,
+   548.7960205078125,
+   222.7890625
+  ],
+  "filas": 1,
+  "columnas": 1,
+  "seccion": 8,
+  "markdown": "| Identificación  Valores límite ambientales  Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)  8-hour TWA PEL  15 mg/m³  CAS: 13463-67-7  Ceiling Values - TWA  PEL  2-butoxietanol  8-hour TWA PEL  50 ppm  240 mg/m³  CAS: 111-76-2  Ceiling Values - TWA  PEL  Negro de carbon  8-hour TWA PEL  3.5 mg/m³  CAS: 1333-86-4  Ceiling Values - TWA  PEL   |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   83.01956939697266,
+   240.65003967285156,
+   548.724609375,
+   309.3022766113281
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) - CAS: 13463-67-7   | Valores límite ambientales - TLV-TWA - TLV-STEL   | Valores límite ambientales   | Valores límite ambientales - 10 mg/m³   |\n|-----------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------|-----------------------------------------|\n| 2-butoxietanol                                                                          | TLV-TWA                                           | 20 ppm                       |                                         |\n| CAS: 111-76-2                                                                           | TLV-STEL                                          |                              |                                         |\n| Negro de carbon                                                                         | TLV-TWA                                           |                              | 3 mg/m³                                 |\n| CAS: 1333-86-4                                                                          | TLV-STEL                                          |                              |                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   72.68785095214844,
+   340.7894287109375,
+   548.40625,
+   369.9544677734375
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación               | BEIs®                 | Determinante                          | Momento de muestreo   |\n|------------------------------|-----------------------|---------------------------------------|-----------------------|\n| 2-butoxietanol CAS: 111-76-2 | 200 mg/g (Creatinina) | Ácido butoxiacético (BAA) en la orina | Fin del turno         |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   86.73921966552734,
+   515.3381958007812,
+   548.7329711914062,
+   588.1925659179688
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   85.84971618652344,
+   601.8366088867188,
+   548.3961791992188,
+   674.7236328125
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.65814971923828,
+   120.37261962890625,
+   548.4468994140625,
+   187.56101989746094
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   85.56019592285156,
+   201.08197021484375,
+   548.489501953125,
+   332.86053466796875
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                                                                       |\n|------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 5,
+  "bbox_pt": [
+   86.85176849365234,
+   347.1997375488281,
+   547.8546142578125,
+   403.66314697265625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.5576400756836,
+   711.8963623046875,
+   547.7587890625,
+   733.9652099609375
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar   | Humedad      |\n|---------------------|------------------------|-----------------|-------------|--------------|\n| No aplicable        | No aplicable           | Precaución      | Precaución  | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 6,
+  "bbox_pt": [
+   71.4695816040039,
+   751.8403930664062,
+   548.961181640625,
+   765.4619750976562
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos   | Agua   | Materias comburentes   | Materias combustibles   | Otros   |\n|----------|--------|------------------------|-------------------------|---------|"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.64176940917969,
+   282.5835266113281,
+   547.9788208007812,
+   369.0714111328125
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda      | Género   |\n|----------------------------------------------------|-------------------|----------------------|----------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg          | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg          | Conejo   |\n|                                                    | CL50 inhalación   | No relevante         |          |\n| 2-butoxietanol                                     | DL50 oral         | 1200 mg/kg           | Rata     |\n| CAS: 111-76-2                                      | DL50 cutánea      | 3000 mg/kg           | Conejo   |\n|                                                    | CL50 inhalación   | 11 mg/L (4 h) (ATEi) |          |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.79557800292969,
+   448.592529296875,
+   548.1411743164062,
+   533.8814086914062
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Concentración   | Concentración    | Especie                         | Género    |\n|------------------|-----------------|------------------|---------------------------------|-----------|\n| 2-butoxietanol   | CL50            | 1490 mg/L (96 h) | Lepomis macrochirus             | Pez       |\n| CAS: 111-76-2    | CE50            | 1815 mg/L (48 h) | Daphnia magna                   | Crustáceo |\n|                  | CE50            | 911 mg/L (72 h)  | Pseudokirchneriella subcapitata | Alga      |\n| Negro de carbon  | CL50            | 1000 mg/L (96 h) | Brachydanio rerio               | Pez       |\n| CAS: 1333-86-4   | CE50            | 5600 mg/L (24 h) | Daphnia magna                   | Crustáceo |\n|                  | CE50            | No relevante     |                                 |           |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 9,
+  "bbox_pt": [
+   72.4267807006836,
+   120.94368743896484,
+   548.1234130859375,
+   158.8844451904297
+  ],
+  "filas": 3,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Concentración   | Concentración   | Especie       | Género    |\n|------------------|-----------------|-----------------|---------------|-----------|\n| 2-butoxietanol   | NOEC            | 100 mg/L        | Danio rerio   | Pez       |\n| CAS: 111-76-2    | NOEC            | 100 mg/L        | Daphnia magna | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 9,
+  "bbox_pt": [
+   73.0998306274414,
+   174.23895263671875,
+   547.7709350585938,
+   222.9671630859375
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|------------------|------------------|------------------|---------------------|---------------------|\n| 2-butoxietanol   | DBO5             | 0.71 g O2/g      | Concentración       | 100 mg/L            |\n| CAS: 111-76-2    | DQO              | 2.2 g O2/g       | Periodo             | 14 días             |\n|                  | DBO5/DQO         | 0.32             | % Biodegradado      | 96 %                |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 9,
+  "bbox_pt": [
+   72.96772003173828,
+   238.25367736816406,
+   548.4445190429688,
+   286.253173828125
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación   | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|------------------|-------------------------------|-------------------------------|\n| 2-butoxietanol   | BCF                           | 3                             |\n| CAS: 111-76-2    | Log POW                       | 0.83                          |\n|                  | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 9,
+  "bbox_pt": [
+   72.93172454833984,
+   302.151611328125,
+   547.8571166992188,
+   350.5266418457031
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad        |\n|------------------|-----------------------|-----------------------|---------------|--------------------|\n| 2-butoxietanol   | Koc                   | 8                     | Henry         | 1.621E-1 Pa·m³/mol |\n| CAS: 111-76-2    | Conclusión            | Muy Alto              | Suelo seco    | No                 |\n|                  | Tensión superficial   | 2.729E-2 N/m (25 ºC)  | Suelo húmedo  | Sí                 |"
+ }
+]

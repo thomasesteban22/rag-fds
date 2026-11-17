@@ -1,0 +1,14 @@
+{
+  "fecha": "2026-11-16T16:27:23",
+  "generador": "llama3.2",
+  "temperatura": 0.0,
+  "num_ctx": 8192,
+  "seed": 42,
+  "embeddings": "bge-m3",
+  "chunk_max_chars": 1500,
+  "chunk_overlap_chars": 200,
+  "configuraciones": {
+    "k3": 3,
+    "k6": 6
+  }
+}

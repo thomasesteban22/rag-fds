@@ -1,0 +1,184 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.82882185660753,
+   121.01897673618203,
+   547.9903627864147,
+   163.054905412905
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación   | Concentración   |\n|------------------|------------------|--------------------------------|-----------------|\n| CAS:             | 100-42-5         | Estireno                       | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   82.34354744930397,
+   233.42721353490106,
+   549.0562548664273,
+   271.2523712868589
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación - Estireno   | Valores límite ambientales - 8-hour TWA PEL   | Valores límite ambientales - 100 ppm   |\n|-----------------------------|-----------------------------------------------|----------------------------------------|\n| CAS: 100-42-5               | Ceiling Values - TWA PEL                      | 200 ppm                                |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   82.87226315389545,
+   288.30384133526934,
+   549.1372943729683,
+   318.451772643608
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación   | Valores límite ambientales   | Valores límite ambientales   |\n|------------------|------------------------------|------------------------------|\n| Estireno         | TLV-TWA                      | 20 ppm                       |\n| CAS: 100-42-5    | TLV-STEL                     | 40 ppm                       |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   72.2731615832028,
+   349.89199827651794,
+   548.6061166893876,
+   387.3396140200508
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación         | BEIs®                 | Determinante                                          | Momento de muestreo   |\n|------------------------|-----------------------|-------------------------------------------------------|-----------------------|\n| Estireno CAS: 100-42-5 | 400 mg/g (Creatinina) | Ácido mandélico más ácido fenilglioxílico en la orina | Fin del turno         |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   87.64302963461652,
+   531.5056894624034,
+   548.4653189312212,
+   606.5514374547672
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 4,
+  "bbox_pt": [
+   86.8429931743033,
+   619.114898232213,
+   548.1232944073773,
+   692.3532279218007
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                 |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección contra riesgos menores | Reemplazar los guantes ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable la utilización de guantes de protección química |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   85.6829513590768,
+   120.19885396998177,
+   549.3015076093226,
+   188.6551730063975
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                                                    | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas panorámicas contra salpicaduras y/o proyecciones | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.0681862819595,
+   200.74379295222263,
+   548.0476209479211,
+   312.23624023147545
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma   | EPP                                  | Observaciones                                                                                                                                                                                                                                    |\n|--------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|              | Ropa de trabajo                      | NORMATIVIDAD APLICABLE: EN ISO 13688. Reemplazar ante cualquier indicio de deterioro. Para periodos de exposición prolongados al producto para usuarios profesionales/industriales se hace recomendable ropa de trabajo para protección química. |\n|              | Calzado de trabajo antideslizamiento | Reemplazar ante cualquier indicio de deterioro.                                                                                                                                                                                                  |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 5,
+  "bbox_pt": [
+   86.7395367011768,
+   325.5744918888481,
+   548.0576213083972,
+   382.62357254861934
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.86008822754727,
+   683.528702076529,
+   547.8868224688025,
+   705.3817218582986
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar   | Humedad      |\n|---------------------|------------------------|-----------------|-------------|--------------|\n| No aplicable        | No aplicable           | Precaución      | Precaución  | No aplicable |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 6,
+  "bbox_pt": [
+   73.07383831049772,
+   723.8122757443679,
+   548.1051230206587,
+   745.942289824497
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   66.73626230329477,
+   120.40698864499632,
+   549.322849842046,
+   172.67777275466017
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|------------------|-------------------|-------------------|----------|\n| Estireno         | DL50 oral         | No relevante      |          |\n| CAS: 100-42-5    | DL50 cutánea      | No relevante      |          |\n|                  | CL50 inhalación   | 12 mg/L (4 h)     | Rata     |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   73.13374138441662,
+   321.924298852481,
+   547.9577396592518,
+   371.5218973206001
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad   |\n|------------------|-----------------------|-----------------------|---------------|---------------|\n| Estireno         | Koc                   | No relevante          | Henry         | No relevante  |\n| CAS: 100-42-5    | Conclusión            | No relevante          | Suelo seco    | No relevante  |\n|                  | Tensión superficial   | 3,21E-2 N/m (25 ºC)   | Suelo húmedo  | No relevante  |"
+ }
+]

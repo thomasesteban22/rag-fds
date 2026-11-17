@@ -1,0 +1,532 @@
+{
+  "k3|P01|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 2,
+    "segundos": 2.6,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k3|P01|context_precision": {
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 1,
+    "segundos": 23.0,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P01|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 6.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P02|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 3.8,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P02|context_precision": {
+    "estado": "ok",
+    "valor": 0.3333333333,
+    "intentos": 1,
+    "segundos": 6.8,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P02|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.8,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P03|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 5.4,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P03|context_precision": {
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 1,
+    "segundos": 6.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P03|context_recall": {
+    "estado": "ok",
+    "valor": 0.75,
+    "intentos": 1,
+    "segundos": 2.0,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P04|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 2,
+    "segundos": 9.3,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k3|P04|context_precision": {
+    "estado": "ok",
+    "valor": 0.99999999995,
+    "intentos": 2,
+    "segundos": 4.0,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k3|P04|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.6,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P05|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 3.2,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P05|context_precision": {
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 2,
+    "segundos": 3.1,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k3|P05|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 5.6,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P06|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 2.1,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P06|context_precision": {
+    "estado": "ok",
+    "valor": 0.99999999995,
+    "intentos": 2,
+    "segundos": 8.2,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k3|P06|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 4.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P07|faithfulness": {
+    "estado": "ok",
+    "valor": 0.8,
+    "intentos": 1,
+    "segundos": 3.3,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P07|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 21.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P07|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.2,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P08|faithfulness": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 4.0,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P08|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 4.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P08|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 2.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P09|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 8.9,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P09|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 5.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P09|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P10|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 3.3,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P10|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 12.6,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k3|P10|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 2.3,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P01|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 2,
+    "segundos": 9.7,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P01|context_precision": {
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 6,
+    "segundos": 11.7,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "intento 2: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "intento 3: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "intento 4: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "intento 5: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P01|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.6,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P02|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 2,
+    "segundos": 5.4,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P02|context_precision": {
+    "estado": "ok",
+    "valor": 0.3333333333,
+    "intentos": 2,
+    "segundos": 19.8,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P02|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.0,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P03|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 2,
+    "segundos": 1.9,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P03|context_precision": {
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 1,
+    "segundos": 6.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P03|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.8,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P04|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 7.2,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P04|context_precision": {
+    "estado": "ok",
+    "valor": 0.99999999995,
+    "intentos": 1,
+    "segundos": 10.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P04|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P05|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 2.1,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P05|context_precision": {
+    "estado": "ok",
+    "valor": 0.9999999999,
+    "intentos": 1,
+    "segundos": 6.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P05|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.6,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P06|faithfulness": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 6.8,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P06|context_precision": {
+    "estado": "ok",
+    "valor": 0.99999999995,
+    "intentos": 2,
+    "segundos": 5.5,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P06|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 5.2,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P07|faithfulness": {
+    "estado": "ok",
+    "valor": 0.6666666666666666,
+    "intentos": 2,
+    "segundos": 5.3,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P07|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 8.4,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P07|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.8,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P08|faithfulness": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 2.0,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P08|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 1,
+    "segundos": 16.3,
+    "razon": null,
+    "errores_previos": [],
+    "corridas_fallidas_previas": [
+      {
+        "estado": "fallo",
+        "valor": null,
+        "intentos": 6,
+        "errores": [
+          "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+          "intento 2: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+          "intento 3: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+          "intento 4: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+          "intento 5: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+          "intento 6: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        ]
+      }
+    ]
+  },
+  "k6|P08|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.6,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P09|faithfulness": {
+    "estado": "ok",
+    "valor": 0.3333333333333333,
+    "intentos": 1,
+    "segundos": 2.7,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P09|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 3,
+    "segundos": 16.7,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "intento 2: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P09|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 1,
+    "segundos": 1.5,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P10|faithfulness": {
+    "estado": "ok",
+    "valor": 0.5,
+    "intentos": 1,
+    "segundos": 2.4,
+    "razon": null,
+    "errores_previos": []
+  },
+  "k6|P10|context_precision": {
+    "estado": "ok",
+    "valor": 0.0,
+    "intentos": 2,
+    "segundos": 11.0,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    ]
+  },
+  "k6|P10|context_recall": {
+    "estado": "ok",
+    "valor": 1.0,
+    "intentos": 2,
+    "segundos": 1.7,
+    "razon": null,
+    "errores_previos": [
+      "intento 1: InstructorRetryException: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Q"
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   43.82685470581055,
+   268.4134521484375,
+   572.334716796875,
+   306.1313171386719
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 1,
+  "markdown": "| Restricciones de uso   | Motivo   |\n|------------------------|----------|\n| No aplicable.          |          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 3,
+  "bbox_pt": [
+   40.76018142700195,
+   222.28074645996094,
+   569.9901123046875,
+   361.593994140625
+  ],
+  "filas": 11,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre de ingrediente                                      | %          | Número CAS                             |\n|------------------------------------------------------------|------------|----------------------------------------|\n| White spirit                                               | 10 - <12.5 | 64742-82-1 8052-41-3 7727-43-7 96-29-7 |\n| Disolvente Stoddard                                        | 10 - <12.5 |                                        |\n| Sulfato de bario                                           | 7 - <10    |                                        |\n| Dióxido de titanio                                         | 7 - <10    | 13463-67-7                             |\n| nafta disolvente (petróleo), fracción alifática intermedia | 7 - <10    | 64742-88-7                             |\n| ácido 2-etilhexanoico, sal de circonio                     | 1 - <2     | 22464-99-9                             |\n| nafta disolvente (petróleo), fracción aromática pesada     | 1 - <2     | 64742-94-5                             |\n| butanona-oxima                                             | 0.1 - <0.2 |                                        |\n| bis(2-etilhexanoato) de cobalto                            | 0.1 - <0.2 | 136-52-7                               |\n| Etilbenceno                                                | 0.1 - <0.2 | 100-41-4                               |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   44.73554229736328,
+   494.8164978027344,
+   563.6491088867188,
+   616.9993286132812
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 4,
+  "markdown": "| Contacto con los ojos   | :   | Quítese los lentes de contacto, lavar inmediatamente con abundante agua fresca y limpia, manteniendo los párpados separados durante al menos 10 minutos y busque atención médica inmediata.                            |\n|-------------------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Por inhalación          | :   | Traslade al aire libre. Mantenga a la persona caliente y en reposo. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. |\n| Contacto con la piel    | :   | Quítese la ropa y calzado contaminados. Lavar perfectamente la piel con agua y jabón, o con un limpiador cutáneo reconocido. NO utilizar disolventes ni diluyentes.                                                    |\n| Ingestión               | :   | En caso de ingestión, acúdase inmediatamente al médico y muéstrele la etiqueta o el envase. Mantenga a la persona caliente y en reposo. No provocar el vómito.                                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 6,
+  "bbox_pt": [
+   46.78483963012695,
+   467.17919921875,
+   569.9600830078125,
+   648.21142578125
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre de ingrediente                                      | Límites de exposición                                                                                  |\n|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|\n| Disolvente Stoddard                                        | ACGIH TLV (Estados Unidos, 1/2021). TWA: 525 mg/m³ 8 horas. TWA: 100 ppm 8 horas.                      |\n| Sulfato de bario                                           | ACGIH TLV (Estados Unidos, 1/2021). TWA: 5 mg/m³ 8 horas. Estado: Fracción inhalable                   |\n| Dióxido de titanio                                         | ACGIH TLV (Estados Unidos, 1/2021). TWA: 10 mg/m³ 8 horas.                                             |\n| nafta disolvente (petróleo), fracción alifática intermedia | ACGIH TLV (Estados Unidos). TWA: 400 ppm                                                               |\n| ácido 2-etilhexanoico, sal de circonio                     | ACGIH TLV (Estados Unidos, 1/2021). STEL: 10 mg/m³, (as Zr) 15 minutos. TWA: 5 mg/m³, (as Zr) 8 horas. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 7,
+  "bbox_pt": [
+   43.03878402709961,
+   66.75562286376953,
+   565.910888671875,
+   628.5916137695312
+  ],
+  "filas": 10,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Procedimientos de control recomendados       | :                                | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas.                                                                                                                                                         |\n|----------------------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Controles técnicos apropiados                | :                                | Use sólo con ventilación adecuada. Utilizar recintos de proceso, sistemas de ventilación locales, u otros procedimientos de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por debajo del menor límite de explosión. Utilizar equipo de ventilación anti-explosión.                                                                                                                                                                                                      |\n| Control de la exposición medioambiental      | :                                | Emisiones de los equipos de ventilación o de procesos de trabajo deben ser evaluados para verificar que cumplen con los requisitos de la legislación de protección del medio ambiente. En algunos casos será necesario el uso de eliminadores de humo, filtros o modificaciones del diseño del equipo del proceso para reducir las emisiones a un nivel aceptable.                                                                                                                                                                                                                                                                                      |\n| Medidas de protección individual             | Medidas de protección individual | Medidas de protección individual                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |\n| Medidas de higiene                           | :                                | Lave las manos, antebrazos y cara completamente después de manejar productos químicos, antes de comer, fumar y usar el lavabo y al final del período de trabajo. Usar las técnicas apropiadas para remover ropa contaminada. La ropa de trabajo contaminada no debe salir del lugar de trabajo. Lavar las ropas contaminadas antes de volver a usarlas. Verifique que las estaciones de lavado de ojos y duchas de seguridad se encuentren cerca de las estaciones de trabajo.                                                                                                                                                                          |\n| Protección de los ojos Protección de la piel | :                                | Gafas protectoras contra salpicaduras químicas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Protección de las manos                      | :                                | Guantes impermeables y resistentes a productos químicos que cumplan con las normas aprobadas deben ser usados siempre que se manejen productos químicos si una evaluación del riesgo indica que es necesario. Teniendo en cuenta los parámetros especificados por el fabricante de los guantes, se debe verificar durante el uso si aún mantienen sus propiedades protectoras. Es preciso tener presente que el tiempo de penetración para el material de los guantes puede ser diferente en cada fabricante. En el caso de mezclas formadas por varias sustancias no se puede estimar con exactitud el periodo de tiempo de protección de los guantes. |\n| Guantes                                      | :                                | caucho butílico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| Protección del cuerpo                        | :                                | Antes de utilizar este producto se debe seleccionar equipo protector personal para el cuerpo basándose en la tarea a ejecutar y los riesgos involucrados y debe ser aprobado por un especialista. Cuando existe riesgo de ignición debido a la electricidad estática, se requiere el uso de ropa antiestática de protección. Para obtener el máximo nivel de protección contra descargas electrostáticas es preciso usar overoles, botas y guantes antiestáticos.                                                                                                                                                                                       |\n| Otro tipo de protección para la piel         | :                                | Antes de manipular este producto se debe elegir el calzado apropiado y cualquier otra medida adicional de protección de la piel basadas en la tarea que se realice y los riesgos asociados, para lo cual se contará con la aprobación de un especialista.                                                                                                                                                                                                                                                                                                                                                                                               |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 9,
+  "bbox_pt": [
+   43.543949127197266,
+   202.78488159179688,
+   567.0224609375,
+   521.8242797851562
+  ],
+  "filas": 14,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Dosis | Exposición |\n|---|---|---|---|---|\n| White spirit | DL50 Oral | Rata | >5000 mg/kg | - |\n| Disolvente Stoddard | DL50 Oral | Rata | >5 g/kg | - |\n| Sulfato de bario | DL50 Cutánea DL50 Oral | Rata Rata | >2000 mg/kg >5000 mg/kg | - - |\n| Dióxido de titanio | CL50 Por inhalación Polvo y nieblas DL50 Cutánea DL50 Oral | Rata Conejo Rata | >6.82 mg/l >5000 mg/kg >5000 mg/kg | 4 horas - - |\n| nafta disolvente (petróleo), | DL50 Cutánea | Conejo | >3000 mg/kg | - |\n| fracción alifática intermedia | DL50 Oral | Rata | >5000 mg/kg | - |\n| ácido 2-etilhexanoico, sal de | DL50 Cutánea | Conejo | >5 g/kg | - |\n| circonio | DL50 Oral | Rata | >5 g/kg | - |\n| nafta disolvente (petróleo), | CL50 Por inhalación Polvo y | Rata | >5.2 mg/l | 4 horas |\n| fracción aromática pesada | nieblas DL50 Oral | Rata | >5 g/kg | - |\n| butanona-oxima | DL50 Cutánea DL50 Oral | Conejo Rata | 1100 mg/kg 100 mg/kg | - - |\n| bis(2-etilhexanoato) de | DL50 Cutánea | Conejo | >5 g/kg | - |\n| cobalto | DL50 Oral | Rata | 3129 mg/kg | - |\n| Etilbenceno | CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral | Rata Conejo Rata | 17.8 mg/l 17.8 g/kg 3.5 g/kg | 4 horas - - |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "14 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente                                                                                                                                                                                                                                                        | Resultado                                                                                                                                                                                                                                                                                        | Especies                                                                                                        | Dosis                                                                                                                                                                                                         | Exposición                                                |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|\n| White spirit Disolvente Stoddard Sulfato de bario Dióxido de titanio nafta disolvente (petróleo), fracción alifática intermedia ácido 2-etilhexanoico, sal de circonio nafta disolvente (petróleo), fracción aromática pesada butanona-oxima bis(2-etilhexanoato) de cobalto Etilbenceno | DL50 Oral DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Polvo y nieblas DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Polvo y nieblas DL50 Oral DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral | Rata Rata Rata Rata Rata Conejo Rata Conejo Rata Conejo Rata Rata Rata Conejo Rata Conejo Rata Rata Conejo Rata | >5000 mg/kg >5 g/kg >2000 mg/kg >5000 mg/kg >6.82 mg/l >5000 mg/kg >5000 mg/kg >3000 mg/kg >5000 mg/kg >5 g/kg >5 g/kg >5.2 mg/l >5 g/kg 1100 mg/kg 100 mg/kg >5 g/kg 3129 mg/kg 17.8 mg/l 17.8 g/kg 3.5 g/kg | - - - - 4 horas - - - - - - 4 horas - - - - - 4 horas - - |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   55.13978958129883,
+   676.9877319335938,
+   418.5351867675781,
+   701.3289184570312
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Piel         | : No existen datos disponibles sobre la mezcla en sí.   |\n|--------------|---------------------------------------------------------|\n| Respiratoria | : No existen datos disponibles sobre la mezcla en sí.   |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   51.67605209350586,
+   185.5724639892578,
+   573.6416625976562,
+   266.1299133300781
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | OSHA   | IARC   | NTP                                                       |\n|-------------------------------------|--------|--------|-----------------------------------------------------------|\n| Dióxido de titanio                  | -      | 2B     | -                                                         |\n| bis(2-etilhexanoato) de cobalto     | -      | 2B     | Se anticipa razonablemente que sea un carcinógeno humano. |\n| Etilbenceno                         | -      | 2B     | -                                                         |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 10,
+  "bbox_pt": [
+   44.242156982421875,
+   455.5438232421875,
+   566.822265625,
+   559.2909545898438
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                                                        | Categoría                                                   | Ruta de exposición   | Órganos diana                                                                                    |\n|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------|\n| White spirit nafta disolvente (petróleo), fracción alifática intermedia nafta disolvente (petróleo), fracción aromática pesada butanona-oxima | Categoría 3 Categoría 3 Categoría 3 Categoría 1 Categoría 3 | - - - -              | Efecto narcótico Efecto narcótico Efecto narcótico tracto respiratorio superior Efecto narcótico |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   43.68099594116211,
+   579.8519897460938,
+   567.1372680664062,
+   705.6936645507812
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                     | Categoría   | Ruta de exposición   | Órganos diana                  |\n|------------------------------------------------------------|-------------|----------------------|--------------------------------|\n| White spirit                                               | Categoría 1 | -                    | sistema nervioso central (SNC) |\n| Disolvente Stoddard                                        | Categoría 1 | -                    | sistema nervioso central (SNC) |\n| nafta disolvente (petróleo), fracción alifática intermedia | Categoría 1 | -                    | sistema nervioso central (SNC) |\n| butanona-oxima                                             | Categoría 2 | -                    | sistema sanguíneo              |\n| Etilbenceno                                                | Categoría 2 | -                    | órganos auditivos              |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 10,
+  "bbox_pt": [
+   38.42885208129883,
+   707.4154663085938,
+   572.72119140625,
+   727.2242431640625
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| Spanish (MX)   | Colombia   | 10/15   |\n|----------------|------------|---------|"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 11,
+  "bbox_pt": [
+   44.06246566772461,
+   157.60110473632812,
+   567.0498046875,
+   237.72628784179688
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                                                                         | Resultado                                                                                                                                                                                |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| White spirit Disolvente Stoddard nafta disolvente (petróleo), fracción alifática intermedia nafta disolvente (petróleo), fracción aromática pesada Etilbenceno | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 12,
+  "bbox_pt": [
+   46.983882904052734,
+   543.7616577148438,
+   556.1229858398438,
+   655.6337280273438
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| Generales              | :   | Provoca daños en los órganos tras exposiciones prolongadas o repetidas. El contacto prolongado o repetido puede desengrasar la piel y conducir a irritación, agrietamiento y/o dermatitis. Una vez que la persona esté sensibilizada, puede ocurrir una reacción alérgica severa si posteriormente se expone incluso a muy bajos niveles.   |\n|------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Carcinogenicidad       | :   | Puede provocar cáncer. El riesgo de cáncer depende de la duración y el grado de exposición.                                                                                                                                                                                                                                                 |\n| Mutagenicidad          | :   | No se conocen efectos significativos o riesgos críticos.                                                                                                                                                                                                                                                                                    |\n| Toxicidad reproductiva | :   | Puede perjudicar la fertilidad o dañar al feto.                                                                                                                                                                                                                                                                                             |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 12,
+  "bbox_pt": [
+   38.68456268310547,
+   708.1751708984375,
+   570.6018676757812,
+   727.248046875
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 11,
+  "markdown": "| Spanish (MX)   | Colombia   | 12/15   |\n|----------------|------------|---------|"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 13,
+  "bbox_pt": [
+   38.39677047729492,
+   15.56004524230957,
+   573.0467529296875,
+   72.5936508178711
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Código 00322206 Nombre del                                           | Fecha de emisión                                                     | 1 Marzo 2022                                                         | Versión                                                              | 8                                                                    |\n|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|\n| SIGMADUR ONE BUFF 3142 producto Sección 11. Información toxicológica | SIGMADUR ONE BUFF 3142 producto Sección 11. Información toxicológica | SIGMADUR ONE BUFF 3142 producto Sección 11. Información toxicológica | SIGMADUR ONE BUFF 3142 producto Sección 11. Información toxicológica | SIGMADUR ONE BUFF 3142 producto Sección 11. Información toxicológica |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 13,
+  "bbox_pt": [
+   43.869205474853516,
+   73.01644134521484,
+   566.9682006835938,
+   210.78721618652344
+  ],
+  "filas": 7,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre de producto o ingrediente                                                         | Oral (mg/ kg)   | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|------------------------------------------------------------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| SIGMADUR ONE BUFF 3142 Sulfato de bario nafta disolvente (petróleo), fracción intermedia | N/A N/A         | 4594.8 2500 2500  | N/A N/A N/A                | N/A N/A N/A                   | N/A N/A N/A                            |\n|                                                                                          | N/A             |                   |                            |                               |                                        |\n| alifática                                                                                |                 |                   |                            |                               |                                        |\n| butanona-oxima                                                                           | 100             | 1100              | N/A                        | N/A                           | N/A                                    |\n| bis(2-etilhexanoato) de cobalto                                                          | 3129            | N/A               | N/A                        | N/A                           | N/A                                    |\n| Etilbenceno                                                                              | 3500            | 17800             | N/A                        | 17.8                          | 1.5                                    |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 13,
+  "bbox_pt": [
+   40.782142639160156,
+   293.5340881347656,
+   570.0012817382812,
+   409.7873840332031
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                                            | Resultado                                                                                                                                        | Especies                                                             | Exposición                           |\n|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------|\n| Dióxido de titanio ácido 2-etilhexanoico, sal de circonio nafta disolvente (petróleo), fracción aromática pesada Etilbenceno | Agudo CL50 >100 mg/l Agua fresca Agudo CL50 >100 mg/l NOEL 0.48 mg/l Agua fresca Agudo EC50 1.8 mg/l Agua fresca Crónico NOEC 1 mg/l Agua fresca | Dafnia - Daphnia magna Pez Dafnia Dafnia Dafnia - Ceriodaphnia dubia | 48 horas 96 horas 21 días 48 horas - |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 13,
+  "bbox_pt": [
+   41.479583740234375,
+   436.4891357421875,
+   569.76171875,
+   536.6574096679688
+  ],
+  "filas": 4,
+  "columnas": 7,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | Prueba           | Resultado              | Resultado              | Dosis     | Dosis             | Inóculo           |\n|-------------------------------------|------------------|------------------------|------------------------|-----------|-------------------|-------------------|\n| Etilbenceno                         | -                | 79 % - Fácil - 10 días | 79 % - Fácil - 10 días | -         | -                 | -                 |\n| Nombre del producto o ingrediente   | Período acuático | Período acuático       | Fotólisis              | Fotólisis | Biodegradabilidad | Biodegradabilidad |\n| Etilbenceno                         | -                | -                      | -                      | -         | Fácil             | Fácil             |"
+ },
+ {
+  "ref": "#/tables/18",
+  "pagina": 13,
+  "bbox_pt": [
+   41.25057601928711,
+   562.3365478515625,
+   569.8257446289062,
+   654.4617919921875
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                     | LogPow                         | FBC            | Potencial           |\n|-------------------------------------------------------------------------------------------------------|--------------------------------|----------------|---------------------|\n| Disolvente Stoddard nafta disolvente (petróleo), fracción aromática pesada butanona-oxima Etilbenceno | 3.16 a 7.06 2.8 a 6.5 0.63 3.6 | - - 5.01 79.43 | alta alta bajo bajo |"
+ },
+ {
+  "ref": "#/tables/19",
+  "pagina": 13,
+  "bbox_pt": [
+   38.68339538574219,
+   707.7067260742188,
+   572.7539672851562,
+   727.3590698242188
+  ],
+  "filas": 1,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Spanish (MX)   | Colombia   | 13/15   |\n|----------------|------------|---------|"
+ },
+ {
+  "ref": "#/tables/20",
+  "pagina": 14,
+  "bbox_pt": [
+   40.41904067993164,
+   381.06805419921875,
+   569.6661376953125,
+   582.286376953125
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 14,
+  "markdown": "|                                   | UN            | Brasil (ANTT)   | IMDG            | IATA            |\n|-----------------------------------|---------------|-----------------|-----------------|-----------------|\n| Número ONU                        | UN1263        | UN1263          | UN1263          | UN1263          |\n| Designación oficial de transporte | PINTURA       | PINTURA         | PAINT           | PAINT           |\n| Clase(s) relativas al transporte  | 3             | 3               | 3               | 3               |\n| Grupo de embalaje                 | III           | III             | III             | III             |\n| Riesgos ambientales               | No.           | No.             | No.             | No.             |\n| Sustancias contaminantes marinas  | No aplicable. | No aplicable.   | Not applicable. | Not applicable. |"
+ }
+]

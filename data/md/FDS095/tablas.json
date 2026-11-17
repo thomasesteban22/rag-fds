@@ -1,0 +1,215 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   17.20725440979004,
+   563.0916137695312,
+   545.1591796875,
+   644.0468139648438
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente                               | %         | Número CAS   |\n|------------------------------------------------------|-----------|--------------|\n| producto de reacción: bisfenol-A-epiclorhidrina      | ≥50 - ≤75 | 25068-38-6   |\n| resina epoxi bisfenol F-(epiclorhidrina); p.mol.<700 | ≥10 - ≤25 | 28064-14-4   |\n| oxirano, mono[(C12-14-alquiloxi)metil] derivados     | ≥10 - ≤25 | 68609-97-2   |\n| acetato de etilo                                     | ≤10       | 141-78-6     |\n| 1-metil-2-pirrolidona                                | <0.3      | 872-50-4     |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 6,
+  "bbox_pt": [
+   22.303630828857422,
+   170.85226440429688,
+   544.8743286132812,
+   232.15432739257812
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente   | Límites de exposición                                                              |\n|--------------------------|------------------------------------------------------------------------------------|\n| acetato de etilo         | ACGIH TLV (Estados Unidos, 1/2023). TWA: 1440 mg/m³ 8 horas. TWA: 400 ppm 8 horas. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   170.43397521972656,
+   503.9630432128906,
+   544.8110961914062,
+   588.0818481445312
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| ASTM D 5191 - Nombre del ingrediente             | Presión de vapor a 20 ºC - mm Hg   | Presión de vapor a 20 ºC - kPa   |\n|--------------------------------------------------|------------------------------------|----------------------------------|\n| acetato de etilo                                 | 81.59163                           | 10.9                             |\n| oxirano, mono[(C12-14-alquiloxi)metil] derivados | 0.00013                            | 0.000017                         |\n| producto de reacción: bisfenol-A-epiclorhidrina  | <0                                 | <0                               |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 7,
+  "bbox_pt": [
+   24.900075912475586,
+   635.5759887695312,
+   545.113037109375,
+   669.4816284179688
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 7,
+  "bbox_pt": [
+   24.51776695251465,
+   725.95703125,
+   383.14031982421875,
+   763.17529296875
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente   |     °C |   °F |\n|--------------------------|--------|------|\n| acetato de etilo         | 426.67 |  800 |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 8,
+  "bbox_pt": [
+   21.979339599609375,
+   528.2200317382812,
+   545.312744140625,
+   789.3447875976562
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                        | Resultado                                                                                                                                                                                                                                                        | Especies                                                                                             | Dosis                                                                                                                                                                       | Exposición                                    |\n|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|\n| oxirano, mono[ (C12-14-alquiloxi)metil] derivados acetato de etilo 1-metil-2-pirrolidona | DL50 Oral DL50 Oral CL50 Por inhalación Gas. CL50 Por inhalación Vapor DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Oral DL50 Subcutánea DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intravenosa DL50 Intravenosa | Rata Rata Rata Ratón Ratón Cobaya Cobaya Ratón Ratón Conejo Rata Cobaya Conejo Ratón Rata Ratón Rata | 19.2 mL/kg 17100 mg/kg 1600 ppm 45 g/m³ 709 mg/kg 5.5 g/kg 5500 mg/kg 4.1 g/kg 4100 mg/kg 4935 mg/kg 5620 mg/kg 3 g/kg 8 g/kg 3050 mg/kg 2472 mg/kg 54500 µg/kg 80500 µg/kg | - - 8 horas 2 horas - - - - - - - - - - - - - |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   20.873016357421875,
+   75.45746612548828,
+   546.0576782226562,
+   136.91770935058594
+  ],
+  "filas": 1,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| DL50 Oral DL50 Oral DL50 Ruta de exposición sin informar DL50 Subcutánea   | Ratón Rata Rata Rata   | 5130 mg/kg 3914 mg/kg 7 g/kg >2 g/kg   | - - - -   |\n|----------------------------------------------------------------------------|------------------------|----------------------------------------|-----------|"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 9,
+  "bbox_pt": [
+   22.34515953063965,
+   153.69622802734375,
+   544.7367553710938,
+   303.46002197265625
+  ],
+  "filas": 6,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                 | Resultado                 | Especies   | Puntuación   | Exposición      | Observación   |\n|---------------------------------------------------|---------------------------|------------|--------------|-----------------|---------------|\n| producto de reacción: bisfenol-A-epiclorhidrina   | Ojos - Irritante leve     | Conejo     | -            | 100 mg          | -             |\n|                                                   | Piel - Irritante moderado | Conejo     | -            | 24 horas 500 Ul | -             |\n|                                                   | Piel - Muy irritante      | Conejo     | -            | 24 horas 2 mg   | -             |\n| oxirano, mono[ (C12-14-alquiloxi)metil] derivados | Piel - Irritante moderado | Conejo     | -            | 24 horas 500 Ul | -             |\n| 1-metil-2-pirrolidona                             | Ojos - Irritante moderado | Conejo     | -            | 100 mg          | -             |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   27.24408531188965,
+   409.97821044921875,
+   545.3641357421875,
+   449.9820556640625
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | IARC   |\n|-------------------------------------|--------|\n| No disponible.                      |        |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 9,
+  "bbox_pt": [
+   21.932598114013672,
+   536.7388916015625,
+   544.780029296875,
+   606.2232666015625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                 | Categoría               | Vía de exposición   | Órganos destino                                         |\n|----------------------------------------|-------------------------|---------------------|---------------------------------------------------------|\n| acetato de etilo 1-metil-2-pirrolidona | Categoría 3 Categoría 3 | - -                 | Efectos narcóticos Irritación de las vías respiratorias |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   13.47074031829834,
+   790.7203369140625,
+   548.2631225585938,
+   823.8157348632812
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Fecha de emisión/Fecha de revisión   | : 21-3-2025                  | Versión   | : 1   |\n|--------------------------------------|------------------------------|-----------|-------|\n| Fecha de la emisión anterior         | : No hay validación anterior | 9/14      |       |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 11,
+  "bbox_pt": [
+   17.04587173461914,
+   94.40026092529297,
+   545.5263061523438,
+   392.9756164550781
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| acetato de etilo | Agudo EC50 2500000 µg/l Agua fresca Agudo CL50 1600000 µg/l Agua fresca Agudo CL50 750000 µg/l Agua fresca Agudo CL50 175000 µg/l Agua fresca Agudo CL50 154000 µg/l Agua fresca Agudo CL50 560000 µg/l Agua fresca Agudo CL50 230000 µg/l Agua fresca Agudo CL50 295000 µg/l Agua fresca Agudo CL50 212500 µg/l Agua fresca Agudo CL50 484000 µg/l Agua fresca Agudo CL50 425300 µg/l Agua fresca Agudo CL50 230000 µg/l Agua fresca Crónico NOEC 12 mg/l Agua fresca Crónico NOEC 2400 µg/l Agua fresca Crónico NOEC 75.6 mg/l Agua fresca | Algas - Selenastrum sp. Crustáceos - Asellus aquaticus Crustáceos - Gammarus pulex Dafnia - Daphnia cucullata Dafnia - Daphnia cucullata Dafnia - Daphnia magna Dafnia - Daphnia pulex Dafnia - Daphnia pulex Pescado - Heteropneustes fossilis Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado) Pescado - Pimephales promelas Dafnia - Daphnia magna Dafnia - Daphnia magna Pescado - Pimephales promelas - Embrión | 96 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 21 días 21 días 32 días |\n| 1-metil-2-pirrolidona | Agudo CL50 1.23 ppm Agua fresca Agudo CL50 832 ppm Agua fresca | Dafnia - Daphnia magna Pescado - Lepomis macrochirus | 48 horas 96 horas |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente      | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Especies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Exposición                                                                                                                                            |\n|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|\n| acetato de etilo 1-metil-2-pirrolidona | Agudo EC50 2500000 µg/l Agua fresca Agudo CL50 1600000 µg/l Agua fresca Agudo CL50 750000 µg/l Agua fresca Agudo CL50 175000 µg/l Agua fresca Agudo CL50 154000 µg/l Agua fresca Agudo CL50 560000 µg/l Agua fresca Agudo CL50 230000 µg/l Agua fresca Agudo CL50 295000 µg/l Agua fresca Agudo CL50 212500 µg/l Agua fresca Agudo CL50 484000 µg/l Agua fresca Agudo CL50 425300 µg/l Agua fresca Agudo CL50 230000 µg/l Agua fresca Crónico NOEC 12 mg/l Agua fresca Crónico NOEC 2400 µg/l Agua fresca Crónico NOEC 75.6 mg/l Agua fresca Agudo CL50 1.23 ppm Agua fresca Agudo CL50 832 ppm Agua fresca | Algas - Selenastrum sp. Crustáceos - Asellus aquaticus Crustáceos - Gammarus pulex Dafnia - Daphnia cucullata Dafnia - Daphnia cucullata Dafnia - Daphnia magna Dafnia - Daphnia pulex Dafnia - Daphnia pulex Pescado - Heteropneustes fossilis Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado) Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado) Pescado - Pimephales promelas Dafnia - Daphnia magna Dafnia - Daphnia magna Pescado - Pimephales promelas - Embrión Dafnia - Daphnia magna Pescado - Lepomis macrochirus | 96 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 48 horas 96 horas 96 horas 96 horas 96 horas 21 días 21 días 32 días 48 horas 96 horas |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 11,
+  "bbox_pt": [
+   16.540180206298828,
+   467.360107421875,
+   545.2229614257812,
+   583.3096923828125
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                                                        | LogPow                      | FBC               | Potencial           |\n|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------------|---------------------|\n| producto de reacción: bisfenol-A-epiclorhidrina oxirano, mono[ (C12-14-alquiloxi)metil] derivados acetato de etilo 1-metil-2-pirrolidona | 2.64 a 3.78 3.77 0.68 -0.46 | 31 160 a 263 30 - | bajo bajo bajo bajo |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 12,
+  "bbox_pt": [
+   16.42938804626465,
+   220.8817596435547,
+   545.1915893554688,
+   483.3399658203125
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - NTC 1692                                                                   | Marítimo - IMDG                                                                                                                           | Aéreo - IATA                                                       |\n|----------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|\n| Número ONU                                               | UN1263                                                                                 | UN1263                                                                                                                                    | UN1263                                                             |\n| Designación oficial de transporte de las Naciones Unidas | PINTURAS                                                                               | PINTURAS                                                                                                                                  | PAINT                                                              |\n| Clase(s) de peligro para el transporte                   | 3                                                                                      | 3                                                                                                                                         | 3                                                                  |\n| Grupo de embalaje                                        | III                                                                                    | III                                                                                                                                       | III                                                                |\n| Peligros para el medio ambiente                          | Sí. No es necesaria la identificación de sustancias peligrosas para el medio ambiente. | producto de reacción: bisfenol- A-epiclorhidrina, resina epoxi bisfenol F-(epiclorhidrina); p. mol.<700 Sustancias contaminantes marinas: | Yes. The environmentally hazardous substance mark is not required. |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 14,
+  "bbox_pt": [
+   16.2843017578125,
+   76.77790069580078,
+   545.3380737304688,
+   180.24647521972656
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                                                                        | Justificación                                                                                                                          |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|\n| LÍQUIDOS INFLAMABLES - Categoría 3 IRRITACIÓN CUTÁNEA - Categoría 2 IRRITACIÓN OCULAR - Categoría 2A SENSIBILIZACIÓN CUTÁNEA - Categoría 1 TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 1B PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 2 PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 2 | En base a datos de ensayos Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |\n\nIndica la información que ha cambiado desde la edición de la versión anterior."
+ }
+]

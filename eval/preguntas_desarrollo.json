@@ -1,0 +1,47 @@
+[
+  {
+    "id": "D01",
+    "respondible": true,
+    "pregunta": "¿Qué medios de extinción se recomiendan para la Pintura Total de Corona?"
+  },
+  {
+    "id": "D02",
+    "respondible": true,
+    "pregunta": "¿Cuál es la densidad del SIGMADUR ONE BUFF 3142 de PPG?"
+  },
+  {
+    "id": "D03",
+    "respondible": true,
+    "pregunta": "¿Qué indicaciones de peligro tiene el Vinicryl de Invesa?"
+  },
+  {
+    "id": "D04",
+    "respondible": true,
+    "pregunta": "¿Qué número CAS tiene el componente principal del Catalizador Duraglass de Tecnidecor?"
+  },
+  {
+    "id": "D05",
+    "respondible": true,
+    "pregunta": "¿Qué materiales incompatibles indica la FDS del DIMETCOTE 302H GREEN RESIN de PPG?"
+  },
+  {
+    "id": "D06",
+    "respondible": true,
+    "pregunta": "Compara el pH de la Pintura Exteriores de Corona en sus fichas de 2023 y 2025."
+  },
+  {
+    "id": "D07",
+    "respondible": false,
+    "pregunta": "¿Cuál es el precio del Esmalte Maestro de Bler?"
+  },
+  {
+    "id": "D08",
+    "respondible": false,
+    "pregunta": "¿Cuántos metros cuadrados cubre un galón de Acrílica Mantenimiento 13883 de International?"
+  },
+  {
+    "id": "D09",
+    "respondible": true,
+    "pregunta": "Compara los medios de extinción recomendados para el SIGMADUR ONE BUFF 3142 de PPG y para la Pintura Total de Corona en su versión de 2023."
+  }
+]

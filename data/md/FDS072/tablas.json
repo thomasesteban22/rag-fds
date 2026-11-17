@@ -1,0 +1,100 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 3,
+  "bbox_pt": [
+   87.50142389131074,
+   431.57434284902547,
+   534.1261653086003,
+   494.40096933819643
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre químico     | CAS No.     | Concentración (% w/w)   |\n|--------------------|-------------|-------------------------|\n| xileno             | 1330-20-7   | >= 50 - < 70            |\n| Poliaminoamida     | No asignado | >= 10 - < 20            |\n| etilbenceno        | 100-41-4    | >= 10 - < 20            |\n| 2-metilpropan-1-ol | 78-83-1     | >= 5 - < 10             |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 5,
+  "bbox_pt": [
+   63.02174479055726,
+   93.61645927239147,
+   566.8536751233812,
+   210.7612546851542
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 6,
+  "markdown": "| Versión 3.0                                   | Número de HDS: 100000030203   | Fecha de revisión: 2023/08/15                                                                                                                                                                                                                               |\n|-----------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| medio ambiente                                |                               | Si el producto contamina los ríos, lagos o alcantarillados, in- formar a las autoridades respectivas.                                                                                                                                                       |\n| Métodos y materiales de contención y limpieza | :                             | Contener y recoger el derrame con material absorbente que no sea combustible (p. ej. arena, tierra, barro de diatomeas, vermiculita), y meterlo en un envase para su eliminación de acuerdo con las reglamentaciones locales y nacionales (ver sección 13). |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   89.14114486489521,
+   256.8999519320994,
+   517.7922835054334,
+   628.904270419192
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 7,
+  "markdown": "| Sugerencias para la protec- ción contra incendios y ex- plosiones   | :   | Utilice un equipo a prueba de explosiones. Mantener alejado del calor/ de chispas/ de llamas al descu- bierto/ de superficies calientes. No fumar. Tomar medidas de precaución contra la acumulación de car- gas electrostáticas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |\n|---------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Consejos para una manipu- lación segura                             | :   | No respire los vapores ni la niebla de la pulverización. Evitar sobrepasar los límites dados de exposición profesional (ver sección 8). Evitar todo contacto con los ojos, la piel o la ropa. Ver sección 8 para el equipo de protección personal. Fumar, comer y beber debe prohibirse en el área de aplica- ción. Tomar medidas de precaución contra las descargas electros- táticas. Provea de suficiente intercambio de aire y/o de extracción en los lugares de trabajo. Abra el tambor con precaución, ya que el contenido puede estar presurizado. Adopte las acciones necesarias para evitar descargas de electricidad estática (que podrían ocasionar la inflamación de los vapores orgánicos). Cuando se manejen productos químicos, siga las medidas estándar de higiene. |\n| Condiciones para el almace- namiento seguro                         | :   | Almacénelo en el envase original. Mantenga en un lugar bien ventilado. Los contenedores que se abren deben ser cuidadosamente resellados y mantenerlos en posición vertical para evitar fu- gas. Observar las indicaciones de la etiqueta. Almacenar en conformidad con la reglamentación local.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   85.39212362967882,
+   694.5244649236821,
+   540.5755856138909,
+   768.4036760366853
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 8,
+  "markdown": "| Componentes        | CAS No.   | Tipo de valor (Forma de exposición)   | Parámetros de control / Concen- tración permisible   | Bases   |\n|--------------------|-----------|---------------------------------------|------------------------------------------------------|---------|\n| xileno             | 1330-20-7 | TWA                                   | 20 ppm                                               | ACGIH   |\n| etilbenceno        | 100-41-4  | TWA                                   | 20 ppm                                               | ACGIH   |\n| 2-metilpropan-1-ol | 78-83-1   | TWA                                   | 50 ppm                                               | ACGIH   |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 6,
+  "bbox_pt": [
+   87.44218064839409,
+   130.27249834922713,
+   542.8158855340946,
+   433.19548044876694
+  ],
+  "filas": 3,
+  "columnas": 7,
+  "seccion": 8,
+  "markdown": "| Componentes   | CAS No.   | Parámetros de control                                   | Análisis biológico   | Tiempo de toma de mues- tras                                                         | Concentra- ción permisi- ble   | Bases     |\n|---------------|-----------|---------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------|--------------------------------|-----------|\n| xileno        | 1330-20-7 | Acidos me- tilhipúricos                                 | Orina                | Al final del turno (Tan pronto como sea posible después de que cese la exposi- ción) | 1.5 g/g crea- tinina           | ACGIH BEI |\n| etilbenceno   | 100-41-4  | Suma del ácido man- délico y el ácido fenil- glioxílico | Orina                | Al final del turno (Tan pronto como sea posible después de que cese la exposi- ción) | 0.15 g/g creatinina            | ACGIH BEI |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 6,
+  "bbox_pt": [
+   90.35320034462335,
+   448.62442329379587,
+   516.2349193270895,
+   778.306082707198
+  ],
+  "filas": 5,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Protección respiratoria            | :   | Utilice protección respiratoria a menos que exista una venti- lación de escape adecuada o que la evaluación de la exposi- ción indique que el nivel de exposición está dentro de las pautas recomendadas. La clase de filtro para el respirador debe ser adecuada para la concentración máxima prevista del contaminante (gas/vapor/aerosol/partículas) que puede presentarse al ma- nejar el producto. Si se excede esta concentración, se debe utilizar un aparato respiratorio autónomo.   |\n|------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección de las manos            | :   | Guantes químico-resistentes e impermeables que cumplan con estándares aprobados deben ser utilizados cuando se manejen productos químicos y la evaluación del riesgo indica que es necesario.                                                                                                                                                                                                                                                                                                 |\n| Protección de los ojos             | :   | Equipo de protección ocular que cumpla con estándares aprobados debe ser utilizado cuando la evaluación del riesgo indica que es necesario.                                                                                                                                                                                                                                                                                                                                                   |\n| Protección de la piel y del cuerpo | :   | Elegir la protección para el cuerpo según sus caraterísticas, la concentración y la cantidad de sustancias peligrosas, y el lugar específico de trabajo.                                                                                                                                                                                                                                                                                                                                      |\n| Medidas de higiene                 | :   | Manipúlelo con las precauciones de higiene industrial ade- cuadas, y respete las prácticas de seguridad. No coma ni beba durante su utilización. No fume durante su utilización. Lavarse las manos antes de los descansos y después de                                                                                                                                                                                                                                                        |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 12,
+  "bbox_pt": [
+   62.299257668360774,
+   93.59502984640858,
+   565.2230913569304,
+   221.02715380251198
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 16,
+  "markdown": "| Versión 3.0   | Número de HDS: 100000030203                                                                                                                                                         | Fecha de revisión: 2023/08/15                                                                                                                                                       |\n|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| OEL           | : Occupational Exposure Limit :                                                                                                                                                     |                                                                                                                                                                                     |\n| PBT           | Persistent, bioaccumulative and toxic                                                                                                                                               |                                                                                                                                                                                     |\n| PNEC          | : Predicted no effect concentration                                                                                                                                                 |                                                                                                                                                                                     |\n| REACH         | : Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Re- gistration, Evaluation, Authorisation and Restriction of Chemi- | : Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Re- gistration, Evaluation, Authorisation and Restriction of Chemi- |\n| SVHC          | cals (REACH), establishing a European : Substances of Very High Concern                                                                                                             | Chemicals Agency                                                                                                                                                                    |\n| vPvB          | : Very persistent and very bioaccumulative                                                                                                                                          |                                                                                                                                                                                     |"
+ }
+]

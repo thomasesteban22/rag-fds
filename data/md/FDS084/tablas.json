@@ -1,0 +1,257 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 5,
+  "bbox_pt": [
+   21.99244499206543,
+   600.9729614257812,
+   544.83203125,
+   787.6755981445312
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente     | Límites de exposición                                                                                                                  |\n|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------|\n| propan-2-ol                | ACGIH TLV (Estados Unidos, 1/2022). STEL: 400 ppm 15 minutos. TWA: 200 ppm 8 horas.                                                    |\n| 1-metoxipropan-2-ol        | ACGIH TLV (Estados Unidos, 1/2022). STEL: 369 mg/m³ 15 minutos. STEL: 100 ppm 15 minutos. TWA: 184 mg/m³ 8 horas. TWA: 50 ppm 8 horas. |\n| ortosilicato de tetraetilo | ACGIH TLV (Estados Unidos, 1/2022). TWA: 85 mg/m³ 8 horas. TWA: 10 ppm 8 horas.                                                        |\n| tolueno                    | ACGIH TLV (Estados Unidos, 1/2022). Ototóxico.                                                                                         |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 7,
+  "bbox_pt": [
+   169.6616973876953,
+   363.4487609863281,
+   499.51605224609375,
+   448.62066650390625
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente   |   Presión de vapor a 20 ºC - mm Hg |   Presión de vapor a 20 ºC - kPa | Presión de vapor a 20 ºC - Método   |\n|--------------------------|------------------------------------|----------------------------------|-------------------------------------|\n| propan-2-ol              |                                 33 |                              4.4 |                                     |\n| tolueno                  |                              23.17 |                              3.1 |                                     |\n| 1-metoxipropan-2-ol      |                                8.5 |                              1.1 |                                     |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 7,
+  "bbox_pt": [
+   24.17987632751465,
+   495.9310607910156,
+   545.20458984375,
+   529.998779296875
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado               |\n|-----------|-------------------------|\n| agua fría | Soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 7,
+  "bbox_pt": [
+   25.208425521850586,
+   586.5411987304688,
+   383.18804931640625,
+   651.344482421875
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente           |   °C |    °F |\n|----------------------------------|------|-------|\n| 1-metoxipropan-2-ol              |  270 |   518 |\n| acetato de 1-metil-2-metoxietilo |  333 | 631.4 |\n| propan-2-ol                      |  456 | 852.8 |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 8,
+  "bbox_pt": [
+   15.96293830871582,
+   80.13069915771484,
+   530.5612182617188,
+   287.8841247558594
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 10,
+  "markdown": "| Reactividad :                            | No hay datos de ensayo disponibles sobre la reactividad de este producto o sus componentes.                    |\n|------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n| Estabilidad química :                    | El producto es estable.                                                                                        |\n| Posibilidad de reacciones peligrosas :   | En condiciones normales de almacenamiento y uso, no se producen reacciones peligrosas.                         |\n| Condiciones que deben evitarse :         | Ningún dato específico.                                                                                        |\n| Materiales incompatibles :               | Ningún dato específico.                                                                                        |\n| Productos de descomposición peligrosos : | En condiciones normales de almacenamiento y uso, no se deberían formar productos de descomposición peligrosos. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 8,
+  "bbox_pt": [
+   22.20452308654785,
+   346.0636901855469,
+   545.0143432617188,
+   787.50048828125
+  ],
+  "filas": 32,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                                                                                 | Especies                                                                                                              | Dosis                                                                                                                                                                                                                                                                                            | Exposición                                                      |\n|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|\n| propan-2-ol                         | CL50 Por inhalación Gas. DL50 Cutánea DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intraperitoneal DL50 Intraperitoneal | Rata Cobaya Ratón Conejo Rata Ratón Conejo Rata Ratón Ratón Conejo Rata Rata Rata Rata Ratón Conejo Rata Ratón Conejo | 16000 ppm 12800 mg/kg 2560 mg/kg 4477 mg/kg 667 mg/kg 2735 mg/kg 1509 mg/kg 1184 mg/kg 1088 mg/kg 3600 mg/kg 3600 mg/kg 6410 mg/kg 5045 mg/kg 5000 mg/kg 10000 ppm 13 g/kg 3720 mg/kg 5300 mg/kg 1200 mg/kg 4200 mg/kg 11700 mg/kg 5700 mg/kg 6600 mg/kg 5 g/kg 7800 mg/kg 6300 uL/kg 6270 mg/kg | 8 horas - - - - - - - - - - - - - 5 horas - - - - - - - - - - - |\n|                                     |                                                                                                                           | Conejo                                                                                                                |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intravenosa                                                                                                          |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intravenosa                                                                                                          |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intravenosa                                                                                                          |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n| 1-metoxipropan-2-ol                 | CL50 Por inhalación Gas.                                                                                                  |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Cutánea                                                                                                              | Conejo                                                                                                                |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intraperitoneal                                                                                                      |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intravenosa                                                                                                          |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intravenosa                                                                                                          |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Intravenosa                                                                                                          |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 |                                                                                                                       |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 | Rata                                                                                                                  |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Subcutánea                                                                                                           | Conejo                                                                                                                |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Subcutánea                                                                                                           | Rata                                                                                                                  |                                                                                                                                                                                                                                                                                                  |                                                                 |\n| ortosilicato de tetraetilo          | DL50 Cutánea                                                                                                              | Conejo                                                                                                                |                                                                                                                                                                                                                                                                                                  |                                                                 |\n|                                     | DL50 Oral                                                                                                                 | Rata                                                                                                                  |                                                                                                                                                                                                                                                                                                  | -                                                               |\n| tolueno                             | CL50 Por inhalación Gas.                                                                                                  | Ratón                                                                                                                 | 400 ppm                                                                                                                                                                                                                                                                                          | 24 horas                                                        |\n|                                     | CL50 Por inhalación Vapor                                                                                                 | Ratón                                                                                                                 | 30000 mg/m³                                                                                                                                                                                                                                                                                      | 2 horas                                                         |\n|                                     | CL50 Por inhalación Vapor                                                                                                 | Ratón                                                                                                                 | 19900 mg/m³                                                                                                                                                                                                                                                                                      | 7 horas                                                         |\n|                                     | CL50 Por inhalación Vapor                                                                                                 | Rata                                                                                                                  | 49 g/m³                                                                                                                                                                                                                                                                                          | 4 horas                                                         |\n|                                     | DL50 Cutánea                                                                                                              | Conejo                                                                                                                | 14100 uL/kg                                                                                                                                                                                                                                                                                      | -                                                               |\n|                                     | DL50 Intraperitoneal                                                                                                      | Cobaya                                                                                                                | 500 mg/kg                                                                                                                                                                                                                                                                                        | -                                                               |\n|                                     | DL50 Intraperitoneal                                                                                                      | Ratón                                                                                                                 | 59 mg/kg                                                                                                                                                                                                                                                                                         | -                                                               |\n|                                     | DL50 Intraperitoneal                                                                                                      | Rata                                                                                                                  | 1332 mg/kg                                                                                                                                                                                                                                                                                       | -                                                               |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 9,
+  "bbox_pt": [
+   19.851774215698242,
+   75.44762420654297,
+   545.608642578125,
+   171.3948211669922
+  ],
+  "filas": 1,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| cloruro de cinc   | DL50 Intravenosa DL50 Oral DL50 Ruta de exposición sin informar DL50 Ruta de exposición sin informar DL50 Subcutánea DL50 Oral   | Rata Rata Ratón Rata Ratón Rata   | 1960 mg/kg 636 mg/kg 2 g/kg 6900 mg/kg 2250 mg/kg 350 mg/kg   | - - - - - -   |\n|-------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------|---------------|"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 9,
+  "bbox_pt": [
+   22.525373458862305,
+   188.29173278808594,
+   544.7355346679688,
+   520.7969970703125
+  ],
+  "filas": 7,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                                                                                                            | Especies                           | Puntuación   | Exposición                                                           | Observación   |\n|-------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------|--------------|----------------------------------------------------------------------|---------------|\n| propan-2-ol                         | Ojos - Irritante moderado Ojos - Irritante moderado Ojos - Muy irritante Piel - Irritante leve                       | Conejo Conejo Conejo Conejo        | - - - -      | 10 mg 24 horas 100 mg 100 mg 500 mg                                  | - - - - - -   |\n| 1-metoxipropan-2-ol                 | Ojos - Irritante leve                                                                                                | Conejo                             | -            | 24 horas 500 mg                                                      |               |\n| ortosilicato de tetraetilo          | Piel - Irritante leve Ojos - Irritante leve Ojos - Irritante leve                                                    | Conejo Conejo Conejo               | - - -        | 500 mg 100 mg 24 horas 500 mg                                        | - -           |\n| tolueno                             | Ojos - Muy irritante Piel - Irritante moderado Ojos - Irritante leve                                                 | Cobaya Conejo Conejo               | - - -        | 2 horas 2500 ppm 24 horas 500 mg 0.5 minutos                         | - - -         |\n|                                     | Ojos - Irritante leve Ojos - Muy irritante Piel - Irritante leve Piel - Irritante moderado Piel - Irritante moderado | Conejo Conejo Conejo Conejo Conejo | - - - - -    | 100 mg 870 ug 24 horas 2 mg 435 mg 24 horas 20 mg 500 mg 120 horas 1 | - - - -       |\n| cloruro de cinc                     | Piel - Muy irritante                                                                                                 | Conejo                             | -            | %                                                                    | - -           |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 9,
+  "bbox_pt": [
+   27.646236419677734,
+   641.639404296875,
+   545.3366088867188,
+   687.6604614257812
+  ],
+  "filas": 3,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   |   IARC |\n|-------------------------------------|--------|\n| propan-2-ol                         |      3 |\n| tolueno                             |      3 |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 10,
+  "bbox_pt": [
+   22.349397659301758,
+   76.93733215332031,
+   545.3206176757812,
+   203.68031311035156
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                              | Categoría                                                               | Vía de exposición   | Órganos destino                                                                                                                                       |\n|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|\n| propan-2-ol 1-metoxipropan-2-ol ortosilicato de tetraetilo tolueno acetato de 1-metil-2-metoxietilo cloruro de cinc | Categoría 3 Categoría 3 Categoría 3 Categoría 3 Categoría 3 Categoría 3 | - - - - - -         | Efectos narcóticos Efectos narcóticos Irritación de las vías respiratorias Efectos narcóticos Efectos narcóticos Irritación de las vías respiratorias |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 10,
+  "bbox_pt": [
+   22.219507217407227,
+   220.83114624023438,
+   544.7152099609375,
+   269.6292724609375
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre   | Categoría   | Vía de exposición   | Órganos destino   |\n|----------|-------------|---------------------|-------------------|\n| tolueno  | Categoría 2 | -                   | -                 |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 10,
+  "bbox_pt": [
+   22.183813095092773,
+   286.4781494140625,
+   545.0576171875,
+   323.4482116699219
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre   | Resultado                            |\n|----------|--------------------------------------|\n| tolueno  | PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 11,
+  "bbox_pt": [
+   22.24936866760254,
+   389.3739929199219,
+   544.9533081054688,
+   483.39080810546875
+  ],
+  "filas": 4,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Oral (mg/ kg)   | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|-------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| Producto tal y como suministrado    | N/A             | N/A               | N/A                        | 186                           | N/A                                    |\n| ortosilicato de tetraetilo          | N/A             | N/A               | N/A                        | 11                            | N/A                                    |\n| cloruro de cinc                     | 350             | N/A               | N/A                        | N/A                           | N/A                                    |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 11,
+  "bbox_pt": [
+   17.006860733032227,
+   555.4884033203125,
+   545.7988891601562,
+   787.8531494140625
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| propan-2-ol | Agudo EC50 10100 mg/l Agua fresca Agudo EC50 7550 mg/l Agua fresca Agudo EC50 9550 mg/l Agua fresca Agudo CL50 1400000 µg/l Agua marina Agudo CL50 10400000 µg/l Agua fresca Agudo CL50 6550000 µg/l Agua fresca Agudo CL50 9640000 µg/l Agua fresca Agudo CL50 4200 mg/l Agua fresca | Dafnia - Daphnia magna Dafnia - Daphnia magna - Neonato Pescado - Pimephales promelas Crustáceos - Crangon crangon Pescado - Pimephales promelas Pescado - Pimephales promelas Pescado - Pimephales promelas Pescado - Rasbora heteromorpha | 48 horas 48 horas 96 horas 48 horas 96 horas 96 horas 96 horas 96 horas |\n| tolueno | Agudo EC50 12500 µg/l Agua fresca Agudo EC50 16500 µg/l Agua fresca Agudo EC50 11600 µg/l Agua fresca Agudo EC50 6.88 mg/l Agua fresca | Algas - Pseudokirchneriella subcapitata Crustáceos - Gammarus pseudolimnaeus - Adulto Crustáceos - Gammarus pseudolimnaeus - Adulto Dafnia - Daphnia magna - | 72 horas 48 horas 48 horas 48 horas |",
+  "reconstruida": true,
+  "detalle_reconstruccion": "2 filas; columna ancla 1 (Nombre del producto o ingrediente)",
+  "markdown_original": "| Nombre del producto o ingrediente   | Resultado                                                                                                                                                                                                                                                                                                                                                                                                                    | Especies                                                                                                                                                                                                                                                                                                                                                                                                 | Exposición                                                                                                  |\n|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|\n| propan-2-ol tolueno                 | Agudo EC50 10100 mg/l Agua fresca Agudo EC50 7550 mg/l Agua fresca Agudo EC50 9550 mg/l Agua fresca Agudo CL50 1400000 µg/l Agua marina Agudo CL50 10400000 µg/l Agua fresca Agudo CL50 6550000 µg/l Agua fresca Agudo CL50 9640000 µg/l Agua fresca Agudo CL50 4200 mg/l Agua fresca Agudo EC50 12500 µg/l Agua fresca Agudo EC50 16500 µg/l Agua fresca Agudo EC50 11600 µg/l Agua fresca Agudo EC50 6.88 mg/l Agua fresca | Dafnia - Daphnia magna Dafnia - Daphnia magna - Neonato Pescado - Pimephales promelas Crustáceos - Crangon crangon Pescado - Pimephales promelas Pescado - Pimephales promelas Pescado - Pimephales promelas Pescado - Rasbora heteromorpha Algas - Pseudokirchneriella subcapitata Crustáceos - Gammarus pseudolimnaeus - Adulto Crustáceos - Gammarus pseudolimnaeus - Adulto Dafnia - Daphnia magna - | 48 horas 48 horas 96 horas 48 horas 96 horas 96 horas 96 horas 96 horas 72 horas 48 horas 48 horas 48 horas |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 12,
+  "bbox_pt": [
+   16.307247161865234,
+   74.84162902832031,
+   545.4503173828125,
+   581.1364135742188
+  ],
+  "filas": 21,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "|                 |                                                                    | Neonato                                                                                  |                   |\n|-----------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------|\n|                 | Agudo EC50 6.56 mg/l Agua fresca                                   | Dafnia - Daphnia magna - Neonato                                                         | 48 horas          |\n|                 | Agudo EC50 19600 µg/l Agua fresca Agudo EC50 6000 µg/l Agua fresca | Dafnia - Daphnia magna - Larva Dafnia - Daphnia magna - Juvenil (Nuevo, Cría, Destetado) | 48 horas 48 horas |\n|                 | Agudo EC50 6780 µg/l Agua fresca                                   | Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría, Destetado)                         | 96 horas          |\n|                 | Agudo CL50 56.3 ppm Agua marina                                    | Crustáceos - Americamysis bahia                                                          | 48 horas          |\n|                 | Agudo CL50 15.5 ppm Agua marina                                    | Crustáceos - Palaemonetes pugio - Adulto                                                 | 48 horas          |\n|                 | Agudo CL50 15500 µg/l Agua marina                                  | Crustáceos - Palaemonetes pugio                                                          | 48 horas          |\n|                 | Agudo CL50 86.3 mg/l Agua fresca                                   | Dafnia - Daphnia magna - Neonato                                                         | 48 horas          |\n|                 | Agudo CL50 6410 µg/l Agua marina                                   | Pescado - Oncorhynchus gorbuscha - Alevín                                                | 96 horas          |\n|                 | Agudo CL50 5500 µg/l Agua fresca                                   | Pescado - Oncorhynchus kisutch - Alevín                                                  | 96 horas          |\n|                 | Agudo CL50 5800 µg/l Agua fresca Agudo CL50 6780 µg/l Agua fresca  | Pescado - Oncorhynchus mykiss Pescado - Oncorhynchus mykiss - Juvenil (Nuevo, Cría,      | 96 horas 96 horas |\n|                 | Crónico NOEC 2 mg/l Agua fresca Crónico NOEC 1000 µg/l Agua        | Destetado) Dafnia - Daphnia magna                                                        | 21 días           |\n| cloruro de cinc | fresca Agudo EC50 34 µg/l Agua fresca                              | Dafnia - Daphnia magna Algas - Chlorella vulgaris - Fase de crecimiento exponencial      | 21 días 72 horas  |\n|                 | Agudo EC50 26 µg/l Agua marina Agudo EC50 1.8 mg/l Agua fresca     | Algas - Navicula incerta Plantas acuáticas - Lemna aequinoctialis                        | 96 horas 96 horas |\n|                 | Agudo EC50 100 µg/l Agua fresca Agudo CL50 49.99 µg/l Agua fresca  | Dafnia - Daphnia magna Crustáceos - Moina irrasa - Neonato                               | 48 horas 48 horas |\n|                 | Agudo CL50 0.027 mg/l Agua marina                                  | Pescado - Limanda                                                                        | 96 horas          |\n|                 |                                                                    | punctatissima - Prelarva                                                                 |                   |\n|                 | Crónico NOEC 20 µg/l Agua marina                                   | Algas - Chlorella sp. - Fase de crecimiento exponencial                                  | 72 horas          |\n|                 | Crónico NOEC 1000 µg/l Agua fresca                                 | Crustáceos - Procambarus clarkii - Entre mudas                                           | 21 días           |\n|                 | Crónico NOEC 80 µg/l Agua fresca                                   | Dafnia - Daphnia magna - Juvenil (Nuevo, Cría, Destetado)                                | 21 días           |\n|                 | Crónico NOEC 31.5 µg/l Agua fresca                                 | Pescado - Oncorhynchus mykiss                                                            | 30 días           |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 12,
+  "bbox_pt": [
+   16.767988204956055,
+   655.510498046875,
+   545.1861572265625,
+   770.3486938476562
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | LogPow   | FBC   | Potencial   |\n|-------------------------------------|----------|-------|-------------|\n| propan-2-ol                         | 0.05     | -     | bajo        |\n| 1-metoxipropan-2-ol                 | <1       | -     | bajo        |\n| ortosilicato de tetraetilo          | 3.18     | -     | bajo        |\n| tolueno                             | 2.73     | 90    | bajo        |\n| acetato de 1-metil-                 | 1.2      | -     | bajo        |\n| 2-metoxietilo cloruro de cinc       | -        | 60960 | alta        |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 13,
+  "bbox_pt": [
+   16.24431610107422,
+   365.9007263183594,
+   545.3333740234375,
+   593.7339477539062
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - NTC 1692                                                                    | Marítimo - IMDG                                                                         | Aéreo - IATA                                                                    |\n|----------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|\n| Número ONU                                               | UN3082                                                                                  | UN3082                                                                                  | UN3082                                                                          |\n| Designación oficial de transporte de las Naciones Unidas | SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (ácido silícico, etil éster) | SUSTANCIA LÍQUIDA PELIGROSA PARA EL MEDIO AMBIENTE, N.E.P. (ácido silícico, etil éster) | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Silicic acid, ethyl ester) |\n| Clase(s) de peligro para el transporte                   | 9                                                                                       | 9                                                                                       | 9                                                                               |\n| Grupo de embalaje                                        | III                                                                                     | III                                                                                     | III                                                                             |\n| Peligros para el medio ambiente                          | Sí.                                                                                     | ácido silícico, etil éster Sustancias contaminantes marinas:                            | Yes.                                                                            |"
+ },
+ {
+  "ref": "#/tables/17",
+  "pagina": 15,
+  "bbox_pt": [
+   16.1905517578125,
+   76.21729278564453,
+   545.3220825195312,
+   178.18580627441406
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                                                                                                        | Justificación                                                                                               |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|\n| IRRITACIÓN CUTÁNEA - Categoría 3 IRRITACIÓN OCULAR - Categoría 2A TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 2 TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIÓN ÚNICA (Efectos narcóticos) - Categoría 3 PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 2 PELIGRO ACUÁTICO A LARGO PLAZO (CRÓNICO) - Categoría 2 | Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |"
+ }
+]

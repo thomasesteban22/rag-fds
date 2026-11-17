@@ -1,0 +1,16 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   55.727996826171875,
+   277.66094970703125,
+   401.9651794433594,
+   318.4078369140625
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "|   N° | SUSTANCIA       | NUMERO CAS   | NUMERO ONU   |\n|------|-----------------|--------------|--------------|\n|    1 | NIVELADOR DE PH | 7664-41-7    | 1005         |\n|    2 | RESINA ACRILICA | 9002-89-5    | N/A          |\n|    3 | CARGAS INERTES  | 13463-67-7   | N/A          |"
+ }
+]

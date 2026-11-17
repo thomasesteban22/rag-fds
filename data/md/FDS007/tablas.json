@@ -1,0 +1,212 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.84635297634459,
+   171.57110731836167,
+   548.1095134228188,
+   256.12149672700787
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación   | Concentración   |\n|------------------|------------------|--------------------------------|-----------------|\n| CAS:             | 108-88-3         | Tolueno                        | 25 - <50 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio             | 2.5 - <10 %     |\n| CAS:             | 14808-60-7       | Cuarzo (1 % < RCS < 10 %)      | <1 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   72.57499410949298,
+   264.6278452009259,
+   548.5095278418625,
+   334.04520937813146
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Tolueno   | Valores límite ambientales - TLV-TWA   | Valores límite ambientales - 20 ppm   | Valores límite ambientales   |\n|----------------------------|----------------------------------------|---------------------------------------|------------------------------|\n| CAS: 108-88-3              | TLV-STEL                               |                                       |                              |\n| Dioxido de titanio         | TLV-TWA                                |                                       | 10 mg/m³                     |\n| CAS: 13463-67-7            | TLV-STEL                               |                                       |                              |\n| Cuarzo (1 % < RCS < 10 %)  | TLV-TWA                                |                                       | 0,025 mg/m³                  |\n| CAS: 14808-60-7            | TLV-STEL                               |                                       |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.1144171460043,
+   482.3409098384612,
+   548.4281834462826,
+   559.0344688462644
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                        | EPP                                     | Observaciones                                                                                                                                                                                                      |\n|---------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del las vias respiratorias | Máscara con filtro para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   84.71031721383935,
+   569.3230376834823,
+   548.6771558354526,
+   644.2974626946166
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                           | Observaciones                                                                                                                                                                                       |\n|------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras despues del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 4,
+  "bbox_pt": [
+   86.66534195355922,
+   677.7572147092117,
+   548.3888527602638,
+   744.5818451406157
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                        |\n|-----------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.62723288721688,
+   128.39282120874543,
+   548.6614845388528,
+   261.7963411496993
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                      |\n|------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Proteccion obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Proteccion obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   86.3983582444159,
+   274.8993611953264,
+   548.2675069227795,
+   331.96769112847477
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   72.1950185225314,
+   606.8463692693642,
+   330.85741399368186,
+   758.9526632088777
+  ],
+  "filas": 11,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Densidad a 20 ºC:                              | 1,3 - 1,5 kg/m³   |\n|------------------------------------------------|-------------------|\n| Densidad relativa a 20 ºC:                     | 1,417             |\n| Viscosidad dinámica a 20 ºC:                   | No relevante *    |\n| Viscosidad cinemática a 20 ºC:                 | No relevante *    |\n| Viscosidad cinemática a 40 ºC:                 | <20,5 cSt         |\n| Concentración:                                 | No relevante *    |\n| pH:                                            | No relevante *    |\n| Densidad de vapor a 20 ºC:                     | No relevante *    |\n| Coeficiente de reparto n-octanol/agua a 20 ºC: | No relevante *    |\n| Solubilidad en agua a 20 ºC:                   | No relevante *    |\n| Propiedad de solubilidad:                      | No relevante *    |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 6,
+  "bbox_pt": [
+   72.71051728728635,
+   522.9764004915287,
+   548.2709216800152,
+   544.913982849846
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 6,
+  "bbox_pt": [
+   72.73589167754923,
+   563.2894429360432,
+   547.921213952391,
+   586.2051690369377
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar alcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 7,
+  "bbox_pt": [
+   72.59696136474611,
+   667.3716368556079,
+   548.2914102234297,
+   753.8178966560272
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|--------------------|-------------------|-------------------|----------|\n| Tolueno            | DL50 oral         | 5580 mg/kg        | Rata     |\n| CAS: 108-88-3      | DL50 cutánea      | 12124 mg/kg       | Rata     |\n|                    | CL50 inhalación   | 28,1 mg/L (4 h)   | Rata     |\n| Dioxido de titanio | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                    | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.94780480404029,
+   157.49497701685675,
+   548.4092803258704,
+   207.29191681125667
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Especie                 | Género    |\n|------------------|-------------------|-------------------|-------------------------|-----------|\n| Tolueno          | CL50              | 13 mg/L (96 h)    | Carassius auratus       | Pez       |\n| CAS: 108-88-3    | CE50              | 11,5 mg/L (48 h)  | Daphnia magna           | Crustáceo |\n|                  | CE50              | 125 mg/L (48 h)   | Scenedesmus subspicatus | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.83095607987987,
+   221.3661862479819,
+   548.2512868259098,
+   270.87803240633355
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|------------------|------------------|------------------|---------------------|---------------------|\n| Tolueno          | DBO5             | 2.5 g O2/g       | Concentración       | 100 mg/L            |\n| CAS: 108-88-3    | DQO              | No relevante     | Periodo             | 14 días             |\n|                  | DBO5/DQO         | No relevante     | % Biodegradado      | 100 %               |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.64148278665223,
+   285.2643170064531,
+   548.2698240794753,
+   334.78378965980363
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación   | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|------------------|-------------------------------|-------------------------------|\n| Tolueno          | BCF                           | 13                            |\n| CAS: 108-88-3    | Log POW                       | 2,73                          |\n|                  | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 8,
+  "bbox_pt": [
+   72.09744640785577,
+   349.1917640117002,
+   548.3467780728948,
+   398.62066441044385
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad     |\n|------------------|-----------------------|-----------------------|---------------|-----------------|\n| Tolueno          | Koc                   | 178                   | Henry         | 672,8 Pa·m³/mol |\n| CAS: 108-88-3    | Conclusión            | Moderado              | Suelo seco    | Sí              |\n|                  | Tensión superficial   | 2,793E-2 N/m (25 ºC)  | Suelo húmedo  | Sí              |"
+ }
+]

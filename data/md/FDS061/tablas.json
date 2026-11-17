@@ -1,0 +1,212 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.17900422576291,
+   252.70688612115634,
+   549.068328472368,
+   383.98822705774006
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                     | Concentración   |\n|------------------|------------------|----------------------------------------------------------------------------------|-----------------|\n| CAS:             | 7732-18-5        | Agua                                                                             | 25 - <50 %      |\n| CAS:             | 1317-65-3        | Piedra caliza                                                                    | 25 - <50 %      |\n| CAS:             | No aplicable     | Polimero acrilico                                                                | 10 - <25 %      |\n| CAS:             | 13463-67-7       | Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) Carc. 2: H351 - Atención      | 2.5 - <10 %     |\n| CAS:             | 67-63-0          | Propan-2-ol Irrit. oc. 2: H319; Liq. Infl. 2: H225; STOT única 3: H336 - Peligro | 1 - <2.5 %      |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   80.3065609137004,
+   398.27545874081426,
+   549.1962599130926,
+   464.8298061894577
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación                                     | Valores límite ambientales   | Valores límite ambientales   | Valores límite ambientales   |\n|----------------------------------------------------|------------------------------|------------------------------|------------------------------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | 8-hour TWA PEL               |                              | 15 mg/m³                     |\n| CAS: 13463-67-7                                    | Ceiling Values - TWA PEL     |                              |                              |\n| Propan-2-ol                                        | 8-hour TWA PEL               | 400 ppm                      | 980 mg/m³                    |\n| CAS: 67-63-0                                       | Ceiling Values - TWA PEL     |                              |                              |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   81.10562172908912,
+   481.9875590721728,
+   548.9984479046509,
+   554.6654023913022
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Identificación - Piedra caliza                     | Valores límite ambientales - TLV-TWA   | Valores límite ambientales   | Valores límite ambientales - 10 mg/m³   |\n|----------------------------------------------------|----------------------------------------|------------------------------|-----------------------------------------|\n| CAS: 1317-65-3                                     | TLV-STEL                               |                              | 20 mg/m³                                |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | TLV-TWA                                |                              | 10 mg/m³                                |\n| CAS: 13463-67-7                                    | TLV-STEL                               |                              |                                         |\n| Propan-2-ol                                        | TLV-TWA                                | 200 ppm                      |                                         |\n| CAS: 67-63-0                                       | TLV-STEL                               | 400 ppm                      |                                         |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   84.94408326219393,
+   112.95840452144375,
+   548.2018338237993,
+   187.2040645499693
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                        | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   84.90376168679872,
+   201.63057128471314,
+   548.2754340377911,
+   268.3359385873247
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                          | Observaciones                                                                                                                                                                                                                                         |\n|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes NO desechables de protección química | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   85.04015379835296,
+   303.81573558526486,
+   548.3687910615039,
+   370.8467084653587
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 5,
+  "bbox_pt": [
+   84.72425064291731,
+   382.32943388950224,
+   548.5892258366323,
+   502.18721575014376
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                            | Observaciones                                                                                                                                       |\n|------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico     | NORMATIVIDAD APLICABLE: NTC-ISO 20345 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                                         |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 5,
+  "bbox_pt": [
+   86.62949462480994,
+   516.9553131958877,
+   548.6154462939782,
+   574.7673179093675
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   71.85702615622706,
+   191.77459249682204,
+   547.722670210256,
+   215.24847126070506
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento   | Luz Solar   | Humedad      |\n|---------------------|------------------------|-----------------|-------------|--------------|\n| No aplicable        | No aplicable           | Precaución      | Precaución  | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   71.72118284494286,
+   231.82241595125538,
+   547.9093232798737,
+   255.44147267393714
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                          |\n|-----------------------|--------------|---------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   71.7738905375436,
+   353.699754699562,
+   548.7102058072699,
+   477.1138932021043
+  ],
+  "filas": 10,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                     | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|----------------------------------------------------|-------------------|-------------------|----------|\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm) | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7                                    | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                                                    | CL50 inhalación   | No relevante      |          |\n| Propan-2-ol                                        | DL50 oral         | 5280 mg/kg        | Rata     |\n| CAS: 67-63-0                                       | DL50 cutánea      | 12800 mg/kg       | Rata     |\n| CAS: 67-63-0                                       | CL50 inhalación   | 72,6 mg/L (4 h)   | Rata     |\n| Piedra caliza                                      | DL50 oral         | 5100 mg/kg        | Rata     |\n| CAS: 1317-65-3                                     | DL50 cutánea      | No relevante      |          |\n| CAS: 1317-65-3                                     | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.11905541848817,
+   531.3588946866648,
+   548.329460375485,
+   580.2479612634074
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Toxicidad aguda   | Toxicidad aguda   | Especie                 | Género    |\n|------------------|-------------------|-------------------|-------------------------|-----------|\n| Propan-2-ol      | CL50              | 9640 mg/L (96 h)  | Pimephales promelas     | Pez       |\n| CAS: 67-63-0     | CE50              | 13299 mg/L (48 h) | Daphnia magna           | Crustáceo |\n|                  | CE50              | 1000 mg/L (72 h)  | Scenedesmus subspicatus | Alga      |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.244982213782,
+   595.7477446393445,
+   547.5197970437684,
+   644.1565860789971
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|------------------|------------------|------------------|---------------------|---------------------|\n| Propan-2-ol      | DBO5             | 1,19 g O2/g      | Concentración       | 100 mg/L            |\n| CAS: 67-63-0     | DQO              | 2,23 g O2/g      | Periodo             | 14 días             |\n|                  | DBO5/DQO         | 0,53             | % Biodegradado      | 86 %                |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 8,
+  "bbox_pt": [
+   72.20499601632957,
+   659.1893229012024,
+   548.2681167008574,
+   707.5833384345772
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación   | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|------------------|-------------------------------|-------------------------------|\n| Propan-2-ol      | BCF                           | 3                             |\n| CAS: 67-63-0     | Log POW                       | 0,05                          |\n|                  | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 9,
+  "bbox_pt": [
+   71.71714306517737,
+   112.6232963311927,
+   547.4849177377176,
+   162.37288321814458
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación   | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad        |\n|------------------|-----------------------|-----------------------|---------------|--------------------|\n| Propan-2-ol      | Koc                   | 1,5                   | Henry         | 8,207E-1 Pa·m³/mol |\n| CAS: 67-63-0     | Conclusión            | Muy Alto              | Suelo seco    | Sí                 |\n|                  | Tensión superficial   | 2,24E-2 N/m (25 ºC)   | Suelo húmedo  | Sí                 |"
+ }
+]

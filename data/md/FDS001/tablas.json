@@ -1,0 +1,30 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   55.756324768066406,
+   277.5433349609375,
+   401.9538269042969,
+   318.210693359375
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "|   N° | SUSTANCIA       | NUMERO CAS   | NUMERO ONU   |\n|------|-----------------|--------------|--------------|\n|    1 | NIVELADOR DE PH | 7664-41-7    | 1005         |\n|    2 | RESINA ACRILICA | 9002-89-5    | N/A          |\n|    3 | CARGAS INERTES  | 13463-67-7   | N/A          |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 2,
+  "bbox_pt": [
+   56.40909957885742,
+   195.77659606933594,
+   555.5401000976562,
+   286.7962951660156
+  ],
+  "filas": 5,
+  "columnas": 2,
+  "seccion": 5,
+  "markdown": "| Punto de inflamación (ºC):          | N/A                                                                                                                                                                                            |\n|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Temperatura de auto ignición (ºC):  | N/A                                                                                                                                                                                            |\n| Límites de inflamabilidad (%V/V):   | N/A                                                                                                                                                                                            |\n| Peligros de incendio y/o explosión: | No combustible, ni inflamable. El envase metálico al ser sometido a un sobrecalentamiento sobre 90º C, su contenido puede ocasionar sobrepresión interior originando una explosión de vapores. |\n| Medios de extinción:                | Si el producto es sometido al fuego o calor intenso, aplicar agua en forma de roció para refrigerar.                                                                                           |"
+ }
+]

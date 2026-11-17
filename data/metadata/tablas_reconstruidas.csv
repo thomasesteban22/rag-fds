@@ -1,0 +1,47 @@
+doc_id,ref,pagina,seccion,estado,detalle
+FDS020,#/tables/0,3,3,reconstruida,2 filas; columna ancla 2 (%)
+FDS024,#/tables/5,8,11,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS024,#/tables/6,9,11,reconstruida,3 filas; columna ancla 1 (Nombre de producto o ingrediente)
+FDS024,#/tables/10,11,12,reconstruida,4 filas; columna ancla 1 (Nombre de producto o ingrediente)
+FDS025,#/tables/6,9,11,reconstruida,3 filas; columna ancla 1 (Nombre de producto o ingrediente)
+FDS025,#/tables/10,12,11,reconstruida,4 filas; columna ancla 1 (Ruta)
+FDS025,#/tables/11,12,12,reconstruida,5 filas; columna ancla 1 (Nombre de producto o ingrediente)
+FDS036,#/tables/0,3,3,reconstruida,6 filas; columna ancla 2 (%)
+FDS047,#/tables/6,8,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS047,#/tables/10,11,12,reconstruida,4 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS047,#/tables/11,11,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS048,#/tables/17,12,12,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS063,#/tables/6,7,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS063,#/tables/9,10,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS064,#/tables/6,7,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS064,#/tables/9,10,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS065,#/tables/5,9,11,reconstruida,14 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS065,#/tables/16,13,12,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS079,#/tables/6,10,11,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS079,#/tables/16,14,12,sin reconstruir,ninguna columna tiene más de un renglón
+FDS080,#/tables/7,9,11,reconstruida,6 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS080,#/tables/8,9,11,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS080,#/tables/14,12,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS081,#/tables/5,10,11,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS082,#/tables/4,9,11,reconstruida,7 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS082,#/tables/12,12,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS083,#/tables/8,9,12,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS084,#/tables/6,9,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS084,#/tables/13,11,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS085,#/tables/14,12,12,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS095,#/tables/1,6,8,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS095,#/tables/5,8,11,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS095,#/tables/11,11,12,reconstruida,2 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS096,#/tables/1,6,8,reconstruida,2 filas; columna ancla 1 (Nombre del ingrediente)
+FDS096,#/tables/14,13,12,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS097,#/tables/9,8,11,reconstruida,2 filas; columna ancla 1 (Nombre de producto o ingrediente)
+FDS097,#/tables/10,9,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS097,#/tables/17,11,12,reconstruida,2 filas; columna ancla 1 (Nombre de producto o ingrediente)
+FDS097,#/tables/18,12,12,reconstruida,2 filas; columna ancla 1 (Sección 12. Información ecotoxicológica)
+FDS099,#/tables/2,6,8,reconstruida,2 filas; columna ancla 1 (Nombre del ingrediente)
+FDS099,#/tables/7,9,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS099,#/tables/14,11,12,reconstruida,3 filas; columna ancla 1 (Nombre del producto o ingrediente)
+FDS102,#/tables/6,6,8,reconstruida,7 filas; columna ancla 1 (Nombre de ingrediente)
+FDS102,#/tables/8,9,11,sin reconstruir,no se pudieron ubicar todas las columnas
+FDS102,#/tables/9,9,11,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)
+FDS102,#/tables/19,13,12,sin reconstruir,alguna fila reconstruida queda con celdas vacías (la división no es confiable)

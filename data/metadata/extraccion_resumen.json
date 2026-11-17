@@ -1,0 +1,26 @@
+{
+  "fecha": "2026-11-16",
+  "segundos_total": 3890.1,
+  "documentos": 101,
+  "procesadas_en_esta_corrida": 101,
+  "versiones": {
+    "docling": "2.150.1",
+    "docling-core": "2.107.1",
+    "docling-ibm-models": "4.0.4",
+    "rapidocr": "3.10.0",
+    "torch": "2.15.0+cpu"
+  },
+  "opciones": {
+    "do_ocr_pagina": false,
+    "tableformer": "ACCURATE",
+    "images_scale": 2.0,
+    "clasificacion_imagenes": true,
+    "hilos_cpu": 8,
+    "ocr_min_score": 0.7
+  },
+  "equipo": {
+    "so": "Windows-11-10.0.26300-SP0",
+    "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+    "python": "3.12.1"
+  }
+}

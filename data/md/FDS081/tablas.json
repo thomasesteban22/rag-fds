@@ -1,0 +1,226 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 3,
+  "bbox_pt": [
+   16.720193169088926,
+   262.3259252669038,
+   544.9072127757354,
+   382.2159429345182
+  ],
+  "filas": 6,
+  "columnas": 3,
+  "seccion": 3,
+  "markdown": "| Nombre del ingrediente          | Número de CAS   | Concentración   |\n|---------------------------------|-----------------|-----------------|\n| disolvente de Stoddard          | 8052-41-3       | ≥10 - <25       |\n| ácidos grasos, aceite de resina | 61790-12-3      | ≥10 - ≤25       |\n| anhídrido ftalico               | 85-44-9         | <10             |\n| ligroína                        | 8032-32-4       | ≤3              |\n| bis(2-etilhexanoato) de cobalto | 136-52-7        | <1              |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 7,
+  "bbox_pt": [
+   21.4584629416586,
+   77.12050324137954,
+   544.2010834919906,
+   350.23372872675014
+  ],
+  "filas": 6,
+  "columnas": 2,
+  "seccion": 8,
+  "markdown": "| Nombre del ingrediente          | Límites de exposición                                                                                                                                                                                                                                                  |\n|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| disolvente de Stoddard          | ACGIH TLV (Estados Unidos, 1/2022). TWA: 525 mg/m³ 8 horas. TWA: 100 ppm 8 horas.                                                                                                                                                                                      |\n| ácidos grasos, aceite de resina | ACGIH TLV (Estados Unidos). TWA: 5 mg/m³ 8 horas.                                                                                                                                                                                                                      |\n| anhídrido ftalico               | STEL: 10 mg/m³ 15 minutos. ACGIH TLV (Estados Unidos, 1/2022). Absorbido a través de la piel. Sensibilizante por contacto con la piel. Sensibilizante si se inhala. TWA: 0.002 mg/m³ 8 horas. Forma: Inhalable fraction and vapor STEL: 0.005 mg/m³ 15 minutos. Forma: |\n| ligroína                        | Inhalable fraction and vapor ACGIH TLV (Estados Unidos). TWA: 300 ppm 8 horas.                                                                                                                                                                                         |\n| bis(2-etilhexanoato) de cobalto | ACGIH TLV (Estados Unidos, 1/2022). [cobalt and inorganic compounds] Sensibilizante por contacto con la piel. Sensibilizante si se inhala. TWA: 0.02 mg/m³, (as Co) 8 horas.                                                                                           |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 8,
+  "bbox_pt": [
+   169.90228877732736,
+   621.9793651301156,
+   499.7745354393711,
+   724.244853515625
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente                                     | Presión de vapor a 20 ºC - mm Hg   | Presión de vapor a 20 ºC - kPa   | Presión de vapor a 20 ºC - Método   |\n|------------------------------------------------------------|------------------------------------|----------------------------------|-------------------------------------|\n| ligroína                                                   | 2 a 20                             | 0.27 a 2.7                       |                                     |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5                          | 0.2 a 0.6                        |                                     |\n| nafta disolvente (petróleo), fracción alifática intermedia | 1.5 a 4.5                          | 0.2 a 0.6                        |                                     |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 9,
+  "bbox_pt": [
+   23.642236030129826,
+   94.30106541860994,
+   547.3584639902837,
+   128.67829232538293
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Soporte   | Resultado                  |\n|-----------|----------------------------|\n| agua fría | No soluble [OECD (TG 105)] |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 9,
+  "bbox_pt": [
+   24.59167132850455,
+   184.37346190320216,
+   383.39280306263134,
+   268.2290767444325
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 9,
+  "markdown": "| Nombre del ingrediente                                     | °C        | °F        |\n|------------------------------------------------------------|-----------|-----------|\n| disolvente de Stoddard                                     | 230 a 240 | 446 a 464 |\n| nafta disolvente (petróleo), fracción alifática intermedia | >220      | >428      |\n| nafta disolvente (petróleo), fracción alifática intermedia | >220      | >428      |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 10,
+  "bbox_pt": [
+   21.31826316948899,
+   76.10621010125317,
+   544.6845714942227,
+   306.3639138696202
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente                                                                         | Resultado                                                                                                                                                                                                             | Especies                                                                               | Dosis                                                                                                                                                 | Exposición                          |\n|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|\n| ácidos grasos, aceite de resina anhídrido ftalico ligroína bis(2-etilhexanoato) de cobalto butanona-oxima | DL50 Oral DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Rectal CL50 Por inhalación Gas. DL50 Intravenosa DL50 Cutánea DL50 Oral DL50 Cutánea DL50 Intraperitoneal DL50 Oral DL50 Oral DL50 Subcutánea DL50 Subcutánea | Rata Cobaya Ratón Rata Ratón Rata Ratón Conejo Rata Conejo Ratón Ratón Rata Ratón Rata | >10000 mg/kg 100 mg/kg 1500 mg/kg 1530 mg/kg 400 mg/kg 3400 ppm 40 mg/kg >5 g/kg 1.22 g/kg 200 uL/kg 200 mg/kg 1 g/kg 930 mg/kg 2700 mg/kg 2702 mg/kg | - - - - - 4 horas - - - - - - - - - |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 10,
+  "bbox_pt": [
+   22.407471022661998,
+   323.640085427498,
+   545.011148659073,
+   416.1831377413603
+  ],
+  "filas": 4,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                 | Especies   | Puntuación   | Exposición      | Observación   |\n|-------------------------------------|---------------------------|------------|--------------|-----------------|---------------|\n| disolvente de Stoddard              | Ojos - Irritante moderado | Conejo     | -            | 24 horas 500 mg | -             |\n| anhídrido ftalico                   | Ojos - Irritante moderado | Conejo     | -            | 24 horas 50 mg  | -             |\n| butanona-oxima                      | Ojos - Muy irritante      | Conejo     | -            | 100 Ul          | -             |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 10,
+  "bbox_pt": [
+   27.724097754983344,
+   537.0157453239685,
+   545.3760533252364,
+   576.6501240599282
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente   | IARC   |\n|-------------------------------------|--------|\n| bis(2-etilhexanoato) de cobalto     | 2B     |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 10,
+  "bbox_pt": [
+   22.28133127933791,
+   663.555987544484,
+   545.0035197774423,
+   755.9868630623054
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre            | Categoría   | Vía de exposición   | Órganos destino                      |\n|-------------------|-------------|---------------------|--------------------------------------|\n| anhídrido ftalico | Categoría 3 | -                   | Irritación de las vías respiratorias |\n| butanona-oxima    | Categoría 1 | -                   | tracto respiratorio superior         |\n|                   | Categoría 3 |                     | Efectos narcóticos                   |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 11,
+  "bbox_pt": [
+   22.607479319596493,
+   76.18722582942655,
+   544.1861919150473,
+   168.03619183849185
+  ],
+  "filas": 4,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Nombre                                                     | Categoría   | Vía de exposición   | Órganos destino                |\n|------------------------------------------------------------|-------------|---------------------|--------------------------------|\n| disolvente de Stoddard                                     | Categoría 1 | inhalación          | sistema nervioso central (SNC) |\n| nafta disolvente (petróleo), fracción alifática intermedia | Categoría 1 | -                   | sistema nervioso central (SNC) |\n| butanona-oxima                                             | Categoría 2 | -                   | sistema sanguíneo              |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 11,
+  "bbox_pt": [
+   22.341032999759964,
+   185.01369267691075,
+   545.4713838300946,
+   254.25603934617232
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 11,
+  "markdown": "| Nombre                                                                                                                                                | Resultado                                                                                                                                           |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| disolvente de Stoddard nafta disolvente (petróleo), fracción alifática intermedia nafta disolvente (petróleo), fracción alifática intermedia ligroína | PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 PELIGRO POR ASPIRACIÓN - Categoría 1 |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 12,
+  "bbox_pt": [
+   22.44066428663751,
+   327.5665476343555,
+   544.8898799566703,
+   444.1692974527705
+  ],
+  "filas": 5,
+  "columnas": 6,
+  "seccion": 11,
+  "markdown": "| Nombre del producto o ingrediente               | Oral (mg/ kg)   | Cutánea (mg/kg)   | Inhalación (gases) (ppm)   | Inhalación (vapores) (mg/l)   | Inhalación (polvos y nieblas) (mg/l)   |\n|-------------------------------------------------|-----------------|-------------------|----------------------------|-------------------------------|----------------------------------------|\n| Producto tal y como suministrado                | 5067            | 8900.6            | N/A                        | 89                            | N/A                                    |\n| nafta disolvente (petróleo), fracción alifática | N/A             | 1100              | N/A                        | 11                            | N/A                                    |\n| intermedia anhídrido ftalico                    | 500             | N/A               | N/A                        | N/A                           | N/A                                    |\n| butanona-oxima                                  | 100             | 1100              | N/A                        | N/A                           | N/A                                    |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 12,
+  "bbox_pt": [
+   17.056180559430803,
+   517.4674144725867,
+   545.2071193704045,
+   631.8339137653609
+  ],
+  "filas": 5,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente   | Resultado                          | Especies                                | Exposición   |\n|-------------------------------------|------------------------------------|-----------------------------------------|--------------|\n| anhídrido ftalico                   | Agudo EC50 4140 µg/l Agua fresca   | Algas - Pseudokirchneriella subcapitata | 96 horas     |\n|                                     | Agudo EC50 78530 µg/l Agua fresca  | Algas - Pseudokirchneriella subcapitata | 96 horas     |\n|                                     | Agudo EC50 147 µg/l Agua fresca    | Algas - Pseudokirchneriella subcapitata | 96 horas     |\n| butanona-oxima                      | Agudo CL50 843000 µg/l Agua fresca | Pescado - Pimephales promelas           | 96 horas     |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 13,
+  "bbox_pt": [
+   17.4592467987317,
+   75.80887300538848,
+   544.9274750853467,
+   178.6877748993029
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Nombre del producto o ingrediente                                                                | LogPow      | FBC        | Potencial      |\n|--------------------------------------------------------------------------------------------------|-------------|------------|----------------|\n| disolvente de Stoddard anhídrido ftalico ligroína bis(2-etilhexanoato) de cobalto butanona-oxima | 3.16 a 7.06 | - 3.4 10 a | alta alta alta |\n|                                                                                                  | 1.6         |            | bajo           |\n|                                                                                                  | -           | 2500       |                |\n|                                                                                                  | -           | 15600      |                |\n|                                                                                                  | 0.63        | 2.5 a 5.8  | bajo           |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 13,
+  "bbox_pt": [
+   17.102974212133585,
+   513.8820855604287,
+   544.7643390805541,
+   733.7500689762427
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 14,
+  "markdown": "|                                                          | Carretera - UN   | Marítimo - IMDG   | Aéreo - IATA   |\n|----------------------------------------------------------|------------------|-------------------|----------------|\n| Número ONU                                               | UN1263           | UN1263            | UN1263         |\n| Designación oficial de transporte de las Naciones Unidas | PINTURAS         | PINTURAS          | PAINT          |\n| Clase(s) de peligro para el transporte                   | 3                | 3                 | 3              |\n| Grupo de embalaje III                                    |                  | III               | III            |\n| Peligros para el medio ambiente No.                      |                  | No.               | No.            |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 15,
+  "bbox_pt": [
+   17.146733477167725,
+   149.58710213983613,
+   544.8692514607405,
+   298.81618349991663
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 16,
+  "markdown": "| Clasificación                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Justificación                                                                                                                                                                                |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| LÍQUIDOS INFLAMABLES - Categoría 3 IRRITACIÓN CUTÁNEA - Categoría 2 LESIÓN OCULAR GRAVE - Categoría 1 SENSIBILIZACIÓN RESPIRATORIA - Categoría 1 SENSIBILIZACIÓN CUTÁNEA - Categoría 1 MUTAGENICIDAD EN CÉLULAS GERMINALES - Categoría 1B CARCINOGENICIDAD - Categoría 1B TOXICIDAD PARA LA REPRODUCCIÓN - Categoría 1B TOXICIDAD ESPECÍFICA EN DETERMINADOS ÓRGANOS (STOT) - EXPOSICIONES REPETIDAS - Categoría 1 PELIGRO ACUÁTICO A CORTO PLAZO (AGUDO) - Categoría 3 | En base a datos de ensayos Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo Método de cálculo |"
+ }
+]

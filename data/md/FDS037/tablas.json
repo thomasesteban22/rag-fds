@@ -1,0 +1,184 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.90520418307926,
+   191.71071297471144,
+   548.0637800669831,
+   326.9135213747726
+  ],
+  "filas": 6,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación   | Nombre químico/clasificación                                                  | Concentración   |\n|------------------|------------------|-------------------------------------------------------------------------------|-----------------|\n| CAS:             | 64742-47-8       | Destilados (petróleo), fracción ligera tratada con hidrógeno                  | 50 - <75 %      |\n| CAS:             | 64742-48-9       | Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 | 1 - <2.5 %      |\n| CAS:             | 64742-94-5       | Hidrocarburos, C10-C13, aromaticos, >1% naftaleno                             | 1 - <2.5 %      |\n| CAS:             | 136-52-7         | Bis(2-etilhexanoato) de cobalto                                               | <1 %            |\n| CAS:             | 872-50-4         | N-metil-2-pirrolidona                                                         | <1 %            |\n\nPara ampliar información sobre la peligrosidad de las sustancias consultar las secciones 11, 12 y 16. La clasificación respecto Carcinogenicidad de las sustancias se ha establecido en función de las monografías de la IARC adecuándola al sistema de clasificación SGA, para información sobre la clasificación IARC consulte la sección 11."
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 4,
+  "bbox_pt": [
+   86.1660175523182,
+   476.1818134893204,
+   548.425561400548,
+   551.1512355197353
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                     | Observaciones                                                                                                                                                                                                      |\n|--------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara con filtro para gases y vapores | Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 4,
+  "bbox_pt": [
+   85.68119062487712,
+   562.4497963426458,
+   548.6909368200111,
+   637.21903813233
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                           | Observaciones                                                                                                                                                                                       |\n|------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la manos | Guantes de protección química | El tiempo de paso (Breakthrough Time) indicado por el fabricante ha de ser superior al del tiempo de uso del producto. No emplear cremas protectoras después del contacto del producto con la piel. |"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 4,
+  "bbox_pt": [
+   86.27753071829777,
+   670.7427916929557,
+   548.3679373721949,
+   737.7783404700489
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP                | Observaciones                                                                                                                                        |\n|-----------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Gafas de seguridad | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   85.96585027605096,
+   119.79139322167623,
+   548.4783072042786,
+   253.4570586752269
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                      |\n|------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | Reemplazar las botas ante cualquier indicio de deterioro.                                          |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.66528859797741,
+   266.5427665772064,
+   548.2931176020476,
+   323.8179880666845
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   72.82479732129399,
+   514.5951265355923,
+   548.1229895183385,
+   536.9710798264456
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   72.86555336356963,
+   553.6216707917347,
+   548.0391450326396,
+   592.7123386178276
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes      | Materias combustibles   | Otros                                                          |\n|-----------------------|--------------|---------------------------|-------------------------|----------------------------------------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar incidencia directa | No aplicable            | Evitar álcalis o bases fuertes. Puede reaccionar violentamente |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   72.60212161172957,
+   579.401359306571,
+   548.5326994088193,
+   667.4272797631197
+  ],
+  "filas": 7,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                                                | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|-------------------------------------------------------------------------------|-------------------|-------------------|----------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 | DL50 oral         | 15000 mg/kg       | Rata     |\n| CAS: 64742-48-9                                                               | DL50 cutánea      | 3160 mg/kg        | Conejo   |\n|                                                                               | CL50 inhalación   | No relevante      |          |\n| N-metil-2-pirrolidona                                                         | DL50 oral         | 3598 mg/kg        | Rata     |\n| CAS: 872-50-4                                                                 | DL50 cutánea      | 7000 mg/kg        | Rata     |\n|                                                                               | CL50 inhalación   | No relevante      |          |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 8,
+  "bbox_pt": [
+   72.76238653503009,
+   120.7194003861307,
+   548.163478782705,
+   318.5418568025349
+  ],
+  "filas": 16,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                                                | Toxicidad aguda   | Toxicidad aguda     | Especie                 | Género    |\n|-------------------------------------------------------------------------------|-------------------|---------------------|-------------------------|-----------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno                  | CL50              | 1 - 10 mg/L (96 h)  |                         | Pez       |\n| CAS: 64742-47-8                                                               | CE50              | 1 - 10 mg/L         |                         | Crustáceo |\n| CAS: 64742-47-8                                                               | CE50              | 1 - 10 mg/L         |                         | Alga      |\n| Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 | CL50              | 2200 mg/L (96 h)    | Pimephales promelas     | Pez       |\n| CAS: 64742-48-9                                                               | CE50              | 1000 mg/L (96 h)    | Daphnia magna           | Crustáceo |\n| CAS: 64742-48-9                                                               | CE50              | No relevante        |                         |           |\n| Hidrocarburos, C10-C13, aromaticos, >1% naftaleno CAS: 64742-94-5             | CL50              | 1 - 10 mg/L (96 h)  |                         | Pez       |\n|                                                                               | CE50              | 1 - 10 mg/L         |                         | Crustáceo |\n|                                                                               | CE50              | 1 - 10 mg/L         |                         | Alga      |\n| Bis(2-etilhexanoato) de cobalto                                               | CL50              | 0,1 - 1 mg/L (96 h) |                         | Pez       |\n| CAS: 136-52-7                                                                 | CE50              | 0,1 - 1 mg/L        |                         | Crustáceo |\n| CAS: 136-52-7                                                                 | CE50              | 0,1 - 1 mg/L        |                         | Alga      |\n| N-metil-2-pirrolidona                                                         | CL50              | 832 mg/L (96 h)     | Lepomis macrochirus     | Pez       |\n| CAS: 872-50-4                                                                 | CE50              | 4897 mg/L (48 h)    | Daphnia magna           | Crustáceo |\n| CAS: 872-50-4                                                                 | CE50              | 500 mg/L (72 h)     | Scenedesmus subspicatus | Alga      |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 8,
+  "bbox_pt": [
+   72.02662068411809,
+   332.55548035102896,
+   547.9387145832242,
+   422.846683364107
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                                                                | Degradabilidad   | Degradabilidad   | Biodegradabilidad   | Biodegradabilidad   |\n|-----------------------------------------------------------------------------------------------|------------------|------------------|---------------------|---------------------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 CAS: 64742-48-9 | DBO5             | No relevante     | Concentración       | No relevante        |\n|                                                                                               | DQO              | No relevante     | Periodo             | 28 días             |\n|                                                                                               | DBO5/DQO         | No relevante     | % Biodegradado      | 89,9 %              |\n| N-metil-2-pirrolidona                                                                         | DBO5             | 1.09 g O2/g      | Concentración       | 100 mg/L            |\n| CAS: 872-50-4                                                                                 | DQO              | 1.6 g O2/g       | Periodo             | 28 días             |\n|                                                                                               | DBO5/DQO         | 0.68             | % Biodegradado      | 73 %                |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 8,
+  "bbox_pt": [
+   72.6913169000613,
+   437.45776653081384,
+   548.1814672360005,
+   522.5501709390309
+  ],
+  "filas": 7,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------------------------------|-------------------------------|-------------------------------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | BCF                           | 130                           |\n| CAS: 64742-47-8                                              | Log POW                       | 3,3                           |\n|                                                              | Potencial                     | Alto                          |\n| N-metil-2-pirrolidona                                        | BCF                           | 0,23                          |\n| CAS: 872-50-4                                                | Log POW                       | -0,46                         |\n| CAS: 872-50-4                                                | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 8,
+  "bbox_pt": [
+   72.83602486015167,
+   536.6519262637321,
+   547.8306619078362,
+   627.2695127567825
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                                                                | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad   |\n|-----------------------------------------------------------------------------------------------|-----------------------|-----------------------|---------------|---------------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno, < 0.1 % EC 200-753-7 CAS: 64742-48-9 | Koc                   | 100                   | Henry         | No relevante  |\n|                                                                                               | Conclusión            | Alto                  | Suelo seco    | No relevante  |\n|                                                                                               | Tensión superficial   | No relevante          | Suelo húmedo  | No relevante  |\n| N-metil-2-pirrolidona                                                                         | Koc                   | No relevante          | Henry         | No relevante  |\n| CAS: 872-50-4                                                                                 | Conclusión            | No relevante          | Suelo seco    | No relevante  |\n|                                                                                               | Tensión superficial   | 4,007E-2 N/m (25 ºC)  | Suelo húmedo  | No relevante  |"
+ }
+]

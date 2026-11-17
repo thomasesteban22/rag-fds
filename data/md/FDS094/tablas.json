@@ -1,0 +1,240 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 2,
+  "bbox_pt": [
+   72.28111156489226,
+   298.0175554854512,
+   549.4281585160838,
+   524.7542279937092
+  ],
+  "filas": 9,
+  "columnas": 4,
+  "seccion": 3,
+  "markdown": "| Identificación   | Identificación                                                                                                                                               | Nombre químico/clasificación                                                                                                                                                                              | Concentración   |\n|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|\n| CAS:             | 64742-47-8 Destilados (petróleo), fracción ligera Liq. Infl. 4: H227; Tox. Asp. 1: H304 - Peligro                                                            | tratada con hidrógeno (60 ºC < fp < 93 ºC)                                                                                                                                                                | 10 - <20 %      |\n| CAS:             | 64742-47-8                                                                                                                                                   | Destilados (petróleo), fracción ligera tratada con hidrógeno Acuático agudo. 2: H401; Acuático crónico. 2: H411; Irrit. Cut. 2: H315; Liq. Infl. 3: H226; STOT única 3: H336; Tox. Asp. 1: H304 - Peligro | 10 - <20 %      |\n| CAS:             | 13463-67-7 Dioxido de titanio (diámetro aerodinámico Carc. 2: H351 - Atención                                                                                | ≤ 10 μm)                                                                                                                                                                                                  | 5 - <10 %       |\n| CAS:             | 96-29-7 Oxima de 2-butanona Carc. 1B: H350; Irrit. Cut. 2: H315; Les. Oc. repe. 2: H373; STOT única 1: H370; STOT Peligro                                    | 1: H318; Liq. Infl. 4: H227; Sens. Cut. 1: H317; STOT única 3: H336; Tox. Agud. 3: H301; Tox. Agud. 4: H312 -                                                                                             | <5 %            |\n| CAS:             | 111-84-2 Nonano Acuático agudo. 1: H400; Acuático crónico. 1: H410; Irrit. Cut. 2: H315; Liq. Infl. 3: H226; STOT única 3: H336; Tox. Asp. 1: H304 - Peligro |                                                                                                                                                                                                           | <5 %            |\n| CAS:             | 22464-99-9 Ácido 2-etilhexanoico, sal de circonio Repr. 2: H361; Tox. Agud. 5: H303 - Atención                                                               |                                                                                                                                                                                                           | <5 %            |\n| CAS:             | 136-52-7                                                                                                                                                     | Bis(2-etilhexanoato) de cobalto Acuático agudo. 1: H400; Acuático crónico. 3: H412; Carc. 2: H351; Irrit. oc. 2: H319; Repr. 1B: H360; Sens. Cut. 1A: H317 - Peligro                                      | <5 %            |\n| CAS:             | 64742-48-9 Nafta Carc.                                                                                                                                       | (petróleo), fracción pesada tratada con hidrógeno 1B: H350; Muta. 1B: H340; Tox. Agud. 5: H313; Tox. Asp. 1: H304 - Peligro                                                                               | <5 %            |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 5,
+  "bbox_pt": [
+   71.41472362748729,
+   122.36285667292577,
+   549.5767614336462,
+   191.23022853679151
+  ],
+  "filas": 4,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Identificación                                                                                   | Valores - 8-hour TWA PEL Ceiling Values - TWA PEL   | Valores - 15 mg/m³   |\n|--------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------|\n| Dioxido de titanio (diámetro aerodinámico CAS: 13463-67-7 Ácido 2-etilhexanoico, sal de circonio | 8-hour TWA PEL                                      | ambientales 5 mg/m³  |\n| CAS: 22464-99-9                                                                                  | Ceiling Values - TWA PEL                            |                      |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 5,
+  "bbox_pt": [
+   71.56314361162634,
+   207.90542257494712,
+   549.6717648581691,
+   280.7439103847331
+  ],
+  "filas": 1,
+  "columnas": 1,
+  "seccion": 8,
+  "markdown": "| Identificación  Valores límite ambientales  Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)  TLV-TWA  0,2 mg/m³  CAS: 13463-67-7  TLV-STEL  Nonano  TLV-TWA  200 ppm  CAS: 111-84-2  TLV-STEL  Ácido 2-etilhexanoico, sal de circonio  TLV-TWA  5 mg/m³  CAS: 22464-99-9  TLV-STEL  10 mg/m³   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|"
+ },
+ {
+  "ref": "#/tables/3",
+  "pagina": 5,
+  "bbox_pt": [
+   85.762824665044,
+   442.35461694567897,
+   549.1969916467859,
+   516.0383034372215
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                                       | EPP                                                         | Observaciones                                                                                                                                                                                                                                                                      |\n|--------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las vías respiratorias | Máscara autofiltrante para gases y vapores (Filtro tipo: A) | NOMATIVIDAD APLICABLE: NTC 1584, NTC 1589, NTC 3851 y NTC 1728. Reemplazar cuando se detecte olor o sabor del contaminante en el interior de la máscara o adaptador facial. Cuando el contaminante no tiene buenas propiedades de aviso se recomienda el uso de equipos aislantes. |"
+ },
+ {
+  "ref": "#/tables/4",
+  "pagina": 5,
+  "bbox_pt": [
+   86.22138540178338,
+   530.008394952262,
+   548.9788740283532,
+   596.3840383700916
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                          | EPP                                                                                                  | Observaciones                                                                                                 |\n|-------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de las manos | Guantes de protección química (Material: Nitrilo, Tiempo de penetración: > 480 min, Espesor: 0,4 mm) | NORMATIVIDAD APLICABLE: NTC 3398, EN 374 y EN420. Reemplazar los guantes ante cualquier indicio de deterioro. |"
+ },
+ {
+  "ref": "#/tables/5",
+  "pagina": 5,
+  "bbox_pt": [
+   86.08256180014388,
+   632.1282612026332,
+   548.9672882448748,
+   699.0645435208208
+  ],
+  "filas": 2,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                        | EPP             | Observaciones                                                                                                                                                                                                 |\n|-----------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria de la cara | Pantalla facial | NORMATIVIDAD APLICABLE: NTC 1825, NTC 1826 y ANSI Z87.1. Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |"
+ },
+ {
+  "ref": "#/tables/6",
+  "pagina": 6,
+  "bbox_pt": [
+   85.0396964647946,
+   112.7775726985252,
+   547.9168845280385,
+   233.5385298559048
+  ],
+  "filas": 3,
+  "columnas": 3,
+  "seccion": 8,
+  "markdown": "| Pictograma                         | EPP                                                                                              | Observaciones                                                                                                                                       |\n|------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|\n| Protección obligatoria del cuerpo  | Prenda de protección frente a riesgos químicos, antiestática e ignífuga                          | NORMATIVIDAD APLICABLE: EN ISO 13688 y EN 14605. Uso exclusivo en el trabajo. Limpiar periódicamente de acuerdo a las instrucciones del fabricante. |\n| Protección obligatoria de los pies | Calzado de seguridad contra riesgo químico, con propiedades antiestáticas y resistencia al calor | NORMATIVIDAD APLICABLE: NTC-ISO 20345, NTC-ISO 20344 y NTC 2257. Reemplazar las botas ante cualquier indicio de deterioro.                          |"
+ },
+ {
+  "ref": "#/tables/7",
+  "pagina": 6,
+  "bbox_pt": [
+   85.89965886570464,
+   267.6172482046096,
+   548.4580625720953,
+   325.86780688650526
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 8,
+  "markdown": "| Medida de emergencia   | Normas                                       | Medida de emergencia   | Normas                                      |\n|------------------------|----------------------------------------------|------------------------|---------------------------------------------|\n| Ducha de emergencia    | ANSI Z358-1 ISO 3864-1:2011, ISO 3864-4:2011 | Lavaojos               | DIN 12 899 ISO 3864-1:2011, ISO 3864-4:2011 |"
+ },
+ {
+  "ref": "#/tables/8",
+  "pagina": 7,
+  "bbox_pt": [
+   71.62821455475469,
+   624.7818111001058,
+   547.6582166674314,
+   648.2509156781193
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Choque y fricción   | Contacto con el aire   | Calentamiento         | Luz Solar                 | Humedad      |\n|---------------------|------------------------|-----------------------|---------------------------|--------------|\n| No aplicable        | No aplicable           | Riesgo de inflamación | Evitar incidencia directa | No aplicable |"
+ },
+ {
+  "ref": "#/tables/9",
+  "pagina": 7,
+  "bbox_pt": [
+   71.92153305463344,
+   666.3258918613606,
+   547.6637656479395,
+   689.5604054532084
+  ],
+  "filas": 2,
+  "columnas": 5,
+  "seccion": 10,
+  "markdown": "| Ácidos                | Agua         | Materias comburentes   | Materias combustibles   | Otros                          |\n|-----------------------|--------------|------------------------|-------------------------|--------------------------------|\n| Evitar ácidos fuertes | No aplicable | Evitar                 | No aplicable            | Evitar álcalis o bases fuertes |"
+ },
+ {
+  "ref": "#/tables/10",
+  "pagina": 9,
+  "bbox_pt": [
+   71.75630606222474,
+   211.52617734061846,
+   548.4226954435823,
+   406.52296397447014
+  ],
+  "filas": 16,
+  "columnas": 4,
+  "seccion": 11,
+  "markdown": "| Identificación                                          | Toxicidad aguda   | Toxicidad aguda   | Género   |\n|---------------------------------------------------------|-------------------|-------------------|----------|\n| Oxima de 2-butanona                                     | DL50 oral         | 100 mg/kg         |          |\n| CAS: 96-29-7                                            | DL50 cutánea      | 1100 mg/kg        |          |\n|                                                         | CL50 inhalación   |                   |          |\n| Dioxido de titanio (diámetro aerodinámico ≤ 10 μm)      | DL50 oral         | 10000 mg/kg       | Rata     |\n| CAS: 13463-67-7                                         | DL50 cutánea      | 10000 mg/kg       | Conejo   |\n|                                                         | CL50 inhalación   |                   |          |\n| Nonano                                                  | DL50 oral         | >5000 mg/kg       | Rata     |\n| CAS: 111-84-2                                           | DL50 cutánea      |                   |          |\n| CAS: 111-84-2                                           | CL50 inhalación   |                   |          |\n| Ácido 2-etilhexanoico, sal de circonio                  | DL50 oral         | 2043 mg/kg        | Rata     |\n| CAS: 22464-99-9                                         | DL50 cutánea      |                   |          |\n| CAS: 22464-99-9                                         | CL50 inhalación   |                   |          |\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | DL50 oral         | >5000 mg/kg       | Rata     |\n| CAS: 64742-48-9                                         | DL50 cutánea      | >5000 mg/kg       | Conejo   |\n| CAS: 64742-48-9                                         | CL50 inhalación   |                   |          |"
+ },
+ {
+  "ref": "#/tables/11",
+  "pagina": 9,
+  "bbox_pt": [
+   72.0242806607445,
+   489.13770319342893,
+   547.7490736010251,
+   717.1609959139789
+  ],
+  "filas": 19,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Concentración   | Concentración       | Especie                         | Género    |\n|--------------------------------------------------------------|-----------------|---------------------|---------------------------------|-----------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | CL50            | >1 - 10 mg/L (96 h) |                                 | Pez       |\n| CAS: 64742-47-8                                              | CE50            | >1 - 10 mg/L (48 h) |                                 | Crustáceo |\n| CAS: 64742-47-8                                              | CE50            | >1 - 10 mg/L (72 h) |                                 | Alga      |\n| Oxima de 2-butanona                                          | CL50            | 843 mg/L (96 h)     | Pimephales promelas             | Pez       |\n| CAS: 96-29-7                                                 | CE50            | 750 mg/L (48 h)     | Daphnia magna                   | Crustáceo |\n| CAS: 96-29-7                                                 | CE50            | 83 mg/L (72 h)      | Scenedesmus subspicatus         | Alga      |\n| Nonano                                                       | CL50            | No relevante        |                                 |           |\n| CAS: 111-84-2                                                | CE50            | 0,2 mg/L (48 h)     | Daphnia magna                   | Crustáceo |\n| CAS: 111-84-2                                                | CE50            | No relevante        |                                 |           |\n| Ácido 2-etilhexanoico, sal de circonio                       | CL50            | 270 mg/L (96 h)     | N/A                             | Pez       |\n| CAS: 22464-99-9                                              | CE50            | No relevante        |                                 |           |\n| CAS: 22464-99-9                                              | CE50            | No relevante        |                                 |           |\n| Bis(2-etilhexanoato) de cobalto                              | CL50            | No relevante        |                                 |           |\n| CAS: 136-52-7                                                | CE50            | No relevante        |                                 |           |\n| CAS: 136-52-7                                                | CE50            | 0,144 mg/L (72 h)   | Pseudokirchneriella subcapitata | Alga      |\n| Nafta (petróleo), fracción pesada tratada con hidrógeno      | CL50            | 2200 mg/L (96 h)    | Pimephales promelas             | Pez       |\n| CAS: 64742-48-9                                              | CE50            | 1000 mg/L (96 h)    | Daphnia magna                   | Crustáceo |\n| CAS: 64742-48-9                                              | CE50            | No relevante        |                                 |           |"
+ },
+ {
+  "ref": "#/tables/12",
+  "pagina": 10,
+  "bbox_pt": [
+   71.99182522255303,
+   113.10129453174295,
+   548.2707997243997,
+   199.46888703624882
+  ],
+  "filas": 7,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                         | Concentración   | Concentración   | Especie         | Género    |\n|----------------------------------------|-----------------|-----------------|-----------------|-----------|\n| Oxima de 2-butanona                    | NOEC            | 50 mg/L         | Oryzias latipes | Pez       |\n| CAS: 96-29-7                           | NOEC            | 100 mg/L        | Daphnia magna   | Crustáceo |\n| Nonano                                 | NOEC            | No relevante    |                 |           |\n| CAS: 111-84-2                          | NOEC            | 0,17 mg/L       | Daphnia magna   | Crustáceo |\n| Ácido 2-etilhexanoico, sal de circonio | NOEC            | No relevante    |                 |           |\n| CAS: 22464-99-9                        | NOEC            | 25 mg/L         | Daphnia magna   | Crustáceo |"
+ },
+ {
+  "ref": "#/tables/13",
+  "pagina": 10,
+  "bbox_pt": [
+   71.7828009197056,
+   228.26374085487487,
+   547.7953557571309,
+   384.89684767190744
+  ],
+  "filas": 13,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Oxima de 2-butanona                                    | Degradabilidad - DBO5   | Degradabilidad - No relevante   | Biodegradabilidad - Concentración   | Biodegradabilidad - 100 mg/L   |\n|-------------------------------------------------------------------------|-------------------------|---------------------------------|-------------------------------------|--------------------------------|\n| CAS: 96-29-7                                                            | DQO                     | No relevante                    | Periodo                             | 28 días                        |\n|                                                                         | DBO5/DQO                | No relevante                    | % Biodegradado                      | 24 %                           |\n| Ácido 2-etilhexanoico, sal de circonio                                  | DBO5                    | No relevante                    | Concentración                       | 20 mg/L                        |\n| CAS: 22464-99-9                                                         | DQO                     | No relevante                    | Periodo                             | 28 días                        |\n|                                                                         | DBO5/DQO                | No relevante                    | % Biodegradado                      | 99 %                           |\n| Bis(2-etilhexanoato) de cobalto                                         | DBO5                    | No relevante                    | Concentración                       | 10 mg/L                        |\n| CAS: 136-52-7                                                           | DQO                     | No relevante                    | Periodo                             | 10 días                        |\n|                                                                         | DBO5/DQO                | No relevante                    | % Biodegradado                      | 60 %                           |\n| Nafta (petróleo), fracción pesada tratada con hidrógeno CAS: 64742-48-9 | DBO5                    | No relevante                    | Concentración                       | No relevante                   |\n|                                                                         | DQO                     | No relevante                    | Periodo                             | 28 días                        |\n|                                                                         | DBO5/DQO                | No relevante                    | % Biodegradado                      | 89,9 %                         |"
+ },
+ {
+  "ref": "#/tables/14",
+  "pagina": 10,
+  "bbox_pt": [
+   72.28545623369666,
+   411.6701769671587,
+   548.2422621103582,
+   603.9063859532733
+  ],
+  "filas": 16,
+  "columnas": 3,
+  "seccion": 12,
+  "markdown": "| Identificación                                               | Potencial de bioacumulación   | Potencial de bioacumulación   |\n|--------------------------------------------------------------|-------------------------------|-------------------------------|\n| Destilados (petróleo), fracción ligera tratada con hidrógeno | BCF                           | 130                           |\n| CAS: 64742-47-8                                              | Log POW                       | 3,3                           |\n|                                                              | Potencial                     | Alto                          |\n| Oxima de 2-butanona                                          | BCF                           | 5                             |\n| CAS: 96-29-7                                                 | Log POW                       | 0,59                          |\n|                                                              | Potencial                     | Bajo                          |\n| Nonano                                                       | BCF                           | 105                           |\n| CAS: 111-84-2                                                | Log POW                       | 5,65                          |\n|                                                              | Potencial                     | Alto                          |\n| Ácido 2-etilhexanoico, sal de circonio                       | BCF                           |                               |\n| CAS: 22464-99-9                                              | Log POW                       | 2,96                          |\n|                                                              | Potencial                     |                               |\n| Bis(2-etilhexanoato) de cobalto                              | BCF                           | 23                            |\n| CAS: 136-52-7                                                | Log POW                       |                               |\n|                                                              | Potencial                     | Bajo                          |"
+ },
+ {
+  "ref": "#/tables/15",
+  "pagina": 10,
+  "bbox_pt": [
+   72.19511761146904,
+   619.4530265144837,
+   549.0999149767985,
+   741.3814627792829
+  ],
+  "filas": 10,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación - Oxima de 2-butanona   | Absorción/Desorción - Koc   | Absorción/Desorción - 3   | Volatilidad - Henry   | Volatilidad - No relevante   |\n|----------------------------------------|-----------------------------|---------------------------|-----------------------|------------------------------|\n| CAS: 96-29-7                           | Conclusión                  | Muy Alto                  | Suelo seco            | No relevante                 |\n|                                        | Tensión superficial         | 2,57E-2 N/m (25 ºC)       | Suelo húmedo          | No relevante                 |\n| Nonano                                 | Koc                         | 796                       | Henry                 | No relevante                 |\n| CAS: 111-84-2                          | Conclusión                  | Bajo                      | Suelo seco            | No relevante                 |\n|                                        | Tensión superficial         | 2,243E-2 N/m (25 ºC)      | Suelo húmedo          | No relevante                 |\n| Ácido 2-etilhexanoico, sal de circonio | Koc                         | No relevante              | Henry                 | 2,94E-1 Pa·m³/mol            |\n| CAS: 22464-99-9                        | Conclusión                  | No relevante              | Suelo seco            | Sí                           |\n|                                        | Tensión superficial         | No relevante              | Suelo húmedo          | Sí                           |"
+ },
+ {
+  "ref": "#/tables/16",
+  "pagina": 11,
+  "bbox_pt": [
+   72.11724895093266,
+   112.90014572614723,
+   547.8513333846739,
+   162.69086230062817
+  ],
+  "filas": 4,
+  "columnas": 5,
+  "seccion": 12,
+  "markdown": "| Identificación                                          | Absorción/Desorción   | Absorción/Desorción   | Volatilidad   | Volatilidad   |\n|---------------------------------------------------------|-----------------------|-----------------------|---------------|---------------|\n| Nafta (petróleo), fracción pesada tratada con hidrógeno | Koc                   | 100                   | Henry         | No relevante  |\n| CAS: 64742-48-9                                         | Conclusión            | Alto                  | Suelo seco    | No relevante  |\n|                                                         | Tensión superficial   | No relevante          | Suelo húmedo  | No relevante  |"
+ }
+]

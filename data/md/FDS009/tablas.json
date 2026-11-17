@@ -1,0 +1,44 @@
+[
+ {
+  "ref": "#/tables/0",
+  "pagina": 1,
+  "bbox_pt": [
+   56.5230827331543,
+   274.7969665527344,
+   318.05010986328125,
+   296.80560302734375
+  ],
+  "filas": 2,
+  "columnas": 2,
+  "seccion": 3,
+  "markdown": "| COMPONENTE   | NUMERO CAS   |\n|--------------|--------------|\n| Xanthan gum  | 11138-66-2   |"
+ },
+ {
+  "ref": "#/tables/1",
+  "pagina": 2,
+  "bbox_pt": [
+   55.61302947998047,
+   614.7041015625,
+   260.94476318359375,
+   727.1539916992188
+  ],
+  "filas": 11,
+  "columnas": 2,
+  "seccion": 9,
+  "markdown": "| Aspecto:                      | Líquido viscoso   |\n|-------------------------------|-------------------|\n| Color:                        | blanco.           |\n| Olor:                         | N.D./N.A.         |\n| Umbral olfativo:              | N.D./N.A.         |\n| pH:                           | < 5               |\n| Punto de Fusión:              | N.D./N.A. P       |\n| unto/intervalo de ebullición: | N.D./N.A.         |\n| Punto de inflamación:         | N.D./N.A.         |\n| Tasa de evaporación:          | N.D./N.A.         |\n| Inflamabilidad (sólido, gas): | N.D./N.A.         |\n| Límite inferior de explosión: | N.D./N.A.         |"
+ },
+ {
+  "ref": "#/tables/2",
+  "pagina": 3,
+  "bbox_pt": [
+   55.98162841796875,
+   537.412353515625,
+   383.4476318359375,
+   556.8765258789062
+  ],
+  "filas": 2,
+  "columnas": 4,
+  "seccion": 12,
+  "markdown": "| Tipo   | Ensayo   | Especie             | Valor               |\n|--------|----------|---------------------|---------------------|\n| Peces  | LC50     | Oncorhynchus mykiss | 320-560 mg/l (96 h) |"
+ }
+]
