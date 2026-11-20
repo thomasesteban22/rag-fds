@@ -644,5 +644,5 @@ eval/
                       desarrollo.json y corrida1/
     evaluador_gemini-3.5-flash-lite/  prueba, puntuaciones, diagnóstico y resumen (los resultados)
     evaluador_gemini-3.5-flash/       intento cortado por la cuota diaria (no se usa)
-docs/                 informe y recursos.json
+docs/                 informe (informe.md y informe.pdf, 2 páginas) y recursos.json
 ```

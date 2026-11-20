@@ -77,12 +77,12 @@ registrado.
   puestos 1 y 2 (2 y 3 en P08). Contando como útil el fragmento que trae una parte, con k3 sería
   1,00 en P07, P09 y P10 y 0,58 en P08 (cálculo manual, aparte de RAGAS). En las directas sí señala
   un problema real: en P02 la sección 3 quedó en el tercer puesto.
-- **Estabilidad:** P01 y P07, puntuados dos veces, dieron los mismos 6 valores; en el diagnóstico,
-  un veredicto de P09 con k6 cambió.
+- **Estabilidad:** P01 y P07, puntuados dos veces, dieron los mismos valores; un veredicto de P09
+  (k6) cambió.
 
 **Revisión manual** (`eval/revision_manual.md`): P11 y P12, sin respuesta, se respondieron bien en
-las dos configuraciones; en P12 los fragmentos traían puntos de inflamación de otras pinturas y el
-generador no los usó. En P07 a P10, las de menor puntaje, la recuperación trajo la evidencia y falló
+las dos configuraciones; en P12 no usó los puntos de inflamación de otras pinturas recuperados. En
+P07 a P10, las de menor puntaje, la recuperación trajo la evidencia y falló
 el generador: P07 le atribuye a la versión de 2021 una H317 que ya no tiene; P08 responde "sin
 evidencia" teniendo los dos datos; P09 responde una sola sección (k3) o las mezcla (k6); P10 con k6
 le pasa la clase de transporte de un producto al otro.
@@ -101,8 +101,8 @@ i5-13420H, 15,6 GB de RAM y RTX 3050 de 6 GB.
 | Evaluación | 60 puntajes en 28 min |
 | Costo | 0 |
 
-El modelo de 3B cabe con los embeddings en la GPU y responde en 1 a 2 s. Su punto débil son las
-preguntas integradoras y las citas, y subir k lo empeora.
+El modelo de 3B cabe con los embeddings en la GPU y responde en 1 a 2 s, a costa de fallar más en
+las preguntas integradoras y en las citas.
 
 ## 6. Limitaciones y siguientes pasos
 
@@ -113,3 +113,10 @@ preguntas integradoras y las citas, y subir k lo empeora.
 - El evaluador del plan gratuito es un modelo pequeño: su Context Precision no sirve para las
   integradoras, y Faithfulness no mide si la respuesta está completa. Por eso la revisión manual es
   parte de la evaluación.
+
+## 7. Conclusión
+
+El sistema incorpora las 101 FDS con extracción verificada y cita fabricante, producto, versión,
+documento, página y sección. Se selecciona top-k 3: la evidencia ya llega con 3 fragmentos, y el
+generador de 3B, principal fuente de errores, se equivoca menos con menos contexto. Con 12
+preguntas, la comparación es didáctica y no demuestra que k3 sea mejor en general.
